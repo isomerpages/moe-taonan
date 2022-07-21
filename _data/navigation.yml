@@ -1,8 +1,6 @@
 logo: /images/school crest 1.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page
   - title: Heritage
     collection: heritage
+  - title: Contact Us
+    url: /contact-us/

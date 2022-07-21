@@ -2,5 +2,6 @@ collections:
   heritage:
     output: true
     order:
+      - History/.keep
       - Principal's Message.md
       - Financial and Non Financial Information.md

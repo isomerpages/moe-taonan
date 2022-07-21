@@ -1,6 +1,4 @@
 collections:
   heritage:
     output: true
-    order:
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+    order: []

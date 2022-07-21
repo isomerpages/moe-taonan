@@ -4,31 +4,26 @@ title: Tao Nan School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: Tao Nan School
+      subtitle: To nurture innovative pupils of exemplary character with a love for
+        learning
+      background: /images/taonanezgif.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+        - title: Quick Links
+          description: Click to view
+          url: /quick-links
+  - infopic:
+      title: School Home Partnership Resources
+      subtitle: "ANNOUNCEMENT:"
+      description: "Dear Parents/Guardian,  click below to find out more on the School
+        Home Partnership Resources.  "
+      button: CLICK FOR SLIDES
+      url: https://taonan.moe.edu.sg/partners/for-parents/school-home-partnership
+      image: /images/MOE Guidelines for scool home partnership.jpg
+      alt: Image alt text
 ---
-
-
-

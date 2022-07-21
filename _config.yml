@@ -2,8 +2,8 @@ title: Tao Nan School
 url: ""
 favicon: /images/crest_image.jpg
 colors:
-  primary-color: "#1b3c74"
-  secondary-color: "#00c0f3"
+  primary-color: "#00c0f3"
+  secondary-color: "#1b3c74"
   media-colors:
     - title: media-color-one
       color: "#dea05b"

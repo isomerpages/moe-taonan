@@ -18,7 +18,6 @@ Information on the school’s financial information is available at MOE’s webs
 |  | **Fax No:** 6443-5973 |
 |  | **Email Address:** [taonan\_sch@moe.edu.sg](mailto:taonan_sch@moe.edu.sg) |
 |  | **Website Address:** [http://www.taonan.moe.edu.sg](https://taonan.moe.edu.sg/) |
-| | |
 | **Charity Status** | **IPC Status** |
 | **Exempt** | A Member of Education Central Fund |
 | | |
@@ -31,4 +30,4 @@ Information on the school’s financial information is available at MOE’s webs
 | Name of Principal: Mdm Poh Qinyu |  
 | **Auditor** |  
 | Name of Auditor: Baker Tilly TFW LLP |  
-| | 
+| |

@@ -16,4 +16,5 @@ description: ""
 9.  Do not leave the school during school hours without official permission.
 10.  All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
 
-![](/images/rules_image.jpg)
+<img src="/images/rules_image.jpg" 
+     style="width:80%">

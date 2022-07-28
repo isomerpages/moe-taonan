@@ -3,7 +3,7 @@ title: School Rules
 permalink: /heritage/school-rules
 description: ""
 ---
-### School Rules 校规
+### School Rules 校规 
 
 1.  Be loyal to the School and the Republic of Singapore. Stand at attention for the National Anthem, the Pledge and the School Song.
 2.  Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.

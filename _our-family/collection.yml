@@ -2,5 +2,6 @@ collections:
   our-family:
     output: true
     order:
+      - Teacher and Leaders.md
       - School Management Committee (Singapore Hokkien Huay Kuan).md
       - School Steering Committee.md

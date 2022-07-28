@@ -2,7 +2,6 @@ collections:
   heritage:
     output: true
     order:
-      - School Philosophy and Core Values.md
       - Principal's Message.md
       - Financial and Non Financial Information.md
       - History/.keep
@@ -13,3 +12,4 @@ collections:
       - History/1977 to 2006.md
       - History/2007 to PRESENT.md
       - Vision and Mission.md
+      - School Philosophy and Core Values.md

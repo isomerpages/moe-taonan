@@ -33,6 +33,8 @@ We pledge to:
 * Create a happy and nurturing environment for effective learning.
 * Deliver interesting and meaningful lessons to ensure quality learning for our pupils.
 
+<br>
+
 <div>
 <div style="float: left">
 <img src="/images/philosophy_header_2.jpg" 

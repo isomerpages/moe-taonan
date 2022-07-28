@@ -2,7 +2,6 @@ collections:
   heritage:
     output: true
     order:
-      - School Crest and Motto.md
       - Principal's Message.md
       - Financial and Non Financial Information.md
       - History/.keep
@@ -14,3 +13,4 @@ collections:
       - History/2007 to PRESENT.md
       - Vision and Mission.md
       - School Philosophy and Core Values.md
+      - School Crest and Motto.md

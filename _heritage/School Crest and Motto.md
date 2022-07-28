@@ -13,8 +13,6 @@ description: ""
 </div>
 
 <br>
-<br>
-<br>
 		 
 <div>
 <div style="float: left">

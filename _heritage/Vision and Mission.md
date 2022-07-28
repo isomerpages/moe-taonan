@@ -22,6 +22,8 @@ Our pupils are passionate about learning; they are self-directed and lifelong le
 * Learn to Love <br>
 Our pupils care for self, family, community, nation and the environment. They are grounded in values, appreciative of others and our heritage, and are committed to serving our society.
 
+<br>
+
 <div>
 <div style="float: left">
 <img src="/images/vision_header_2.jpg" 
@@ -45,6 +47,8 @@ We will espouse the school core values and are committed to the holistic develop
 * Inculcating the school core values of respect, responsibility, integrity, sincerity, love and perseverance
 * Developing effectively bilingual pupils with a deep pride in and an appreciation for Chinese culture desired outcomes of education
 
+<br>
+
 <div>
 <div style="float: left">
 <img src="/images/vision_header_3.jpg" 
@@ -62,5 +66,3 @@ We will espouse the school core values and are committed to the holistic develop
 * Active Contributor 贡献社会的人才
 * Concerned Citizen 关怀国家的人才
 * Bicultural Individual 具双文化的人才
-
-

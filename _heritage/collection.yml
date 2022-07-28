@@ -2,7 +2,6 @@ collections:
   heritage:
     output: true
     order:
-      - Quick Links.md
       - Principal's Message.md
       - Financial and Non Financial Information.md
       - History/.keep
@@ -17,3 +16,4 @@ collections:
       - School Crest and Motto.md
       - School Song.md
       - School Rules.md
+      - Quick Links.md

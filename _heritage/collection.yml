@@ -2,7 +2,6 @@ collections:
   heritage:
     output: true
     order:
-      - School Rules.md
       - Principal's Message.md
       - Financial and Non Financial Information.md
       - History/.keep
@@ -16,3 +15,4 @@ collections:
       - School Philosophy and Core Values.md
       - School Crest and Motto.md
       - School Song.md
+      - School Rules.md

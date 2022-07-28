@@ -2,7 +2,6 @@ collections:
   heritage:
     output: true
     order:
-      - School Song.md
       - Principal's Message.md
       - Financial and Non Financial Information.md
       - History/.keep
@@ -15,3 +14,4 @@ collections:
       - Vision and Mission.md
       - School Philosophy and Core Values.md
       - School Crest and Motto.md
+      - School Song.md

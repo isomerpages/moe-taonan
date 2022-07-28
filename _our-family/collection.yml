@@ -1,4 +1,5 @@
 collections:
   our-family:
     output: true
-    order: []
+    order:
+      - School Management Committee (Singapore Hokkien Huay Kuan).md

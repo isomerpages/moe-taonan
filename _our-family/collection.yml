@@ -2,4 +2,5 @@ collections:
   our-family:
     output: true
     order:
+      - School Steering Committee.md
       - School Management Committee (Singapore Hokkien Huay Kuan).md

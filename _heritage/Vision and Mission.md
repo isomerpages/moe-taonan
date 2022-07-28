@@ -21,3 +21,46 @@ Our pupils are passionate about learning; they are self-directed and lifelong le
 
 * Learn to Love <br>
 Our pupils care for self, family, community, nation and the environment. They are grounded in values, appreciative of others and our heritage, and are committed to serving our society.
+
+<div>
+<div style="float: left">
+<img src="/images/vision_header_2.jpg" 
+     style="width:80%">
+</div>
+<div>
+</div>
+</div>
+
+<br>
+
+To nurture innovative pupils of exemplary character with a love for learning
+
+培育品格高尚、好学不倦、并富有创意的学生
+
+We will espouse the school core values and are committed to the holistic development of our pupils:
+
+* Creating independent, self-directed learners who strive for excellence in all pursuits
+* Producing quality graduands who are innovative and passionate about learning
+* Nurturing confident and resilient leaders imbued with sound values and love for the school and nation
+* Inculcating the school core values of respect, responsibility, integrity, sincerity, love and perseverance
+* Developing effectively bilingual pupils with a deep pride in and an appreciation for Chinese culture desired outcomes of education
+
+<div>
+<div style="float: left">
+<img src="/images/vision_header_3.jpg" 
+     style="width:80%">
+</div>
+<div>
+</div>
+</div>
+
+<br>
+
+我们希望道南的学生能成为：
+* Self-Directed Learner 自我学习的人才
+* Confident Person 有自信心的人才
+* Active Contributor 贡献社会的人才
+* Concerned Citizen 关怀国家的人才
+* Bicultural Individual 具双文化的人才
+
+

@@ -2,7 +2,6 @@ collections:
   heritage:
     output: true
     order:
-      - Vision and Mission.md
       - Principal's Message.md
       - Financial and Non Financial Information.md
       - History/.keep
@@ -12,3 +11,4 @@ collections:
       - History/1956 to 1976.md
       - History/1977 to 2006.md
       - History/2007 to PRESENT.md
+      - Vision and Mission.md

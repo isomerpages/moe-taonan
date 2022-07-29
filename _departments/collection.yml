@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Character & Citizenship/.keep
       - Art.md
       - Character and Citizenship Education.md

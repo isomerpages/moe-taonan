@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Information Communication and Technology.md
       - Art.md
       - Character & Citizenship/.keep
       - Character & Citizenship/Character and Citizenship Education.md
@@ -13,3 +12,4 @@ collections:
       - Civics and Moral Education.md
       - English.md
       - Gifted Education.md
+      - Information Communication and Technology.md

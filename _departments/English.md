@@ -18,7 +18,7 @@ To develop confident and eloquent speakers and writers of English
 
 STELLAR stands for Strategies for Teaching English Language Learning and Reading. STELLAR is currently being implemented from Primary 1 to 6. 
 
-The aims of STELLAR are to:
+The aims of STELLAR are to: <br>
 1) strengthen reading, speaking, listening and writing skills <br>
 2) promote a positive attitude towards reading in the foundational years through the use of well-established, learner-centred and developmentally appropriate pedagogical approaches using authentic children's literature
 

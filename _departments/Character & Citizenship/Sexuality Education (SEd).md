@@ -54,7 +54,7 @@ c. Character and Citizenship Education (CCE)
 
 **PRIMARY 6**
 
-| UNIT | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, pupils will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
+| UNIT | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, pupils will be able to: | TIME PERIOD<br><br>(e.g. Term 1 Week 2) |
 |---|---|---|---|
 | Are We More Than Friends? | Who Are My Friends?<br>(30 min) | identify the qualities of a healthy friendship<br>recognise the importance of making wise choices in friendship | Term 2 Week 5 |
 |  | Am I A Good Friend?<br>(30 min) | identify the qualities that they have as a friend<br>recognise the importance of developing in oneself the qualities of a good friend | Term 2 Week 6 |

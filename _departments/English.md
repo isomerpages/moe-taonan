@@ -33,4 +33,4 @@ The aims of the Extensive Reading Programme are to:
 </insert file, file size too big>
 
 <img src="/images/img001.jpg" 
-     style="width:50%">
+     style="width:30%">

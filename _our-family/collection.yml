@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Teaching Staff/Teaching Staff.md
       - Teaching Staff/.keep
       - School Management Committee (Singapore Hokkien Huay Kuan).md
       - School Steering Committee.md

@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Physical Education.md
       - Art.md
       - Character & Citizenship/.keep
       - Character & Citizenship/Character and Citizenship Education.md
@@ -16,3 +15,4 @@ collections:
       - Information Communication and Technology.md
       - Mathematics.md
       - Music.md
+      - Physical Education.md

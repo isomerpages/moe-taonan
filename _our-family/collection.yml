@@ -2,7 +2,6 @@ collections:
   our-family:
     output: true
     order:
-      - Allied Educators.md
       - School Management Committee (Singapore Hokkien Huay Kuan).md
       - School Steering Committee.md
       - Teacher and Leaders.md
@@ -14,3 +13,4 @@ collections:
       - Teaching Staff/Primary 4.md
       - Teaching Staff/Primary 5.md
       - Teaching Staff/Primary 6.md
+      - Allied Educators.md

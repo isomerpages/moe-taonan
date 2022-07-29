@@ -22,8 +22,8 @@ _(Source: Primary Mathematics Teaching and Learning Syllabus, 2013)_
 ### Key Programmes / Activities
 
 **(1) Learning Support Mathematics (LSM)** <br>
-1) To provide early intervention support in Mathematics to students who need extra support in acquiring basic numeracy skills <br>
-2) To level up and help students achieve an age-appropriate mathematical age
+1. To provide early intervention support in Mathematics to students who need extra support in acquiring basic numeracy skills <br>
+2. To level up and help students achieve an age-appropriate mathematical age
 
 **(2) FunMaths@Recess and FunMaths@Class** <br>
 1. To foster interest in Mathematics through fun activities.

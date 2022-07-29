@@ -18,7 +18,8 @@ To nurture our Gifted Education Programme (GEP) pupils to:
 * To develop a strong social conscience and commitment to serve society and nation
 * To develop strong moral values and qualities for responsible leadership
 
-![](/images/distinctive_programme_GEP_2021.jpg)
+<img src="/images/distinctive_programme_GEP_2021.jpg" 
+     style="width:80%">
 
 ### Key Programmes / Activities
 

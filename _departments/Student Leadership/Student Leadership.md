@@ -8,7 +8,7 @@ third_nav_title: Student Leadership
 A leader with a heart, mind and spirit
 
 **Mission** <br>
-To nurture students who demonstrate the potential to become future leaders of the nation with the desired leadership qualities and skills so that they can continue to contribute to a better society
+To nurture students who demonstrate the potential to become future leaders of the nation with the desired leadership qualities and skills so that they can continue to contribute to a better society.
 
 ![](/images/Banner_SLD_2021.jpg)
 

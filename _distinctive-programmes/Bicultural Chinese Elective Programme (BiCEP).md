@@ -24,3 +24,6 @@ General - Annual P3 Selection Tests for the intake of P4 cohorts <br> BiCEP Quiz
 P4 - BiCEP Oratorical Camp (SHHK 5 Affiliated Schools) <br>
 P5 - Immersion Trips to Taiwan, Fujian and Xi’an (SHHK 5 Affiliated Schools) <br>
 P6 - Graduation Ceremony (SHHK 5 Affiliated Schools)
+
+**Briefing Slides**
+* [2021 BiCEP Breifing for 2022 Intake](/files/2022%20%20Oct%202021.pdf)

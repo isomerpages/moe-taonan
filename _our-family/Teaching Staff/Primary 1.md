@@ -70,6 +70,7 @@ third_nav_title: Teaching Staff
 |  | English |  |  |
 |  | Maths |  |  |
 |  | **Form Teacher 2** | Mdm Zhao Ang [赵昂] | zhao_ang@moe.edu.sg |
+| | Higher Chinese | | |
 | | | |
 
 **UPDATED ON 30 JUNE 2022**

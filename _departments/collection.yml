@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Civics and Moral Education.md
       - Art.md
       - Character & Citizenship/.keep
       - Character & Citizenship/Character and Citizenship Education.md
@@ -10,3 +9,4 @@ collections:
       - Chinese/.keep
       - Chinese/Chinese.md
       - Chinese/华文开唛了!.md
+      - Civics and Moral Education.md

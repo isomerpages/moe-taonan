@@ -9,6 +9,7 @@ third_nav_title: Clubs and Societies
 Our school Science Club focusses on enriching the science curriculum through specialised training workshops and activities. Physical science and life science workshops are conducted for every level and they provide our students with the necessary exposure to real life applications of science.
 
 **Teachers In-Charge (2022):**
+
 | NAME OF CCA<br>TEACHER-IN-CHARGE | Email | ROLE |
 |---|---|---|
 | Mdm Lee Yin Ling Jasmine | lee_yin_ling_jasmine@moe.edu.sg | Overall IC |

@@ -4,5 +4,7 @@ links:
     collection: heritage
   - title: Our Family
     collection: our-family
+  - title: Departments
+    collection: departments
   - title: Contact Us
     url: /contact-us/

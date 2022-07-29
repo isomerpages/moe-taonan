@@ -8,7 +8,7 @@ third_nav_title: Teaching Staff
 
 | CLASS | SUBJECT | NAME OF STAFF | EMAIL ADDRESS |
 |---|---|---|---|
-| 2A | **Form Teacher 1** | Mdm Chen Jing Ying | chen_jing_ying@moe.edu.sg |
+| 2A | **Form Teacher 1:** | Mdm Chen Jing Ying | chen_jing_ying@moe.edu.sg |
 |  | English |  |  |
 |  | Maths |  |  |
 |  | **Form Teacher 2** | Miss Chee Pey Yi [纪佩妤] | chee_pey_yi@moe.edu.sg |

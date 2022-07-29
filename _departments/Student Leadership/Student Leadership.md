@@ -31,6 +31,7 @@ Programmes:
 Prefects' Motto: Learn to Serve and Serve to Learn
 
 The **2022** Prefectorial Executive Board Members are:
+
 | Designation | Name |
 |---|---|
 | Head Prefect | Gwee Ing-En, Raelene |

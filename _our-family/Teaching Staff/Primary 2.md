@@ -41,7 +41,7 @@ third_nav_title: Teaching Staff
 | 2G | **Form Teacher 1** | Mrs Quah-Heng Yin Qi | heng_yin_qi@moe.edu.sg |
 |  | English |  |  |
 |  | Maths |  |  |
-|  | **Form Teacher 2 ** | Mdm Lau Ying Xi [刘颖熹] | lau_ying_xi@moe.edu.sg |
+|  | **Form Teacher** | Mdm Lau Ying Xi [刘颖熹] | lau_ying_xi@moe.edu.sg |
 |  | Higher Chinese |  |  |
 | 2H | **Form Teacher 1** | Mrs Lindsy Ng | tan_leng_see_lindsy@moe.edu.sg |
 |  | English |  |  |

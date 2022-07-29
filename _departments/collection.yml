@@ -2,5 +2,5 @@ collections:
   departments:
     output: true
     order:
-      - Character and Citizenship Education.md
       - Art.md
+      - Character and Citizenship Education.md

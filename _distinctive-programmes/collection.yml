@@ -2,8 +2,8 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - Special Assistance Plan (SAP) Flagship.md
       - AdventureWorld!.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Bicultural Chinese Elective Programme (BiCEP).md
+      - Special Assistance Plan (SAP) Flagship.md

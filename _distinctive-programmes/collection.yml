@@ -2,6 +2,6 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - Learning for Life Programme (LLP).md
       - AdventureWorld!.md
       - Applied Learning Programme (ALP).md
+      - Learning for Life Programme (LLP).md

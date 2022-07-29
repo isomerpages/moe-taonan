@@ -2,7 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - Bicultural Chinese Elective Programme (BiCEP).md
       - AdventureWorld!.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
+      - Bicultural Chinese Elective Programme (BiCEP).md

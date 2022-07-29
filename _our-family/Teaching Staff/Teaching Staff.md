@@ -161,3 +161,5 @@ third_nav_title: Teaching Staff
 | 151 | Mrs Tan Siew Leng | crayon_tan_ng@moe.edu.sg |
 | 152  |  Mdm Hung Huey Jing [韩惠晶] | hung_huey_jing@moe.edu.sg  |
 | | | |
+
+**UPDATED ON 30 JUNE 2022**

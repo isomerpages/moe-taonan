@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Music.md
       - Art.md
       - Character & Citizenship/.keep
       - Character & Citizenship/Character and Citizenship Education.md
@@ -15,3 +14,4 @@ collections:
       - Gifted Education.md
       - Information Communication and Technology.md
       - Mathematics.md
+      - Music.md

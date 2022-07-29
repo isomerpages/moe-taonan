@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Programme for Active Learning (PAL).md
       - Art.md
       - Character & Citizenship/.keep
       - Character & Citizenship/Character and Citizenship Education.md
@@ -17,3 +16,4 @@ collections:
       - Mathematics.md
       - Music.md
       - Physical Education.md
+      - Programme for Active Learning (PAL).md

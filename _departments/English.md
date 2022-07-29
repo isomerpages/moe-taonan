@@ -24,7 +24,7 @@ The aims of STELLAR are to: <br>
 
 **(2) Extensive Reading Programme**
 
-The aims of the Extensive Reading Programme are to:
+The aims of the Extensive Reading Programme are to: <br>
 1) inculcate the love for reading <br>
 2) improve students’ reading skills and language proficiency
 

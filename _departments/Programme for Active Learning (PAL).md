@@ -5,7 +5,7 @@ description: ""
 ---
 ### Vision / Mission
 
-PAL provides a broad exposure of experiences to our P1 and P2 students in the 4 domains: <br> 
+PAL provides a broad exposure of experiences to our P1 and P2 students in the 4 domains: <br>
 1) Sport & Games <br>
 2) Outdoor Education <br>
 3) Performing Arts <br>

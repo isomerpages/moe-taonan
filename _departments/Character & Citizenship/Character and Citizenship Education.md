@@ -4,7 +4,6 @@ permalink: /departments/character-and-citizenship-education
 description: ""
 third_nav_title: Character & Citizenship
 ---
-
 ### Vision / Mission
 
 **Vision** <br>
@@ -69,9 +68,9 @@ The 6 NE Messages are:
     _We value our diversity and are determined to stay a united people._
 3. We must uphold meritocracy and incorruptibility. <br>
     _We provide opportunities for all, according to their ability and effort._
-4. No one owes Singapore a living. <br>    
+4. No one owes Singapore a living. <br> 
     _We find our own way to survive and prosper, turning challenge into opportunity._
-5. We must ourselves defend Singapore. <br>    
+5. We must ourselves defend Singapore. <br>
     _We are proud to defend Singapore ourselves; no one else is responsible for our security and well-being._
 6. We have confidence in our future. <br>  _United, determined and well-prepared, we have what it takes to build a bright future for ourselves, and to progress together as one nation._
 

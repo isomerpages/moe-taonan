@@ -30,7 +30,7 @@ To increase pupils’ cyber wellness competencies, the ICT Department plans and 
 **(4) Technology Misuse** <br>
 For operational purposes, the term "technology misuse" refers specifically to actions in the cyberspace which are against school cyberspace rules.
 
-Click on this [link](https://taonan.moe.edu.sg/qql/slot/u182/2021/Departments/ICT/list_of_technology_misuse_and_school_discipline_actions.pdf) for the list of technology misuse and school discipline actions they entail.
+Click on this [link](/files/list_of_technology_misuse_and_school_discipline_actions.pdf) for the list of technology misuse and school discipline actions they entail.
 
 ### Others
 

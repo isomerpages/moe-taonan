@@ -8,7 +8,7 @@ third_nav_title: Student Leadership
 In the best interest of every child
 
 **Mission** <br>
-To enhance the social and emotional well-being of each student so that he/ she experiences a sense of belonging in the school community
+To enhance the social and emotional well-being of each student so that he/ she experiences a sense of belonging in the school community.
 
 **Pastoral Care** <br>
 We take care of the social and emotional well-being of each student and develop their social-emotional competencies through our specially-designed programmes and individualised support.

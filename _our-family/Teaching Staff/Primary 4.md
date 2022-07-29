@@ -7,7 +7,7 @@ third_nav_title: Teaching Staff
 **ONLY TEACHERS TEACHING THE CHINESE LANGUAGE WILL HAVE THEIR NAMES REFLECTED IN CHINESE CHARACTERS.**
 
 | CLASS | SUBJECT | NAME OF STAFF | EMAIL ADDRESS |
-|:---:|:---:|:---:|:---:|
+|---|---|---|---|
 | 4A | **Form Teacher 1** | Mdm Siti Awalliah Binte Amin | siti_awalliah_amin@moe.edu.sg |
 |  | English |  |  |
 |  | **Form Teacher 2** | Mr Teo Choon Meng | teo_choon_meng@moe.edu.sg |

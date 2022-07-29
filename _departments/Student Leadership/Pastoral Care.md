@@ -26,3 +26,11 @@ Our Social-Emotional Programmes are:
 
 **Counselling and Special Needs Support** <br>
 We have a team of trained officers to see to the social-emotional, behavioural and learning needs of our student. Student can speak with our school counsellors via "Dear Counsellor" post box or drop in at the counselling room during recess or after class. Parents can also approach any of our officers for assistance.
+
+| Designation | Name |
+|---|---|
+| School Counsellor (Full-Time) | Ms Jennifer May Yin Pillay |
+| School Counsellor (Part-Time) | Mdm Susan Mah |
+| Special Needs Officer | Ms Nur Kamila Binte Jamaludin<br>Mdm Siew Wei Kuan |
+| Teacher Counsellors | Mdm Patsy Hoon (P1 - P2)<br>Ms Praise Teo (P3 - P4)<br>Mr Teo Wei Loon (P5 - P6) |
+| | |

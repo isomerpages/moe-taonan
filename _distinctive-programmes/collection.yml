@@ -2,6 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Gifted Education Signature Programme (GEP).md
       - AdventureWorld!.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md

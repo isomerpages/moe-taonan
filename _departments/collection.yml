@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Student Leadership/.keep
       - Art.md
       - Character & Citizenship/.keep
       - Character & Citizenship/Character and Citizenship Education.md
@@ -20,3 +19,4 @@ collections:
       - Programme for Active Learning (PAL).md
       - Science.md
       - Social Studies.md
+      - Student Leadership/.keep

@@ -7,7 +7,7 @@ third_nav_title: Teaching Staff
 **ONLY TEACHERS TEACHING THE CHINESE LANGUAGE WILL HAVE THEIR NAMES REFLECTED IN CHINESE CHARACTERS**
 
 | CLASS | SUBJECT | NAME OF STAFF | EMAIL ADDRESS |
-|:---:|:---:|:---:|:---:|
+|---|---|---|---|
 | 6A | **Form Teacher 1** | Mr Mohamad Suhirman Bin Zainal | mohamad_suhirman_zainal@moe.edu.sg |
 |  | English |  |  |
 |  | Maths |  |  |

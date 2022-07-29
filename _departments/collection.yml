@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Mathematics.md
       - Art.md
       - Character & Citizenship/.keep
       - Character & Citizenship/Character and Citizenship Education.md
@@ -14,3 +13,4 @@ collections:
       - English.md
       - Gifted Education.md
       - Information Communication and Technology.md
+      - Mathematics.md

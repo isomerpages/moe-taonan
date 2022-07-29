@@ -28,5 +28,5 @@ Playing of Ukulele (Beginners) and Chinese Instruments Appreciation during curri
 Playing of Ukulele (Intermediate) and Chinese Instruments Appreciation during curriculum time  
 
 **Talent Development Programmes:** <br>
-\- TNS The Voice Competition <br>
-\- TNS Busking by the Bay
+* TNS The Voice Competition <br>
+* TNS Busking by the Bay

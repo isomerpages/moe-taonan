@@ -4,9 +4,9 @@ permalink: /our-family/teaching-staff/primary-1
 description: ""
 third_nav_title: Teaching Staff
 ---
-**ONLY TEACHERS TEACHING THE CHINESE LANGUAGE WILL HAVE THEIR NAMES REFLECTED IN CHINESE CHARACTERS.**
+**ONLY TEACHERS TEACHING THE CHINESE LANGUAGE WILL HAVE THEIR NAMES REFLECTED IN CHINESE CHARACTERS**
 
-| CLASS | SUBJECT | NAME OF STAFF | EMAIL ADDRESS |
+| CLASS | SUBJECT    | NAME OF STAFF | EMAIL ADDRESS |
 |---|---|---|---|
 | 1A | **Form Teacher 1** | Mdm Ng Li Min Janice | ng_li_min_janice@moe.edu.sg |
 |  | English |  |  |

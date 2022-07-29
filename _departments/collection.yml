@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Art.md
       - Character & Citizenship/.keep
       - Character & Citizenship/Character and Citizenship Education.md
       - Character & Citizenship/Sexuality Education (SEd).md
-      - Art.md

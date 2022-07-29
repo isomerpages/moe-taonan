@@ -21,3 +21,5 @@ The School Teams will have the opportunity to represent the school at team compe
 | Mr Low Khin Sin Paul | low_khin_sin@moe.edu.sg |   |
 | Mdm Tan Su Ling Violet | tan_su_ling_violet@moe.edu.sg |   |
 | | | |
+
+![](/images/Slide9.jpg)

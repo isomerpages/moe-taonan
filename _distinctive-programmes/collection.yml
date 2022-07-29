@@ -2,9 +2,9 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - Gifted Education Signature Programme (GEP).md
       - AdventureWorld!.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Bicultural Chinese Elective Programme (BiCEP).md
       - Special Assistance Plan (SAP) Flagship.md
+      - Gifted Education Signature Programme (GEP).md

@@ -29,3 +29,12 @@ _(Source: Primary Mathematics Teaching and Learning Syllabus, 2013)_
 1. To foster interest in Mathematics through fun activities.
 
 Students will have opportunities to work independently or collaborate with their peers and engage in mathematical thinking through resources such as puzzles, logic games and stories.
+
+**(3) Mathematics Special Programme (E2K Mathematics and Mathematical Olympiad)** <br>
+1.  The E2K Mathematics Programme aims to develop students' mathematical reasoning skills and deepens their conceptual understanding through an inquiry approach.
+ 
+The E2K Mathematics Programme is a Mathematics enrichment programme for selected upper primary (Primary 4 to Primary 6) students who demonstrate interest and ability in Mathematics. It aims to develop in students mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.
+    
+Students will have opportunities to work independently or collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematical explorations specially designed for this programme. The rich learning experiences offered by the programme serve to help students to:
+    
+Develop the habits, attitudes and dispositions mathematicians possess. Gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills.

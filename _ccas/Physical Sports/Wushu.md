@@ -19,4 +19,6 @@ The trainings aim to improve whole-body fitness and traditional stance training 
 | Mdm Soo Pei Chih [苏佩琪] | soo_pei_chih@moe.edu.sg |   |
 | Mrs Gurung-Lee Chin Min | lee_chin_min@moe.edu.sg |   |
 | Mdm Looi Yen Mei Wendy | looi_yen_mei_wendy@moe.edu.sg |  |
-| | | | 
+| | | |
+
+![](/images/CCAs_%20wushu_2021.jpg)

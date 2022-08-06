@@ -23,7 +23,7 @@ You can find out more about us at [http://www.girlguides.org.sg](http://www.gir
 
 **Teachers In-Charge (2022):**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | Email | ROLE |
+| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|
 | Miss Heng Boon Lih | heng_boon_lih@moe.edu.sg | Overall IC |
 | Miss Emma Kok Li Shan | emma_kok_li_shan@moe.edu.sg |   |

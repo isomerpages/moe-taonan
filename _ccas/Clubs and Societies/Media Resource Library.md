@@ -22,7 +22,7 @@ Conducting Chinese language-infused activities to establish a literacy-rich lear
 
 **Teachers In-Charge (2022):**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | Email | ROLE |
+| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|
 | Miss Poh Cheng Yee [傅静瑜] | poh_cheng_yee@moe.edu.sg | Overall IC |
 | Mdm Chow Yuen Meng Jaclyn | low-chow_yuen_meng_jaclyn@moe.edu.sg |   |

@@ -8,7 +8,7 @@ The Track and Field team welcomes all Primary 3 to 6 pupils who are passionate a
 
 **Teachers In-Charge (2022):**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | Email | ROLE |
+| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|
 | Mr Mohamed Reza B Abdul Rashid | mohamed_reza_abdul_rashid@moe.edu.sg | Overall IC |
 | Miss Nur Yusrina Yaakob | nur_yusrina_yaakob@moe.edu.sg |   |

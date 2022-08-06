@@ -2,7 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - Boys' Brigade/.keep
       - Clubs and Societies/.keep
       - Clubs and Societies/华艺会简介 Chinese Culture and Language.md
       - Clubs and Societies/International Chess.md
@@ -16,3 +15,4 @@ collections:
       - Physical Sports/Outdoor Adventure.md
       - Physical Sports/Track and Field.md
       - Physical Sports/Wushu.md
+      - Boys' Brigade/.keep

@@ -8,7 +8,7 @@ third_nav_title: Clubs and Societies
 
 **Teachers In-Charge (2022):**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | Email | ROLE |
+| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|
 | Mdm Lim Chii Huey [林绮惠] | lim_chii_huey@moe.edu.sg | Overall IC |
 | Mr Low Ko Hee [刘可喜] | low_ko_hee@moe.edu.sg |  |

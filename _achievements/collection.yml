@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - School Awards.md
-      - Current Achievements/Team.md
       - Current Achievements/.keep
       - Current Achievements/Individual.md
       - Current Achievements/Individual (CCA).md
+      - Current Achievements/Team.md

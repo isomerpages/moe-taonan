@@ -2,5 +2,5 @@ collections:
   achievements:
     output: true
     order:
-      - Current Achievements/.keep
       - School Awards.md
+      - Current Achievements/.keep

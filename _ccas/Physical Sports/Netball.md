@@ -8,7 +8,7 @@ Netball is a team sport that emphasises on team spirit and team building. The gi
 
 **Teachers In-Charge (2022):**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | Email | ROLE |
+| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|
 | Mdm Suhaidah Bte Mokhtar | suhaidah_mokhtar@moe.edu.sg | Overall IC |
 | Mrs Low Su Ying Elizabeth | lim_su_ying_elizabeth@moe.edu.sg |   |

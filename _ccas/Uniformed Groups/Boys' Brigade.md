@@ -8,7 +8,7 @@ The BB Programme in Tao Nan School engages our BB Boys in outdoor and adventure 
 
 **Teachers In-Charge (2022):**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | Email | ROLE |
+| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|
 | Miss Tan Yen Ping Gina [陈燕萍] | tan_yen_ping_gina@moe.edu.sg | Overall IC |
 | Mr Dominic Nyi Nyi Htut | dominic_nyi_nyi_htut@moe.edu.sg |   |

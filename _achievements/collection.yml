@@ -1,4 +1,4 @@
 collections:
-  school-achievements:
+  achievements:
     output: true
     order: []

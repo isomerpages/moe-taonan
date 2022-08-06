@@ -14,4 +14,5 @@ The Speech and Drama Club was established to train students who are interested i
 | Mdm Lau Ying Xi [刘颖熹] | lau_ying_xi@moe.edu.sg |  |
 | | | |
 
-![](/images/2020%20Chinese%20Drama%20Club.png)
+<img src="/images/2020%20Chinese%20Drama%20Club.png" 
+     style="width:70%">

@@ -11,6 +11,7 @@ Through its dedicated teachers and students, Tao Nan School Sailing team provide
 Our sailors gain confidence and accomplishment from being able to man their own Optimist boats, while the sport itself instils in them courage and a sense of adventure.
 
 ****Teachers In-Charge (2022):****
+
 | NAME OF CCA<br>TEACHER-IN-CHARGE | Email | ROLE |
 |---|---|---|
 | Mr Ang Chee Yong | ang_chee_yong_a@moe.edu.sg | Overall IC |

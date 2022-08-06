@@ -7,71 +7,12 @@ third_nav_title: "2021"
 | Subject | Achievement |
 |---|---|
 | Chinese | <u> **2021 International Chinese Language Competition** </u> <br> <br> **National Round - Silver** <br> **International Round - Bronze** <br> Chong Han Hao (5J) <br><br> **National Primary Schools Chinese Story-Telling Competition 2021** <br> Ashley Ho Jun Xin (6J) - **Consolation Prize** |
-|   | <u> **2021 SHHK Affiliated Primary Schools Chinese Essay-Writing Competition** </u> <br> <br> **First Position** <br> Koh Zhe Qin Faith (3D) <br> Clarice Khit Shi Min (4-1) <br> <br> **Second Position** <br> Sander Au Yi De (4E) <br> <br> **Third Position** <br>Aidan Lee Sheng Jie (3A) <br> Lim Kia Kheng (5K)  <br><br> **Consolation** <br> Chiu Lok Yaen Esther (3C) <br> Catherine Goh Hai Xuan (5L) |
+|   | <u> <strong> 2021 SHHK Affiliated Primary Schools Chinese Essay-Writing Competition </strong> </u> <br> <br> **First Position** <br> Koh Zhe Qin Faith (3D) <br> Clarice Khit Shi Min (4-1) <br> <br> **Second Position** <br> Sander Au Yi De (4E) <br> <br> **Third Position** <br>Aidan Lee Sheng Jie (3A) <br> Lim Kia Kheng (5K)  <br><br> **Consolation** <br> Chiu Lok Yaen Esther (3C) <br> Catherine Goh Hai Xuan (5L) |
 | Mathematic | <u> **14th Annual Mathlympics For All Singapore Primary Schools 2021** </u> <br><br> **Gold Award** <br> Song Wenxuan (5F) <br> Boon Hong Ye Elroy (5I) - Top 3 In East Zone <br> Shen Zixi (5I) <br> Ding Jingyi (5J) <br> Ethan Yik Zi Xun (5J) <br> Nathan Wong Wan Hey (5J) <br> Saw Zi Jun (5J) <br> Yeo Bing Cheng (5J) - Top 3 In East Zone <br> Dylan Tan Teng Heong (5K) <br> Heng Xuan Ni Vera (5K) <br> Khoo Guan Hien (5K) <br> Li Zihan (5K) <br>  Lim Kia Kheng (5K) <br> Ng Kyi Ren (5K) <br> Ronaldo Chang Kai Yang (5K) <br> Li Jiashen (5L) <br> Liu Chuning (5L) <br> Sun Yufei (5L) <br> Yu Kuai, Christopher (5L)  <br> <br> **Silver Award** <br> Chia Ern Lark (5H) <br> Koh Zi Ning (5H) <br> Lim Zhi Xian (5H) <br> Duan Jiajin (5I) <br> Ong Yi Quan, Aidan (5I) <br> Liu Muge (5J) <br> Renee Cheng Yi Yan (5J) <br> Zheng Jinghao (5J) <br> Reuben Chua Jing Peng (5K) <br> Thaddaeus Ng Peng Yang (5K) <br> Chen Yilan (5L) <br> Lin Xiuqi (5L) <br> Lui Hoong Teng Jerard (5L) <br> Ng Jiyan (5L) <br> Shen Yanxi (5L) <br> Wu Guanyou (5L) <br> <br> **Bronze Award** <br> Tan Jasson (5D) <br> Wong Shi Han (5G) <br> Goh Modric (5H) <br> Liu Ziqi (5I) <br> Lucas Pong Wai Hau (5J) <br> Ng Yi Kai Sophie (5J) <br> Hu Yutong Emma (5K) <br>  Liu Qinyao (5K) <br> Nicole Ng Chyi Swan (5K) <br> Poon Ayden (5K) <br> Catherine Goh Hao Xuan (5L) <br> Ng Hui Shyan (5L) 
 |   | <u> **National Mathematics Olympiad Of Singapore ( NMOS ) 2021 Results** </u> <br><br> **Gold Award** <br> Chow Gar Heng Bryan (6L) <br> Ding Jingyi (5J) <br> Fang Hongbo (6L) <br>  Khoo Guan Hien (5K) <br> Louis Lee Jing Yuan (6L) <br> Lucas Lee Jing Tai (6K) <br>  Reuben Chua Jing Peng (5K) <br> Ronaldo Chang Kai Yang (5K)<br> Saw Zi Jun (5J) <br> Sun Yufei (5L) <br> Teo Ming Yang (6L) <br> Tey Yi Xiang (6I) <br> Yeo Bing Cheng (5J) <br> Yu Kuai, Christopher (5L) <br> <br> **Silver Award** <br> Aiden Lim Tze Choon (6K) <br> Boon Hong Ye Elroy (5I) <br> Catherine Goh Hao Xuan (5L) <br> Chen Boyan (5J) <br> Chen Yilan (5L) <br> Chia Ern Lark (5H) <br> Duan Jiajin (5I) <br> Dylan Tan Teng Heong (5K) <br> Goh Modric (5H) <br> Goh Wei Xiong Kendrick (6L) <br> Han Qi-Ji (6K) <br> Heng Xuan Ni Vera (5K)<br> Hu Yutong Emma (5K)<br> Li Borui (6L) <br> Li Xinpei (6L) <br> Li Zihan (5K) <br> Lim Bing Ze Triston (6L) <br> Lim Yi Xuan, Earlene (6L) <br> Lin Xiuqi (5L) <br> Liu Chuning (5L) <br> Liu Muge (5J)<br> Liu Qinyao (5K)<br> Low Kwok Kuan, Jeremiah (6H)<br> Matthew Chan Min Yao (6K)<br> Nathan Wong Wan Hey (5J) <br> Ng Jing Sheng (6K) <br> Ng Jiyan (5L) <br> Ng Kyi Ren (5K<br> Ong Yi Quan, Aidan (5I) <br> Peng Zhehan (6L) <br> Rong Haoyu (6K) <br> Ryan Angel Yap (5L)<br> Shen Yanxi (5L) <br> Shen Zixi (5I) <br>Sim Fu Xian (6L) <br> Siow Xuan Ting (6K) <br> Soh Kit-Ann (6K) <br> Wang Yuanqiao (6I) <br>Wu Guanyou (5L) <br> Wu Yizhou (5K)<br> Yuan Jiatong (5L) <br> Yuen Jun Hong (6K) <br>Zhang Zhuoxiang (5I) <br> <br>  **Bronze Award**  <br> Ang Kian Yew Keane (6K) <br> Chan Wen Xin Chloe (5J) <br> Chong Han Hao (5J) <br> Elin Sim Pei Yi (6J) <br> Ellery-Jude Nair (5L) <br> Eva Lim Hwei (5L) <br> Evan Isaiah Ho (5I) <br> Goh Lennon  (6I) <br> Imran Tan Yi Jun (5G) <br> Joel Chia Kai Yang (5G) <br> Kate Isabelle Ong (6J) <br> Keira Tan Wern Ling (5J) <br> Koh Zi Ning (5H) <br> Lew Sze Ray, Delius (6G) <br> Lim Kia Kheng (5K) <br> Lim Suen Kai (5G) <br> Ling Jia En, Abigail (6I) <br> Low Xian Rui, Darius (5H) <br> Lucas Pong Wai Hau (5J) <br> Lui Hoong Teng Jerard (5L) <br> Ma Pei Yu Raymon (5H) <br>  Mia Yong (6K) <br> Michael Tan Yong Seng (5J) <br> Ng Hui Shyan (5L) <br> Ng Yi Kai Sophie (5J) <br>  Raegan Kean Ang (6K) <br> Reinna Christella Suherman (6J) <br> Renee Cheng Yi Yan (5J) <br> Shi Haoxuan (6L) <br>  Tan Ming Xuan Keith (5G) <br> Tan Xin Xuan (6I) <br> Tan Yu Han (6I) <br> Tan Zheng Kai (5J) <br> Tse Chek Hei, Joash (5I) |
-|   |   |
-|   | 2021 Singapore Mathematical Olympiad for Primary Schools (SMOPS) |
-|   | Platinum Award |
-|   | Chow Gar Heng Bryan (6L) |
-|   | Fang Hongbo (6L) |
-|   | Li Borui (6L) |
-|   | Louis Lee Jing Yuan (6L) |
-|   | Lucas Lee Jing Tai (6K) |
-|   | Tey Yi Xiang (6I) |
-|   |   |
-|   | Gold Award |
-|   | Aiden Lim Tze Choon (6K) |
-|   | Ang Kien Yew Keane (6K) |
-|   | Matthew Chan Min Yao (6K) |
-|   | Peng Zhehan (6L) |
-|   | Soh Kit-Ann (6K) |
-|   | Tan Pei Xi (6K) |
-|   | Teo Ming Yang (6L) |
-|   | You Xuanxiang (6K) |
-|   |   |
-|   | Silver Award |
-|   | Angela Wu Si Xian (6L) |
-|   | Goh Lennon (6I) |
-|   | Goh Wei Siong Kendrick (6L) |
-|   | Han Qi-Ji (6K) |
-|   | Li Xinpei (6L) |
-|   | Lim Bing Ze Triston (6L) |
-|   | Lim Yi Xuan, Earlene (6L) |
-|   | Olivia Lim Ee-Hun (6K) |
-|   | Raegan Keon Ang (6K) |
-|   | Rong Haoyu (6K) |
-|   | Tan Yu Han (6I) |
-|   |  |
-|   | Bronze Award |
-|   | Alvin Lim Chung Yap (6F) |
-|   | Chang Kai Jie (6H) |
-|   | Chiong Jing Yuan Darrius (6I) |
-|   | Giselle Chiam Kai Ting (6I) |
-|   | Goh Zuo En (6F) |
-|   | Goh Zuo Yun (6G) |
-|   | Ian Teo Kai Chen (6H) |
-|   | Jonathan Khoo Kai Han (6K) |
-|   | Kate Isabelle Ong (6J) |
-|   | Li Yiming (6H) |
-|   | Lim Zer Ian (6I) |
-|   | Ling Jia En, Abigail (6I) |
-|   | Low Kwok Kuan, Jeremiah (6H) |
-|   | Mia Yong (6K) |
-|   | Poh Zheng Liang Joseph (6H) |
-|   | Siow Xuan Ting (6K) |
-|   | Wang Yuanqiao (6I) |
-|   | Yuen Jun Hong (6K) |
-|   |   |
-|   | 17th International Math and Science Olympiad (IMSO) 2021 |
-|   | Louis Lee Jing Yuan (5L) - Maths (Gold Award) |
-|   |  |
-|   | River Valley Mathematics Challenge 2021 |
-|   | 1st Place |
-|   | Low Kwok Kuan, Jeremiah (6H)  |
-|   | Wang Yuanqiao (6I) |
-|   | Wang Henian (6J) |
-|   |   |
+|   | <u> **2021 Singapore Mathematical Olympiad for Primary Schools (SMOPS)** </u> <br> <br> **Platinum Award** <br> Chow Gar Heng Bryan (6L) <br> Fang Hongbo (6L) <br> Li Borui (6L) <br> Louis Lee Jing Yuan (6L)  Lucas Lee Jing Tai (6K) <br> Tey Yi Xiang (6I) <br><br> **Gold Award** <br> Aiden Lim Tze Choon (6K) <br> Ang Kien Yew Keane (6K) <br> Matthew Chan Min Yao (6K) <br> Peng Zhehan (6L) <br> Soh Kit-Ann (6K) <br> Tan Pei Xi (6K) <br> Teo Ming Yang (6L) <br> You Xuanxiang (6K) <br> <br> **Silver Award** <br> Angela Wu Si Xian (6L) <br> Goh Lennon (6I) <br>  Goh Wei Siong Kendrick (6L) <br> Han Qi-Ji (6K) <br> Li Xinpei (6L) <br> Lim Bing Ze Triston (6L) <br> Lim Yi Xuan, Earlene (6L) <br> Olivia Lim Ee-Hun (6K) <br> Raegan Keon Ang (6K) <br> Rong Haoyu (6K) <br> Tan Yu Han (6I) <br> <br> **Bronze Award** <br> Alvin Lim Chung Yap (6F) <br> Chang Kai Jie (6H) <br> Chiong Jing Yuan Darrius (6I) <br> Giselle Chiam Kai Ting (6I) <br> Goh Zuo En (6F) <br> Goh Zuo Yun (6G) <br> Ian Teo Kai Chen (6H) <br> Jonathan Khoo Kai Han (6K) <br> Kate Isabelle Ong (6J) <br> Li Yiming (6H) <br> Lim Zer Ian (6I) <br> Ling Jia En, Abigail (6I) <br> Low Kwok Kuan, Jeremiah (6H) <br> Mia Yong (6K) <br> Poh Zheng Liang Joseph (6H) <br> Siow Xuan Ting (6K) <br> Wang Yuanqiao (6I) <br> Yuen Jun Hong (6K) <br> 
+|   | <u> **17th International Math and Science Olympiad (IMSO) 2021** </u> <br> Louis Lee Jing Yuan (5L) - **Maths (Gold Award)** |
+|   | <u> **River Valley Mathematics Challenge 2021** </u> <br><br> **1st Place** <br> Low Kwok Kuan, Jeremiah (6H) <br> Wang Yuanqiao (6I) <br> Wang Henian (6J) <br> | 
 | Science | Singapore Primary Science Olympiad (SPSO) 2021 |
 |   | Gold Award |
 |   | Jiao Chenyang Kelvin (5H) |

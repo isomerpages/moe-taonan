@@ -13,82 +13,11 @@ third_nav_title: "2021"
 |   | <u> **2021 Singapore Mathematical Olympiad for Primary Schools (SMOPS)** </u> <br> <br> **Platinum Award** <br> Chow Gar Heng Bryan (6L) <br> Fang Hongbo (6L) <br> Li Borui (6L) <br> Louis Lee Jing Yuan (6L)  Lucas Lee Jing Tai (6K) <br> Tey Yi Xiang (6I) <br><br> **Gold Award** <br> Aiden Lim Tze Choon (6K) <br> Ang Kien Yew Keane (6K) <br> Matthew Chan Min Yao (6K) <br> Peng Zhehan (6L) <br> Soh Kit-Ann (6K) <br> Tan Pei Xi (6K) <br> Teo Ming Yang (6L) <br> You Xuanxiang (6K) <br> <br> **Silver Award** <br> Angela Wu Si Xian (6L) <br> Goh Lennon (6I) <br>  Goh Wei Siong Kendrick (6L) <br> Han Qi-Ji (6K) <br> Li Xinpei (6L) <br> Lim Bing Ze Triston (6L) <br> Lim Yi Xuan, Earlene (6L) <br> Olivia Lim Ee-Hun (6K) <br> Raegan Keon Ang (6K) <br> Rong Haoyu (6K) <br> Tan Yu Han (6I) <br> <br> **Bronze Award** <br> Alvin Lim Chung Yap (6F) <br> Chang Kai Jie (6H) <br> Chiong Jing Yuan Darrius (6I) <br> Giselle Chiam Kai Ting (6I) <br> Goh Zuo En (6F) <br> Goh Zuo Yun (6G) <br> Ian Teo Kai Chen (6H) <br> Jonathan Khoo Kai Han (6K) <br> Kate Isabelle Ong (6J) <br> Li Yiming (6H) <br> Lim Zer Ian (6I) <br> Ling Jia En, Abigail (6I) <br> Low Kwok Kuan, Jeremiah (6H) <br> Mia Yong (6K) <br> Poh Zheng Liang Joseph (6H) <br> Siow Xuan Ting (6K) <br> Wang Yuanqiao (6I) <br> Yuen Jun Hong (6K) <br> 
 |   | <u> **17th International Math and Science Olympiad (IMSO) 2021** </u> <br> Louis Lee Jing Yuan (5L) - **Maths (Gold Award)** |
 |   | <u> **River Valley Mathematics Challenge 2021** </u> <br><br> **1st Place** <br> Low Kwok Kuan, Jeremiah (6H) <br> Wang Yuanqiao (6I) <br> Wang Henian (6J) <br> | 
-| Science | <u> **Singapore Primary Science Olympiad (SPSO) 2021** </u> <br> <br> **Gold Award** <br> Jiao Chenyang Kelvin (5H) <br> Chen Boyan (5J) <br> Ethan Yik Zi Xun (5J) <br> Khoo Guan Hien (5K) <br> Li Zihan (5K) <br> Liu Chuning (5L) <br> Sun Yufei (5L) <br> Yu Kuai, Christopher (5L) <br> Kate Isabelle Ong (6J) <br>  Chong Guang Yi Andrew (6L) <br> Chow Gar Heng Bryan (6L) <br> Li Borui (6L) <br> Loius Lee Jing Yuan (Li Jingyuan) (6L) <br><br> **Silver Award** <br> Imran Tan Yi Jun (5G) <br> Denzel Wong Kang Jae (5I) <br> Michael Tan Yong Seng (5J) <br> Dylan Tan Teng Heong (5K) <br> Liu Qinyao (5K) <br> Chen Yilan (5L) <br> Ellery-Jude Nair (5L) <br> Lui Hoong Teng Jerard (5L) <br> Yuan Jiatong (5L) <br> Tey Yi Xiang (6I)<br> Wayne Chan Zee Herng (6I) <br> Emiliano Sim Hui Heng (6K) <br> Lucas Lee Jing Tai (Li Jingtai) <br> Matthew Chan Min Yao (6K) <br> You Xuanxiang (6K) <br> Lim Bing Ze Triston (6L) <br> Lim Yi Xuan, Earlene (6L) <br> Shi Haoxuan (6L) <br> Tan Kai Xuan (6L) <br><br> **Bronze Award** <br> Loy Qi Rong, Jayden (5G) <br> Shanice Fee Qi-Enn (5G) <br> Chia Ern Lark (5H) <br> Riley Goh Yu Zhe (5H) <br> Chan Sien Onn Axel Emmanuel (5I) <br> Dylan Low Yang En (5I) <br> Jin Zheyu (5I) <br> Pour Xin Ming (5I) <br> Shum Eu Xuan, Ethan (5I) <br> Ding Jingyi (5J) <br> Liu Muge (5J) <br> Nathan Wong Wan Hey (5J) <br> Toh Kia Ern Gwyneth (5J) <br> Zheng Jinghao (5J) <br> Heng Xuan Ni Vera (5K) <br> Ng Kyi Ren (5K) <br> Poon Ayden (5K) <br> Reuben Chua Jing Peng (5K) <br> Reynold Ge Zhixing (5K) <br> Tan Jia Jun, Kenneth (5K) <br> Eva Lim Hwei (5L) <br> Li Jiashen (5L) <br> Shen Yanxi (5L) <br> Skylene Loretto Cheong Ning (5L) <br> Wu Guanyou (5L) <br> Arayfas Koh Xuan Kai (Xu Xuankai) (6E) <br> Poh Zheng Liang Joseph (6H) <br> Elin Sim Pei Yi (6J) <br> Aiden Lim Tze Choon (6K) <br> Jonathan Khoo Kai Han (6K) <br> Lok Shann En (6K) <br> Raegan Keon Ang (Hong Yucheng) (6K) <br> Goh Wei Siong Kendrick (Wu Weixiong) (6L) <br> Li Xinpei (6L) <br> Teo Ming Yang (6L) <br> <br> **Merit Award** <br> Eden Ong Ee Ler (5F) <br> Ayden Seah (5G) <br> Goh Modric (5H) <br> Xu Shanhong (5H) <br> Andrea Yeo En Qi (5I) <br> Ang Zi Xiang (5I) <br> Chan En Liang (5I) <br> Duan Jiajin (5I) <br> Liu Ziqi (5I) |
-|   | Chan Wen Xin Chloe (5J) |
-|   | Daniel Tan Wei Ming (5J) |
-|   | Kiera Tan Wern Ling (5J) |
-|   | Lucas Pong Wai Hau (5J) |
-|   | Renee Cheng Yi Yan (5J) |
-|   | Renee Teh Rui Xuan (5J) |
-|   | Saw Zi Jun (5J) |
-|   | Yeo Bing Cheng (5J) |
-|   | Ang Zee Yang Daniel (5K) |
-|   | Lim Kia Kheng (5K) |
-|   | Thaddaeus Ng Peng Yang (5K) |
-|   | Wang Yuehan (5K) |
-|   | Wu Yizhou (5K) |
-|   | Zhang Xiaohan (5K) |
-|   | Alexis Sim Yan Yi (5L) |
-|   | Catherine Goh Hao Xuan (5L) |
-|   | Lim Xuan Jie, Ryan (5L) |
-|   | Lin Xiuqi (5L) |
-|   | Ng Jiyan (5L) |
-|   | Lew Sze Ray, Delius (6G) |
-|   | Rhys Koh Yao Shuen (Gu Yaoxuan) (6G) |
-|   | Ian Teo Kai Chen (Zhang Kaicheng) (6H) |
-|   | Li Yiming (6H) |
-|   | Low Kwok Kuan, Jeremiah (6H) |
-|   | Lim Zer Ian (6I) |
-|   | Ling Jia En, Abigail (6I) |
-|   | Tan Xin Xuan (6I) |
-|   | Zhu Jiajia Christine (6I) |
-|   | Chye Rui Xin (6J) |
-|   | Jareth Lim En Wei (6J) |
-|   | Joey Chua Wen Xin (6J) |
-|   | Nadine Ang Ying Hui (6J) |
-|   | Ng Kai Qi (6J) |
-|   | Reinna Christella Suherman (6J) |
-|   | Tan Megan (6J) |
-|   | Siow Xuan Ting (6K) |
-|   | Soh Kit-Ann (6K) |
-|   | Yuen Jun Hong (6K) |
-|   | Soh Kit-Sen (6L) |
-|   |   |
-|   | Raffles Science Olympiad 2021 |
-|   | Bronze Awards |
-|   | Lim Xuan Jie, Ryan (5L) |
-|   | Yu Kuai, Christopher (5L) |
-|   | Teo Ming Yang (6L) |
-|   |   |
-|   | Merit Awards |
-|   | Reynold Ge Zhixing (5K) |
-|   | Lim Bing Ze Triston (6L) |
-|   | Emiliano Sim Hui Heng (6K) |
-|   |   |
-|   | 17th International Math and Science Olympiad (IMSO) 2021 |
-|  | Tey Yi Xiang (5I) - Science (Silver Award) |
-|  | Li Borui (5K) - Science (Silver Award) |
-|  | You Xuanxiang (5L) - Science (Silver Award) |
-|  |   |
-| Art | AI for Kids (Illustrated) Character Design Competition |
-|   | Chan En Liang (5H) 1 of top 10 entries |
-|   |   |
-|   | 2021 Anti-Shop Theft Design Competition |
-|   | Shanice Foo Qi-Enn (5G) - Champion |
-|   | Yang Kaixin (5I) - 1st Runner Up |
-|   | Ng Jiyan (5L) - 2nd Runner Up |
-|   |   |
-| Others  |  IRS |
-|   |  Lim Xuan Jie, Ryan (5L) - Gold |
-|   |  Reuben Chua Jing Peng (5K) - Gold |
-|   |  Sun Yufei (5L) - Gold |
-|   |   |
-|   |  Ellery-Jude Nair (5L) - Silver |
-|   |  Heng Xuan Ni, Vera (5K) - Silver |
-|   |  Lauren Leong Eu Shyen (5K) - Silver |
-|   |  Ng Jiyan (5L) - Silver |
-|   |  Yeo Bing Cheng (5J) - Silver |
-|   |   |
-|   |  Renee Teh Rui Xuan (5J) - Bronze |
-|   |   |
+| Science | <u> **Singapore Primary Science Olympiad (SPSO) 2021** </u> <br> <br> **Gold Award** <br> Jiao Chenyang Kelvin (5H) <br> Chen Boyan (5J) <br> Ethan Yik Zi Xun (5J) <br> Khoo Guan Hien (5K) <br> Li Zihan (5K) <br> Liu Chuning (5L) <br> Sun Yufei (5L) <br> Yu Kuai, Christopher (5L) <br> Kate Isabelle Ong (6J) <br>  Chong Guang Yi Andrew (6L) <br> Chow Gar Heng Bryan (6L) <br> Li Borui (6L) <br> Loius Lee Jing Yuan (Li Jingyuan) (6L) <br><br> **Silver Award** <br> Imran Tan Yi Jun (5G) <br> Denzel Wong Kang Jae (5I) <br> Michael Tan Yong Seng (5J) <br> Dylan Tan Teng Heong (5K) <br> Liu Qinyao (5K) <br> Chen Yilan (5L) <br> Ellery-Jude Nair (5L) <br> Lui Hoong Teng Jerard (5L) <br> Yuan Jiatong (5L) <br> Tey Yi Xiang (6I)<br> Wayne Chan Zee Herng (6I) <br> Emiliano Sim Hui Heng (6K) <br> Lucas Lee Jing Tai (Li Jingtai) <br> Matthew Chan Min Yao (6K) <br> You Xuanxiang (6K) <br> Lim Bing Ze Triston (6L) <br> Lim Yi Xuan, Earlene (6L) <br> Shi Haoxuan (6L) <br> Tan Kai Xuan (6L) <br><br> **Bronze Award** <br> Loy Qi Rong, Jayden (5G) <br> Shanice Fee Qi-Enn (5G) <br> Chia Ern Lark (5H) <br> Riley Goh Yu Zhe (5H) <br> Chan Sien Onn Axel Emmanuel (5I) <br> Dylan Low Yang En (5I) <br> Jin Zheyu (5I) <br> Pour Xin Ming (5I) <br> Shum Eu Xuan, Ethan (5I) <br> Ding Jingyi (5J) <br> Liu Muge (5J) <br> Nathan Wong Wan Hey (5J) <br> Toh Kia Ern Gwyneth (5J) <br> Zheng Jinghao (5J) <br> Heng Xuan Ni Vera (5K) <br> Ng Kyi Ren (5K) <br> Poon Ayden (5K) <br> Reuben Chua Jing Peng (5K) <br> Reynold Ge Zhixing (5K) <br> Tan Jia Jun, Kenneth (5K) <br> Eva Lim Hwei (5L) <br> Li Jiashen (5L) <br> Shen Yanxi (5L) <br> Skylene Loretto Cheong Ning (5L) <br> Wu Guanyou (5L) <br> Arayfas Koh Xuan Kai (Xu Xuankai) (6E) <br> Poh Zheng Liang Joseph (6H) <br> Elin Sim Pei Yi (6J) <br> Aiden Lim Tze Choon (6K) <br> Jonathan Khoo Kai Han (6K) <br> Lok Shann En (6K) <br> Raegan Keon Ang (Hong Yucheng) (6K) <br> Goh Wei Siong Kendrick (Wu Weixiong) (6L) <br> Li Xinpei (6L) <br> Teo Ming Yang (6L) <br> <br> **Merit Award** <br> Eden Ong Ee Ler (5F) <br> Ayden Seah (5G) <br> Goh Modric (5H) <br> Xu Shanhong (5H) <br> Andrea Yeo En Qi (5I) <br> Ang Zi Xiang (5I) <br> Chan En Liang (5I) <br> Duan Jiajin (5I) <br> Liu Ziqi (5I) <br> Chan Wen Xin Chloe (5J) <br> Daniel Tan Wei Ming (5J) <br> Kiera Tan Wern Ling (5J) <br> Lucas Pong Wai Hau (5J) <br> Renee Cheng Yi Yan (5J) <br> Renee Teh Rui Xuan (5J) <br> Saw Zi Jun (5J) <br> Yeo Bing Cheng (5J) <br> Ang Zee Yang Daniel (5K) <br> Lim Kia Kheng (5K) <br> Thaddaeus Ng Peng Yang (5K) <br> Wang Yuehan (5K) <br> Wu Yizhou (5K) <br> Zhang Xiaohan (5K) <br> Alexis Sim Yan Yi (5L) <br> Catherine Goh Hao Xuan (5L) <br> Lim Xuan Jie, Ryan (5L) <br> Lin Xiuqi (5L) <br> Ng Jiyan (5L) <br> Lew Sze Ray, Delius (6G) <br> Rhys Koh Yao Shuen (Gu Yaoxuan) (6G) <br> Ian Teo Kai Chen (Zhang Kaicheng) (6H) <br> Li Yiming (6H) <br> Low Kwok Kuan, Jeremiah (6H) <br> Lim Zer Ian (6I) <br> Ling Jia En, Abigail (6I) <br> Tan Xin Xuan (6I) <br> Zhu Jiajia Christine (6I) <br> Chye Rui Xin (6J) <br> Jareth Lim En Wei (6J) <br> Joey Chua Wen Xin (6J) <br> Nadine Ang Ying Hui (6J) <br> Ng Kai Qi (6J) <br> Reinna Christella Suherman (6J) <br> Tan Megan (6J) <br> Siow Xuan Ting (6K) <br> Soh Kit-Ann (6K) <br> Yuen Jun Hong (6K) <br> Soh Kit-Sen (6L) |
+|   | <u> **Raffles Science Olympiad 2021** </u> <br><br> **Bronze Awards** <br> Lim Xuan Jie, Ryan (5L) <br> Yu Kuai, Christopher (5L) <br> Teo Ming Yang (6L) <br> <br> **Merit Awards** <br> Reynold Ge Zhixing (5K) <br> Lim Bing Ze Triston (6L) <br> Emiliano Sim Hui Heng (6K) <br> 
+|   | <u> **17th International Math and Science Olympiad (IMSO) 2021** </u> <br> Tey Yi Xiang (5I) - **Science (Silver Award)** <br> Li Borui (5K) - **Science (Silver Award)** <br> You Xuanxiang (5L) - **Science (Silver Award)** |
+| Art | <u> **AI for Kids (Illustrated) Character Design Competition** </u> <br> |
+|   | Chan En Liang (5H) **1 of top 10 entries** |   |
+|   | <u> **2021 Anti-Shop Theft Design Competition** </u> <br> Shanice Foo Qi-Enn (5G) - **Champion** <br> Yang Kaixin (5I) - **1st Runner Up** <br> Ng Jiyan (5L) - **2nd Runner Up** |
+| Others  |  <u> **IRS** </u> <br> Lim Xuan Jie, Ryan (5L) - **Gold** <br> Reuben Chua Jing Peng (5K) - **Gold** Sun Yufei (5L) - **Gold** <br> <br> Ellery-Jude Nair (5L) - **Silver** <br> Heng Xuan Ni, Vera (5K) - **Silver** <br> Lauren Leong Eu Shyen (5K) - **Silver** <br> Ng Jiyan (5L) - **Silver** <br> Yeo Bing Cheng (5J) - **Silver** <br> <br>  Renee Teh Rui Xuan (5J) - **Bronze** |
 | | |

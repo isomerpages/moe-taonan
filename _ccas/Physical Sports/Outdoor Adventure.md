@@ -23,7 +23,7 @@ Outdoor activities your child will get to try out:
 
 **Teachers In-Charge (2022):**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | Email | ROLE |
+| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|
 | Mr Lim Hoe Seng Francis | lim_hoe_seng_francis@moe.edu.sg | Overall IC |
 | Mdm Nur Rasheeda Bte Mohd Ismail | nur_rasheeda_mohd_ismail@moe.edu.sg |  |

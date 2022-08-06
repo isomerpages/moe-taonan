@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Visual and Performing Arts/.keep
       - Clubs and Societies/.keep
       - Clubs and Societies/华艺会简介 Chinese Culture and Language.md
       - Clubs and Societies/International Chess.md

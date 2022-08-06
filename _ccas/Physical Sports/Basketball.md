@@ -28,7 +28,7 @@ The Basketball (Girls) team continues to give their best every day so as to scal
 
 **Teachers In-Charge (2022):**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | Email | ROLE |
+| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|
 | Mdm Ong Wee Wah [王维华] | ong_wee_wah@moe.edu.sg | Overall IC |
 | Mr Chong Zhi Howe Kenneth | chong_zhi_howe_kenneth@moe.edu.sg |   |

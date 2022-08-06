@@ -12,7 +12,7 @@ In addition to the weekly practices, pupils are also given opportunities to perf
 
 **Teachers In-Charge (2022):**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | Email | ROLE |
+| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|
 | Miss Yick Fang Ru | yick_fang_ru@moe.edu.sg | Overall IC |
 | Mdm Yang Xiaojuan [杨晓娟] | yang_xiaojuan_a@moe.edu.sg | Overall 2IC |

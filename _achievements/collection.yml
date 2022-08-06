@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - School Awards.md
+      - Current Achievements/Individual.md
       - Current Achievements/.keep

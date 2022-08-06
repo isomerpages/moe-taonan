@@ -10,7 +10,7 @@ Our school Science Club focusses on enriching the science curriculum through spe
 
 **Teachers In-Charge (2022):**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | Email | ROLE |
+| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|
 | Mdm Lee Yin Ling Jasmine | lee_yin_ling_jasmine@moe.edu.sg | Overall IC |
 | Mdm Moi Mei Kuen | moi_mei_kuen@moe.edu.sg |   |

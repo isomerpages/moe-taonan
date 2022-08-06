@@ -8,7 +8,7 @@ During training sessions, all students are taught basic, intermediate as well as
 
 **Teachers In-Charge (2022):**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | Email | ROLE |
+| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|
 | Mdm Shahadatunisa d/o M M Noorddin | shahadatunisa_m_m_noorddin@moe.edu.sg | Overall IC |
 | Mdm Choo Kay Ngee | choo_kay_ngee@moe.edu.sg |   |

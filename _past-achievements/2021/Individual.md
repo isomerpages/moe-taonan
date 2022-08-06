@@ -8,40 +8,7 @@ third_nav_title: "2021"
 |---|---|
 | Chinese | <u> **2021 International Chinese Language Competition** </u> <br> <br> **National Round - Silver** <br> **International Round - Bronze** <br> Chong Han Hao (5J) <br><br> **National Primary Schools Chinese Story-Telling Competition 2021** <br> Ashley Ho Jun Xin (6J) - **Consolation Prize** |
 |   | <u> **2021 SHHK Affiliated Primary Schools Chinese Essay-Writing Competition** </u> <br> <br> **First Position** <br> Koh Zhe Qin Faith (3D) <br> Clarice Khit Shi Min (4-1) <br> <br> **Second Position** <br> Sander Au Yi De (4E) <br> <br> **Third Position** <br>Aidan Lee Sheng Jie (3A) <br> Lim Kia Kheng (5K)  <br><br> **Consolation** <br> Chiu Lok Yaen Esther (3C) <br> Catherine Goh Hai Xuan (5L) |
-| Mathematic | <u> **14th Annual Mathlympics For All Singapore Primary Schools 2021** </u> <br><br> **Gold Award** <br> Song Wenxuan (5F) <br> Boon Hong Ye Elroy (5I) - Top 3 In East Zone <br> Shen Zixi (5I) <br> Ding Jingyi (5J) <br> Ethan Yik Zi Xun (5J) <br> Nathan Wong Wan Hey (5J) <br> Saw Zi Jun (5J) <br> Yeo Bing Cheng (5J) - Top 3 In East Zone <br> Dylan Tan Teng Heong (5K) <br> Heng Xuan Ni Vera (5K) <br> Khoo Guan Hien (5K) <br> Li Zihan (5K) <br>  Lim Kia Kheng (5K) <br> Ng Kyi Ren (5K) <br> Ronaldo Chang Kai Yang (5K) <br> Li Jiashen (5L) <br> Liu Chuning (5L) <br> Sun Yufei (5L) <br> Yu Kuai, Christopher (5L)  <br> <br> 
-|   |   |
-|   | Silver Award |
-|   | Chia Ern Lark (5H) |
-|   | Koh Zi Ning (5H) |
-|   | Lim Zhi Xian (5H) |
-|   | Duan Jiajin (5I) |
-|   | Ong Yi Quan, Aidan (5I) |
-|   | Liu Muge (5J) |
-|   | Renee Cheng Yi Yan (5J) |
-|   | Zheng Jinghao (5J) |
-|   | Reuben Chua Jing Peng (5K) |
-|   | Thaddaeus Ng Peng Yang (5K) |
-|   | Chen Yilan (5L) |
-|   | Lin Xiuqi (5L) |
-|   | Lui Hoong Teng Jerard (5L) |
-|   | Ng Jiyan (5L) |
-|   | Shen Yanxi (5L) |
-|   | Wu Guanyou (5L) |
-|   |   |
-|   | Bronze Award |
-|   | Tan Jasson (5D) |
-|   | Wong Shi Han (5G) |
-|   | Goh Modric (5H) |
-|   | Liu Ziqi (5I) |
-|   | Lucas Pong Wai Hau (5J) |
-|   | Ng Yi Kai Sophie (5J) |
-|   | Hu Yutong Emma (5K) |
-|   | Liu Qinyao (5K) |
-|   | Nicole Ng Chyi Swan (5K) |
-|   | Poon Ayden (5K) |
-|   | Catherine Goh Hao Xuan (5L) |
-|   | Ng Hui Shyan (5L) |
-|   |  |
+| Mathematic | <u> **14th Annual Mathlympics For All Singapore Primary Schools 2021** </u> <br><br> **Gold Award** <br> Song Wenxuan (5F) <br> Boon Hong Ye Elroy (5I) - Top 3 In East Zone <br> Shen Zixi (5I) <br> Ding Jingyi (5J) <br> Ethan Yik Zi Xun (5J) <br> Nathan Wong Wan Hey (5J) <br> Saw Zi Jun (5J) <br> Yeo Bing Cheng (5J) - Top 3 In East Zone <br> Dylan Tan Teng Heong (5K) <br> Heng Xuan Ni Vera (5K) <br> Khoo Guan Hien (5K) <br> Li Zihan (5K) <br>  Lim Kia Kheng (5K) <br> Ng Kyi Ren (5K) <br> Ronaldo Chang Kai Yang (5K) <br> Li Jiashen (5L) <br> Liu Chuning (5L) <br> Sun Yufei (5L) <br> Yu Kuai, Christopher (5L)  <br> <br> **Silver Award** <br> Chia Ern Lark (5H) <br> Koh Zi Ning (5H) <br> Lim Zhi Xian (5H) <br> Duan Jiajin (5I) <br> Ong Yi Quan, Aidan (5I) <br> Liu Muge (5J) <br> Renee Cheng Yi Yan (5J) <br> Zheng Jinghao (5J) <br> Reuben Chua Jing Peng (5K) <br> Thaddaeus Ng Peng Yang (5K) <br> Chen Yilan (5L) <br> Lin Xiuqi (5L) <br> Lui Hoong Teng Jerard (5L) <br> Ng Jiyan (5L) <br> Shen Yanxi (5L) <br> Wu Guanyou (5L) <br> <br> **Bronze Award** <br> Tan Jasson (5D) <br> Wong Shi Han (5G) <br> Goh Modric (5H) <br> Liu Ziqi (5I) <br> Lucas Pong Wai Hau (5J) <br> Ng Yi Kai Sophie (5J) <br> Hu Yutong Emma (5K) <br>  Liu Qinyao (5K) <br> Nicole Ng Chyi Swan (5K) <br> Poon Ayden (5K) <br> Catherine Goh Hao Xuan (5L) <br> Ng Hui Shyan (5L) 
 |   | National Mathematics Olympiad Of Singapore ( NMOS ) 2021 Results |
 |   | Gold Award |
 |   | Chow Gar Heng Bryan (6L) |
@@ -363,4 +330,4 @@ third_nav_title: "2021"
 |   |   |
 |   |  Renee Teh Rui Xuan (5J) - Bronze |
 |   |   |
-| | | 
+| | |

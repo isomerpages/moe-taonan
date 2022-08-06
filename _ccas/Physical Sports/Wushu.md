@@ -10,7 +10,7 @@ The trainings aim to improve whole-body fitness and traditional stance training 
 
 **Teachers In-Charge (2022):**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | Email | ROLE |
+| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|
 | Mrs Law- Chin Wai Mun | law-chin_wai_mun@moe.edu.sg | Overall IC |
 | Mdm Wu Yun [吴赟] | wu_yun@moe.edu.sg | Overall 2IC |

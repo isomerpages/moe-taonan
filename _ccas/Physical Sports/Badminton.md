@@ -10,7 +10,7 @@ The School Teams will have the opportunity to represent the school at team compe
 
 **Teachers In-Charge (2022):**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | Email | ROLE |
+| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|
 | Mdm Phua Mei Yan [潘美燕] | phua_mei_yan@moe.edu.sg | Overall IC |
 | Miss Ng Lay Kuan | ng_lay_kuan_a@moe.edu.sg | Overall 2IC |

@@ -9,6 +9,7 @@ Wushu forms part of the cultural heritage of China. It uses natural, aesthetic m
 The trainings aim to improve whole-body fitness and traditional stance training improves strength, stamina and flexibility, whilst speed, control and balance are developed through repetitive movements that include kicking and open hand techniques.
 
 **Teachers In-Charge (2022):**
+
 | NAME OF CCA<br>TEACHER-IN-CHARGE | Email | ROLE |
 |---|---|---|
 | Mrs Law- Chin Wai Mun | law-chin_wai_mun@moe.edu.sg | Overall IC |

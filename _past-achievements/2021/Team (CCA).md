@@ -11,3 +11,4 @@ third_nav_title: "2021"
 |   | <u><strong> Awarded the Chief Commissioner’s Badge </strong></u> <br> **(Highest achievement to outstanding and exemplary Brownies in Primary School)** <br> Chye Rui Xin (6J) <br> Eleanor Teo Sing Hwee (6J) <br> Kaelyn Boo Ke Rui (6I) <br> Kaitlin Lee Ying Xuan (6I) <br> Kaelyn Chew Yu Xuan (6G) <br> Lim Kah En Emelia (6G) <br> Lok Shann En (6K) <br> Mayah Elizabeth Kaufmann (6F) <br> Phay Shi Ya Cate (6G) |
 | Sailing | <u><strong> Singapore Students Challenge Trophy </strong></u><br> **Overall Division Championship** <br> **Team Challenge Trophy - Senior Girls (Optimist) Division** <br> Nicole Ashley Quek Xinyi (6D) <br> Oon Cheaung Qi (6F) <br> Nia Mehry Zahedi (6H) <br> Ling Jia En, Abigail (6I) <br> |
 | Wushu | <u><strong> National School Games Wushu Competition 2021 </strong></u> <br>  Senior Girls Division - 4th |
+| | | 

@@ -6,7 +6,7 @@ third_nav_title: "2020"
 ---
 | Individual | |
 |---|---|
-| Wayne Chan Zee Herng (5I) | <u> **e-THINK Challenge 2020** </u> <br> Honorable Mention Awardee |
+| Wayne Chan Zee Herng (5I) | <u><strong> e-THINK Challenge 2020 </strong> </u> <br> Honorable Mention Awardee |
 | Li Hanrui Harel (5I) | <u> **e-THINK Challenge 2020** </u> <br> Gold Awardee |
 | Ling Jia En Abigail (5H) | <u> **e-THINK Challenge 2020** </u> <br> Silver Awardee |
 | Chye Rui Xin (5J) | <u> **2020 SHHK Essay Writing Competition (P5 Level)** </u> <br> 2nd Prize |

@@ -4,7 +4,7 @@ permalink: /partners/for-parents/curriculum-matters/curriculum-briefing-slides
 description: ""
 third_nav_title: Curriculum Matters
 ---
-**Primary 1**
+<u><strong> Primary 1 </strong></u>
 
 1. [2022 P1 English Language Curriculum Info](/files/2022%20P1%20English%20Language%20Curriculum%20Information.pdf)
 2. [2022 P1 Mathematics Curriculum Information](/files/2022%20P1%20Mathematics%20Curriculum%20Information.pdf)
@@ -14,27 +14,17 @@ third_nav_title: Curriculum Matters
 6. [2022 P1 Art and Music Curriculum Information](/files/2022_P1P2_ArtMusic_Curriculum_Information_Updated.pdf)
 7. [2022 P1 PE Curriculum Information](/files/2022%20P1%20PE%20Curriculum%20Information.pdf)
     
+<u><strong> Primary 2 </strong></u>
 
-  
+1. [2022 P2 English Language Curriculum Info](/files/2022_P2%20EL%20Curriculum%20Information_cleared.pdf)
+2. [2022 P2 Mathematics Curriculum Information](/files/2022%20P2%20Mathematics%20Curriculum%20Info_cleared.pdf)
+3. [2022 P2 Chinese Language Curriculum Information](/files/2022%20P2%20Chinese%20Language%20Curriculum%20Information_cleared.pdf)
+4. [2022 P2 Social Studies Curriculum Information](/files/2022_P2_SS_Curriculum_Information_cleared.pdf)
+5. [2022 P2 PAL Curriculum Information](/files/2022_P1P2_PAL_Curriculum_Information%20(1).pdf)
+6. [2022 P2 Art and Music Curriculum Information](/files/2022_P1P2_ArtMusic_Curriculum_Information_Updated%20(1).pdf)
+7. [2022 P2 PE Curriculum Information](/files/2022%20P2%20PE%20Curriculum%20Information.pdf)
 
-**Primary 2**
-
-1.  [2022 P2 English Language Curriculum Info](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%202/2022_P2%20EL%20Curriculum%20Information_cleared.pdf)
-2.  [2022 P2 Mathematics Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%202/2022%20P2%20Mathematics%20Curriculum%20Info_cleared.pdf)
-3.  [2022 P2 Chinese Language Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%202/2022%20P2%20Chinese%20Language%20Curriculum%20Information_cleared.pdf)  
-    
-4.  [2022 P2 Social Studies Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%202/2022_P2_SS_Curriculum_Information_cleared.pdf)  
-    
-5.  [2022 P2 PAL Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%202/2022_P1P2_PAL_Curriculum_Information.pdf)  
-    
-6.  [2022 P2 Art and Music Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%202/2022_P1P2_ArtMusic_Curriculum_Information_Updated.pdf)  
-    
-7.  [2022 P2 PE Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%202/2022%20P2%20PE%20Curriculum%20Information.pdf)  
-    
-
-  
-
-**Primary 3**
+<u><strong> Primary 3 </strong></u>
 
 1.  [2022 P3 English Language Curriculum Info](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%203/2022%20P3%20EL%20Curriculum%20Information.pdf)
 2.  [2022 P3 Mathematics Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%203/2022%20P3%20Mathematics%20Curriculum%20Information.pdf)

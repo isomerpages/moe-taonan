@@ -34,9 +34,7 @@ third_nav_title: Curriculum Matters
 6. [2022 P3 Art and Music Curriculum Information](/files/2022_P3P4_ArtMusic_Curriculum_Information.pdf)
 7. [2022 P3 PE Curriculum Information](/files/2022%20P3%20PE%20Curriculum%20Information.pdf)
 
-  
-
-**Primary 4**
+<u><strong> Primary 4 </strong></u>
 
 1.  [2022 P4 English Language Curriculum Info](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%204/2022%20P4%20EL%20Curriculum%20Information.pdf)
 2.  [2022 P4 Mathematics Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%204/2022%20P4%20Mathematics%20Curriculum%20Information.pdf)

@@ -12,5 +12,7 @@ links:
     collection: ccas
   - title: Achievements
     collection: achievements
+  - title: Partners
+    collection: partners
   - title: Contact Us
     url: /contact-us/

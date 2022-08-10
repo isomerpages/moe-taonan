@@ -26,18 +26,13 @@ third_nav_title: Curriculum Matters
 
 <u><strong> Primary 3 </strong></u>
 
-1.  [2022 P3 English Language Curriculum Info](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%203/2022%20P3%20EL%20Curriculum%20Information.pdf)
-2.  [2022 P3 Mathematics Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%203/2022%20P3%20Mathematics%20Curriculum%20Information.pdf)
-3.  [2022 P3 Chinese Language Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%203/2022%20P3%20Chinese%20Language%20Curriculum%20Information.pdf)  
-    
-4.  [2022 P3 Science Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%203/2022%20P3%20Science%20Curriculum%20Information.pdf)  
-    
-5.  [2022 P3 Social Studies Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%203/2022%20P3%20SS%20Curriculum%20Information.pdf)  
-    
-6.  [2022 P3 Art and Music Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%203/2022_P3P4_ArtMusic_Curriculum_Information.pdf)  
-    
-7.  [2022 P3 PE Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%203/2022%20P3%20PE%20Curriculum%20Information.pdf)  
-    
+1. [2022 P3 English Language Curriculum Info](/files/2022%20P3%20EL%20Curriculum%20Information.pdf)
+2. [2022 P3 Mathematics Curriculum Information](/files/2022%20P3%20Mathematics%20Curriculum%20Information.pdf)
+3. [2022 P3 Chinese Language Curriculum Information](/files/2022%20P3%20Chinese%20Language%20Curriculum%20Information.pdf)
+4. [2022 P3 Science Curriculum Information](/files/2022%20P3%20Science%20Curriculum%20Information.pdf)  
+5. [2022 P3 Social Studies Curriculum Information](/files/2022%20P3%20SS%20Curriculum%20Information.pdf)
+6. [2022 P3 Art and Music Curriculum Information](/files/2022_P3P4_ArtMusic_Curriculum_Information.pdf)
+7. [2022 P3 PE Curriculum Information](/files/2022%20P3%20PE%20Curriculum%20Information.pdf)
 
   
 

@@ -2,8 +2,6 @@ collections:
   past-achievements:
     output: true
     order:
-      - 2017/Individual.md
-      - 2017/.keep
       - 2021/.keep
       - 2021/Individual.md
       - 2021/Individual (CCA).md
@@ -18,3 +16,5 @@ collections:
       - 2018/.keep
       - 2018/Individual.md
       - 2018/Team.md
+      - 2017/.keep
+      - 2017/Individual.md

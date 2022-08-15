@@ -73,9 +73,7 @@ _Parents Resources:_ <br>
 [5 Love Languages of Children Presentation.pdf](/files/5%20Love%20Languages%20of%20Children%20Presentation.pdf) <br>
 [[Resources for Parents] Tool 1 Mood Meter.pdf](/files/Resources%20for%20Parents%20Tool%201%20Mood%20Meter.pdf) <br>
 [[Resources for Parents] Tool 2 Thinking Traps.pdf](/files/Resources%20for%20Parents%20Tool%202%20Thinking%20Traps.pdf) <br>
-[[Resources for Parents] Tool 3 WOOP.pdf](/files/Resources%20for%20Parents%20Tool%203%20WOOP.pdf)
-> [\[Resources for Parents\] Tool 4 Gratitude Habits.pdf](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/GEP/Parents%20Resources/Resources%20for%20Parents%20Tool%204%20Gratitude%20Habits.pdf)
-> 
-> [NurtureSG 5 Habit hacks.pdf](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/GEP/Parents%20Resources/NurtureSG%205%20Habit%20hacks.pdf)
-> 
-> [Resilience boosters.pdf](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/GEP/Parents%20Resources/Resilience%20boosters.pdf)
+[[Resources for Parents] Tool 3 WOOP.pdf](/files/Resources%20for%20Parents%20Tool%203%20WOOP.pdf) <br>
+[[Resources for Parents] Tool 4 Gratitude Habits.pdf](/files/Resources%20for%20Parents%20Tool%204%20Gratitude%20Habits.pdf) <br>
+[NurtureSG 5 Habit hacks.pdf](/files/NurtureSG%205%20Habit%20hacks.pdf) <br>
+[Resilience boosters.pdf](/files/Resilience%20boosters.pdf)

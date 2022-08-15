@@ -2,4 +2,5 @@ collections:
   for-p:
     output: true
     order:
+      - Curriculum Matters/Curriculum Briefing Slides.md
       - Curriculum Matters/.keep

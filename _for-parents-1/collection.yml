@@ -1,4 +1,5 @@
 collections:
   for-parents-1:
     output: true
-    order: []
+    order:
+      - Curriculum Matters/.keep

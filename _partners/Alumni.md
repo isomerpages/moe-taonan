@@ -3,7 +3,8 @@ title: Alumni
 permalink: /partners/alumni
 description: ""
 ---
-![](/images/img_alumni.jpeg)
+<img src="/images/img_alumni.jpeg" 
+     style="width:80%">
 [https://www.taonanalumni.org/index.html](https://www.taonanalumni.org/index.html) <br>
 Alumni Application Form:  [https://www.taonanalumni.org/memberjoinin.html](https://www.taonanalumni.org/memberjoinin.html) 
 

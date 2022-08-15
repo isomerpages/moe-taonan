@@ -49,45 +49,31 @@ third_nav_title: Curriculum Matters
 4. [2022 P5 Science Curriculum Information](/files/2022%20P5%20SC%20Curriculum%20Information.pdf)
 5. [2022 P5 Social Studies Curriculum Information](/files/2022%20P5%20SS%20Curriculum%20Information.pdf)
 6. [2022 P5 Art and Music Curriculum Information](/files/2022_P5P6_ArtMusic_Curriculum_Information.pdf)    
-7.  [2022 P5 PE Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%205/2022%20P5%20PE%20Curriculum%20Information.pdf)  
-    
+7. [2022 P5 PE Curriculum Information](/files/2022%20P5%20PE%20Curriculum%20Information.pdf)
 
-  
-
-**Primary 6**
-
-1.  [2022 P6 English Language Curriculum Info](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%206/2022%20P6%20EL%20Curriculum%20Information.pdf)
-2.  [2022 P6 Mathematics Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%206/2022%20P6%20MA%20Curriculum%20Information.pdf)
-3.  [2022 P6 Chinese Language Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%206/2022%20P6%20CL%20Curriculum%20Information.pdf)
-4.  [2022 P6 Science Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%206/2022%20P6%20SC%20Curriculum%20Information.pdf)
-5.  [2022 P6 Social Studies Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%206/2022%20P6%20SS%20Curriculum%20Information.pdf)  
-    
-6.  [2022 P6 Art and Music Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%206/2022_P5P6_ArtMusic_Curriculum_Information.pdf)  
-    
-7.  [2022 P6 PE Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%206/2022%20P6%20PE%20Curriculum%20Information.pdf)  
-    
-8.  [Changes to the PSLE Scoring & S1 Posting from 2021](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/PSLE%202022_Parent%20Engagement.pdf)  (Updated)
-    
-9.  [MOE Subject Based-Banding (EL Version)](https://taonan.moe.edu.sg/qql/slot/u182/pdf/parents/downloads/school_circulars/curriculum_briefings/P6/1.%20MOE_SBB_ENG_revised%201%20Mar%202018.pdf)
-10.  [MOE Subject Based-Banding (CL Version)](https://taonan.moe.edu.sg/qql/slot/u182/pdf/parents/downloads/school_circulars/curriculum_briefings/P6/2.%20MOE_SBB_CHI_revised%201%20Mar%202018.pdf)  
+<u><strong> Primary 6 </strong></u>
+1. [2022 P6 English Language Curriculum Info](/files/2022%20P6%20EL%20Curriculum%20Information.pdf)
+2. [2022 P6 Mathematics Curriculum Information](/files/2022%20P6%20MA%20Curriculum%20Information.pdf)
+3. [2022 P6 Chinese Language Curriculum Information](/files/2022%20P6%20CL%20Curriculum%20Information.pdf)
+4. [2022 P6 Science Curriculum Information](/files/2022%20P6%20SC%20Curriculum%20Information.pdf)
+5. [2022 P6 Social Studies Curriculum Information](/files/2022%20P6%20SS%20Curriculum%20Information.pdf)
+6. [2022 P6 Art and Music Curriculum Information](/files/2022_P5P6_ArtMusic_Curriculum_Information%20(1).pdf)
+7. [2022 P6 PE Curriculum Information](/files/2022%20P6%20PE%20Curriculum%20Information.pdf)
+8. [Changes to the PSLE Scoring & S1 Posting from 2021](/files/PSLE%202022_Parent%20Engagement.pdf) (Updated)
+9. [MOE Subject Based-Banding (EL Version)](/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf)
+10. [MOE Subject Based-Banding (CL Version)](/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf)
       
-    
-  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lNbr5rLSxAM?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-\----------------------------------------------------------------------------
+<br> 
 
-  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WOi1eoSiLMs?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> _Parents Resources:_
-> 
-> [5 Love Languages of Children Presentation.pdf](https://taonan-moe-edu-sg-admin.cwp.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/GEP/5%20Love%20Languages%20of%20Children%20Presentation.pdf)  
-> 
-> [\[Resources for Parents\] Tool 1 Mood Meter.pdf](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/GEP/Parents%20Resources/Resources%20for%20Parents%20Tool%201%20Mood%20Meter.pdf)
-> 
-> [\[Resources for Parents\] Tool 2 Thinking Traps.pdf](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/GEP/Parents%20Resources/Resources%20for%20Parents%20Tool%202%20Thinking%20Traps.pdf)
-> 
-> [\[Resources for Parents\] Tool 3 WOOP.pdf](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/GEP/Parents%20Resources/Resources%20for%20Parents%20Tool%203%20WOOP.pdf)
-> 
+_Parents Resources:_ <br>
+[5 Love Languages of Children Presentation.pdf](/files/5%20Love%20Languages%20of%20Children%20Presentation.pdf) <br>
+[[Resources for Parents] Tool 1 Mood Meter.pdf](/files/Resources%20for%20Parents%20Tool%201%20Mood%20Meter.pdf) <br>
+[[Resources for Parents] Tool 2 Thinking Traps.pdf](/files/Resources%20for%20Parents%20Tool%202%20Thinking%20Traps.pdf) <br>
+[[Resources for Parents] Tool 3 WOOP.pdf](/files/Resources%20for%20Parents%20Tool%203%20WOOP.pdf)
 > [\[Resources for Parents\] Tool 4 Gratitude Habits.pdf](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/GEP/Parents%20Resources/Resources%20for%20Parents%20Tool%204%20Gratitude%20Habits.pdf)
 > 
 > [NurtureSG 5 Habit hacks.pdf](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/GEP/Parents%20Resources/NurtureSG%205%20Habit%20hacks.pdf)

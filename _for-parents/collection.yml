@@ -1,5 +1,5 @@
 collections:
-  for-p:
+  for-parents:
     output: true
     order:
       - Curriculum Matters/Curriculum Briefing Slides.md

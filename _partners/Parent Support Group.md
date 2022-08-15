@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/taonan.jpg)
 
-![](/images/2020%20PSG%20photo.jpg)
+![](/images/img_psgPhoto.png)
 
 Passionate parents from the Tao Nan School (TNS) Parents Support Group (PSG) collaborate with the school to play a supportive role. TNS PSG endeavours to be the channel for the school and the parents to come together, to make Tao Nan a better place for our children.
 

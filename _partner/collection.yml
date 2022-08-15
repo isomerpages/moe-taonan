@@ -1,8 +1,0 @@
-collections:
-  partner:
-    output: true
-    order:
-      - Parent Support Group.md
-      - Alumni.md
-      - For Parents/Curriculum Matters.md
-      - For Parents/.keep

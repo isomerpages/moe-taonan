@@ -49,8 +49,8 @@ third_nav_title: Curriculum Matters
 1. [2022 P5 English Language Curriculum Info](/files/2022%20P5%20EL%20Curriculum%20Information.pdf)
 2. [2022 P5 Mathematics Curriculum Information](/files/2022%20P5%20MA%20Curriculum%20Information.pdf)
 3. [2022 P5 Chinese Language Curriculum Information](/files/2022%20P5%20CL%20Curriculum%20Information.pdf)
-4.  [2022 P5 Science Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%205/2022%20P5%20SC%20Curriculum%20Information.pdf)
-5.  [2022 P5 Social Studies Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%205/2022%20P5%20SS%20Curriculum%20Information.pdf)  
+4. [2022 P5 Science Curriculum Information](/files/2022%20P5%20SC%20Curriculum%20Information.pdf)
+5. [2022 P5 Social Studies Curriculum Information](/files/2022%20P5%20SS%20Curriculum%20Information.pdf)
     
 6.  [2022 P5 Art and Music Curriculum Information](https://taonan.moe.edu.sg/qql/slot/u182/2021/Stakeholders/Parents/Home-School%20Partnership/Curriculum%20Briefings/Pri%205/2022_P5P6_ArtMusic_Curriculum_Information.pdf)  
     

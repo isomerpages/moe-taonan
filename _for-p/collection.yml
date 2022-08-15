@@ -1,4 +1,5 @@
 collections:
   for-p:
     output: true
-    order: []
+    order:
+      - Curriculum Matters/.keep

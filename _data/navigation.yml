@@ -14,3 +14,12 @@ links:
     collection: achievements
   - title: Partners
     collection: partners
+  - title: Partners
+    url: /partners/parent-support-group
+    sublinks:
+      - title: Parent Support Group
+        url: /partners/parent-support-group
+      - title: Alumni
+        url: /partners/alumni
+      - title: For Parents
+        url: /partners/for-parents/curriculum-matters/curriculum-briefing-slides/

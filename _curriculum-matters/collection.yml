@@ -2,5 +2,5 @@ collections:
   curriculum-matters:
     output: true
     order:
-      - Booklists.md
       - Curriculum Briefing Slides.md
+      - Booklists.md

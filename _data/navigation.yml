@@ -12,3 +12,12 @@ links:
     collection: ccas
   - title: Achievements
     collection: achievements
+  - title: Partners
+    url: /partners
+    sublinks:
+      - title: Parent Support Group
+        url: /partners/parent-support-group
+      - title: Alumni
+        url: /partners/alumni
+      - title: For Parents
+        url: /partners/for-parents

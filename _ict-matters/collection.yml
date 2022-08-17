@@ -2,4 +2,5 @@ collections:
   ict-matters:
     output: true
     order:
+      - Cyberwellness.md
       - Student Portals.md

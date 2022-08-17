@@ -18,6 +18,11 @@ description: ""
 * [Edition 1 (PDF Version)](/files/Parents-Newsletter-Edition-1.pdf)
 * [Edition 2 (PDF Version)](/files/Parents-Newsletter-Edition-2.pdf)
 
+<br>
+<br>
+<br>
+<br>
+
 ### Help, my child isn’t ready for Primary 1!
 
 <div>  
@@ -29,6 +34,11 @@ description: ""
 </div>
 
 * [Help, my child isn't ready for Primary 1!](/files/transition-to-primary-one---tips-for-parents.pdf)
+
+<br>
+<br>
+<br>
+<br>
 
 ### A new school season begins
 

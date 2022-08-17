@@ -3,7 +3,7 @@ title: Parental Tip
 permalink: /partners/for-parents/character-and-well-being/parental-tip
 description: ""
 ---
-### Keeping Children Healthy
+#### Keeping Children Healthy
 
 <div>  
 <div style="float: left">  
@@ -23,7 +23,7 @@ description: ""
 <br>
 <br>
 
-### Help, my child isn’t ready for Primary 1!
+#### Help, my child isn’t ready for Primary 1!
 
 <div>  
 <div style="float: left">  
@@ -38,9 +38,8 @@ description: ""
 <br>
 <br>
 <br>
-<br>
 
-### A new school season begins
+#### A new school season begins
 
 <div>  
 <div style="float: left">  

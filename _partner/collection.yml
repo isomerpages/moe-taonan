@@ -1,5 +1,5 @@
 collections:
-  partners:
+  partner:
     output: true
     order:
       - Parent Support Group.md

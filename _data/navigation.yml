@@ -13,7 +13,7 @@ links:
   - title: Achievements
     collection: achievements
   - title: Partners
-    url: /partners
+    url: /partners/parent-support-group
     sublinks:
       - title: Parent Support Group
         url: /partners/parent-support-group

@@ -1,7 +1,0 @@
-collections:
-  for-parents:
-    output: true
-    order:
-      - Curriculum Matters/.keep
-      - Curriculum Matters/Curriculum Briefing Slides.md
-      - Curriculum Matters/Booklists.md

@@ -2,5 +2,4 @@ collections:
   ict-matters:
     output: true
     order:
-      - Cyberwellness.md
       - Home Based Learning.md

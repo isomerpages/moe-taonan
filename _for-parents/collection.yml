@@ -2,10 +2,10 @@ collections:
   for-parents:
     output: true
     order:
-      - ICT Matters/.keep
       - Curriculum Matters/.keep
       - Curriculum Matters/Curriculum Briefing Slides.md
       - Curriculum Matters/Booklists.md
       - Character and Well Being/.keep
       - Character and Well Being/Parental Tip.md
       - Character and Well Being/MySkillsFuture.md
+      - ICT Matters/.keep

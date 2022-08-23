@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - School Gate Opening Hours.md
       - Curriculum Matters/.keep
       - Curriculum Matters/Curriculum Briefing Slides.md
       - Curriculum Matters/Booklists.md
@@ -13,3 +12,4 @@ collections:
       - ICT Matters/Student Portals.md
       - ICT Matters/Cyberwellness.md
       - ICT Matters/Home Based Learning.md
+      - School Gate Opening Hours.md

@@ -2,5 +2,4 @@ collections:
   character-and-well-being:
     output: true
     order:
-      - Parental Tip.md
       - MySkillsFuture.md

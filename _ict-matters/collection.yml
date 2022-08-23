@@ -2,6 +2,5 @@ collections:
   ict-matters:
     output: true
     order:
-      - Student Portals.md
       - Cyberwellness.md
       - Home Based Learning.md

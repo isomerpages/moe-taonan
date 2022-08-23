@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Character and Well Being/.keep
       - Curriculum Matters/.keep
       - Curriculum Matters/Curriculum Briefing Slides.md
       - Curriculum Matters/Booklists.md

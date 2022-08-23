@@ -1,5 +1,0 @@
-collections:
-  character-and-well-being:
-    output: true
-    order:
-      - MySkillsFuture.md

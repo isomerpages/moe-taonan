@@ -2,9 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Character and Well Being/.keep
-      - Character and Well Being/Parental Tip.md
-      - Character and Well Being/MySkillsFuture.md
       - ICT Matters/.keep
       - ICT Matters/Student Portals.md
       - ICT Matters/Cyberwellness.md

@@ -28,6 +28,6 @@ third_nav_title: For Parents
 ### Parents Gateway Onboarding Guide
 
 <img src="/images/PG%20Onboarding%20Guide.jpg"
-    style="width:75%">
+    style="width:60%">
 
 * [Parents Gateway Onboarding Guide (PDF Version)](/files/For%20P1%20Parents%20not%20onboard%20PG%20-%20Onboarding%20and%20Class%20Allocation%20Guide.pdf)

@@ -1,4 +1,5 @@
 collections:
   curriculum-matters:
     output: true
-    order: []
+    order:
+      - Curriculum Briefing Slides.md

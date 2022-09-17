@@ -22,6 +22,8 @@ third_nav_title: For Parents
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ### Parents Gateway Onboarding Guide
 

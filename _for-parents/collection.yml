@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Curriculum Matters/.keep
-      - Curriculum Matters/Booklists.md
       - Character and Well Being/.keep
       - Character and Well Being/Parental Tip.md
       - Character and Well Being/MySkillsFuture.md

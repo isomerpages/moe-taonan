@@ -1,4 +1,5 @@
 collections:
   character-and-well-being:
     output: true
-    order: []
+    order:
+      - Parental Tip.md

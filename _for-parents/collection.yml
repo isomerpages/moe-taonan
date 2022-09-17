@@ -1,8 +1,0 @@
-collections:
-  for-parents:
-    output: true
-    order:
-      - ICT Matters/.keep
-      - ICT Matters/Student Portals.md
-      - ICT Matters/Cyberwellness.md
-      - ICT Matters/Home Based Learning.md

@@ -1,5 +1,0 @@
-collections:
-  admin-and-finance:
-    output: true
-    order:
-      - Forms.md

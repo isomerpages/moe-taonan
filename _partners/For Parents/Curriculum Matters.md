@@ -7,6 +7,10 @@ third_nav_title: For Parents
 ### Curriculum Matters
 * [Curriculum Briefing Slides](#CurriculumBriefingSlides)
 * [Booklists](#Booklists)
+* [TNS Library Catalogue](https://schoolibrary.moe.edu.sg/taonan/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+* [PSLE Scoring System](https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html)
+* [DSA-Sec Matters](https://www.moe.gov.sg/secondary/dsa)
+* [Sec 1 Posting](https://www.moe.gov.sg/secondary/s1-posting)
 
 ### <a name="CurriculumBriefingSlides"></a>Curriculum Briefing Slides
 
@@ -102,4 +106,3 @@ Click to download:
 *   [2022 GEP6 Booklist](https://taonan.moe.edu.sg/qql/slot/u182/2021/PDF/Stakeholders/Vendors/Booklist/Primary%206%20GEP.pdf)
 
 --------------
-

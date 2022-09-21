@@ -4,6 +4,7 @@ permalink: /partners/for-parents/curriculum-matters/curriculum-briefing-slides/
 description: ""
 third_nav_title: For Parents
 ---
+### Curriculum Matters
 * [Curriculum Briefing Slides](#CurriculumBriefingSlides) 
 
 ### <a name="CurriculumBriefingSlides"></a>Curriculum Briefing Slides
@@ -81,4 +82,3 @@ _Parents Resources:_ <br>
 [Resilience boosters.pdf](/files/Resilience%20boosters.pdf)
 
 ---------------
-

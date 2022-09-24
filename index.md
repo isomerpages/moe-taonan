@@ -32,5 +32,5 @@ sections:
       description: Dear Parents/ Guardian, please click below for the 2022 Curriculum
         Briefing Slides.  Thank you.
       button: Click here for slides
-      url: https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/curriculum-matters
+      url: https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/curriculum-matters/
 ---

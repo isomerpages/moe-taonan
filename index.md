@@ -26,4 +26,11 @@ sections:
       url: https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/school-home-partnership/
       image: /images/MOE Guidelines for scool home partnership.jpg
       alt: Image alt text
+  - infobar:
+      title: 2022 Curriculum Briefing Slides
+      subtitle: "ANNOUNCEMENT:"
+      description: Dear Parents/ Guardian, please click below for the 2022 Curriculum
+        Briefing Slides.  Thank you.
+      button: Click here for slides
+      url: https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/curriculum-matters
 ---

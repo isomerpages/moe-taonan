@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: Quick Links
           description: Click to view
-          url: /quick-links
+          url: https://staging.d27rdzq3nz64km.amplifyapp.com/heritage/quick-links
   - infopic:
       title: School Home Partnership Resources
       subtitle: "ANNOUNCEMENT:"

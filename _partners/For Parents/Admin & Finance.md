@@ -8,6 +8,7 @@ third_nav_title: For Parents
 * [Forms](#Forms)
 * [P1 Registration](#P1Registration)
 	* [Procedures](#Procedures)
+	* [PastYears'Statistics](#PastYears'Statistics)
 
 ### <a name="Forms"></a>Forms
 
@@ -24,7 +25,7 @@ third_nav_title: For Parents
 
 ### <a name="P1Registration"></a>P1 Registration
 
-##### <a name="Procedures"></a>Procedures
+#### <a name="Procedures"></a>Procedures
 
 <u><strong>Primary 1 (P1) Registration Procedures</strong></u><br>
 Please refer to Ministry of Education’s (MOE) website at&nbsp;[https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration)&nbsp;for the registration phases and key dates.
@@ -76,3 +77,5 @@ c.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Documents for using the address of a resale pro
 **Note:&nbsp;You must move into the registered resale property by 2 January of your child's P1 admission year.**
 
 Please contact the school’s General Office via phone at 6442 8307 or via email at&nbsp;[taonan\_sch@moe.edu.sg](mailto:taonan_sch@moe.edu.sg)&nbsp;if you require further assistance. We seek your understanding that during the peak Primary 1 Registration period, we may not be able to get back to you on your enquiry immediately due to the large number of enquiries anticipated. Thank you.
+
+#### <a name="PastYears'Statistics"></a>Past Years' Statistics

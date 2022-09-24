@@ -8,8 +8,9 @@ third_nav_title: For Parents
 * [Parental Tip](#ParentalTip)
 * [MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/primary/education-guide/education-landscape.html)
 
-### <a name="ParentalTip"></a>Parental Tip
+----------------
 
+### <a name="ParentalTip"></a>Parental Tip
 
 **Keeping Children Healthy**
 

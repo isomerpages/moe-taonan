@@ -4,7 +4,7 @@ permalink: /partners/for-parents/ict-matters/
 description: ""
 third_nav_title: For Parents
 ---
-### ICT Matters
+### ICT Matters <a name="backtotop"></a>backtotop
 * [Student Portals](#StudentPortals)
 * [Cyberwellness](#Cyberwellness)
 * [Home-Based Learning](#Home-BasedLearning)
@@ -22,6 +22,7 @@ third_nav_title: For Parents
 ------------
 
 ### <a name="Cyberwellness"></a>Cyberwellness
+[Back to top](#backtotop)
 
 ### What is Cyber Wellness?
 Cyber Wellness (CW) in Character and Citizenship Education (CCE) focuses on the well-being of our students as they navigate cyberspace. Our curriculum aims to equip students with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace and be safe and responsible users of ICT.  

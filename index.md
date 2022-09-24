@@ -23,7 +23,7 @@ sections:
       description: "Dear Parents/Guardian,  click below to find out more on the School
         Home Partnership Resources.  "
       button: CLICK FOR SLIDES
-      url: https://taonan.moe.edu.sg/partners/for-parents/school-home-partnership
+      url: https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/school-home-partnership/
       image: /images/MOE Guidelines for scool home partnership.jpg
       alt: Image alt text
 ---

@@ -4,7 +4,7 @@ permalink: /partners/for-parents/ict-matters/
 description: ""
 third_nav_title: For Parents
 ---
-### ICT Matters <a name="backtotop"></a>backtotop
+### ICT Matters <a name="backtotop">
 * [Student Portals](#StudentPortals)
 * [Cyberwellness](#Cyberwellness)
 * [Home-Based Learning](#Home-BasedLearning)

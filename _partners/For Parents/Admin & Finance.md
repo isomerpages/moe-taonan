@@ -9,6 +9,7 @@ third_nav_title: For Parents
 * [P1 Registration](#P1Registration)
 	* [Procedures](#Procedures)
 	* [Past Years' Statistics](#PastYears'Statistics)
+	* [Parent Volunteering](#ParentVolunteering)
 
 ### <a name="Forms"></a>Forms
 
@@ -103,3 +104,9 @@ Please contact the school’s General Office via phone at 6442 8307 or via email
 |  |  360 | 361 | 360 | 360 | 360 |
 |  | (12 Primary 1 classes) | (12 Primary 1 classes) | (12 Primary 1 classes) | (12 Primary 1 classes) | (12 Primary 1 classes) |
 | | | | | | |
+
+#### <a name="ParentVolunteering"></a>Parent Volunteering
+
+Tao Nan School does not recruit parent volunteers under Phase 2B of the Primary 1 (P1) Registration Exercise due to the immense support received from our Parent Support Group, Tao Nan Alumni Association, and the Singapore Hokkien Huay Kuan for our various school activities &amp; programmes.
+
+Please refer to MOE’s website at&nbsp;[https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration)&nbsp;for more information on P1 registration and the eligibility criteria for the different phases.

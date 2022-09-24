@@ -4,7 +4,7 @@ permalink: /partners/for-parents/admin-n-finance/forms/
 description: ""
 third_nav_title: For Parents
 ---
-### Admin &amp; Finance
+### Admin &amp; Finance <a name="backtotop">
 * [Forms](#Forms)
 * [P1 Registration](#P1Registration)
 	* [Procedures](#Procedures)
@@ -13,7 +13,8 @@ third_nav_title: For Parents
 
 ---------------------
 
-### <a name="Forms"></a>Forms
+### </a><a name="Forms"></a>Forms
+[Back to top](#backtotop)
 
 **Student Matters**
 * [2023 Waiting List Form](https://go.gov.sg/2023-waiting-list)
@@ -27,7 +28,8 @@ third_nav_title: For Parents
 -----------------------
 
 ### <a name="P1Registration"></a>P1 Registration
-
+[Back to top](#backtotop)
+	
 #### <a name="Procedures"></a>Procedures
 
 <u><strong>Primary 1 (P1) Registration Procedures</strong></u><br>
@@ -82,7 +84,8 @@ c.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Documents for using the address of a resale pro
 Please contact the school’s General Office via phone at 6442 8307 or via email at [taonan\_sch@moe.edu.sg](mailto:taonan_sch@moe.edu.sg) if you require further assistance. We seek your understanding that during the peak Primary 1 Registration period, we may not be able to get back to you on your enquiry immediately due to the large number of enquiries anticipated. Thank you.
 
 #### <a name="PastYears'Statistics"></a>Past Years' Statistics
-
+[Back to top](#backtotop)
+	
 | Phase | 2021  | 2020 | 2019 | 2018 | 2017 |
 |---|---|---|---|---|---|
 | Phase 1 | 174 | 170 | 158 | 161 | 153 |
@@ -108,7 +111,8 @@ Please contact the school’s General Office via phone at 6442 8307 or via email
 | | | | | | |
 
 #### <a name="ParentVolunteering"></a>Parent Volunteering
-
+[Back to top](#backtotop)
+	
 Tao Nan School does not recruit parent volunteers under Phase 2B of the Primary 1 (P1) Registration Exercise due to the immense support received from our Parent Support Group, Tao Nan Alumni Association, and the Singapore Hokkien Huay Kuan for our various school activities &amp; programmes.
 
 Please refer to MOE’s website at&nbsp;[https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration)&nbsp;for more information on P1 registration and the eligibility criteria for the different phases.

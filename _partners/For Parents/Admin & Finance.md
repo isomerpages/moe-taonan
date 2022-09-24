@@ -10,8 +10,8 @@ third_nav_title: For Parents
 ### <a name="Forms"></a>Forms
 
 **Student Matters**
-*   [2023 Waiting List Form](https://go.gov.sg/2023-waiting-list)
-*   [2023 Leave of Absence Form](https://go.gov.sg/2023-leave-of-absence)
+* [2023 Waiting List Form](https://go.gov.sg/2023-waiting-list)
+* [2023 Leave of Absence Form](https://go.gov.sg/2023-leave-of-absence)
 
 **Finance**
 * [Application for Interbank GIRO for Payment and Refund of Fees, Enrichment Programmes&nbsp;and Charges](/files/giro_application_form_oct21.pdf)

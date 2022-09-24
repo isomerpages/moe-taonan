@@ -1,20 +1,15 @@
 ---
 title: Learning for Life Programme (LLP)
-permalink: /distinctive-programmes/learning-for-life-programme-llp
+permalink: /distinctive-programmes/learning-for-life-programme-llp/
 description: ""
 ---
 <strong><u><i> E N R I C H @ T N S </i></u></strong>
 
-**E** xperiential learning in Sports in a  
-
-**N** urturing environment that inculcates values of
-
-**R** espect, Resilience, Responsibility
-
-**I** ntegrity
-
-**C** are
-
+**E** xperiential learning in Sports in a  <br>
+**N** urturing environment that inculcates values of <br>
+**R** espect, Resilience, Responsibility <br>
+**I** ntegrity <br>
+**C** are <br>
 **H** armony
 
 ENRICH@TNS aims to create more opportunities for students to develop a passion for sports. The programme will lay a strong foundation for the holistic development of students for a lifelong pursuit to lead a physically active and healthy lifestyle. Learning in a nurturing environment, students have the opportunities to learn and display the 21st Century Competencies (21CC), social emotional competencies and school core values.

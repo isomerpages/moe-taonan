@@ -33,4 +33,12 @@ sections:
         Briefing Slides.  Thank you.
       button: Click here for slides
       url: https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/curriculum-matters/
+  - infobar:
+      title: School Dental Clinic Operating Hours & Contact Number
+      subtitle: ANNOUNCEMENT
+      description: Dear Parents/ Guardian,  Please call the Dental Clinic @ 9113 0363
+        for school holiday opening hours and appointments. Walk-ins are
+        discouraged.
+      button: Click here if you would like to know the School Term operating hours
+      url: https://taonan.moe.edu.sg/partners/for-parents/school-service-providers
 ---

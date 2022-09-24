@@ -2,7 +2,6 @@ collections:
   heritage:
     output: true
     order:
-      - Contact Us.md
       - Principal's Message.md
       - Financial and Non Financial Information.md
       - History/.keep
@@ -18,3 +17,4 @@ collections:
       - School Song.md
       - School Rules.md
       - Quick Links.md
+      - Contact Us.md

@@ -32,8 +32,8 @@ description: ""
 
 ### Parents
 
-* [Booklists](https://taonan.moe.edu.sg/partners/for-parents/curriculum-matters/booklists)
-* [Curriculum Briefings](https://taonan.moe.edu.sg/partners/for-parents/curriculum-matters/curriculum-briefing-slides)
-* [Cyberwellness Tips](https://taonan.moe.edu.sg/partners/for-parents/ict-matters/cyberwellness)
-* [Forms (Student Matters and Finance)](https://taonan.moe.edu.sg/partners/for-parents/admin-n-finance/forms)
-* [School-Home Partnership Resources](https://taonan.moe.edu.sg/partners/for-parents/school-home-partnership)
+* [Booklists](https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/curriculum-matters/)
+* [Curriculum Briefings](https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/curriculum-matters/)
+* [Cyberwellness Tips](https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/ict-matters/)
+* [Forms (Student Matters and Finance)](https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/admin-n-finance/forms/)
+* [School-Home Partnership Resources](https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/school-home-partnership/)

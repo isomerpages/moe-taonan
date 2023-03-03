@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/taonanezgif.gif
       key_highlights:
-        - title: Quick Links
-          description: Click to view
-          url: https://staging.d27rdzq3nz64km.amplifyapp.com/heritage/quick-links
         - title: Announcement
           description: Click to view
           url: ""
         - title: Contact Us
           description: Click to view
           url: ""
+        - title: Quick Links
+          description: Click to view
+          url: https://staging.d27rdzq3nz64km.amplifyapp.com/heritage/quick-links
   - infopic:
       title: School Home Partnership Resources
       subtitle: "ANNOUNCEMENT:"

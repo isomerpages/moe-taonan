@@ -2,7 +2,7 @@ collections:
   achievements:
     output: true
     order:
-      - School Awards.md
+      - 学校殊荣 School Awards.md
       - Current Achievements/.keep
       - Current Achievements/Individual.md
       - Current Achievements/Individual (CCA).md

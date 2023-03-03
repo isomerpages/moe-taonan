@@ -2,7 +2,7 @@ collections:
   heritage:
     output: true
     order:
-      - Principal's Message.md
+      - 校长献词 Principal's Message.md
       - Financial and Non Financial Information.md
       - History/.keep
       - History/1906 to 1909.md

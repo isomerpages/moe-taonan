@@ -7,12 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Tao Nan School
-      subtitle: To nurture innovative pupils of exemplary character with a love for
-        learning
       background: /images/taonanezgif.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Quick Links
           description: Click to view

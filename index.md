@@ -15,6 +15,9 @@ sections:
         - title: Announcement
           description: Click to view
           url: ""
+        - title: Contact Us
+          description: Click to view
+          url: ""
   - infopic:
       title: School Home Partnership Resources
       subtitle: "ANNOUNCEMENT:"

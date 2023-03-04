@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 社团与协会 Clubs and Societies/.keep
-      - 社团与协会 Clubs and Societies/华艺会简介 Chinese Culture and Language.md
       - 社团与协会 Clubs and Societies/国际象棋 International Chess.md
       - 社团与协会 Clubs and Societies/图书馆 Media Resource Library.md
       - 社团与协会 Clubs and Societies/Physical Science.md

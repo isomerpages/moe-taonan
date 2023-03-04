@@ -2,6 +2,7 @@ collections:
   heritage:
     output: true
     order:
+      - School Management Committee (Singapore Hokkien Huay Kuan).md
       - 校长献词 Principal's Message.md
       - 财务和非财务信息 Financial and Non Financial Information.md
       - 追本溯源 History/.keep

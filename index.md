@@ -14,10 +14,10 @@ sections:
           url: ""
         - title: Contact Us
           description: Click to view
-          url: ""
+          url: https://staging.d27rdzq3nz64km.amplifyapp.com/contact-us/
         - title: Quick Links
           description: Click to view
-          url: https://staging.d27rdzq3nz64km.amplifyapp.com/heritage/quick-links
+          url: https://staging.d27rdzq3nz64km.amplifyapp.com/quicklinks/
   - infopic:
       title: School Home Partnership Resources
       subtitle: "ANNOUNCEMENT:"

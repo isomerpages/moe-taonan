@@ -18,6 +18,4 @@ sections:
         - title: Quick Links
           description: Click to view
           url: https://staging.d27rdzq3nz64km.amplifyapp.com/quicklinks/
-  - infopic:
-      image: /images/MOE Guidelines for scool home partnership.jpg
 ---

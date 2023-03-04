@@ -2,7 +2,7 @@ collections:
   partners:
     output: true
     order:
-      - Parent Support Group.md
+      - 家长会 Parent Support Group.md
       - Alumni.md
       - For Parents/For Parents.md
       - For Parents/.keep

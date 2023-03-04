@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: Click to view
-          url: ""
+          url: https://staging.d27rdzq3nz64km.amplifyapp.com/announcement/
         - title: Contact Us
           description: Click to view
           url: https://staging.d27rdzq3nz64km.amplifyapp.com/contact-us/

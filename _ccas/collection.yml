@@ -2,11 +2,11 @@ collections:
   ccas:
     output: true
     order:
-      - Clubs and Societies/.keep
-      - Clubs and Societies/华艺会简介 Chinese Culture and Language.md
-      - Clubs and Societies/International Chess.md
-      - Clubs and Societies/Media Resource Library.md
-      - Clubs and Societies/Physical Science.md
+      - 社团与协会 Clubs and Societies/.keep
+      - 社团与协会 Clubs and Societies/华艺会简介 Chinese Culture and Language.md
+      - 社团与协会 Clubs and Societies/International Chess.md
+      - 社团与协会 Clubs and Societies/Media Resource Library.md
+      - 社团与协会 Clubs and Societies/Physical Science.md
       - Physical Sports/.keep
       - Physical Sports/Badminton.md
       - Physical Sports/Basketball.md

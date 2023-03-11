@@ -58,7 +58,7 @@ The entire crest signifies the acquisition of abundant knowledge and the trainin
 
 <br>
 
-**Sincerity & Perseverance 诚毅**
+**诚毅 Sincerity & Perseverance**
 
 **以诚待人**
 

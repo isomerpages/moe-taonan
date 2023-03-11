@@ -3,7 +3,6 @@ title: 愿景和使命 Vision and Mission
 permalink: /heritage/vision-and-mission/
 description: ""
 ---
-
 <div>
 <div style="float: left">
 <img src="/images/vision_header_1.jpg" 
@@ -15,6 +14,19 @@ description: ""
 
 <br>
 
+爱学习 学会爱
+
+  
+
+*    爱学习
+
+学生对学习充满热忱，能自主学习。他们是终身学习者，具备知识、技能、正确的价值观和积极的态度去迎接未来的挑战。
+
+  
+
+*   学会爱
+
+学生懂得关爱自身、家人、社会、国家及周遭的人事物。他们以德为先，弘扬文化，同时不忘饮水思源、服务社会。
 Love to learn & Learn to Love 爱学习 学会爱
 
 * Love to Learn <br>

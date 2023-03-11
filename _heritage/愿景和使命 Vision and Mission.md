@@ -79,8 +79,8 @@ We will espouse the school core values and are committed to the holistic develop
 #### 我们追求的教育成果 Our Desired Outcomes of Education
 ####
 我们希望道南的学生能成为：
-* Self-Directed Learner 自我学习的人才
-* Confident Person 有自信心的人才
-* Active Contributor 贡献社会的人才
-* Concerned Citizen 关怀国家的人才
-* Bicultural Individual 具双文化的人才
+* Self-Directed Learner    自主学习的人
+* Confident Person    满怀信心的人
+* Active Contributor    造福社稷的人
+* Concerned Citizen    心怀祖国的人
+* Bicultural Individual  双语双文化人

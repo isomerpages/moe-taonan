@@ -74,19 +74,10 @@ We will espouse the school core values and are committed to the holistic develop
 * Inculcating the school core values of respect, responsibility, integrity, sincerity, love and perseverance
 * Developing effectively bilingual pupils with a deep pride in and an appreciation for Chinese culture desired outcomes of education
 
-<br>
 
-<div>
-<div style="float: left">
-<img src="/images/vision_header_3.jpg" 
-     style="width:80%">
-</div>
-<div>
-</div>
-</div>
 
-<br>
-
+#### 我们追求的教育成果 Our Desired Outcomes of Education
+####
 我们希望道南的学生能成为：
 * Self-Directed Learner 自我学习的人才
 * Confident Person 有自信心的人才

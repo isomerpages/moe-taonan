@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/taonanezgif.gif
       key_highlights:
-        - title: Announcement
+        - title: Announcements
           description: Click to view
           url: https://staging.d27rdzq3nz64km.amplifyapp.com/announcement/
         - title: Contact Us

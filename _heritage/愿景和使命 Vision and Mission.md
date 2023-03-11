@@ -48,9 +48,23 @@ Our pupils care for self, family, community, nation and the environment. They ar
 
 <br>
 
+培养品格高尚、好学不倦、并富有创意的学生
+
+  
+
+道南学校以核心价值观为引领，为学生提供全方位的发展：
+
+  
+
+*   造就独立自主并追求卓越的学习者
+*   培育具有创新精神和热爱学习的优秀毕业生
+*   栽培满怀信自且处事坚韧的领导者，让他们具备良好的品德和爱国爱校的精神
+*   灌输学校的核心价值观：仁爱、尊重、正直、诚恳、毅力、尽责
+*   培养精通双语，懂得欣赏中华文化并对它深感自豪的学生
+*   取得理想的教育成果
+
 To nurture innovative pupils of exemplary character with a love for learning
 
-培育品格高尚、好学不倦、并富有创意的学生
 
 We will espouse the school core values and are committed to the holistic development of our pupils:
 

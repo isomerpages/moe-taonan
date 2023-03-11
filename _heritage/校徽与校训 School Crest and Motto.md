@@ -3,7 +3,6 @@ title: 校徽与校训 School Crest and Motto
 permalink: /heritage/school-crest-and-motto/
 description: ""
 ---
-
 <div>
 <div style="float: left">
 <img src="/images/crest_header_1.jpg" 
@@ -28,6 +27,7 @@ description: ""
 <br>
 <br>
 <br>
+<br><br>
 
 狮子象征狮子城 - 我们的国家新加坡。<br>
 狮子具有刚强勇猛的特征。<br>

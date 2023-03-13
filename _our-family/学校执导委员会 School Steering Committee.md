@@ -27,8 +27,8 @@ description: ""
 | 16 | Mdm Tan Peng Gek | HOD - Chinese Language | tan_peng_gek@moe.edu.sg |
 | 17 | Mdm Wu Yun | LH - Chinese Language 1 | wu_yun@moe.edu.sg |
 | 18 | Miss Goh Lay Kian | LH - Chinese Language 2 | goh_lay_kian@moe.edu.sg |
-| 20 | Mdm Tai Chi Hui	 | LH - Chinese Language 3 (Internal) | tai_chi_hui@moe.edu.sg |
-| 21 | Mrs Tan Su Ling, Violet | SH - Gifted Education (GE) | tan_su_ling_violet@moe.edu.sg |
+| 19 | Mdm Tai Chi Hui	 | LH - Chinese Language 3 (Internal) | tai_chi_hui@moe.edu.sg |
+| 20 | Mrs Tan Su Ling, Violet | SH - Gifted Education (GE) | tan_su_ling_violet@moe.edu.sg |
 | 22 | Ms Neo Lay Peng | HOD - Physical Education (PE) | neo_lay_peng@moe.edu.sg |
 | 23 | Mr Ang Chee Yong | SH - Physical Education (PE) | ang_chee_yong_a@moe.edu.sg |
 | 24 | Mdm How Hooi Bing Tiffany | HOD - Aesthetics | how_hooi_bing@moe.edu.sg |

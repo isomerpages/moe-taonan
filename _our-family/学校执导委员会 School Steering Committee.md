@@ -15,10 +15,10 @@ description: ""
 | 5 | Mdm Phay Yuh-Shuang | Administration Manager (AM) | phay_yuh-shuang@schools.gov.sg |
 | 6 | Mdm Ding Ching Ching | Operations Manager (OM) | ding_ching_ching@moe.edu.sg
 | **Head-of-Department (HOD) & Level/Subject Head (LH/SH)** |  |  |  |
-| 8 | Miss Lam May Fong | HOD - English Language | lam_may_fong@moe.edu.sg |
-| 9 | Ms Charmaine Wong Seen May | LH - English Language 1 | wong_seen_may@moe.edu.sg |
-| 10 | Miss Chia Jie Wei | LH - English Language 2 (Internal) | chia_jie_wei@moe.edu.sg |
-| 11 | Miss Chee Siok Tuan Janice | HOD - Mathematics | chee_siok_tuan@moe.edu.sg |
+| 7 | Miss Lam May Fong | HOD - English Language | lam_may_fong@moe.edu.sg |
+| 8 | Ms Charmaine Wong Seen May | LH - English Language 1 | wong_seen_may@moe.edu.sg |
+| 9 | Miss Chia Jie Wei | LH - English Language 2 (Internal) | chia_jie_wei@moe.edu.sg |
+| 10 | Miss Chee Siok Tuan Janice | HOD - Mathematics | chee_siok_tuan@moe.edu.sg |
 | 12 | Mrs Francisca Tan | LH - Mathematics 1 | tan_sue_may_francisca@moe.edu.sg |
 | 13 | Mr Muhammad Yusuf Mirza B M A M | LH - Mathematics 2 (Internal) | muhammad_yusuf_mirza@moe.edu.sg |
 | 14 | Mdm Tan Seow Yun | HOD - Science | tan_seow_yun@moe.edu.sg |

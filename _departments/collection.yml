@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - English/Sunny Side Up.md
-      - English/英文 English.md
       - English/.keep
+      - English/英文 English.md
+      - English/Sunny Side Up.md
       - 美术 Art.md
       - 品德与公民教育Character & Citizenship/.keep
       - 品德与公民教育Character & Citizenship/品德与公民教育 Character and Citizenship

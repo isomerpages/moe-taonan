@@ -22,11 +22,11 @@ description: ""
 | 11 | Mrs Francisca Tan | LH - Mathematics 1 | tan_sue_may_francisca@moe.edu.sg |
 | 12 | Mr Muhammad Yusuf Mirza B M A M | LH - Mathematics 2 (Internal) | muhammad_yusuf_mirza@moe.edu.sg |
 | 13 | Mdm Tan Seow Yun | HOD - Science | tan_seow_yun@moe.edu.sg |
-| 15 | Mrs Esther Lim | LH - Science 1 | lian_wei_chuan_esther@moe.edu.sg |
-| 16 | Mrs Loh Shwu Hwa | LH - Science 2 | lin-loh_shwu_hwa@moe.edu.sg |
-| 17 | Mdm Tan Peng Gek | HOD - Chinese Language | tan_peng_gek@moe.edu.sg |
-| 18 | Mdm Wu Yun | LH - Chinese Language 1 | wu_yun@moe.edu.sg |
-| 19 | Miss Goh Lay Kian | LH - Chinese Language 2 | goh_lay_kian@moe.edu.sg |
+| 14 | Mrs Esther Lim | LH - Science 1 | lian_wei_chuan_esther@moe.edu.sg |
+| 15 | Mrs Loh Shwu Hwa | LH - Science 2 | lin-loh_shwu_hwa@moe.edu.sg |
+| 16 | Mdm Tan Peng Gek | HOD - Chinese Language | tan_peng_gek@moe.edu.sg |
+| 17 | Mdm Wu Yun | LH - Chinese Language 1 | wu_yun@moe.edu.sg |
+| 18 | Miss Goh Lay Kian | LH - Chinese Language 2 | goh_lay_kian@moe.edu.sg |
 | 20 | Mdm Choo Huiyun | HOD - Gifted Education (GE) (Covering) | choo_huiyun@moe.edu.sg |
 | 21 | Mrs Tan Su Ling, Violet | SH - Gifted Education (GE) | tan_su_ling_violet@moe.edu.sg |
 | 22 | Ms Neo Lay Peng | HOD - Physical Education (PE) | neo_lay_peng@moe.edu.sg |

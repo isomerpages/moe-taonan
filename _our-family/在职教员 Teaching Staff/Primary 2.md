@@ -291,4 +291,4 @@ third_nav_title: 在职教员 Teaching Staff
 </tbody>
 </table>
 
-**UPDATED ON 30 JUNE 2022**
+**Updated on 03 January 2023**  

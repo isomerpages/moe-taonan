@@ -3,7 +3,6 @@ title: 音乐 Music
 permalink: /departments/music/
 description: ""
 ---
-
 ### Vision / Mission
 
 **Vision** <br>
@@ -16,18 +15,16 @@ To provide an enriching environment where students can have fun learning music a
 
 ### Key Programmes / Activities
 
-**P1** <br>
-Chinese Instruments Appreciation during curriculum time
+**P1:** Playing of Xylophone and Chinese Instruments Appreciation during curriculum time
 
-**P2** <br>
-Chinese Instruments Appreciation and playing of Angklung during curriculum time
+**P2:** Playing of Angklung and Chinese Instruments Appreciation during curriculum time
 
-**P3** <br>
-Playing of Ukulele (Beginners) and Chinese Instruments Appreciation during curriculum time  
+**P3:** Playing of Ukulele (Beginners) and Chinese Instruments Appreciation during curriculum time
 
-**P4** <br>
-Playing of Ukulele (Intermediate) and Chinese Instruments Appreciation during curriculum time  
+**P4:** Playing of Ukulele (Intermediate) and Chinese Instruments Appreciation during curriculum time
+
+**P5:** Chinese Opera Programme during curriculum time
 
 **Talent Development Programmes:** <br>
-* TNS The Voice Competition <br>
-* TNS Busking by the Bay
+1.  TNS The Voice Competition
+2.  Aesthetics Week!

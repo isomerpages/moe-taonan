@@ -118,10 +118,12 @@ b.  Character and Citizenship Education (CCE)
 
 ##### INFORMATION FOR PARENTS
 
-8) Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.  
+8.  Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-9) Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form can be accessed [here](https://go.gov.sg/tnssexualityedu2022) and is to be submitted by **28/01/2022**.
+  
 
-10) Parents can contact the school at 64428307 or Mrs Lorraine Alcantra at [lorraine\_anne\_alcantra@moe.edu.sg](mailto:lorraine_anne_alcantra@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be issued to parents at the start of the year via Parents’ Gateway and is also accessible [**here**](https://form.gov.sg/63b047bed1c132001268c0ac). The completed opt-out form is to be submitted by **18/01/2023.**
 
-11) Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+  
+
+10.  Parents can contact the school at **6442 8307** for discussion or to seek clarification about the school’s Sexuality Education programme.

@@ -57,4 +57,4 @@ description: ""
 | 45 | Ms Avneesh Kaur | Asst. Year Head P5 & P6 | avneesh_kaur@moe.edu.sg |
 | | | | |
 
-**UPDATED on 03 Janurary 2023**
+**UPDATED on 03 January 2023**

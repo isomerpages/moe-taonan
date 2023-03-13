@@ -5,8 +5,7 @@ description: ""
 ---
 | S/No. | Name | Designation | E-mail |
 |:---:|:---:|:---:|:---:|
-| 1 | Mr Ngiam Tee Teng Matthew	  | Lead Teacher (HAL)	 | ngiam_tee_teng@moe.edu.sg
- |
+| 1 | Mr Ngiam Tee Teng Matthew	  | Lead Teacher (HAL)	 | ngiam_tee_teng@moe.edu.sg|
 | 2 | Mdm Lian Wei Chun Jenny  | Senior Teacher (English) | lian_wei_chun_jenny@moe.edu.sg |
 | 3 | Mr Clifton Lim Hon Shin | Senior Teacher (Mathematics) | lim_hon_shin_clifton@moe.edu.sg |
 | 4 | Ms Heng Boon Lih | Senior Teacher (Mathematics) | heng_boon_lih@moe.edu.sg |

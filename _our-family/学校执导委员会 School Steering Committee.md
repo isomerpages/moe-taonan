@@ -40,14 +40,14 @@ description: ""
 | 29 | Mdm Hung Huey Jing | SH - Special Programme 1 (SP)<br>(Chinese Culture) | hung_huey_jing@moe.edu.sg |
 |  30 | Miss Chee Pey Yi	  | SH - Special Programme 2 (SP)<br>(Chinese Culture) (Internal)  | chee_pey_yi@moe.edu.sg  |
 |  31 | Mdm Lim Chii Huey  | SH - Bi-Cultural Chinese Elective Programme (BiCEP)  | lim_chii_huey@moe.edu.sg  |
-| 31 | Miss Ng Shao Chui Delisa | HOD - Student Leadership & Development (SLD) | ng_shao_chui@moe.edu.sg |
-| 32 | Miss Koh Xin Rui Eleora | SH - Student Leadership (Internal) | koh_xin_rui@moe.edu.sg |
-| 33 | Miss Leong Lye Ching | SH - Partnership | leong_lye_ching@moe.edu.sg |
-| 34 | Mrs Ong- Chua Li Ling Eileen | HOD - Information Management | chua_li_ling_eileen@moe.edu.sg |
-| 35 | Mdm Goh Yen Ping | SH - Information Management | goh_yen_ping@moe.edu.sg |
-| 36 | Miss Ang Bee Lian | HOD - Information Communication Technology (ICT) | ang_bee_lian_b@moe.edu.sg |
-| 37 | Mdm Soh Shihui | SH - Information Communication Technology (ICT) | soh_shihui@moe.edu.sg |
-| 38 | Mdm Amy- Helmiaty Binte Mohamad Amin | HOD - Co-Curricular Activities (CCA) | helmiaty_mohamad_amin@moe.edu.sg |
+| 32 | Miss Ng Shao Chui Delisa | HOD - Student Leadership & Development (SLD) | ng_shao_chui@moe.edu.sg |
+| 33 | Miss Koh Xin Rui Eleora | SH - Student Leadership (Internal) | koh_xin_rui@moe.edu.sg |
+| 34 | Miss Leong Lye Ching | SH - Partnership | leong_lye_ching@moe.edu.sg |
+| 35 | Mrs Ong- Chua Li Ling Eileen | HOD - Information Management | chua_li_ling_eileen@moe.edu.sg |
+| 36 | Mdm Goh Yen Ping | SH - Information Management | goh_yen_ping@moe.edu.sg |
+| 37 | Miss Ang Bee Lian | HOD - Information Communication Technology (ICT) | ang_bee_lian_b@moe.edu.sg |
+| 38 | Mdm Soh Shihui | SH - Information Communication Technology (ICT) | soh_shihui@moe.edu.sg |
+| 39 | Mdm Amy- Helmiaty Binte Mohamad Amin | HOD - Co-Curricular Activities (CCA) | helmiaty_mohamad_amin@moe.edu.sg |
 | **Year Head & Assistant Year Head** |  |  |  |
 | 39 | Mdm Liu Lee Choo Sharon | Year Head P1 & P2 | liu_lee_choo_sharon@moe.edu.sg |
 | 40 | Mdm Lau Ying Xi | Asst. Year Head P1 & P2 | lau_ying_xi@moe.edu.sg |

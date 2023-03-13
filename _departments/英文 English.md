@@ -3,7 +3,6 @@ title: 英文 English
 permalink: /departments/english/
 description: ""
 ---
-
 ### Vision / Mission
 
 **Vision** <br>
@@ -28,10 +27,3 @@ The aims of STELLAR are to: <br>
 The aims of the Extensive Reading Programme are to: <br>
 1) inculcate the love for reading <br>
 2) improve students’ reading skills and language proficiency
-
-### Others
-
-</insert file, file size too big>
-
-<img src="/images/img001.jpg" 
-     style="width:30%">

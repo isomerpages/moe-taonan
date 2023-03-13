@@ -3,8 +3,26 @@ title: 校规 School Rules
 permalink: /heritage/school-rules/
 description: ""
 ---
+### 校规 School Rules
+校规
+--
 
-### School Rules 校规 
+1.  学生须忠于学校和新加坡 。唱国歌、念信约和唱校歌时保持立正。
+2.  新加坡籍学生须唱国歌和念信约，念信约时将右拳放在左胸前。
+3.  学生不可修改校服，须穿上校服或体育服参加学校活动。
+4.  学生须尊敬师长。
+5.  学生外表须得体。男生要保持面容干净，不得留胡子。
+6.  学生须准时参加所有学校活动。
+7.  学生须爱护学校的物产与设施，保持校园清洁。
+8.  学生须彬彬有礼，心存善意。
+9.  未经允许，学生不得在上课时间离开学校。
+10.  学生不得拥有和携带具伤害性的工具。
+11.  学生发起的任何与学校相关的问卷调查和请愿，以及在各媒体上传的文字和制作（从概念到实施及传播阶段），都必须得到校长的批准。
+
+<img src="/images/rules.jpg" 
+     style="width:80%">
+
+### School Rules 
 
 1.  Be loyal to the School and the Republic of Singapore. Stand at attention for the National Anthem, the Pledge and the School Song.
 2.  Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.

@@ -3,14 +3,14 @@ title: 学校执导委员会 School Steering Committee
 permalink: /our-family/school-steering-committee/
 description: ""
 ---
-
 | S/No. | Name | Designation | E-mail |
 |---|---|---|---|
 | **School Leaders** |  |  |  |
 | 1 | Mdm Poh Qinyu | Principal | qinyu_poh@schools.gov.sg |
 | 2 | Miss Agnes Chow Chia Min | Vice-Principal (EO) | agnes_chow@schools.gov.sg |
 | 3 | Ms Ng Hui Min | Vice-Principal (EO) | ng_hui_min@schools.gov.sg |
-| 4 | Mr Kuek Joo Leng | Vice-Principal (Admin) | kuek_joo_leng@schools.gov.sg |
+| 4 |  Mrs Yvonne Tan	| Vice-Principal (Admin) | yvonne_tan@schools.gov.sg
+ |
 | **School Admin Team (SAT)** |  |  |  |
 | 5 | Mdm Phay Yuh-Shuang | Administration Manager (AM) | phay_yuh-shuang@schools.gov.sg |
 | 6 | Mdm Ding Ching Ching | Operations Manager (OM) | ding_ching_ching@moe.edu.sg |

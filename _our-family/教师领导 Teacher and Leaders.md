@@ -11,8 +11,7 @@ description: ""
 | 4 | Ms Heng Boon Lih | Senior Teacher (Mathematics) | heng_boon_lih@moe.edu.sg |
 | 5 | Ms Ngoh Siew Teng  | Senior Teacher (Science) | ngoh_siew_teng@moe.edu.sg |
 | 6 | Mr Teo Wei Loon | Senior Teacher (Science) (Internal) | teo_wei_loon@moe.edu.sg |
-| 7 | Ms Dawn Chua Yu Xiu	 | Senior Teacher (Chinese Language) | dawn_chua_yu_xiu@moe.edu.sg
-  |
+| 7 | Ms Dawn Chua Yu Xiu	 | Senior Teacher (Chinese Language) | dawn_chua_yu_xiu@moe.edu.sg|
 | 8 | Mdm Tai Chi Hui | Senior Teacher (Chinese Language) (Internal) | tai_chi_hui@moe.edu.sg  |
 | 9 | Ms Praise Teo Hwee Leng | Senior Teacher (Music) | praise_teo_hwee_leng@moe.edu.sg  |
 | 10 | Mr Ngiam Tee Teng Matthew | Senior Teacher (HAL) | ngiam_tee_teng@moe.edu.sg |

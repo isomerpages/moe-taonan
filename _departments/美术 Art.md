@@ -3,14 +3,13 @@ title: 美术 Art
 permalink: /departments/art/
 description: ""
 ---
-
 ### Vision / Mission
 
 **Vision** <br>
 An artist in every child
 
 **Mission** <br>
-To provide a stimulating and supportive environment for creative exploration, observation, experimentation and expression.
+To promote lifelong enjoyment and an appreciation for artistic works; developing visual literacy in our students.
 
 ![](/images/Banner_Art_2021.jpg)
 

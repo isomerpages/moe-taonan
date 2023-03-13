@@ -3,7 +3,6 @@ title: 高才教育 Gifted Education
 permalink: /departments/gifted-education/
 description: ""
 ---
-
 ### Vision / Mission
 
 **Mission** <br>

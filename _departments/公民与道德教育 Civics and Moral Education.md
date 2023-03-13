@@ -3,7 +3,6 @@ title: 公民与道德教育 Civics and Moral Education
 permalink: /departments/civics-and-moral-education/
 description: ""
 ---
-
 ### Vision / Mission
 
 **使命:** <br>

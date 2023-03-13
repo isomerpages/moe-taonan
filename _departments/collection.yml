@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English/英文 English.md
       - English/.keep
       - 美术 Art.md
       - 品德与公民教育Character & Citizenship/.keep

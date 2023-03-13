@@ -45,3 +45,8 @@ Through this series, we aim to : 
 * inspire them in art production
  
 Portfolio of each artist is created and presented to the students. Through an engaging discussion, students are being stimulated in terms of their interest in the topic.
+
+### Talent Development Programme
+
+1.  SYF Art Presentation
+2.  Aesthetics Week!

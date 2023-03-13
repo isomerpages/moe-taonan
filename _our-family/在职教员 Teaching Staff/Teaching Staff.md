@@ -167,3 +167,5 @@ third_nav_title: 在职教员 Teaching Staff
 | 157 |           Ms Vaswani Deepa Hiro          |     vaswani_deepa_hiro@moe.edu.sg     |
 | 158 |         Ms Yeo Tyze Feng [杨芝芬]        |        yeo_tyze_feng@moe.edu.sg       |
 | 159 |              Ms Yick Fang Ru             |        yick_fang_ru@moe.edu.sg        |
+
+**UPDATED ON 01 FEBRUARY 2023**

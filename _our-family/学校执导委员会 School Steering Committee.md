@@ -38,7 +38,7 @@ description: ""
 | 27 | Mdm Kok Lee Yook | HOD - School Staff Developer (SSD) | kok_lee_yook@moe.edu.sg |
 | 28 | Mr Ang Thiam Poh | HOD - Special Programme (SP) (Chinese Culture) | ang_thiam_poh@moe.edu.sg |
 | 29 | Mdm Hung Huey Jing | SH - Special Programme 1 (SP)<br>(Chinese Culture) | hung_huey_jing@moe.edu.sg |
-|  30 | Miss Chee Pey Yi	  | SH - Special Programme 2 (SP)<br>(Chinese Culture) (Internal)  | lim_chii_huey@moe.edu.sg  |
+|  30 | Miss Chee Pey Yi	  | SH - Special Programme 2 (SP)<br>(Chinese Culture) (Internal)  | chee_pey_yi@moe.edu.sg  |
 |  31 | Mdm Lim Chii Huey  | SH - Bi-Cultural Chinese Elective Programme (BiCEP)  | lim_chii_huey@moe.edu.sg  |
 | 31 | Miss Ng Shao Chui Delisa | HOD - Student Leadership & Development (SLD) | ng_shao_chui@moe.edu.sg |
 | 32 | Miss Koh Xin Rui Eleora | SH - Student Leadership (Internal) | koh_xin_rui@moe.edu.sg |

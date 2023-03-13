@@ -13,8 +13,7 @@ description: ""
  |
 | **School Admin Team (SAT)** |  |  |  |
 | 5 | Mdm Phay Yuh-Shuang | Administration Manager (AM) | phay_yuh-shuang@schools.gov.sg |
-| 6 | Mdm Ding Ching Ching | Operations Manager (OM) | ding_ching_ching@moe.edu.sg |
-| 7 | Mr Ng Kok Weng | Operations Manager (OM) | ng_kok_weng@moe.edu.sg |
+| 6 | Mdm Ding Ching Ching | Operations Manager (OM) | ding_ching_ching@moe.edu.sg
 | **Head-of-Department (HOD) & Level/Subject Head (LH/SH)** |  |  |  |
 | 8 | Miss Lam May Fong | HOD - English Language | lam_may_fong@moe.edu.sg |
 | 9 | Ms Charmaine Wong Seen May | LH - English Language 1 | wong_seen_may@moe.edu.sg |

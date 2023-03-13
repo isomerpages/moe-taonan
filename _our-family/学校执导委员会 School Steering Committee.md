@@ -49,12 +49,12 @@ description: ""
 | 38 | Mdm Soh Shihui | SH - Information Communication Technology (ICT) | soh_shihui@moe.edu.sg |
 | 39 | Mdm Amy- Helmiaty Binte Mohamad Amin | HOD - Co-Curricular Activities (CCA) | helmiaty_mohamad_amin@moe.edu.sg |
 | **Year Head & Assistant Year Head** |  |  |  |
-| 39 | Mdm Liu Lee Choo Sharon | Year Head P1 & P2 | liu_lee_choo_sharon@moe.edu.sg |
-| 40 | Mdm Lau Ying Xi | Asst. Year Head P1 & P2 | lau_ying_xi@moe.edu.sg |
-| 41 | Mdm Siti Nurfarah Binte Mohamed R Z | Year Head P3 & P4 | siti_nurfarah_mohamed_r@moe.edu.sg |
-| 42 | Mdm Phua Mei Yan | Asst. Year Head P3 & P4 | phua_mei_yan@moe.edu.sg |
-| 43 | Mrs Crayon Tan Siew Leng | Year Head P5 & P6 | crayon_tan_ng@moe.edu.sg |
-| 44 | Ms Avneesh Kaur | Asst. Year Head P5 & P6 | avneesh_kaur@moe.edu.sg |
+| 40 | Mdm Liu Lee Choo Sharon | Year Head P1 & P2 | liu_lee_choo_sharon@moe.edu.sg |
+| 41 | Mdm Lau Ying Xi | Asst. Year Head P1 & P2 | lau_ying_xi@moe.edu.sg |
+| 42 | Mdm Siti Nurfarah Binte Mohamed R Z | Year Head P3 & P4 | siti_nurfarah_mohamed_r@moe.edu.sg |
+| 43 | Mdm Phua Mei Yan | Asst. Year Head P3 & P4 | phua_mei_yan@moe.edu.sg |
+| 44 | Mrs Crayon Tan Siew Leng | Year Head P5 & P6 | crayon_tan_ng@moe.edu.sg |
+| 45 | Ms Avneesh Kaur | Asst. Year Head P5 & P6 | avneesh_kaur@moe.edu.sg |
 | | | | |
 
-**UPDATED ON 18 February 2022**
+**UPDATED ON 03 Janurary 2023**

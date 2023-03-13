@@ -19,9 +19,9 @@ description: ""
 | 8 | Ms Charmaine Wong Seen May | LH - English Language 1 | wong_seen_may@moe.edu.sg |
 | 9 | Miss Chia Jie Wei | LH - English Language 2 (Internal) | chia_jie_wei@moe.edu.sg |
 | 10 | Miss Chee Siok Tuan Janice | HOD - Mathematics | chee_siok_tuan@moe.edu.sg |
-| 12 | Mrs Francisca Tan | LH - Mathematics 1 | tan_sue_may_francisca@moe.edu.sg |
-| 13 | Mr Muhammad Yusuf Mirza B M A M | LH - Mathematics 2 (Internal) | muhammad_yusuf_mirza@moe.edu.sg |
-| 14 | Mdm Tan Seow Yun | HOD - Science | tan_seow_yun@moe.edu.sg |
+| 11 | Mrs Francisca Tan | LH - Mathematics 1 | tan_sue_may_francisca@moe.edu.sg |
+| 12 | Mr Muhammad Yusuf Mirza B M A M | LH - Mathematics 2 (Internal) | muhammad_yusuf_mirza@moe.edu.sg |
+| 13 | Mdm Tan Seow Yun | HOD - Science | tan_seow_yun@moe.edu.sg |
 | 15 | Mrs Esther Lim | LH - Science 1 | lian_wei_chuan_esther@moe.edu.sg |
 | 16 | Mrs Loh Shwu Hwa | LH - Science 2 | lin-loh_shwu_hwa@moe.edu.sg |
 | 17 | Mdm Tan Peng Gek | HOD - Chinese Language | tan_peng_gek@moe.edu.sg |

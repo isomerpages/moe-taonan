@@ -63,17 +63,44 @@ b.  Character and Citizenship Education (CCE)
 
 **PRIMARY 5**
 
-| UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br><br>At the end of the lesson, pupils will be able to: | TIME PERIOD<br><br>(e.g. Term 1 Week 2) |
-|---|---|---|---|
-| Gosh! I Am Changing | What Is Happening To Me?<br>(30 min) | know what puberty is<br>identify the physical changes during puberty | Term 2 Week 3 |
-|  | What Can I Do? (Part 1)<br>(30 min) | identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>describe the emotions caused by physical changes during puberty<br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty | Term 2 Week 4 |
-|  | What Can I Do? (Part 2)<br>(30 min) | identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>describe the emotions caused by physical changes during puberty<br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty | Term 2 Week 6 |
-|  | Main Task<br>(30 min) | Description of the Main Task:<br><br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through. | Term 2 Week 7 |
-| Where I Belong | What Are Families?<br>(30 min) | know that there are different types of family structures<br>know that every family is unique<br>state that the three basic functions of families are to provide love, protection and guidance<br>identify the right sources of help to turn to when in need | Term 3 Week 5 |
-| Where I Belong | What is My Role?<br>(30 min) | know that gender is about being male or female<br>choose not to stereotype by gender | Term 3 Week 7 |
-| How Do I Keep Myself Safe? | What is Safety?<br>(30 min) | know what sexual abuse is<br>know that there are laws in Singapore that can protect them from sexual abuse<br>know their rights in keeping themselves safe from sexual abuse | Term 3 Week 8 |
-|  | Stop It! Run! Tell!<br>(30 min) | protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>know their responsibilities in minimising the risk of sexual harm | Term 3 Week 9 |
-| | | | |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">CCE(FTGP) THEME</th>
+    <th class="tg-dgl5">LESSON TITLE / DURATION</th>
+    <th class="tg-dgl5">Lesson OVERVIEW</th>
+    <th class="tg-dgl5">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi" rowspan="3">Growing Years</td>
+    <td class="tg-ktyi">The Changes in Me<br>(60 min)</td>
+    <td class="tg-7yig">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-ktyi">Term 2 Week 6</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"> Did You Know?<br>(60 min)<br> </td>
+    <td class="tg-7yig">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-ktyi">Term 2 Week 7</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Keeping Myself Safe<br>(60 min)<br> </td>
+    <td class="tg-7yig">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-ktyi">Term 2 Week 8</td>
+  </tr>
+</tbody>
+</table>
 
 **PRIMARY 6**
 

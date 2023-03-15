@@ -61,5 +61,5 @@ Prefects mentored and supported selected P4 students to share their good stories
 <figure><img src="/images/prefect5.png" style="width:75%"><figcaption>
 	
 **Appreciation Day for Non-Teaching Staff**<br>
-Prefects mentored and supported selected P4 students to share their good stories with peers during school assemblies.
+Students came together as a school to show appreciation to the non-teaching staff in Tao Nan School.
 </figcaption></figure>

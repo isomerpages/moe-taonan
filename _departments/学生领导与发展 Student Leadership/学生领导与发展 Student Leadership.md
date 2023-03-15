@@ -57,3 +57,9 @@ Prefects shared their learning experiences with peers to motivate them to live t
 **Good Stories from Taonanites**<br>
 Prefects mentored and supported selected P4 students to share their good stories with peers during school assemblies.
 </figcaption></figure>
+
+<figure><img src="/images/prefect5.png" style="width:75%"><figcaption>
+	
+**Appreciation Day for Non-Teaching Staff**<br>
+Prefects mentored and supported selected P4 students to share their good stories with peers during school assemblies.
+</figcaption></figure>

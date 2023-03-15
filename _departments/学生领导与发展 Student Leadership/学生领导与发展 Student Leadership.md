@@ -63,3 +63,11 @@ Prefects mentored and supported selected P4 students to share their good stories
 **Appreciation Day for Non-Teaching Staff**<br>
 Students came together as a school to show appreciation to the non-teaching staff in Tao Nan School.
 </figcaption></figure>
+
+<figure><img src="/images/prefect6png" style="width:75%"><figcaption>
+	
+**‘TNS Wishing Well’ – A Student Suggestion Scheme**<br>
+Students came together as a school to show appreciation to the non-teaching staff in Tao Nan School.
+</figcaption></figure>
+	
+![](/images/prefect6.png)

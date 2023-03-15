@@ -52,3 +52,11 @@ Under the leadership of our Prefect Executive Committee and the Teacher-Advisors
 Prefects shared their learning experiences with peers to motivate them to live the school core values, to build their resilience and to be active members who contribute to the community.
 
 </figcaption></figure>
+
+<figure><img src="/images/prefect4.png" style="width:75%"><figcaption>
+	
+**Good Stories from Taonanites**<br>
+Prefects mentored and supported selected P4 students to share their good stories with peers during school assemblies.
+
+
+</figcaption></figure>

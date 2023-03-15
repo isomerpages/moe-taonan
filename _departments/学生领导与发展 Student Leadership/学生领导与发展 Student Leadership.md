@@ -45,3 +45,10 @@ Under the leadership of our Prefect Executive Committee and the Teacher-Advisors
  
   The 4 Project Committees and their scope of duties are:
 	![](/images/prefect2.png)
+	
+<figure><img src="/images/prefect3.jpeg" style="width:75%"><figcaption>
+	
+**Morning Sharing by Prefects**<br>
+Prefects shared their learning experiences with peers to motivate them to live the school core values, to build their resilience and to be active members who contribute to the community.
+
+</figcaption></figure>

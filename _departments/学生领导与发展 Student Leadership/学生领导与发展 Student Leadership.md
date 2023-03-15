@@ -46,37 +46,37 @@ Under the leadership of our Prefect Executive Committee and the Teacher-Advisors
   The 4 Project Committees and their scope of duties are:
 	![](/images/prefect2.png)
 	
-<figure><img src="/images/prefect3.jpeg" style="width:75%"><figcaption>
+<figure><img src="/images/prefect3.jpeg" style="width:50%"><figcaption>
 	
 **Morning Sharing by Prefects**<br>
 Prefects shared their learning experiences with peers to motivate them to live the school core values, to build their resilience and to be active members who contribute to the community.
 </figcaption></figure>
 
-<figure><img src="/images/prefect4.png" style="width:75%"><figcaption>
+<figure><img src="/images/prefect4.png" style="width:50%"><figcaption>
 	
 **Good Stories from Taonanites**<br>
 Prefects mentored and supported selected P4 students to share their good stories with peers during school assemblies.
 </figcaption></figure>
 
-<figure><img src="/images/prefect5.png" style="width:75%"><figcaption>
+<figure><img src="/images/prefect5.png" style="width:50%"><figcaption>
 	
 **Appreciation Day for Non-Teaching Staff**<br>
 Students came together as a school to show appreciation to the non-teaching staff in Tao Nan School.
 </figcaption></figure>
 
-<figure><img src="/images/prefect6.png" style="width:75%"><figcaption>
+<figure><img src="/images/prefect6.png" style="width:50%"><figcaption>
 	
 **‘TNS Wishing Well’ – A Student Suggestion Scheme**<br>
 Prefects prepared promotional clips to encourage students to give suggestions to help improve the school environment and student activities.
 </figcaption></figure>
 
-<figure><img src="/images/prefect7.png" style="width:75%"><figcaption>
+<figure><img src="/images/prefect7.png" style="width:50%"><figcaption>
 	
 **My School, My Home Project – Managing Stress, the Right Way in 2022**<br>
 Prefects planned interesting recess activities to encourage students to learn to manage their stress using positive means.
  </figcaption></figure>
  
-<figure><img src="/images/prefect8.png" style="width:75%"><figcaption>
+<figure><img src="/images/prefect8.png" style="width:50%"><figcaption>
 
 **TNS Innovates**<br>
 Prefects design activities to engage students at Innovation Oasis during recess. 

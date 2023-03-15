@@ -23,5 +23,8 @@ We believe that every child can be a leader and aim to provide leadership opport
 |   4   |                                                                       Prefects and CCA Leaders                                                                      |
 |   5   |                                                        Prefect Executive Committee Members<br>(Prefect EXCO)                                                        |
 
+2) Promoting Student Voice and Student Agency
+---------------------------------------------
 
+We believe that every student can be a leader by influencing a positive change through the sharing of useful feedback and taking actionable steps to make a difference in the lives of others.<img src="/images/voice.png" style="width:200px;height:200px;margin-left:15px;" align = "right">
 

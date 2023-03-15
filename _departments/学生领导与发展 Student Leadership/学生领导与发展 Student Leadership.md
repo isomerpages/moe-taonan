@@ -72,7 +72,7 @@ Prefects prepared promotional clips to encourage students to give suggestions to
 
 <figure><img src="/images/prefect7.png" style="width:75%"><figcaption>
 	
-**My School, My Home Project – Managing Stress, the Right Way in 2022 **<br>
+**My School, My Home Project – Managing Stress, the Right Way in 2022**<br>
 
 Prefects planned interesting recess activities to encourage students to learn to manage their stress using positive means.
  </figcaption></figure>

@@ -23,3 +23,14 @@ The vision of the Guzheng Club is to promote appreciation for Chinese musical pi
 |      Mdm Soh Shihui [苏诗惠]     |  soh_shihui@moe.edu.sg  |             |
 
 ![](/images/Slide25.jpg)
+
+CCA Highlights
+--------------
+![](/images/guzheng.jpeg)
+#### TNS-OEPS Cross-Cultural Collaboration  
+
+Students from our Chinese Orchestra and Guzheng CCA engage in a cultural exchange through music with students from Opera Estate Primary School(OEPS)’s Angklung CCA.
+
+  
+
+Click **[here](https://taonan.moe.edu.sg/cca-highlights/tns-oeps-cross-cultural-collaboration)** to find out more.

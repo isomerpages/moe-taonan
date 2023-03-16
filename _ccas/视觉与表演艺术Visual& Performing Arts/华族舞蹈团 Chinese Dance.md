@@ -12,7 +12,7 @@ The vision of the Chinese Dance Club is to nurture the love for dance as a perfo
 
 Our Chinese Dance Club has achieved excellent results at the Singapore Youth Festival (SYF) Arts Presentation. These achievements have motivated us to continue in upholding our dancers' passion for dance through performances and exposing them to various types of dancing styles.  
 
-**Teachers In-Charge (2022):**
+**Teachers In-Charge:**
 
 | NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|

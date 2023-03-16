@@ -4,7 +4,11 @@ permalink: /ccas/visual-and-performing-arts/chinese-orchestra/
 description: ""
 third_nav_title: 视觉与表演艺术Visual& Performing Arts
 ---
-
+道南华乐团自创办以来，一直致力于培养学生对传统华族音乐的鉴赏能力。通过学习不同的民族乐器，加强学生对华族乐器的认识，进而弘扬华族传统文化。此外，为了让学生能够获得更多的舞台经验，道南学校华乐团也积极参加校内外的演出，以及两年一度的新加坡青年节艺术展演，为学生提供平台，让学生有机会施展音乐才华，发挥团队精神。  
+  
+通过多年的努力，道南华乐团培育出一代又一代热爱音乐的年轻华乐演奏员，在2022年的新加坡青年艺术展演频获评委们的好评。  
+  
+除了提升学生的演奏技巧，道南华乐团的指导老师也致力于在团体练习中灌输道南的价值观，培养品德兼备的好学生。
 
 The vision of the Chinese Orchestra is to promote an appreciation for Chinese music and develop a better understanding and respect for the Chinese culture through the mastering of one of the many Chinese instruments of China. We also aim to nurture the love of music as a performing art in our members since young.
 

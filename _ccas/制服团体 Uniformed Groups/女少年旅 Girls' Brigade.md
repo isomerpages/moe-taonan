@@ -4,8 +4,6 @@ permalink: /ccas/uniformed-groups/girls-brigade/
 description: ""
 third_nav_title: 制服团体 Uniformed Groups
 ---
-
-
 We desire our girls to achieve their fullest potential through positive character-based teachings and activities. We aim to do so by equipping, empowering and enabling every girl to be a leader.
 
 The programme is centred on three key areas: 
@@ -13,7 +11,7 @@ The programme is centred on three key areas:
 2. Character development
 3. Service to the community  
 
-**Teachers In-Charge (2022):**
+**Teachers In-Charge:**
 
 | NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|

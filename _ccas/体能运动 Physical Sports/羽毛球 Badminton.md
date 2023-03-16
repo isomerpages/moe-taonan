@@ -4,13 +4,11 @@ permalink: /ccas/physical-sports/badminton/
 description: ""
 third_nav_title: 体能运动 Physical Sports
 ---
-
-
 Tao Nan School Badminton consists of School Teams and CCA members.
 
 The School Teams will have the opportunity to represent the school at team competitions and individual tournaments respectively. As for the P3 to P6 CCA members, our weekly sessions are purely recreational by nature though all relevant badminton skills are imparted at the sessions as well.
 
-**Teachers In-Charge (2022):**
+**Teachers In-Charge:**
 
 | NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|

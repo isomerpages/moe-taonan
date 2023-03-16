@@ -15,12 +15,11 @@ The vision of the Guzheng Club is to promote appreciation for Chinese musical pi
 
 **Teachers In-Charge:**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
-|---|---|---|
-| Mdm Liu Ying [刘莹] | liu_ying_d@moe.edu.sg | Overall IC |
-| Mdm Ma Lin [马 琳] | ma_lin@moe.edu.sg | Overall 2IC |
-| Mdm Ang Sio Hoon [洪小芬] | ang_sio_hoon@moe.edu.sg |   |
-| Mdm Soh Shihui [苏诗惠] | soh_shihui@moe.edu.sg |  |
-| | | |
+| NAME OF CCA<br>TEACHER-IN-CHARGE |          Email          |     ROLE    |
+|:--------------------------------:|:-----------------------:|:-----------:|
+|        Mdm Liu Ying [刘莹]       |  liu_ying_d@moe.edu.sg  |  Overall IC |
+|        Mdm Ma Lin [马 琳]        |    ma_lin@moe.edu.sg    | Overall 2IC |
+|     Mdm Ang Sio Hoon [洪小芬]    | ang_sio_hoon@moe.edu.sg |             |
+|      Mdm Soh Shihui [苏诗惠]     |  soh_shihui@moe.edu.sg  |             |
 
 ![](/images/Slide25.jpg)

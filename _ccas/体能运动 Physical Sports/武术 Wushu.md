@@ -12,16 +12,14 @@ The trainings aim to improve whole-body fitness and traditional stance training 
 
 **Teachers In-Charge (2022):**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
-|---|---|---|
-| Mrs Law- Chin Wai Mun | law-chin_wai_mun@moe.edu.sg | Overall IC |
-| Mdm Wu Yun [吴赟] | wu_yun@moe.edu.sg | Overall 2IC |
-| Miss Chee Pey Yi [纪佩妤] | chee_pey_yi@moe.edu.sg |   |
-| Mdm Clare Li Xunzi [李勋子] | clare_li_xunzi@moe.edu.sg |   |
-| Mrs Ong- Shen Pinxiu | shen_pinxiu@moe.edu.sg |   |
-| Mdm Soo Pei Chih [苏佩琪] | soo_pei_chih@moe.edu.sg |   |
-| Mrs Gurung-Lee Chin Min | lee_chin_min@moe.edu.sg |   |
-| Mdm Looi Yen Mei Wendy | looi_yen_mei_wendy@moe.edu.sg |  |
-| | | |
+| NAME OF CCA<br>TEACHER-IN-CHARGE |             Email             |     ROLE    |
+|:--------------------------------:|:-----------------------------:|:-----------:|
+|       Mrs Law- Chin Wai Mun      |  law-chin_wai_mun@moe.edu.sg  |  Overall IC |
+|         Mdm Wu Yun [吴赟]        |       wu_yun@moe.edu.sg       | Overall 2IC |
+|     Miss Chee Pey Yi [纪佩妤]    |     chee_pey_yi@moe.edu.sg    |             |
+|    Mdm Clare Li Xunzi [李勋子]   |   clare_li_xunzi@moe.edu.sg   |             |
+|       Mrs Ong- Shen Pinxiu       |     shen_pinxiu@moe.edu.sg    |             |
+|     Mdm Soo Pei Chih [苏佩琪]    |    soo_pei_chih@moe.edu.sg    |             |
+|      Mdm Looi Yen Mei Wendy      | looi_yen_mei_wendy@moe.edu.sg |             |
 
 ![](/images/CCAs_%20wushu_2021.jpg)

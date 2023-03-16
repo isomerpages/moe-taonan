@@ -10,11 +10,11 @@ The Speech and Drama Club was established to train students who are interested i
 
 **Teachers In-Charge:**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
-|---|---|---|
-| Mrs Goh Soek Fong [郭素坊] | goh_soek_fong@moe.edu.sg | Overall IC |
-| Mdm Lau Ying Xi [刘颖熹] | lau_ying_xi@moe.edu.sg |  |
-| | | |
+| NAME OF CCA<br>TEACHER-IN-CHARGE |           Email          |    ROLE    |
+|:--------------------------------:|:------------------------:|:----------:|
+|    Mrs Goh Soek Fong [郭素坊]    | goh_soek_fong@moe.edu.sg | Overall IC |
+|     Mdm Lau Ying Xi [刘颖熹]     |  lau_ying_xi@moe.edu.sg  |            |
+|      Mr Low Ko Hee [刘可喜]      |   low_ko_hee@moe.edu.sg  |            |
 
 <img src="/images/2020%20Chinese%20Drama%20Club.png" 
      style="width:70%">

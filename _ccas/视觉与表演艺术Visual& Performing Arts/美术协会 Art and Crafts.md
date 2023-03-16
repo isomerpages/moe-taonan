@@ -4,13 +4,11 @@ permalink: /ccas/visual-and-performing-arts/art-and-crafts/
 description: ""
 third_nav_title: 视觉与表演艺术Visual& Performing Arts
 ---
-
-
 The Art and Crafts club provides a platform for students who are interested in Art and Craft to come together and learn about Art. Students will have more opportunities to be exposed to different Art mediums like watercolour, oil pastels. Through each Art project, students are taught Art skills, concepts and knowledge to increase their understanding of Art. Students will be able to express their thoughts and creativity by working individually or working in groups to create their works.  
 
 Besides creating, students also learn to appreciate Art works and also learn to explain their works with confidence. 
 
-**Teachers In-Charge (2022):**
+**Teachers In-Charge:**
 
 | NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|

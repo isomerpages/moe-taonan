@@ -28,3 +28,20 @@ We have a team of trained officers to see to the social-emotional, behavioural a
 | School Counsellor (Part-Time) | Mdm Susan Mah                                                             |
 | Special Needs Officer         | Ms Nur Kamila Binte Jamaludin<br>Mdm Siew Wei Kuan<br>Ms Nur Shreen Sidek |
 | Teacher Counsellors           | Ms Praise Teo<br>Mr Teo Wei Loon                                          |
+
+Key Programmes/ Activities
+--------------------------
+
+  
+
+1) Our Positive Peer Relationships
+----------------------------------
+
+Student   
+Our 3-Tier Peer Support Structure aims to promote an inclusive school environment by providing social and emotional support to all students through Peer Bonding, Peer Helping and Peer Influencing.
+
+  
+
+*   Tier 1: Cultivate a peer support mindset in each student and in every classroom
+*   Tier 2: Appoint and train Class Peer Support Leaders and CCA Peer Support Leaders to play a proactive role in looking out and providing support for peers in-need, and to appoint buddies for P1 and newly transferred students
+*  Tier 3: Appoint and train buddies to support students with higher needs

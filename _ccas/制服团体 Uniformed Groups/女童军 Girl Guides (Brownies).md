@@ -4,8 +4,6 @@ permalink: /ccas/uniformed-groups/girl-guides-brownies/
 description: ""
 third_nav_title: 制服团体 Uniformed Groups
 ---
-
-
 **Mission** <br>
 To enable girls and young women to develop their fullest potential as responsible citizens of the world
 
@@ -23,7 +21,7 @@ As a Brownie in guiding, she will:
 
 You can find out more about us at [http://www.girlguides.org.sg](http://www.girlguides.org.sg/)
 
-**Teachers In-Charge (2022):**
+**Teachers In-Charge:**
 
 | NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|

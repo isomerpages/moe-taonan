@@ -8,10 +8,10 @@ Comics are a visual medium used to express ideas via images, often combined with
 
 **Teachers In-Charge:**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
-|---|---|---|
-| Mr Sung Sheng Yi Kelvin | sung_sheng_yi_kelvin@moe.edu.sg | Overall IC |
-| Mdm Tan Yew Li Yang Sharon | sharon_tan_yew@moe.edu.sg |   |
-| | | |
+| NAME OF CCA<br>TEACHER-IN-CHARGE |               Email              |    ROLE    |
+|:--------------------------------:|:--------------------------------:|:----------:|
+|     Mr Kew Wong Yip [丘旺业]     |      kew_wong_yip@moe.edu.sg     | Overall IC |
+|     Mr Sung Sheng Yi Kelvin      |  sung_sheng_yi_kelvin@moe.edu.sg |            |
+|    Mdm Tan Yew Li Yang Sharon    |     sharon_tan_yew@moe.edu.sg    |            |
 
 ![](/images/Slide4.jpg)

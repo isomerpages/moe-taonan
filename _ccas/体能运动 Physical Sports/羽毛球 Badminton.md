@@ -10,16 +10,15 @@ The School Teams will have the opportunity to represent the school at team compe
 
 **Teachers In-Charge:**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
-|---|---|---|
-| Mdm Phua Mei Yan [潘美燕] | phua_mei_yan@moe.edu.sg | Overall IC |
-| Miss Ng Lay Kuan | ng_lay_kuan_a@moe.edu.sg | Overall 2IC |
-| Mdm Hung Huey Jing [韩惠晶] | hung_huey_jing@moe.edu.sg | Overall 2IC |
-| Mr Chan Yi Jun James | james_chan_yi_jun@moe.edu.sg |   |
-| Miss Teo Ruolan Lauren [张若岚] | teo_ruolan_lauren@moe.edu.sg |   |
-| Miss Yeo Tyze Feng [杨芝芬] | yeo_tyze_feng@moe.edu.sg |   |
-| Mr Low Khin Sin Paul | low_khin_sin@moe.edu.sg |   |
-| Mdm Tan Su Ling Violet | tan_su_ling_violet@moe.edu.sg |   |
-| | | |
+| NAME OF CCA<br>TEACHER-IN-CHARGE |             Email            |     ROLE     |
+|:--------------------------------:|:----------------------------:|:------------:|
+|    Mdm Hung Huey Jing [韩惠晶]   |   hung_huey_jing@moe.edu.sg  |  Overall IC  |
+|         Miss Ng Lay Kuan         |   ng_lay_kuan_a@moe.edu.sg   | Overall 2IC  |
+|     Mdm Phua Mei Yan [潘美燕]    |    phua_mei_yan@moe.edu.sg   |  Overall 2IC |
+|       Mr Chan Yi Jun James       | james_chan_yi_jun@moe.edu.sg |              |
+|         Mr Teo Choon Meng        |   teo_choon_meng@moe.edu.sg  |              |
+|    Miss Yeo Tyze Feng [杨芝芬]   |   yeo_tyze_feng@moe.edu.sg   |              |
+|        Mr Zhang Yu [张宇]        |     zhang_yu_b@moe.edu.sg    |              |
+|       Mr Zulhelmi Bin Omar       |   zulhelmi_omar@moe.edu.sg   |              |
 
 ![](/images/Slide9.jpg)

@@ -42,3 +42,14 @@ As a school approach, we partner different schools to facilitate CCA collaborati
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OBuqJHDU3Ok" title="Nina Bobok - Opera Estate Primary School and Tao Nan School" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+![](/images/CO1.jpeg)
+
+![](/images/CO2.jpeg)
+
+![](/images/CO3.jpeg)
+
+![](/images/CO4.jpeg)
+
+![](/images/CO5.jpeg)
+
+![](/images/CO6.jpeg)

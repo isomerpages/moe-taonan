@@ -23,10 +23,11 @@ Outdoor activities your child will get to try out:
 
 **Teachers In-Charge:**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
-|---|---|---|
-| Mr Lim Hoe Seng Francis | lim_hoe_seng_francis@moe.edu.sg | Overall IC |
-| Mdm Nur Rasheeda Bte Mohd Ismail | nur_rasheeda_mohd_ismail@moe.edu.sg |  |
-| | | |
+| NAME OF CCA<br>TEACHER-IN-CHARGE |                Email                |    ROLE    |
+|:--------------------------------:|:-----------------------------------:|:----------:|
+|      Mr Lim Hoe Seng Francis     |   lim_hoe_seng_francis@moe.edu.sg   | Overall IC |
+|          Ms Chia Jie Wei         |       chia_jie_wei@moe.edu.sg       |            |
+|     Mrs Gurung- Lee Chin Min     |       lee_chin_min@moe.edu.sg       |            |
+| Mdm Nur Rasheeda Bte Mohd Ismail | nur_rasheeda_mohd_ismail@moe.edu.sg |            |
 
 ![](/images/CCAs_outdoor_2021.jpg)

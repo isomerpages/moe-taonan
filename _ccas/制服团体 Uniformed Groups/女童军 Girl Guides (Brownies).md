@@ -23,13 +23,12 @@ You can find out more about us at [http://www.girlguides.org.sg](http://www.gir
 
 **Teachers In-Charge:**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
-|---|---|---|
-| Miss Heng Boon Lih | heng_boon_lih@moe.edu.sg | Overall IC |
-| Miss Emma Kok Li Shan | emma_kok_li_shan@moe.edu.sg |   |
-| Miss Jessilin Khee Shi Lin | jessilin_khee_shi_lin@moe.edu.sg |   |
-| Mdm Noraini Binte Mohamed Ali | noraini_mohamed_ali@moe.edu.sg |   |
-| Miss Ngoh Siew Teng | ngoh_siew_teng@moe.edu.sg |  |
-| | | |
+| NAME OF CCA<br>TEACHER-IN-CHARGE |               Email              |    ROLE    |
+|:--------------------------------:|:--------------------------------:|:----------:|
+|        Miss Heng Boon Lih        |     heng_boon_lih@moe.edu.sg     | Overall IC |
+|       Miss Emma Kok Li Shan      |    emma_kok_li_shan@moe.edu.sg   |            |
+|       Mdm Hu Yuxia [胡玉侠]      |        hu_yuxia@moe.edu.sg       |            |
+|    Miss Jessilin Khee Shi Lin    | jessilin_khee_shi_lin@moe.edu.sg |            |
+|   Mdm Noraini Binte Mohamed Ali  |  noraini_mohamed_ali@moe.edu.sg  |            |
 
 ![](/images/Slide19.jpg)

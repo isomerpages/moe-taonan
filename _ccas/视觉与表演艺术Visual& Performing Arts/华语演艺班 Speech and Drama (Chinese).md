@@ -8,7 +8,7 @@ third_nav_title: 视觉与表演艺术Visual& Performing Arts
 
 The Speech and Drama Club was established to train students who are interested in stage performances. They will also get an opportunity to take part in national competitions and school events. Trainings will be provided to help to improve students' oracy and non-verbal expressions in preparation for performances and competitions. Some of the activities include poetry recitation, cross talks, story-telling, drama as well as speech and drama.
 
-**Teachers In-Charge (2022):**
+**Teachers In-Charge:**
 
 | NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|

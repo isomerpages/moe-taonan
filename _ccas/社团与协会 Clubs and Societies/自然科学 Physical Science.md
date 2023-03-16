@@ -17,4 +17,3 @@ Our school Science Club focusses on enriching the science curriculum through spe
 |          Mr Teo Wei Loon         |     teo_wei_loon@moe.edu.sg     |            |
 |    Mdm Siti Awalliah Bte Amin    |  siti_awalliah_amin@moe.edu.sg  |            |
 
-![](/images/badminton.jpg)

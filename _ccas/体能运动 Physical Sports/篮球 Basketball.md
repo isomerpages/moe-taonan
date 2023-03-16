@@ -4,8 +4,6 @@ permalink: /ccas/physical-sports/basketball/
 description: ""
 third_nav_title: 体能运动 Physical Sports
 ---
-
-
 **The Basketball (Boys) team** comprises of two teams:
 * School Team that takes part in National School Games (NSG) competitions
 * Recreational Team that participates in weekly training sessions
@@ -28,17 +26,16 @@ In the Junior Girls Division, the Basketball (Girls) team, comprising Primary 4 
 
 The Basketball (Girls) team continues to give their best every day so as to scale higher peaks of sporting excellence.
 
-**Teachers In-Charge (2022):**
+**Teachers In-Charge:**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
-|---|---|---|
-| Mdm Ong Wee Wah [王维华] | ong_wee_wah@moe.edu.sg | Overall IC |
-| Mr Chong Zhi Howe Kenneth | chong_zhi_howe_kenneth@moe.edu.sg |   |
-| Mdm Cheah Li Wei [谢俐蔚] | cheah_li_wei@moe.edu.sg |   |
-| Mr Mohammad Daud Teo B Mohd Anwar | daud_teo@moe.edu.sg |   |
-| Mr Pang Say Wak [陈才发] | pang_say_wak@moe.edu.sg |   |
-| Mdm Zheng Liangneng [郑良能] | zheng_liangneng@moe.edu.sg |   |
-| | | |
+|  NAME OF CCA<br>TEACHER-IN-CHARGE |               Email               |    ROLE    |
+|:---------------------------------:|:---------------------------------:|:----------:|
+|      Mdm Ong Wee Wah [王维华]     |       ong_wee_wah@moe.edu.sg      | Overall IC |
+|     Mr Chong Zhi Howe Kenneth     | chong_zhi_howe_kenneth@moe.edu.sg |            |
+|     Mdm Cheah Li Wei [谢俐蔚]     |      cheah_li_wei@moe.edu.sg      |            |
+| Mr Mohammad Daud Teo B Mohd Anwar |        daud_teo@moe.edu.sg        |            |
+|      Mr Pang Say Wak [陈才发]     |      pang_say_wak@moe.edu.sg      |            |
+|      Mr Foo Siang Yong Terry      |     foo_siang_yong@moe.edu.sg     |            |
 
 ![](/images/Slide11.jpg)
 

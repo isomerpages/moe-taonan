@@ -14,11 +14,11 @@ Our Chinese Dance Club has achieved excellent results at the Singapore Youth Fes
 
 **Teachers In-Charge:**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
-|---|---|---|
-| Mdm Feng Jie [冯 洁] | feng_jie@moe.edu.sg | Overall IC |
-| Mdm Tan Li Shih | tan_li_shih@moe.edu.sg |   |
-| Mdm Gloria Poon Mui Geok | gloria_poon_mui_geok@moe.edu.sg |   |
-| | | |
+| NAME OF CCA<br>TEACHER-IN-CHARGE |              Email              |    ROLE    |
+|:--------------------------------:|:-------------------------------:|:----------:|
+|       Mdm Feng Jie [冯 洁]       |       feng_jie@moe.edu.sg       | Overall IC |
+|          Mdm Tan Li Shih         |      tan_li_shih@moe.edu.sg     |            |
+|     Mdm Gloria Poon Mui Geok     | gloria_poon_mui_geok@moe.edu.sg |            |
+|      Mdm Tan Chiew Yen June      |    tan_chiew_yen@moe.edu.sg     |            |
 
 ![](/images/Slide22.jpg)

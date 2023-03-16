@@ -16,18 +16,27 @@ Through regular group practice sessions, members are given the opportunity to ga
 
 In addition to the weekly practices, pupils are also given opportunities to perform and hone their skills through experiential performances both within and outside the school.
 
-**Teachers In-Charge (2022):**
+**Teachers In-Charge:**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
-|---|---|---|
-| Miss Yick Fang Ru | yick_fang_ru@moe.edu.sg | Overall IC |
-| Mdm Yang Xiaojuan [杨晓娟] | yang_xiaojuan_a@moe.edu.sg | Overall 2IC |
-| Mdm Tai Chi Hui [戴芷慧] | tai_chi_hui@moe.edu.sg | Overall 2IC |
-| Mr Cher Boon Kiat Augustine | cher_boon_kiat_augustine@moe.edu.sg |   |
-| Mdm Lee Seok Joo | lee_seok_joo@moe.edu.sg |  |
-| Miss Ng Lui Kiang [黄蕊坚] | ng_lui_kiang@moe.edu.sg |   |
-| Mdm Woo Jenny [邬燕妮] | woo_jenny@moe.edu.sg |   |
-| Miss Goh Lay Kian [吴丽娟] | goh_lay_kian@moe.edu.sg |  |
-| | | |
+| NAME OF CCA<br>TEACHER-IN-CHARGE |                Email                |     ROLE    |
+|:--------------------------------:|:-----------------------------------:|:-----------:|
+|         Miss Yick Fang Ru        |       yick_fang_ru@moe.edu.sg       |  Overall IC |
+|    Mdm Yang Xiaojuan [杨晓娟]    |      yang_xiaojuan_a@moe.edu.sg     | Overall 2IC |
+|     Mdm Tai Chi Hui [戴芷慧]     |        tai_chi_hui@moe.edu.sg       | Overall 2IC |
+|    Mr Cher Boon Kiat Augustine   | cher_boon_kiat_augustine@moe.edu.sg |             |
+|         Mdm Lee Seok Joo         |       lee_seok_joo@moe.edu.sg       |             |
+|    Miss Ng Lui Kiang [黄蕊坚]    |       ng_lui_kiang@moe.edu.sg       |             |
+|      Mdm Woo Jenny [邬燕妮]      |         woo_jenny@moe.edu.sg        |             |
+|    Miss Goh Lay Kian [吴丽娟]    |       goh_lay_kian@moe.edu.sg       |             |
 
 ![](/images/Slide23.jpg)
+
+CCA Highlights
+--------------
+
+### TNS-OEPS Cross-Cultural Collaboration  
+
+  
+
+As a school approach, we partner different schools to facilitate CCA collaborations to further strengthen our school-based Character and Citizenship Education. Students from our Chinese Orchestra and Guzheng CCA engage in a cultural exchange through music with students from Opera Estate Primary School(OEPS)’s Angklung CCA. During the meaningful interactions, students learn how to play various instruments from their peers and appreciate diverse genres of music. New friendships are forged as they create a masterpiece which features the different musical instruments. The programme helps students develop a greater appreciation of their own culture, deepen their knowledge and understanding of the diverse cultures in Singapore and provide them with opportunities to engage with individuals of different backgrounds. Do check out OEPS Facebook page ( [https://www.facebook.com/oepsofficial](https://www.facebook.com/oepsofficial) ) too!
+

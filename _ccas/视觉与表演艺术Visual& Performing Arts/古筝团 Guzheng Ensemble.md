@@ -13,7 +13,7 @@ Tao Nan School Guzheng Ensemble was established as a CCA in year 1999. Our pupil
 **Vision** <br>
 The vision of the Guzheng Club is to promote appreciation for Chinese musical pieces and Chinese culture among our pupils through the mastering of the instrument, Guzheng, which is one of the oldest Chinese instruments of China.
 
-**Teachers In-Charge (2022):**
+**Teachers In-Charge:**
 
 | NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
 |---|---|---|

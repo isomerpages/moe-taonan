@@ -68,3 +68,12 @@ To promote a culture of care, our P5 monitors will lead their class to write mot
 Motivational Notes for P6 students by P5 students and Staff
 
 </figcaption></figure>
+
+3) Our Positive Discipline Approach
+-----------------------------------
+
+Our school believes that students learn well when there is order and discipline. Students are affirmed for their positive actions that impact the class, school or community. Our goal is to instil self-discipline and good character in our students.
+
+  
+
+Students are provided encouragement and space to learn from their mistakes as discipline is an educative process. Using a reflective approach, students are taught to take responsibility for their wrong actions and to learn from them. The disciplinary measures meted out serve as a proxy for the consequences of the poor choices made. The school continues to work towards home-school partnership in nurturing the character of our students.

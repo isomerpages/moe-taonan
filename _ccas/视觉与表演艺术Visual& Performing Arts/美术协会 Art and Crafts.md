@@ -10,12 +10,11 @@ Besides creating, students also learn to appreciate Art works and also learn to 
 
 **Teachers In-Charge:**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
-|---|---|---|
-| Mdm Tan Hui Hoon | tan_hui_hoon@moe.edu.sg | Overall IC |
-| Miss Fathin Ha Sya-Syah Binte Suhadak | fathin_ha_sya-syah_suhadak@moe.edu.sg |   |
-| Mdm Wan Xifei [万希飞] | wan_xifei@moe.edu.sg |   |
-| Miss Tan Hui Khoon | tan_hui_khoon@moe.edu.sg |  |
-| | | |
+|    NAME OF CCA<br>TEACHER-IN-CHARGE   |                 Email                 |    ROLE    |
+|:-------------------------------------:|:-------------------------------------:|:----------:|
+|            Mdm Tan Hui Hoon           |        tan_hui_hoon@moe.edu.sg        | Overall IC |
+| Miss Fathin Ha Sya-Syah Binte Suhadak | fathin_ha_sya-syah_suhadak@moe.edu.sg |            |
+|         Mdm Wan Xifei [万希飞]        |          wan_xifei@moe.edu.sg         |            |
+|           Miss Tan Hui Khoon          |        tan_hui_khoon@moe.edu.sg       |            |
 
 ![](/images/Slide1.jpg)

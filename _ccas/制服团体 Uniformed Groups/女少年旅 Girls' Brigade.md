@@ -13,11 +13,11 @@ The programme is centred on three key areas:
 
 **Teachers In-Charge:**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
-|---|---|---|
-| Mdm Thio Lay Lay | thio_lay_lay@moe.edu.sg | Overall IC |
-| Miss Chia Jie Wei | chia_jie_wei@moe.edu.sg |   |
-| Miss Tan Hwee Jing | tan_hwee_jing@moe.edu.sg |   |
-| | | |
+| NAME OF CCA<br>TEACHER-IN-CHARGE |               Email               |    ROLE    |
+|:--------------------------------:|:---------------------------------:|:----------:|
+|         Mdm Thio Lay Lay         |      thio_lay_lay@moe.edu.sg      | Overall IC |
+|    Mdm Chng Pau Ling Beatrice    | chng_pau_ling_beatrice@moe.edu.sg |            |
+|            Ms Siva PVL           |        siva_pvl@moe.edu.sg        |            |
+|        Miss Tan Hwee Jing        |      tan_hwee_jing@moe.edu.sg     |            |
 
 ![](/images/Slide20.jpg)

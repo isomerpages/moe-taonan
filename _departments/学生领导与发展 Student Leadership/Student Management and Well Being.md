@@ -46,8 +46,25 @@ Our 3-Tier Peer Support Structure aims to promote an inclusive school environmen
 *   Tier 2: Appoint and train Class Peer Support Leaders and CCA Peer Support Leaders to play a proactive role in looking out and providing support for peers in-need, and to appoint buddies for P1 and newly transferred students
 *  Tier 3: Appoint and train buddies to support students with higher needs
 
-<figure><img src="/images/prefect3.jpeg" style="width:50%"><figcaption>
+<figure><img src="/images/wellbeing1.jpeg" style="width:50%"><figcaption>
 	
-**Morning Sharing by Prefects**<br>
-Prefects shared their learning experiences with peers to motivate them to live the school core values, to build their resilience and to be active members who contribute to the community.
+Training for Peer Support Leaders
+
+</figcaption></figure>
+
+<figure><img src="/images/wellbeing2.png" style="width:50%"><figcaption>
+	
+Peer Bonding during Friendship Week
+
+</figcaption></figure>
+
+2) Writing Motivational Notes for P6 Students
+---------------------------------------------
+
+To promote a culture of care, our P5 monitors will lead their class to write motivational notes to encourage our P6 students who are taking their PSLE examinations. Staff and Parents also pen their well-wishes for our graduating cohort.
+
+<figure><img src="/images/wellbeing3.jpeg" style="width:50%"><figcaption>
+	
+Motivational Notes for P6 students by P5 students and Staff
+
 </figcaption></figure>

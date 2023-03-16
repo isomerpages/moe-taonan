@@ -12,12 +12,12 @@ Our sailors gain confidence and accomplishment from being able to man their own 
 
 **Teachers In-Charge:**
 
-| NAME OF CCA<br>TEACHER-IN-CHARGE | EMAIL | ROLE |
-|---|---|---|
-| Mr Ang Chee Yong | ang_chee_yong_a@moe.edu.sg | Overall IC |
-| Mr Muhammad Yusuf Mirza Bin M | muhammad_yusuf_mirza@moe.edu.sg |   |
-| Mdm Ng Li Min Janice | ng_li_min_janice@moe.edu.sg |   |
-| Miss Vaswani Deepa Hiro | vaswani_deepa_hiro@moe.edu.sg |  |
-| | | |
+| NAME OF CCA<br>TEACHER-IN-CHARGE |              Email              |    ROLE    |
+|:--------------------------------:|:-------------------------------:|:----------:|
+|         Mr Ang Chee Yong         |    ang_chee_yong_a@moe.edu.sg   | Overall IC |
+|          Mr Low Khee How         |    low_khee_how_a@moe.edu.sg    |            |
+|   Mr Muhammad Yusuf Mirza Bin M  | muhammad_yusuf_mirza@moe.edu.sg |            |
+|       Mdm Ng Li Min Janice       |   ng_li_min_janice@moe.edu.sg   |            |
+|      Miss Vaswani Deepa Hiro     |  vaswani_deepa_hiro@moe.edu.sg  |            |
 
 ![](/images/CCAs_sailing_2021.jpg)

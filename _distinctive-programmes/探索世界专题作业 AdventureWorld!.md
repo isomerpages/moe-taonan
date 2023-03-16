@@ -15,3 +15,10 @@ The themes for AWeek! are as follows: <br>• P1 Responsible Pet Ownership
 • P4 Education and Career Awareness (with a focus on ageing population in Singapore)  
 • P5 Environmental Conservation
 
+![](/images/adventure.png)
+
+From 2023, selected AWeek! projects are integrated with VIA to allow students to contribute beyond the school by sharing their projects with the kindergarteners, the seniors at Elderly Homes or the community.
+
+  
+
+Through the programme, our students become engaged learners who enjoy the integration of their learning across different academic and non-academic subjects. In addition, they also build positive attitudes and values that are important in the 21st century.

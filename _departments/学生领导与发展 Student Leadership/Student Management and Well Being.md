@@ -27,5 +27,4 @@ We have a team of trained officers to see to the social-emotional, behavioural a
 | School Counsellor (Full-Time) | Ms Jennifer May Yin Pillay                                                |
 | School Counsellor (Part-Time) | Mdm Susan Mah                                                             |
 | Special Needs Officer         | Ms Nur Kamila Binte Jamaludin<br>Mdm Siew Wei Kuan<br>Ms Nur Shreen Sidek |
-| Teacher Counsellors           | Ms Praise Teo<br><br>Mr Teo Wei Loon                                      |
-
+| Teacher Counsellors           | Ms Praise Teo<br>Mr Teo Wei Loon                                          |

@@ -45,3 +45,9 @@ Our 3-Tier Peer Support Structure aims to promote an inclusive school environmen
 *   Tier 1: Cultivate a peer support mindset in each student and in every classroom
 *   Tier 2: Appoint and train Class Peer Support Leaders and CCA Peer Support Leaders to play a proactive role in looking out and providing support for peers in-need, and to appoint buddies for P1 and newly transferred students
 *  Tier 3: Appoint and train buddies to support students with higher needs
+
+<figure><img src="/images/prefect3.jpeg" style="width:50%"><figcaption>
+	
+**Morning Sharing by Prefects**<br>
+Prefects shared their learning experiences with peers to motivate them to live the school core values, to build their resilience and to be active members who contribute to the community.
+</figcaption></figure>

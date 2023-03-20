@@ -4,8 +4,6 @@ permalink: /partners/for-parents/curriculum-matters/
 description: ""
 third_nav_title: 家长资讯 For Parents
 ---
-
-
 ### Curriculum Matters
 * [Curriculum Briefing Slides](#CurriculumBriefingSlides)
 * [Booklists](#Booklists)

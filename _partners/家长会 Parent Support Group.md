@@ -52,4 +52,4 @@ We invite you to join our TNS PSG facebook group at [fb.com/groups/taonanpsg/](h
 
 Please join us on our TNS PSG facebook group at [fb.com/groups/taonanpsg/](https://www.facebook.com/groups/taonanpsg/) to be kept informed of the latest workshops and events for the various levels.
 
-Alternatively, you may sign up as a Parent Volunteer to support these activities, and be involved in planning or running these workshops and events. Please indicate your interest and preference in the online form [http://tinyurl.com/TNS-PSG](http://tinyurl.com/TNS-PSG).
+Alternatively, you may sign up as a Parent Volunteer to support these activities, and be involved in planning or running these workshops and events. Please indicate your interest and preference in the online form [https://tinyurl.com/TNSPSGNEWPV](https://tinyurl.com/TNSPSGNEWPV)

@@ -30,6 +30,7 @@ third_nav_title: 家长资讯 For Parents
 3. [2023 P3 Chinese Language Curriculum Information](/files/2023%20P3%20Chinese%20Language%20Curriculum%20Information.pdf)
 4. [2023 P3 Science Curriculum Information](/files/2023%20P3%20Science%20Curriculum%20Information.pdf)
 5. [2023 P3 Social Studies Curriculum Information](/files/2023%20P3%20Social%20Studies%20Curriculum%20Information.pdf)
+6. [2023 P3 Art and Music Curriculum Information](/files/2023_P3P4_ArtMusic.pdf)
 
 <u><strong> Primary 4 </strong></u>
 1. [2022 P4 English Language Curriculum Info](/files/2022%20P4%20EL%20Curriculum%20Information.pdf)

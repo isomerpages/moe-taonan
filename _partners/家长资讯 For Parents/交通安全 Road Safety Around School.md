@@ -4,8 +4,6 @@ permalink: /partners/for-parents/road-safety-around-school/
 description: ""
 third_nav_title: 家长资讯 For Parents
 ---
-
-
 To ensure the safety of our students and other road users, to minimise inconvenience to the nearby residents, and to maintain free access to emergency vehicles, we would appreciate your strong support in observing the following measures:
 
 **1\. No Parking of Vehicles when Visiting the School** <br>
@@ -34,6 +32,13 @@ v. Not to stop your vehicle directly in front of the school gate as it can obstr
 vi. Not to sound your vehicle horn indiscriminately in and around the school.  
   
 On our part, our security officers and school personnel will be present to direct and control the traffic as well as to guide you and other approaching vehicles along the affected stretch of driveway. We seek your understanding and fullest cooperation in this matter as our students’ safety and well-being is of utmost concern.
+
+### Road Safety Around the School
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TbXW6TYmc0o" title="SRSM 2022 Road Safety Video   Do Not Jaywalk &amp; Use Designated Crossing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j8rJ47ODF2Q" title="SRSM 2022 Road Safety Video   Distracted Crossing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 ### Map
 

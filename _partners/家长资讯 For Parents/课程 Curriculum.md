@@ -4,8 +4,6 @@ permalink: /partners/for-parents/curriculum/
 description: ""
 third_nav_title: 家长资讯 For Parents
 ---
-
-
 ### <a name="CurriculumBriefingSlides"></a>Curriculum Briefing Slides
 
 <u><strong> Primary 1 </strong></u> 

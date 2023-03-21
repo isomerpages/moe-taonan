@@ -25,13 +25,7 @@ third_nav_title: 家长资讯 For Parents
 7. [2023 P2 PE Curriculum Information](/files/2023%20P2%20PE%20Curriculum%20Information.pdf)
 
 <u><strong> Primary 3 </strong></u>
-1. [2022 P3 English Language Curriculum Info](/files/2022%20P3%20EL%20Curriculum%20Information.pdf)
-2. [2022 P3 Mathematics Curriculum Information](/files/2022%20P3%20Mathematics%20Curriculum%20Information.pdf)
-3. [2022 P3 Chinese Language Curriculum Information](/files/2022%20P3%20Chinese%20Language%20Curriculum%20Information.pdf)
-4. [2022 P3 Science Curriculum Information](/files/2022%20P3%20Science%20Curriculum%20Information.pdf) 
-5. [2022 P3 Social Studies Curriculum Information](/files/2022%20P3%20SS%20Curriculum%20Information.pdf)
-6. [2022 P3 Art and Music Curriculum Information](/files/2022_P3P4_ArtMusic_Curriculum_Information%20(1).pdf)
-7. [2022 P3 PE Curriculum Information](/files/2022%20P3%20PE%20Curriculum%20Information.pdf)
+1. 
 
 <u><strong> Primary 4 </strong></u>
 1. [2022 P4 English Language Curriculum Info](/files/2022%20P4%20EL%20Curriculum%20Information.pdf)

@@ -53,7 +53,8 @@ third_nav_title: 家长资讯 For Parents
 7. [2023 P5 PE Curriculum Information](/files/2023%20P5%20PE%20Curriculum%20Information.pdf)
 
 <u><strong> Primary 6 </strong></u>
-1. 
+1. [2023 P6 English Language Curriculum Info](/files/2023%20P6%20English%20Language%20Curriculum%20Information.pdf)
+2. [2023 P6 Mathematics Curriculum Information](/files/2023%20P6%20Mathematics%20Curriculum%20Information.pdf)
 9. [MOE Subject Based-Banding (EL Version)](/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf)
 10. [MOE Subject Based-Banding (CL Version)](/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf)
 

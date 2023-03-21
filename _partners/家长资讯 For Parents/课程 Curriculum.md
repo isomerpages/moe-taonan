@@ -59,6 +59,8 @@ third_nav_title: 家长资讯 For Parents
 4. [2023 P6 Science Curriculum Information](/files/2023%20P6%20Science%20Curriculum%20Information.pdf)
 5. [2023 P6 Social Studies Curriculum Information](/files/2023%20P6%20Social%20Studies%20Curriculum%20Information.pdf)
 6. [2023 P6 Art and Music Curriculum Information](/files/2023%20P6%20Art%20%20Music%20Curriculum%20Information.pdf)
+7. [2023 P6 PE Curriculum Information](/files/2023%20P6%20PE%20Curriculum%20Information.pdf)
+8. [Changes to the PSLE Scoring & S1 Posting (Version 2022)](/files/PSLE%202022_Parent%20Engagement.pdf)
 9. [MOE Subject Based-Banding (EL Version)](/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf)
 10. [MOE Subject Based-Banding (CL Version)](/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf)
 

@@ -11,3 +11,4 @@ third_nav_title: 家长资讯 For Parents
 * [2023 P4 Booklist](/files/Primary4.pdf)
 * [2023 P5 Booklist](/files/Primary5.pdf)
 * [2023 P6 Booklist](/files/Primary6.pdf)
+* [2023 BiCEP-P4 Booklist](/files/Primary%204%20BICEP.pdf)

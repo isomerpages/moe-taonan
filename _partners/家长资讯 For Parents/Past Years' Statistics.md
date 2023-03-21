@@ -185,3 +185,7 @@ third_nav_title: 家长资讯 For Parents
   </tr>
 </tbody>
 </table>
+
+
+_\*starting from 2022 onwards, Phases 2A(1) and 2A(2) will be combined into a single, Phase 2A. For more info, please visit_  [https://www.moe.gov.sg/primary/p1-registration/changes-to-p1-registration#phases](https://www.moe.gov.sg/primary/p1-registration/changes-to-p1-registration#phases).  
+

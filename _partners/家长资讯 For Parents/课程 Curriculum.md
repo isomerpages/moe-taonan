@@ -39,6 +39,7 @@ third_nav_title: 家长资讯 For Parents
 2. [2023 P4 Mathematics Curriculum Information](/files/2023%20P4%20Mathematics%20Curriculum%20Information.pdf)
 3. [2023 P4 Chinese Language Curriculum Information](/files/2023%20P4%20Chinese%20Language%20Curriculum%20Information.pdf)
 4. [2023 P4 Science Curriculum Information](/files/2023%20P4%20Science%20Curriculum%20Information.pdf)
+5. [2023 P4 Social Studies Curriculum Information](/files/2023%20P4%20Social%20Studies%20Curriculum%20Information.pdf)
 
 <u><strong> Primary 5 </strong></u>
 1. [2022 P5 English Language Curriculum Info](/files/2022%20P5%20EL%20Curriculum%20Information.pdf)

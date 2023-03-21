@@ -16,3 +16,5 @@ Click to download:
 * [2023 BiCEP-P5 Booklist](/files/Primary%205%20BICEP.pdf)
 * [2023 BiCEP-P6 Booklist](/files/Primary%206%20BICEP.pdf)
 * [2023 GEP4 Booklist](/files/Primary%204%20GEP.pdf)
+* [2023 GEP5 Booklist](/files/Primary%205%20GEP.pdf)
+* [2023 GEP6 Booklist](/files/Primary%206%20GEP.pdf)

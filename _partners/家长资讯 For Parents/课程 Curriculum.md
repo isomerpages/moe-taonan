@@ -13,6 +13,7 @@ third_nav_title: 家长资讯 For Parents
 4. [2023 P1 Social Studies Curriculum Information](/files/p1ss.pdf)
 5. [2023 P1 PAL Curriculum Information](/files/p1.pdf)
 6. [2023 P1 Art and Music Curriculum Information](/files/p1art.pdf)
+7. [2023 P1 PE Curriculum Information](/files/2023%20P1%20PE%20Curriculum%20Information.pdf)
    
 <u><strong> Primary 2 </strong></u>
 1. [2022 P2 English Language Curriculum Info](/files/2022_P2%20EL%20Curriculum%20Information_cleared.pdf)

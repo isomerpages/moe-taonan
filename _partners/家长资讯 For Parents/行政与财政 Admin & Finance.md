@@ -12,3 +12,4 @@ Forms
 * [2023 Leave of Absence Form](https://form.gov.sg/630455562c1e9100135303f6)
 
 ### Finance
+* [Application for Interbank GIRO for Payment and Refund of Fees, Enrichment Programmes and Charges](/files/giro_application_form_oct%202021.pdf)

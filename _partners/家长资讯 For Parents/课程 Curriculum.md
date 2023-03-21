@@ -35,7 +35,7 @@ third_nav_title: 家长资讯 For Parents
 8. [2023 CCA Open House](/files/2023%20CCA%20Open%20House.pdf) ***NEW**
 
 <u><strong> Primary 4 </strong></u>
-1. 
+1. [2023 P4 English Language Curriculum Info](/files/2023%20P4%20English%20Language%20Curriculum%20Information.pdf)
 
 <u><strong> Primary 5 </strong></u>
 1. [2022 P5 English Language Curriculum Info](/files/2022%20P5%20EL%20Curriculum%20Information.pdf)

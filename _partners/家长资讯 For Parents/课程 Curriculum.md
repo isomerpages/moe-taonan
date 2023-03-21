@@ -53,14 +53,7 @@ third_nav_title: 家长资讯 For Parents
 7. [2023 P5 PE Curriculum Information](/files/2023%20P5%20PE%20Curriculum%20Information.pdf)
 
 <u><strong> Primary 6 </strong></u>
-1. [2022 P6 English Language Curriculum Info](/files/2022%20P6%20EL%20Curriculum%20Information.pdf)
-2. [2022 P6 Mathematics Curriculum Information](/files/2022%20P6%20MA%20Curriculum%20Information.pdf)
-3. [2022 P6 Chinese Language Curriculum Information](/files/2022%20P6%20CL%20Curriculum%20Information.pdf)
-4. [2022 P6 Science Curriculum Information](/files/2022%20P6%20SC%20Curriculum%20Information.pdf)
-5. [2022 P6 Social Studies Curriculum Information](/files/2022%20P6%20SS%20Curriculum%20Information.pdf)
-6. [2022 P6 Art and Music Curriculum Information](/files/2022_P5P6_ArtMusic_Curriculum_Information%20(1).pdf)
-7. [2022 P6 PE Curriculum Information](/files/2022%20P6%20PE%20Curriculum%20Information.pdf)
-8. [Changes to the PSLE Scoring & S1 Posting from 2021](/files/PSLE%202022_Parent%20Engagement.pdf) (Updated)
+1. 
 9. [MOE Subject Based-Banding (EL Version)](/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf)
 10. [MOE Subject Based-Banding (CL Version)](/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf)
 

@@ -7,13 +7,8 @@ third_nav_title: 家长资讯 For Parents
 ### <a name="CurriculumBriefingSlides"></a>Curriculum Briefing Slides
 
 <u><strong> Primary 1 </strong></u> 
-1. [2022 P1 English Language Curriculum Info](/files/2022%20P1%20English%20Language%20Curriculum%20Information.pdf)
-2. [2022 P1 Mathematics Curriculum Information](/files/2022%20P1%20Mathematics%20Curriculum%20Information.pdf)
-3. [2022 P1 Chinese Language Curriculum Information](/files/2022%20P1%20Chinese%20Language%20Curriculum%20Information.pdf)
-4. [2022 P1 Social Studies Curriculum Information](/files/2022%20P1%20SS%20Curriculum%20Information.pdf) 
-5. [2022 P1 PAL Curriculum Information](/files/2022_P1P2_PAL_Curriculum_Information%20(1).pdf)
-6. [2022 P1 Art and Music Curriculum Information](/files/2022_P1P2_ArtMusic_Curriculum_Information_Updated%20(2).pdf)
-7. [2022 P1 PE Curriculum Information](/files/2022%20P1%20PE%20Curriculum%20Information.pdf)
+1. [2023 P1 English Language Curriculum Info](/files/2023%20P1%20English%20Language%20Curriculum%20Information.pdf)
+2. [2023 P1 Mathematics Curriculum Information](/files/2023%20P1%20Mathematics%20Curriculum%20Information.pdf)
    
 <u><strong> Primary 2 </strong></u>
 1. [2022 P2 English Language Curriculum Info](/files/2022_P2%20EL%20Curriculum%20Information_cleared.pdf)

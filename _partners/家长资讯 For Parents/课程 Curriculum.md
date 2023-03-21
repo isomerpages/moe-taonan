@@ -17,6 +17,8 @@ third_nav_title: 家长资讯 For Parents
    
 <u><strong> Primary 2 </strong></u>
 1. [2023 P2 English Language Curriculum Info](/files/2023%20P2%20English%20Language%20Curriculum%20Information.pdf)
+2. [2023 P2 Mathematics Curriculum Information](/files/2023%20P2%20Mathematics%20Curriculum%20Information.pdf)
+3. [2023 P2 Chinese Language Curriculum Information](/files/2023%20P2%20Chinese%20Language%20Curriculum%20Information.pdf)
 
 <u><strong> Primary 3 </strong></u>
 1. [2022 P3 English Language Curriculum Info](/files/2022%20P3%20EL%20Curriculum%20Information.pdf)

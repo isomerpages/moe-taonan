@@ -3,7 +3,6 @@ title: Quick Links
 permalink: /quicklinks/
 description: ""
 ---
-
 **Staff**
 * [All Ears (Form Builder)](https://forms.moe.edu.sg/)
 * [Form SG](https://form.gov.sg/)
@@ -35,3 +34,4 @@ description: ""
 * [Cyberwellness Tips](https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/ict-matters/)
 * [Forms (Student Matters and Finance)](https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/admin-n-finance/forms/)
 * [School-Home Partnership Resources](https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/school-home-partnership/)
+* [TNS Library Catalogue](https://schoolibrary.moe.edu.sg/taonan/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)

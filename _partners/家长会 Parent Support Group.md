@@ -26,7 +26,7 @@ The Tao Nan School Parent Support Group (TNS PSG) consists of parents from diver
 
 You can volunteer for Daily Duties, Art Explorer Programme (AE), Ad Hoc Programmes including Dads for Life, or as a Parent Class Representative (PCR).
 
-Please take a moment to indicate your interest and preference in the online form [http://tinyurl.com/TNS-PSG](http://tinyurl.com/TNS-PSG)
+Please take a moment to indicate your interest and preference in the online form [https://tinyurl.com/TNSPSGNEWPV](https://tinyurl.com/TNSPSGNEWPV)
 
 <u> Daily Duties </u> <br>
 PSG supports the school in these areas: Library, Recess and Language & Literacy support for pupils. Parents who are proficient in English should consider availing themselves and provide support to pupils who enter Primary 1 & 2 with weak English language and literacy skills.

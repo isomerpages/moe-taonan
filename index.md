@@ -1,32 +1,21 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Tao Nan School
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/taonanezgif.gif
+      key_highlights:
+        - title: Announcements
+          description: Click to view
+          url: https://staging.d27rdzq3nz64km.amplifyapp.com/announcement/
+        - title: Contact Us
+          description: Click to view
+          url: https://staging.d27rdzq3nz64km.amplifyapp.com/contact-us/
+        - title: Quick Links
+          description: Click to view
+          url: https://staging.d27rdzq3nz64km.amplifyapp.com/quicklinks/
 ---
-

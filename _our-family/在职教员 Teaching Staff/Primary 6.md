@@ -348,7 +348,7 @@ third_nav_title: 在职教员 Teaching Staff
   <tr>
     <td class="tg-f4yw" rowspan="3">6-2<br>(Mainstream)</td>
     <td class="tg-f4yw">English</td>
-    <td class="tg-f4yw">Ms Chia Jia Wei</td>
+    <td class="tg-f4yw">Ms Chia Jie Wei</td>
     <td class="tg-f4yw">chia_jie_wei@moe.edu.sg</td>
   </tr>
   <tr>

@@ -57,8 +57,6 @@ b.  Character and Citizenship Education (CCE)
 
 6.  The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 
-  
-
 7.  Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
 ### At Tao Nan School, the following Sexuality Education lessons will be taught in 2023:
@@ -139,12 +137,15 @@ b.  Character and Citizenship Education (CCE)
   </tr>
   <tr>
     <td class="tg-ktyi">Did You Know?*<br>(60 min)<br> </td>
-    <td class="tg-7yig">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+    <td class="tg-7yig">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do**’. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </td>
     <td class="tg-ktyi">Term 2 Week 7</td>
   </tr>
 </tbody>
 </table>
+
+**Please Note:<br>
+**For 2023, the Primary 5 lesson "Did You Know?" will also be conducted for the Primary 6 cohort.****
 
 ##### INFORMATION FOR PARENTS
 

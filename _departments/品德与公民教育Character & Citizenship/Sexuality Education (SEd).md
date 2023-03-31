@@ -137,7 +137,7 @@ b.  Character and Citizenship Education (CCE)
   </tr>
   <tr>
     <td class="tg-ktyi">Did You Know?*<br>(60 min)<br> </td>
-    <td class="tg-7yig">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **Stop-Think-Do** . <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+    <td class="tg-7yig">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **Stop-Think-Do . <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </td>
     <td class="tg-ktyi">Term 2 Week 7</td>
   </tr>

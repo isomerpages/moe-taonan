@@ -117,36 +117,36 @@ b.  Character and Citizenship Education (CCE)
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
 
+  
+    CCE(FTGP) THEME
+    LESSON TITLE / DURATION
+    Lesson OVERVIEW
+    TIME PERIOD<br>(e.g. Term 1 Week 2)
+  
+
+
+  
+    Growing Years
+    Are We More than Friends?<br>Lesson 1<br>(60 min)
+    In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.
+    Term 2 Week 5
+  
+  
+    Are We More than Friends?<br>Lesson 2<br>(60 min)<br> 
+    In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.
+    Term 2 Week 6
+  
+  
+    Did You Know?*<br>(60 min)<br> 
+    This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+
+    Term 2 Week 7
+  
 	
-	Please Note:<br><table class="tg">
-<thead>
-  <tr>
-    <th class="tg-dgl5">CCE(FTGP) THEME</th>
-    <th class="tg-dgl5">LESSON TITLE / DURATION</th>
-    <th class="tg-dgl5">Lesson OVERVIEW</th>
-    <th class="tg-dgl5">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi" rowspan="3">Growing Years</td>
-    <td class="tg-ktyi">Are We More than Friends?<br>Lesson 1<br>(60 min)</td>
-    <td class="tg-7yig">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
-    <td class="tg-ktyi">Term 2 Week 5</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Are We More than Friends?<br>Lesson 2<br>(60 min)<br> </td>
-    <td class="tg-7yig">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
-    <td class="tg-ktyi">Term 2 Week 6</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Did You Know?*<br>(60 min)<br> </td>
-    <td class="tg-7yig">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
-</td>
-    <td class="tg-ktyi">Term 2 Week 7</td>
-  </tr></tbody>
-</table>
-*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. 
+	*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. 
+	
+
+
 
 
 

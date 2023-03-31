@@ -2,23 +2,25 @@
 title: Sexuality Education (SEd)
 permalink: /departments/character-and-citizenship-education/sexuality-education-sed/
 description: ""
-third_nav_title: 品德与公民教育Character & Citizenship
+third_nav_title: 品德与公民教育Character &amp; Citizenship
 ---
-### MOE Sexuality Education (SEd) in Schools
+```
+
+```### MOE Sexuality Education (SEd) in Schools
 
 1.  Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
   
 
-2.  The **Goals** of Sexuality Education are:  
+2.  The&nbsp;**Goals**&nbsp;of Sexuality Education are:  
       
-    (a) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;  
-    (b) To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and  
-    (c) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
+    (a) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;  
+    (b) To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;social and emotional skills&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and  
+    (c) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;positive mainstream values and attitudes&nbsp;about sexuality.
 
   
 
-3.  The **Key Messages** of Sexuality Education are:  
+3.  The&nbsp;**Key Messages**&nbsp;of Sexuality Education are:  
       
     (a) Love and respect yourself as you love and respect others;  
       
@@ -30,7 +32,7 @@ third_nav_title: 品德与公民教育Character & Citizenship
 
   
 
-You may click [**here**](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.  
+You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.  
 
   
 
@@ -38,7 +40,7 @@ You may click [**here**](https://go.gov.sg/moe-sexuality-education) for more i
 
   
 
-4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [**here**](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
   
 
@@ -104,6 +106,48 @@ b.  Character and Citizenship Education (CCE)
 
 **PRIMARY 6**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">CCE(FTGP) THEME</th>
+    <th class="tg-dgl5">LESSON TITLE / DURATION</th>
+    <th class="tg-dgl5">Lesson OVERVIEW</th>
+    <th class="tg-dgl5">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi" rowspan="3">Growing Years</td>
+    <td class="tg-ktyi">Are We More than Friends<br>(60 min)</td>
+    <td class="tg-7yig">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-ktyi">Term 2 Week 6</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"> Did You Know?<br>(60 min)<br> </td>
+    <td class="tg-7yig">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-ktyi">Term 2 Week 7</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Keeping Myself Safe<br>(60 min)<br> </td>
+    <td class="tg-7yig">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-ktyi">Term 2 Week 8</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
 | UNIT | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, pupils will be able to: | TIME PERIOD<br><br>(e.g. Term 1 Week 2) |
 |---|---|---|---|
 | Are We More Than Friends? | Who Are My Friends?<br>(30 min) | identify the qualities of a healthy friendship<br>recognise the importance of making wise choices in friendship | Term 2 Week 5 |
@@ -122,8 +166,8 @@ b.  Character and Citizenship Education (CCE)
 
   
 
-9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be issued to parents at the start of the year via Parents’ Gateway and is also accessible [**here**](https://form.gov.sg/63b047bed1c132001268c0ac). The completed opt-out form is to be submitted by **18/01/2023.**
+9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be issued to parents at the start of the year via Parents’ Gateway and is also accessible&nbsp;[**here**](https://form.gov.sg/63b047bed1c132001268c0ac). The completed opt-out form is to be submitted by&nbsp;**18/01/2023.**
 
   
 
-10.  Parents can contact the school at **6442 8307** for discussion or to seek clarification about the school’s Sexuality Education programme.
+10.  Parents can contact the school at&nbsp;**6442 8307**&nbsp;for discussion or to seek clarification about the school’s Sexuality Education programme.

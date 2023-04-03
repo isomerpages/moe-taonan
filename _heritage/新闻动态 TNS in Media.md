@@ -3,9 +3,6 @@ title: 新闻动态 TNS in Media
 permalink: /heritage/tns-in-media/permalink/
 description: ""
 ---
-[LINKS BROKEN]
-
-
 <p><a href="[google.com/linkhere](http://google.com/linkhere)"><img style="width:50%" src="/images/tns1.png"></a></p>
 
 <p><a href="[google.com/linkhere](http://google.com/linkhere)"><img style="width:50%" src="/images/tns2.png"></a></p>

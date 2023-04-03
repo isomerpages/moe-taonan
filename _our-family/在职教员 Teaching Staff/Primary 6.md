@@ -271,7 +271,7 @@ third_nav_title: 在职教员 Teaching Staff
     <td class="tg-f4yw" rowspan="3">6I<br>(Mixed Form Class)</td>
     <td class="tg-f4yw">Form Teacher 1</td>
     <td class="tg-f4yw">Mdm Tan Su Ling, Violet</td>
-    <td class="tg-f4yw">tan_su-ling_violet@moe.edu.sg</td>
+    <td class="tg-f4yw">tan_su_ling_violet@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-f4yw">Form Teacher 2</td>
@@ -348,7 +348,7 @@ third_nav_title: 在职教员 Teaching Staff
   <tr>
     <td class="tg-f4yw" rowspan="3">6-2<br>(Mainstream)</td>
     <td class="tg-f4yw">English</td>
-    <td class="tg-f4yw">Ms Chia Jia Wei</td>
+    <td class="tg-f4yw">Ms Chia Jie Wei</td>
     <td class="tg-f4yw">chia_jie_wei@moe.edu.sg</td>
   </tr>
   <tr>

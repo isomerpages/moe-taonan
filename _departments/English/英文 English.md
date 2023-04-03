@@ -1,14 +1,13 @@
 ---
 title: 英文 English
-permalink: /departments/english/
+permalink: /departments/english/english/
 description: ""
 third_nav_title: English
 ---
-
 ### Vision / Mission
 
 **Vision** <br>
-A stimulating and enriching language learning environment for our pupils 
+A stimulating and enriching language learning environment for our pupils&nbsp;
 
 **Mission** <br>
 To develop confident and eloquent speakers and writers of English
@@ -18,7 +17,7 @@ To develop confident and eloquent speakers and writers of English
 
 **(1) STELLAR Curriculum \[Primary 1 to 6\]**
 
-STELLAR stands for Strategies for Teaching English Language Learning and Reading. STELLAR is currently being implemented from Primary 1 to 6. 
+STELLAR stands for Strategies for Teaching English Language Learning and Reading. STELLAR is currently being implemented from Primary 1 to 6.&nbsp;
 
 The aims of STELLAR are to: <br>
 1) strengthen reading, speaking, listening and writing skills <br>

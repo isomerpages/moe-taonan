@@ -9,13 +9,9 @@ third_nav_title: English
 2022 Edition
 ------------
 
-[file size exceeds 5mb, cannot be uploaded]
-
 ![](/images/img002.jpeg)
 
 2021 Edition
 ------------
-
-[file size exceeds 5mb, cannot be uploaded]
 
 ![](/images/img001.jpeg)

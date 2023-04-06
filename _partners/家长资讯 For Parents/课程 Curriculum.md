@@ -60,15 +60,18 @@ third_nav_title: 家长资讯 For Parents
 5. [2023 P6 Social Studies Curriculum Information](/files/2023%20P6%20Social%20Studies%20Curriculum%20Information.pdf)
 6. [2023 P6 Art and Music Curriculum Information](/files/2023%20P6%20Art%20%20Music%20Curriculum%20Information.pdf)
 7. [2023 P6 PE Curriculum Information](/files/2023%20P6%20PE%20Curriculum%20Information.pdf)
-8. [Changes to the PSLE Scoring & S1 Posting (Version 2022)](/files/PSLE%202022_Parent%20Engagement.pdf)
+8. [Changes to the PSLE Scoring &amp; S1 Posting (Version 2022)](/files/PSLE%202022_Parent%20Engagement.pdf)
 9. [MOE Subject Based-Banding (EL Version)](/files/MOE_SBB_ENG_revised%201%20Mar%202018.pdf)
 10. [MOE Subject Based-Banding (CL Version)](/files/MOE_SBB_CHI_revised%201%20Mar%202018.pdf)
+11. [PSLE Scoring System](https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html)
+12. [DSA Sec Matters](https://www.moe.gov.sg/secondary/dsa)
+13. [Sec 1 Posting](https://www.moe.gov.sg/secondary/s1-posting)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lNbr5rLSxAM?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lNbr5rLSxAM?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <br> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WOi1eoSiLMs?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WOi1eoSiLMs?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 _Parents Resources:_ <br>
 [5 Love Languages of Children Presentation.pdf](/files/5%20Love%20Languages%20of%20Children%20Presentation.pdf) <br>
@@ -78,4 +81,3 @@ _Parents Resources:_ <br>
 [[Resources for Parents] Tool 4 Gratitude Habits.pdf](/files/Resources%20for%20Parents%20Tool%204%20Gratitude%20Habits.pdf) <br>
 [NurtureSG 5 Habit hacks.pdf](/files/NurtureSG%205%20Habit%20hacks.pdf) <br>
 [Resilience boosters.pdf](/files/Resilience%20boosters.pdf)
-

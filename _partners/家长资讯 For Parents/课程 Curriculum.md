@@ -4,6 +4,23 @@ permalink: /partners/for-parents/curriculum/
 description: ""
 third_nav_title: 家长资讯 For Parents
 ---
+### <a name="Booklist"></a>Booklist
+
+Click to download:
+* [2023 P1 Booklist](/files/Primary1.pdf)
+* [2023 P2 Booklist](/files/Primary2.pdf)
+* [2023 P3 Booklist](/files/Primary3.pdf)
+* [2023 P4 Booklist](/files/Primary4.pdf)
+* [2023 P5 Booklist](/files/Primary5.pdf)
+* [2023 P6 Booklist](/files/Primary6.pdf)
+* [2023 P6 Foundation Booklist](/files/Primary6%20Foundation.pdf)
+* [2023 BiCEP-P4 Booklist](/files/Primary%204%20BICEP.pdf)
+* [2023 BiCEP-P5 Booklist](/files/Primary%205%20BICEP.pdf)
+* [2023 BiCEP-P6 Booklist](/files/Primary%206%20BICEP.pdf)
+* [2023 GEP4 Booklist](/files/Primary%204%20GEP.pdf)
+* [2023 GEP5 Booklist](/files/Primary%205%20GEP.pdf)
+* [2023 GEP6 Booklist](/files/Primary%206%20GEP.pdf)
+
 ### <a name="CurriculumBriefingSlides"></a>Curriculum Briefing Slides
 
 <u><strong> Primary 1 </strong></u> 

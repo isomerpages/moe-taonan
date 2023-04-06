@@ -4,11 +4,13 @@ permalink: /partners/for-parents/curriculum/
 description: ""
 third_nav_title: 家长资讯 For Parents
 ---
-### Curriculum <a name="backtotop">
-* [Booklist](booklist)
-* [Curriculum Briefing Slides](curriculumbriefingslides)
+### Curriculum <a name="backtotop"></a>
+* [Booklist](#Booklist)
+* [Curriculum Briefing Slides](#CurriculumBriefingSlides)
 
-### </a><a name="Booklist"></a>Booklist
+----------------------
+
+### <a name="Booklist"></a>Booklist
 
 Click to download:
 * [2023 P1 Booklist](/files/Primary1.pdf)

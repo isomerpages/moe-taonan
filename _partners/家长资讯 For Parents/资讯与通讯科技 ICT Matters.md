@@ -4,11 +4,11 @@ permalink: /partners/for-parents/ict-matters/
 description: ""
 third_nav_title: 家长资讯 For Parents
 ---
-### ICT Matters <a name="backtotop">
+### ICT Matters <a name="backtotop"></a>
 * [Student Portals](#StudentPortals)
 * [Cyber Wellness](#CyberWellness)
 
-### </a><a name="StudentPortals"></a>Student Portals
+### <a name="StudentPortals"></a>Student Portals
 
 [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)  
 * [Student iCON Onboarding Guide](/files/TNS%20-%20Onboarding%20Guide%20for%20Student%20iCON_for%20PG.pdf)

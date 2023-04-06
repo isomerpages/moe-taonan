@@ -26,7 +26,7 @@ description: ""
 *   学会爱
 
 学生懂得关爱自身、家人、社会、国家及周遭的人事物。他们以德为先，弘扬文化，同时不忘饮水思源、服务社会。
-Love to learn &amp; Learn to Love 爱学习 学会爱
+
 
 * Love to Learn <br>
 Our pupils are passionate about learning; they are self-directed and lifelong learners with the knowledge, skills, values and attitudes to face future challenges.

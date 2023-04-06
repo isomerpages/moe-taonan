@@ -14,9 +14,9 @@ description: ""
 |   7  |   Mdm Sharon Yeo Guat Kheng  |   Corporate Support Officer  |    yeo_guat_kheng@moe.edu.sg   |
 |   8  |       Ms Tan Ah Cheng        |  Corporate Support Officer   |    tan_ah_cheng@moe.edu.sg     |
 |   9  |     Mdm Maisarah Abdullah    |  Corporate Support Officer   |  maisarah_abdullah@moe.edu.sg  |
-|  10  |       Mdm Cassandra Oh       |   Administration Assistant   |                -               |
-|  11  |       Mr Ng Yeow Pheng       |  Operations Support Officer  |                -               |
-|  12  |  Mr Samsudin Bin Haji Rahman |   Operations Support Officer |               -                |
+|  10  |       Mdm Cassandra Oh       |   Receptionist   |                -               |
+|  11  |  Mr Samsudin Bin Haji Rahman |   Operations Support Officer |               -                |
+|  12  |       Mr Seah Teong Hwa      |  Operations Support Officer  |                -               |
 |  13  |        Mr Soh Chin Teck      |   Operations Support Officer |                -               |
 |  14  |       Ms Tan Siew Hong       |  Operations Support Officer  |                -               |
 |  15  |       Mr Teo Hai Guan        |  Operations Support Officer  |                -               |
@@ -24,4 +24,4 @@ description: ""
 |  17  |       Mr Muhammad Azmi       |    Desktop Engineer (NCS)    |     g-ncs5240pde@ncs.com.sg    |
 |  18  |    Mr Kris Khoo Tiong Gee    |    Desktop Engineer (NCS)    |     g-ncs5240pde@ncs.com.sg    |
 
-**UPDATED ON 03 January 2023**
+**UPDATED ON 06 APRIL 2023**

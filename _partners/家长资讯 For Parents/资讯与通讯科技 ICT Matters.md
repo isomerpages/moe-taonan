@@ -4,12 +4,9 @@ permalink: /partners/for-parents/ict-matters/
 description: ""
 third_nav_title: 家长资讯 For Parents
 ---
-
-
-### ICT Matters <a name="backtotop">
+### ICT Matters <a name="backtotop"></a>
 * [Student Portals](#StudentPortals)
-* [Cyberwellness](#Cyberwellness)
-* [Home-Based Learning](#Home-BasedLearning)
+* [Cyber Wellness](#CyberWellness)
 
 ### <a name="StudentPortals"></a>Student Portals
 
@@ -23,7 +20,7 @@ third_nav_title: 家长资讯 For Parents
 
 ------------
 
-### <a name="Cyberwellness"></a>Cyberwellness
+### <a name="CyberWellness"></a>Cyber Wellness
 [Back to top](#backtotop)
 
 ### What is Cyber Wellness?
@@ -50,8 +47,4 @@ For more information on MOE’s Cyber Wellness Programme and useful resources, p
 * [How to Stop People from Adding You to WhatsApp Groups on iPhone and Android](/files/How%20to%20Stop%20People%20From%20Adding%20You%20to%20WhatsApp%20Groups%20on%20iPhone%20and%20Android.pdf)
 * [Cyber Wellness Tips for Parents on Parental Control (Content and Privacy Restrictions)](/files/2021%20Cyber%20Wellness%20Tips%20Parental%20Control.pdf)
 
-------------
-
-### <a name="Home-BasedLearning"></a>Home-Based Learning
-
-_Page under construction_
+----------

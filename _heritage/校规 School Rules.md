@@ -4,8 +4,6 @@ permalink: /heritage/school-rules/
 description: ""
 ---
 ### 校规 School Rules
-校规
---
 
 1.  学生须忠于学校和新加坡 。唱国歌、念信约和唱校歌时保持立正。
 2.  新加坡籍学生须唱国歌和念信约，念信约时将右拳放在左胸前。
@@ -19,8 +17,7 @@ description: ""
 10.  学生不得拥有和携带具伤害性的工具。
 11.  学生发起的任何与学校相关的问卷调查和请愿，以及在各媒体上传的文字和制作（从概念到实施及传播阶段），都必须得到校长的批准。
 
-<img src="/images/rules.jpeg" 
-     style="width:80%">
+<img src="/images/rules.jpeg" style="width:80%">
 
 ### School Rules 
 
@@ -36,5 +33,4 @@ description: ""
 10.  All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
 11.  Any school-related student-initiated survey/petition/media production must be approved by Principal from the stage of conceptualisation to implementation/ dissemination.
 
-<img src="/images/rules_image.jpg" 
-     style="width:80%">
+<img src="/images/rules_image.jpg" style="width:80%">

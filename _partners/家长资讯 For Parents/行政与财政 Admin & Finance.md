@@ -7,7 +7,7 @@ third_nav_title: 家长资讯 For Parents
 Forms
 =====
 ### Student Matters
-* [2023 Request Form for Updating of Student’s Address](https://pg.moe.edu.sg/forms/sdf)
+* [2023 Updating of Student’s Information](https://pg.moe.edu.sg/forms/sdf)
 * [2023 Waiting List Form](https://form.gov.sg/630451640386aa0012717828)
 * [2023 Leave of Absence Form](https://form.gov.sg/630455562c1e9100135303f6)
 

@@ -3,7 +3,6 @@ title: 教师领导 Teacher and Leaders
 permalink: /our-family/teacher-leaders/
 description: ""
 ---
-
 | S/No. |               Name              |                  Designation                 |                E-mail                |
 |:-----:|:-------------------------------:|:--------------------------------------------:|:------------------------------------:|
 |   1   |    Mr Ngiam Tee Teng Matthew    |              Lead Teacher (HAL)              |       ngiam_tee_teng@moe.edu.sg      |
@@ -20,4 +19,4 @@ description: ""
 |   12  |  Mdm Nadiah Binte Abdul Khalik  |  Senior Teacher (Learning Needs) (Internal)  |    nadiah_abdul_khalik@moe.edu.sg    |
 |   13  |  Mr Mohamed Reza B Abdul Rashid |        Senior Teacher (PE) (Internal)        | mohamed_reza_abdul_rashid@moe.edu.sg |
 
-**UPDATED ON 03 January 2023**
+**Updated on 03 January 2023**

@@ -2,7 +2,7 @@
 title: Sexuality Education (SEd)
 permalink: /departments/character-and-citizenship-education/sexuality-education-sed/
 description: ""
-third_nav_title: 品德与公民教育Character & Citizenship
+third_nav_title: 品德与公民教育Character &amp; Citizenship
 ---
 ### MOE Sexuality Education (SEd) in Schools
 
@@ -34,21 +34,15 @@ You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education)&nbsp;fo
 
   
 
-**Overview of Tao Nan School’s Sexuality Education Programme for 2023**
-
-  
+### Overview of Tao Nan School’s Sexuality Education Programme for 2023
 
 4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
-
-  
 
 5.  The subjects that incorporate topics on sexuality include:
 
 a.  Science <br>
 b.  Character and Citizenship Education (CCE)  
     
-
-  
 
 <u>**Sexuality Education Lessons:**</u>
 
@@ -145,14 +139,10 @@ b.  Character and Citizenship Education (CCE)
 **Please Note:<br>
 **For 2023, the Primary 5 lesson "Did You Know?" will also be conducted for the Primary 6 cohort.****
 
-##### INFORMATION FOR PARENTS
+### INFORMATION FOR PARENTS
 
 8.  Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-  
-
 9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be issued to parents at the start of the year via Parents’ Gateway and is also accessible&nbsp;[**here**](https://form.gov.sg/63b047bed1c132001268c0ac). The completed opt-out form is to be submitted by&nbsp;**18/01/2023.**
-
-  
 
 10.  Parents can contact the school at&nbsp;**6442 8307**&nbsp;for discussion or to seek clarification about the school’s Sexuality Education programme.

@@ -26,7 +26,7 @@ Our key drivers for Character &amp; Citizenship Education are the
 
 These are aligned to the Character &amp; Citizenship Education curriculum and each is customised to meet the diverse needs of our students. Our specially crafted activities fill the students with a sense of confidence and pave their way to becoming concerned citizens who are active contributors to the community and nation.
 
-#### Social-Emotional Programme
+**Social-Emotional Programme**<br>
 We take care of the social and emotional well-being of each student and develop their social-emotional competencies through our specially-designed programmes and individualised support.
 
 Our Social-Emotional Programmes are:
@@ -44,7 +44,7 @@ Programmes:
 2. Growth Mindset
 3. Termly Star Pupil Award
 
-#### Values-in-Action (VIA) Programme 
+**Values-in-Action (VIA) Programme**<br> 
 Taonanites are encouraged to display positive traits and internalise the values through our level and school based programmes. The level-based programmes are planned in accordance with an expanding framework and are designed in alignment with the head, heart and hands approach. Thus the students not only feel a sense of empathy for another individual but are inspired to make the community a better place for one and all.
 
 | Level | Our Values in Action Programmes |
@@ -56,9 +56,8 @@ Taonanites are encouraged to display positive traits and internalise the values 
 | Primary 5 | Conservation Project |
 | Primary 5 (GEP) | Service Learning Project |
 | Primary 6 | Games Day cum Jumble Sale |
-| | | 
 
-#### National Education (NE)
+**National Education (NE)**<br>
 NE is part of our holistic education. It aims to develop national cohesion, cultivate the instinct for survival as a nation, and instil confidence in our nation's future. It also emphasises the need to cultivate a sense of rootedness and belonging to Singapore.
 
 The 6 NE Messages are:
@@ -82,7 +81,7 @@ Programmes:
 5. Celebrations of Festivals
 6. NE Ambassador Programme
 
-#### 3Rs
+**3Rs**<br>
 We aim to inculcate in our pupils the right values, attitudes and habits to ensure environmental sustainability. Thus, our Green Activists are tasked to encourage their classmates to adopt environmentally friendly practices. These Green Activists also assist in the up keeping of our Butterfly Garden and Fernery. In addition, they are involved in composting and the creation of an enzyme cleaner that they utilise to keep their classrooms clean while keeping the insects at bay.
 
 Programmes:

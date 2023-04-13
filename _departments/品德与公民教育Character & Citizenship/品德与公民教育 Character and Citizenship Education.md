@@ -2,14 +2,12 @@
 title: 品德与公民教育 Character and Citizenship Education
 permalink: /departments/character-and-citizenship-education/
 description: ""
-third_nav_title: 品德与公民教育Character & Citizenship
+third_nav_title: 品德与公民教育Character &amp; Citizenship
 ---
-
-
 ### Vision / Mission
 
 **Vision** <br>
-Love to Learn & Learn to Love  
+Love to Learn &amp; Learn to Love  
 
 **Mission** <br>
 To nurture innovative pupils of exemplary character with a love for learning.
@@ -19,16 +17,16 @@ To nurture innovative pupils of exemplary character with a love for learning.
 ### Key Programmes / Activities
 Character Development is one of the three strategic trusts of the school. Tao Nan School believes that every Taonanite must be individuals who possess a sound set of values. Thus, we plan programmes which allow our students to comprehend and display positive character and citizenship traits.
 
-Our key drivers for Character & Citizenship Education are the
+Our key drivers for Character &amp; Citizenship Education are the
 * Social-Emotional Programme
 * Values Education Curriculum
 * Values-in-Action Programme
 * National Education Programme
 * 3R Programme
 
-These are aligned to the Character & Citizenship Education curriculum and each is customised to meet the diverse needs of our students. Our specially crafted activities fill the students with a sense of confidence and pave their way to becoming concerned citizens who are active contributors to the community and nation.
+These are aligned to the Character &amp; Citizenship Education curriculum and each is customised to meet the diverse needs of our students. Our specially crafted activities fill the students with a sense of confidence and pave their way to becoming concerned citizens who are active contributors to the community and nation.
 
-<u> <strong> Social-Emotional Programme </strong></u> <br>
+**Social-Emotional Programme**<br>
 We take care of the social and emotional well-being of each student and develop their social-emotional competencies through our specially-designed programmes and individualised support.
 
 Our Social-Emotional Programmes are:
@@ -42,11 +40,11 @@ Our Social-Emotional Programmes are:
 We believe that values are both caught and taught. Thus, our programmes are anchored on our school core values and taught using explicit and implicit approaches.
 
 Programmes:
-1. Values Education Assembly Talks & Level-based Lessons
+1. Values Education Assembly Talks &amp; Level-based Lessons
 2. Growth Mindset
 3. Termly Star Pupil Award
 
-<u><strong> Values-in-Action (VIA) Programme </strong></u><br>
+**Values-in-Action (VIA) Programme**<br> 
 Taonanites are encouraged to display positive traits and internalise the values through our level and school based programmes. The level-based programmes are planned in accordance with an expanding framework and are designed in alignment with the head, heart and hands approach. Thus the students not only feel a sense of empathy for another individual but are inspired to make the community a better place for one and all.
 
 | Level | Our Values in Action Programmes |
@@ -58,9 +56,8 @@ Taonanites are encouraged to display positive traits and internalise the values 
 | Primary 5 | Conservation Project |
 | Primary 5 (GEP) | Service Learning Project |
 | Primary 6 | Games Day cum Jumble Sale |
-| | | 
 
-<u><strong> National Education (NE) </strong></u><br>
+**National Education (NE)**<br>
 NE is part of our holistic education. It aims to develop national cohesion, cultivate the instinct for survival as a nation, and instil confidence in our nation's future. It also emphasises the need to cultivate a sense of rootedness and belonging to Singapore.
 
 The 6 NE Messages are:
@@ -84,7 +81,7 @@ Programmes:
 5. Celebrations of Festivals
 6. NE Ambassador Programme
 
-<u><strong> 3Rs </strong></u><br>
+**3Rs**<br>
 We aim to inculcate in our pupils the right values, attitudes and habits to ensure environmental sustainability. Thus, our Green Activists are tasked to encourage their classmates to adopt environmentally friendly practices. These Green Activists also assist in the up keeping of our Butterfly Garden and Fernery. In addition, they are involved in composting and the creation of an enzyme cleaner that they utilise to keep their classrooms clean while keeping the insects at bay.
 
 Programmes:

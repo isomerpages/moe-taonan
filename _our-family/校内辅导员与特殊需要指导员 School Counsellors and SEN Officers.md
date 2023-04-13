@@ -10,4 +10,4 @@ description: ""
 |   3  |        Mdm Siew Wei Kuan        |    SEN Officer    |      siew_wei_kuan@moe.edu.sg      |
 |   4  |   Miss Nur Shreen Binte Sidek   |    SEN Officer    |    nur_shreen_sidek@moe.edu.sg     |
 
-**UPDATED ON 03 Jan 2023**
+**Updated on 03 January 2023**

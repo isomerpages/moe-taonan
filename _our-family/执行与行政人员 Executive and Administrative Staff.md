@@ -24,4 +24,4 @@ description: ""
 |  17  |       Mr Muhammad Azmi       |    Desktop Engineer (NCS)    |     g-ncs5240pde@ncs.com.sg    |
 |  18  |    Mr Kris Khoo Tiong Gee    |    Desktop Engineer (NCS)    |     g-ncs5240pde@ncs.com.sg    |
 
-**UPDATED ON 06 APRIL 2023**
+**Updated on 06 April 2023**

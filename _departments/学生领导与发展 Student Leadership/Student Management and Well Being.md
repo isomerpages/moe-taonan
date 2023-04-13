@@ -14,7 +14,7 @@ To enhance character development and social and emotional well-being of each stu
 
 ### Key Programmes / Activities  
 
-**Counselling and Special Needs Support**<br>
+**<u>Counselling and Special Needs Support</u>**<br>
 We have a team of trained officers to see to the social-emotional, behavioural and learning needs of our students. Students can approach our school counsellors when they need support or a listening ear. Parents can also approach any of our officers for assistance.
 
 | Designation                   | Name                                                                      |

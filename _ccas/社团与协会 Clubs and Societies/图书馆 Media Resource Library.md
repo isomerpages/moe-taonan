@@ -4,7 +4,7 @@ permalink: /ccas/clubs-and-societies/media-resource-library/
 description: ""
 third_nav_title: 社团与协会 Clubs and Societies
 ---
-**Vision:** Learners For Life
+**Vision:**&nbsp;Learners For Life
 
 **Objectives:** <br>
 To cultivate a love for reading and to encourage independent reading and research; <br>
@@ -21,6 +21,7 @@ Harnessing IT by equipping pupil librarians with ICT skills to organise their re
 Conducting Chinese language-infused activities to establish a literacy-rich learning environment;
 
 **Teachers In-Charge:**
+
 | NAME OF CCA<br>TEACHER-IN-CHARGE |           Email          |    ROLE    |
 |:--------------------------------:|:------------------------:|:----------:|
 |    Miss Poh Cheng Yee [傅静瑜]   | poh_cheng_yee@moe.edu.sg | Overall IC |

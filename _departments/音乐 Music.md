@@ -15,16 +15,14 @@ To provide an enriching environment where students can have fun learning music a
 
 ### Key Programmes / Activities
 
-**P1:** Playing of Xylophone and Chinese Instruments Appreciation during curriculum time
+|Level|Key Programmes|
+| ----- | ----- |
+| Primary 1 | Playing of Xylophone and Chinese Instruments Appreciation during curriculum time |
+| Primary 2 | Playing of Angklung and Chinese Instruments Appreciation during curriculum time |
+| Primary 3 | Playing of Ukulele (Beginners) and Chinese Instruments Appreciation during curriculum time |
+| Primary 4 | Playing of Ukulele (Intermediate) and Chinese Instruments Appreciation during curriculum time |
+| Primary 5 | Chinese Opera Programme during curriculum time |
 
-**P2:** Playing of Angklung and Chinese Instruments Appreciation during curriculum time
-
-**P3:** Playing of Ukulele (Beginners) and Chinese Instruments Appreciation during curriculum time
-
-**P4:** Playing of Ukulele (Intermediate) and Chinese Instruments Appreciation during curriculum time
-
-**P5:** Chinese Opera Programme during curriculum time
-
-**Talent Development Programmes:** <br>
+**<u> Talent Development Programme</u>** <br>
 1.  TNS The Voice Competition
 2.  Aesthetics Week!

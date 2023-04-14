@@ -15,12 +15,14 @@ To promote lifelong enjoyment and an appreciation for artistic works; developing
 
 ### Key Programmes / Activities
 
-**P1:**&nbsp;Chinese Calligraphy during curriculum time&nbsp;<br>
-**P2:**&nbsp;Chinese Calligraphy during curriculum time<br>
-**P3:**&nbsp;Clay Relief and Chinese Craft during curriculum time<br>
-**P4:**&nbsp;Clay Animal Figurine during curriculum time<br>
-**P5:**&nbsp;Watercolour Painting &amp; Charcoal Drawing during curriculum time<br>
-**P6:**&nbsp;3D Pen-Painting During curriculum time
+| Level | Key Programmes |
+| -------- | -------- |
+| Primary 1 | Chinese Calligraphy during curriculum time |
+| Primary 2 | Chinese Calligraphy during curriculum time |
+| Primary 3 | Clay Relief and Chinese Craft during curriculum time |
+| Primary 4 | Clay Animal Figurine during curriculum time |
+| Primary 5 | Watercolour Painting &amp; Charcoal Drawing during curriculum time |
+|Primary 6 | 3D Pen-Painting During curriculum time|
 
 **<u>Partnership and Programmes&nbsp;</u>**
 

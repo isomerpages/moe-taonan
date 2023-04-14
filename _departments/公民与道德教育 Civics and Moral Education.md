@@ -16,7 +16,7 @@ To nurture our pupils to be concerned citizens of Singapore who are exemplary in
 ### Key Programmes / Activities
 
 **全民活动:** <br>
-1. 学校核心价值观积分表
+学校核心价值观积分表
 * 一年级绘画比赛
 * 二年级绘画比赛
 * 三年级卡片设计比赛
@@ -25,6 +25,6 @@ To nurture our pupils to be concerned citizens of Singapore who are exemplary in
 * 六年级学校核心价值观报章读后感比赛
 
 **校本课程:** <br>
-1. 福建会馆先贤陈嘉庚图书周会导读
+福建会馆先贤陈嘉庚图书周会导读
 * 一至三年级
 * 四至六年级

@@ -1,6 +1,6 @@
 ---
-title: Student Management and Well Being
-permalink: /departments/Student-Leadership/student-management-and-wellbeing/permalink/
+title: 学生管理和身心发展 Student Management and Well Being
+permalink: /departments/student-leadership/student-management-and-wellbeing/permalink/
 description: ""
 third_nav_title: 学生领导与发展 Student Leadership
 ---

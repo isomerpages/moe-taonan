@@ -1,5 +1,5 @@
 ---
-title: Sexuality Education (SEd)
+title: 性教育课 Sexuality Education (SEd)
 permalink: /departments/character-and-citizenship-education/sexuality-education-sed/
 description: ""
 third_nav_title: 品德与公民教育Character &amp; Citizenship

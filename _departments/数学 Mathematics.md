@@ -22,17 +22,17 @@ _(Source: Primary Mathematics Teaching and Learning Syllabus, 2013)_
 ### Key Programmes / Activities
 
 **<u>Learning Support Mathematics (LSM)</u>** <br>
-1. To provide early intervention support in Mathematics to students who need extra support in acquiring basic numeracy skills <br>
-2. To level up and help students achieve an age-appropriate mathematical age
+* To provide early intervention support in Mathematics to students who need extra support in acquiring basic numeracy skills
+* To level up and help students achieve an age-appropriate mathematical age
 
 **<u>FunMaths@Recess and FunMaths@Class</u>**<br>
-1. To foster interest in Mathematics through fun activities.
+* To foster interest in Mathematics through fun activities.<br>
 
 Students will have opportunities to work independently or collaborate with their peers and engage in mathematical thinking through resources such as puzzles, logic games and stories.
 
 **<u>Mathematics Special Programme (E2K Mathematics and Mathematical Olympiad)</u>** <br>
-1.  The E2K Mathematics Programme aims to develop students' mathematical reasoning skills and deepens their conceptual understanding through an inquiry approach.
- 
+The E2K Mathematics Programme aims to develop students' mathematical reasoning skills and deepens their conceptual understanding through an inquiry approach.
+
 The E2K Mathematics Programme is a Mathematics enrichment programme for selected upper primary (Primary 4 to Primary 6) students who demonstrate interest and ability in Mathematics. It aims to develop in students mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.
     
 Students will have opportunities to work independently or collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematical explorations specially designed for this programme. The rich learning experiences offered by the programme serve to help students to:

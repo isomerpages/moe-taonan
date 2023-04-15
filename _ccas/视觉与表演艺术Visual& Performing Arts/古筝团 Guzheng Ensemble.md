@@ -31,6 +31,4 @@ CCA Highlights
 
 Students from our Chinese Orchestra and Guzheng CCA engage in a cultural exchange through music with students from Opera Estate Primary School(OEPS)’s Angklung CCA.
 
-  
-
-Click&nbsp;**[here](https://www.taonan.moe.edu.sg/ccas/visual-and-performing-arts/chinese-orchestra/)**&nbsp;to find out more.
+Click&nbsp;**[here](https://www.taonan.moe.edu.sg/tns-oeps-cross-cultural-collaboration/)**&nbsp;to find out more.

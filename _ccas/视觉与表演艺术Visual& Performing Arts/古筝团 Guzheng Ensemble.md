@@ -2,7 +2,7 @@
 title: 古筝团 Guzheng Ensemble
 permalink: /ccas/visual-and-performing-arts/guzheng-ensemble/
 description: ""
-third_nav_title: 视觉与表演艺术Visual& Performing Arts
+third_nav_title: 视觉与表演艺术Visual&amp; Performing Arts
 ---
 道南学校古筝团通过弹奏和掌握中国最古老的乐器之一——古筝，让学生涵养心性，培养出高贵的情操和典雅的气质，加深他们对中国音乐作品和中国文化的认识。  
   
@@ -33,4 +33,4 @@ Students from our Chinese Orchestra and Guzheng CCA engage in a cultural exchang
 
   
 
-Click **[here](https://taonan.moe.edu.sg/cca-highlights/tns-oeps-cross-cultural-collaboration)** to find out more.
+Click&nbsp;**[here](https://www.taonan.moe.edu.sg/ccas/visual-and-performing-arts/chinese-orchestra/)**&nbsp;to find out more.

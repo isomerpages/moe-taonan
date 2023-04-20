@@ -20,7 +20,7 @@ description: ""
 | 9 | Miss Chia Jie Wei | LH - English Language 2 (Internal) | chia_jie_wei@moe.edu.sg |
 | 10 | Miss Chee Siok Tuan Janice | HOD - Mathematics | chee_siok_tuan@moe.edu.sg |
 | 11 | Mrs Francisca Tan | LH - Mathematics 1 | tan_sue_may_francisca@moe.edu.sg |
-| 12 | Mr Muhammad Yusuf Mirza B M A M | LH - Mathematics 2 (Internal) | muhammad_yusuf_mirza@moe.edu.sg |
+| 12 | Mr Muhammad Yusuf Mirza B M A M | LH - Mathematics 2 | muhammad_yusuf_mirza@moe.edu.sg |
 | 13 | Mdm Tan Seow Yun | HOD - Science | tan_seow_yun@moe.edu.sg |
 | 14 | Mrs Loh Shwu Hwa | LH - Science 2 | lin-loh_shwu_hwa@moe.edu.sg |
 | 15 | Mdm Tan Peng Gek | HOD - Chinese Language | tan_peng_gek@moe.edu.sg |
@@ -40,7 +40,7 @@ description: ""
 |  29 | Miss Chee Pey Yi	  | SH - Special Programme 2 (SP)<br>(Chinese Culture) (Internal)  | chee_pey_yi@moe.edu.sg  |
 |  30 | Mdm Lim Chii Huey  | SH - Bi-Cultural Chinese Elective Programme (BiCEP)  | lim_chii_huey@moe.edu.sg  |
 | 31 | Miss Ng Shao Chui Delisa | HOD - Student Leadership &amp; Development (SLD) | ng_shao_chui@moe.edu.sg |
-| 32 | Miss Koh Xin Rui Eleora | SH - Student Leadership (Internal) | koh_xin_rui@moe.edu.sg |
+| 32 | Miss Koh Xin Rui Eleora | SH - Student Leadership | koh_xin_rui@moe.edu.sg |
 | 33 | Miss Leong Lye Ching | SH - Partnership | leong_lye_ching@moe.edu.sg |
 | 34 | Mrs Ong- Chua Li Ling Eileen | HOD - Information Management | chua_li_ling_eileen@moe.edu.sg |
 | 35 | Mdm Goh Yen Ping | SH - Information Management | goh_yen_ping@moe.edu.sg |

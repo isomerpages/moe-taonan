@@ -21,4 +21,3 @@ The trainings aim to improve whole-body fitness and traditional stance training 
 |       Mrs Ong- Shen Pinxiu       |     shen_pinxiu@moe.edu.sg    |             |
 |     Mdm Soo Pei Chih [苏佩琪]    |    soo_pei_chih@moe.edu.sg    |             |
 |      Mdm Looi Yen Mei Wendy      | looi_yen_mei_wendy@moe.edu.sg |             |
-

@@ -20,4 +20,3 @@ The programme is centred on three key areas:
 |            Ms Siva PVL           |        siva_pvl@moe.edu.sg        |            |
 |        Miss Tan Hwee Jing        |      tan_hwee_jing@moe.edu.sg     |            |
 
-![](/images/Slide20.jpg)

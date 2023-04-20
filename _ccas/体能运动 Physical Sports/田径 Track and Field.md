@@ -18,4 +18,3 @@ The Track and Field team welcomes all Primary 3 to 6 pupils who are passionate a
 |       Mr Suhaili Bin Ramliee     |      suhaili_ramliee@moe.edu.sg      |            |
 |           Mdm Zhao Ang           |          zhao_ang@moe.edu.sg         |            |
 
-![](/images/Slide16.jpg)

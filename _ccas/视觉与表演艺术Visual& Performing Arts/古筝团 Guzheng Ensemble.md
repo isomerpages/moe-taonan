@@ -22,8 +22,6 @@ The vision of the Guzheng Club is to promote appreciation for Chinese musical pi
 |     Mdm Ang Sio Hoon [洪小芬]    | ang_sio_hoon@moe.edu.sg |             |
 |      Mdm Soh Shihui [苏诗惠]     |  soh_shihui@moe.edu.sg  |             |
 
-![](/images/Slide25.jpg)
-
 CCA Highlights
 --------------
 ![](/images/guzheng.jpeg)

@@ -29,7 +29,6 @@ In addition to the weekly practices, pupils are also given opportunities to perf
 |      Mdm Woo Jenny [邬燕妮]      |         woo_jenny@moe.edu.sg        |             |
 |    Miss Goh Lay Kian [吴丽娟]    |       goh_lay_kian@moe.edu.sg       |             |
 
-![](/images/Slide23.jpg)
 
 CCA Highlights
 --------------

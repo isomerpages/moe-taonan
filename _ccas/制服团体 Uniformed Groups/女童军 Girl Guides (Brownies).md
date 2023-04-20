@@ -19,7 +19,7 @@ As a Brownie in guiding, she will:
 * make a promise and try to live up to it;
 * find happiness in helping others.  
 
-You can find out more about us at [http://www.girlguides.org.sg](http://www.girlguides.org.sg/)
+You can find out more about us at&nbsp;[http://www.girlguides.org.sg](http://www.girlguides.org.sg/)
 
 **Teachers In-Charge:**
 
@@ -31,4 +31,3 @@ You can find out more about us at [http://www.girlguides.org.sg](http://www.gir
 |    Miss Jessilin Khee Shi Lin    | jessilin_khee_shi_lin@moe.edu.sg |            |
 |   Mdm Noraini Binte Mohamed Ali  |  noraini_mohamed_ali@moe.edu.sg  |            |
 
-![](/images/Slide19.jpg)

@@ -29,5 +29,3 @@ Outdoor activities your child will get to try out:
 |          Ms Chia Jie Wei         |       chia_jie_wei@moe.edu.sg       |            |
 |     Mrs Gurung- Lee Chin Min     |       lee_chin_min@moe.edu.sg       |            |
 | Mdm Nur Rasheeda Bte Mohd Ismail | nur_rasheeda_mohd_ismail@moe.edu.sg |            |
-
-![](/images/CCAs_outdoor_2021.jpg)

@@ -4,7 +4,7 @@ permalink: /ccas/physical-sports/basketball/
 description: ""
 third_nav_title: 体能运动 Physical Sports
 ---
-**The Basketball (Boys) team** comprises of two teams:
+**The Basketball (Boys) team**&nbsp;comprises of two teams:
 * School Team that takes part in National School Games (NSG) competitions
 * Recreational Team that participates in weekly training sessions
 
@@ -16,7 +16,7 @@ In the Senior Boys Division of the 2019 SPSSC Basketball Championships, the Bask
 
 In the Junior Boys Division, the Basketball (Boys) team participated in the inaugural edition of the competition featuring the new 3v3 format and emerged as Champions in the National Tier 1 competition.
 
-In Tao Nan School, basketball is more than a sport or a co-curricular activity, it is family. As a family, the **Basketball (Girls) team** develops every player’s skills, knowledge, and understanding of the game within the context of character development, the pursuit of individual and team excellence, and valuing team above self.
+In Tao Nan School, basketball is more than a sport or a co-curricular activity, it is family. As a family, the&nbsp;**Basketball (Girls) team**&nbsp;develops every player’s skills, knowledge, and understanding of the game within the context of character development, the pursuit of individual and team excellence, and valuing team above self.
 
 The effectiveness of the Basketball programme is evident in the results attained in the annual National School Games competitions, but more crucially in the character of every Basketball team member.
 
@@ -36,7 +36,3 @@ The Basketball (Girls) team continues to give their best every day so as to scal
 | Mr Mohammad Daud Teo B Mohd Anwar |        daud_teo@moe.edu.sg        |            |
 |      Mr Pang Say Wak [陈才发]     |      pang_say_wak@moe.edu.sg      |            |
 |      Mr Foo Siang Yong Terry      |     foo_siang_yong@moe.edu.sg     |            |
-
-![](/images/Slide11.jpg)
-
-![](/images/Slide12.jpg)

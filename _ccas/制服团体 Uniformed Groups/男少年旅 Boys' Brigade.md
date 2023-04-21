@@ -15,5 +15,3 @@ The BB Programme in Tao Nan School engages our BB Boys in outdoor and adventure 
 |      Mdm Han Huiwen Adeline      |  han_huiwen_adeline@moe.edu.sg  |            |
 |         Ms Ngoh Siew Teng        |    ngoh_siew_teng@moe.edu.sg    |            |
 |          Mrs Mimi Cheong         |       mimi_yeo@moe.edu.sg       |            |
-
-![](/images/Slide18.jpg)

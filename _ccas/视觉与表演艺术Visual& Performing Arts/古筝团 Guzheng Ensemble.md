@@ -2,7 +2,7 @@
 title: 古筝团 Guzheng Ensemble
 permalink: /ccas/visual-and-performing-arts/guzheng-ensemble/
 description: ""
-third_nav_title: 视觉与表演艺术Visual& Performing Arts
+third_nav_title: 视觉与表演艺术Visual&amp; Performing Arts
 ---
 道南学校古筝团通过弹奏和掌握中国最古老的乐器之一——古筝，让学生涵养心性，培养出高贵的情操和典雅的气质，加深他们对中国音乐作品和中国文化的认识。  
   
@@ -22,8 +22,6 @@ The vision of the Guzheng Club is to promote appreciation for Chinese musical pi
 |     Mdm Ang Sio Hoon [洪小芬]    | ang_sio_hoon@moe.edu.sg |             |
 |      Mdm Soh Shihui [苏诗惠]     |  soh_shihui@moe.edu.sg  |             |
 
-![](/images/Slide25.jpg)
-
 CCA Highlights
 --------------
 ![](/images/guzheng.jpeg)
@@ -31,6 +29,4 @@ CCA Highlights
 
 Students from our Chinese Orchestra and Guzheng CCA engage in a cultural exchange through music with students from Opera Estate Primary School(OEPS)’s Angklung CCA.
 
-  
-
-Click **[here](https://taonan.moe.edu.sg/cca-highlights/tns-oeps-cross-cultural-collaboration)** to find out more.
+Click&nbsp;**[here](https://www.taonan.moe.edu.sg/tns-oeps-cross-cultural-collaboration/)**&nbsp;to find out more.

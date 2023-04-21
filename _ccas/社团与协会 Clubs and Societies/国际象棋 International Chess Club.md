@@ -14,4 +14,3 @@ During training sessions, all students are taught basic, intermediate as well as
 |          Mdm Choo Kay Ngee         |        choo_kay_ngee@moe.edu.sg       |            |
 |   Mr Mohamad Suhirman Bin Zainal   |   mohamad_suhirman_zainal@moe.edu.sg  |            |
 
-![](/images/CCAs_%20chess_2021.jpg)

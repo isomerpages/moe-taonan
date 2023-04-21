@@ -21,4 +21,3 @@ The School Teams will have the opportunity to represent the school at team compe
 |        Mr Zhang Yu [张宇]        |     zhang_yu_b@moe.edu.sg    |              |
 |       Mr Zulhelmi Bin Omar       |   zulhelmi_omar@moe.edu.sg   |              |
 
-![](/images/Slide9.jpg)

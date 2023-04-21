@@ -20,4 +20,3 @@ Our sailors gain confidence and accomplishment from being able to man their own 
 |       Mdm Ng Li Min Janice       |   ng_li_min_janice@moe.edu.sg   |            |
 |      Miss Vaswani Deepa Hiro     |  vaswani_deepa_hiro@moe.edu.sg  |            |
 
-![](/images/CCAs_sailing_2021.jpg)

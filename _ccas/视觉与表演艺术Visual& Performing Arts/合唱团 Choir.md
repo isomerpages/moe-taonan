@@ -2,7 +2,7 @@
 title: 合唱团 Choir
 permalink: /ccas/visual-and-performing-arts/choir/
 description: ""
-third_nav_title: 视觉与表演艺术Visual& Performing Arts
+third_nav_title: 视觉与表演艺术Visual&amp; Performing Arts
 ---
 Tao Nan School Choir comprises members from Primary 1 to 6 who display a keen interest in singing and enjoy stage performances tremendously. Our practices include learning a wide variety of songs in many languages and of different genres. We also learn the correct breathing techniques for singing and acquire confidence in stage performances.
 
@@ -21,5 +21,3 @@ We had the honour of performing at the Istana for the Singapore Bicentennial and
 |      Mdm Zahidah Binte Osman     |     zahidah_osman@moe.edu.sg     |             |
 |     Mdm Thong Jia Sui Jessica    | thong_jia_sui_jessica@moe.edu.sg |             |
 |    Mdm Charmaine Wong Seen May   |     wong_seen_may@moe.edu.sg     |             |
-
-![](/images/Slide24.jpg)

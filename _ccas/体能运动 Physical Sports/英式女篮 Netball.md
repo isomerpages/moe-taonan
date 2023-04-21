@@ -15,4 +15,3 @@ Netball is a team sport that emphasises on team spirit and team building. The gi
 | Mdm Samantha Evon Chia Chin Mei [谢静美] |   samantha_evon_chia@moe.edu.sg  |            |
 |        Mdm Leong Siok Yin Jocelyn        |     leong_siok_yin@moe.edu.sg    |            |
 
-![](/images/CCAs_netball_2021.jpg)

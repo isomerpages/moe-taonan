@@ -2,6 +2,7 @@ collections:
   past-achievements:
     output: true
     order:
+      - 2022/Team.md
       - 2022/Individual.md
       - 2022/.keep
       - 2021/.keep

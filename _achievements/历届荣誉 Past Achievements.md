@@ -4,7 +4,7 @@ permalink: /achievements/past-achievements/
 description: ""
 ---
 * [2022](https://www.taonan.moe.edu.sg/past-achievements/2022/individual/)
-* [2021](https://www.taonan.moe.edu.sg/past-achievements/2021/individual/)
+* [2021](https://www.taonan.moe.edu.sg/achievements/past-achievements/2021/individual/)
 * [2020](https://www.taonan.moe.edu.sg/achievements/past-achievements/2020/individual/)
 * [2019](https://www.taonan.moe.edu.sg/achievements/past-achievements/2019/individual)
 *  [2018](https://www.taonan.moe.edu.sg/achievements/past-achievements/2018/individual)

@@ -4,6 +4,8 @@ permalink: /achievements/Current-Achievements/cca-individual-and-team/permalink/
 description: ""
 third_nav_title: 今年荣誉 Current Achievements
 ---
+### 2023
+
 <table style="border-collapse:
  collapse;width:593pt" width="790" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:3669;width:77pt" width="103"> <col style="mso-width-source:userset;mso-width-alt:12316;width:260pt" width="346"> <col style="mso-width-source:userset;mso-width-alt:12117;width:256pt" width="341"></colgroup><tbody><tr style="height:14.4pt" height="19"><td style="height:14.4pt;width:77pt" width="103" class="xl100" height="19">CCA</td><td style="border-right:.5pt solid black;
   border-left:none;width:516pt" width="687" class="xl65" colspan="2">ACHIEVEMENT (National)</td></tr><tr style="height:14.4pt" height="19"><td style="height:14.4pt" class="xl101" height="19">&nbsp;</td><td style="border-top:none;border-left:none" class="xl65">Individual</td><td style="border-top:none" class="xl66">Team</td></tr><tr style="height:14.4pt" height="19"><td style="height:14.4pt;border-top:none" class="xl85" height="19">Badminton</td><td style="border-top:none;border-left:none;width:260pt" width="346" class="xl72">&nbsp;</td><td style="border-top:none;border-left:none;width:256pt" width="341" class="xl72">&nbsp;</td></tr><tr style="height:14.4pt" height="19"><td style="height:14.4pt" class="xl68" height="19">&nbsp;</td><td style="border-left:none" class="xl91"><u style="visibility:hidden;

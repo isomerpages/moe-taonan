@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Vendors/.keep
       - 家长会 Parent Support Group.md
       - 校友会 Alumni Association.md
       - 家长资讯 For Parents/.keep

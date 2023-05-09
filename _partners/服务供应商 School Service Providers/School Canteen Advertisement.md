@@ -12,8 +12,11 @@ third_nav_title: 服务供应商 School Service Providers
 
 #### Application Procedure
 
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-2. Attached the following documents together with the application form:
+1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
+
+[School Canteen Application Form 2023](/files/school%20canteen%20application%20form%202023.pdf)
+
+3. Attached the following documents together with the application form:
 <p class="indent">
 a.	Photocopy of the NRIC (front and back)<br>
 b.	List of proposed menu and pricing for all items<br>

@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: 通告 Announcements
           description: Click to view
-          url: https://staging.d27rdzq3nz64km.amplifyapp.com/announcement/
+          url: https://taonan.moe.edu.sg/announcement
         - title: 联系我们 Contact Us
           description: Click to view
           url: https://staging.d27rdzq3nz64km.amplifyapp.com/contact-us/

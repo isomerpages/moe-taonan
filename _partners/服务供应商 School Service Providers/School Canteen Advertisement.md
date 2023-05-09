@@ -4,11 +4,13 @@ permalink: /partners/school-service-providers/school-canteen-advertisement/
 description: ""
 third_nav_title: 服务供应商 School Service Providers
 ---
+#### School Canteen Advertisment
+
 | Type of Stall| Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Japanese/ Western Stall (Halal)    | 26 May 2023     | The school is open to considering other cuisines as long as the stall is certified halal.      |
 
-### Application Procedure
+#### Application Procedure
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 2. Attached the following documents together with the application form:
@@ -45,6 +47,3 @@ Bus number: 13, 15, 16, 31, 36, 43, 48, 134, 135, 196, 197, 966
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
 Remarks: Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.
-
-
-

@@ -17,5 +17,5 @@ sections:
           url: https://staging.d27rdzq3nz64km.amplifyapp.com/contact-us/
         - title: 重要链接 Quick Links
           description: Click to view
-          url: https://staging.d27rdzq3nz64km.amplifyapp.com/quicklinks/
+          url: https://taonan.moe.edu.sg/quicklinks
 ---

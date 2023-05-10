@@ -3,7 +3,6 @@ title: Quick Links
 permalink: /quicklinks/
 description: ""
 ---
-
 | Staff |  |  |
 | -------- | -------- | -------- |
 | All Ears Form Builder    | Internet   | https://forms.moe.edu.sg/    | 
@@ -21,8 +20,9 @@ description: ""
 | Resource Booking Service (RBS)    | Internet   | https://rbs.avero-tech.com/login.html |
 | SC Mobile    | Internet   | https://scmobile.moe.edu.sg/login |
 | School Cockpit    | Internet   | https://schoolcockpit.moe.gov.sg/ |
+
 <br>
----------------------------------------
+<br>
 <br>
 
 | Students |  |  |

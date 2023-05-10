@@ -33,7 +33,7 @@ Contact Person: Ms Phay Yuh-Shuang<br><br>
 	</p>
 	
 #### How to get there?
-Nearest MRT: Eunos MRT Station
+Nearest MRT: Eunos MRT Station<br>
 Bus number: 13, 15, 16, 31, 36, 43, 48, 134, 135, 196, 197, 966
 
 #### Interest applicants must meet the following criteria:

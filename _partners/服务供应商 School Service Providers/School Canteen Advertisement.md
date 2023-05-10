@@ -17,7 +17,7 @@ third_nav_title: 服务供应商 School Service Providers
 
 [School Canteen Application Form 2023](/files/school%20canteen%20application%20form%202023.pdf)
 
-3. Attached the following documents together with the application form:
+2. Attached the following documents together with the application form:
 <p class="indent">
 a.	Photocopy of the NRIC (front and back)<br>
 b.	List of proposed menu and pricing for all items<br>

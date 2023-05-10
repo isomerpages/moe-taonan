@@ -44,7 +44,7 @@ third_nav_title: 服务供应商 School Service Providers
     <td class="tg-7yig"><br><span style="font-weight:normal;color:#000">(Term Time)</span><br><span style="font-weight:normal;color:#000">Mon to Fri:</span><br><span style="font-weight:normal;color:#000">1:30pm - 7:00pm</span><br><br><span style="font-weight:normal;color:#000">(School Holiday)</span><br><span style="font-weight:normal;color:#000">Mon to Fri:</span><br><span style="font-weight:normal;color:#000">7:30am - 7:00pm</span><br></td>
   </tr>
   <tr>
-    <td class="tg-7yig"><br><span style="font-weight:normal;color:#000">School Bus Services</span><br></td>
+    <td class="tg-7yig"><br><span style="font-weight:normal;color:#000">School Bus Services</span><br><br> <span style="font-weight:normal;color:#000">Click</span> <a href="https://taonan.moe.edu.sg/partners/school-service-providers/school-bus-service/"><span style="font-weight:400;text-decoration:underline;color:#F09B37">here</span></a> <span style="font-weight:normal;color:#000">for more info.</span><br><br></td>
     <td class="tg-ktyi">F1 Transport</td>
     <td class="tg-7yig"><br><span style="font-weight:normal;color:#000">Mr Lai Zhenghao</span><br><span style="font-weight:normal;color:#000">9118-8490</span><br><span style="font-weight:normal;color:#000">Email: Lai@F1tpt.com</span><br></td>
     <td class="tg-0lax"></td>

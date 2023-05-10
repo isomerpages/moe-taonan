@@ -39,20 +39,16 @@ description: ""
 | TNS Library Catalogue    | Internet   | https://schoolibrary.moe.edu.sg/taonan   |
 | Zoom   | Internet   | https://zoom.us   |
 
+<br>
+<br>
+<br>
 
-**Students**
-* [eZhishi](https://www.ezhishi.net/Contents/)
-* [iMTL Portal](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login)
-* [MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/primary/education-guide/education-landscape.html)   
-* [Request Form for Resetting of Student ICT Account](https://go.gov.sg/tnspasswordreset)
-* [Student iCON Email](https://workspace.google.com/dashboard)  
-* [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)  
-* [TNS Library Catalogue](https://schoolibrary.moe.edu.sg/taonan)
+| Parents |  |  |
+| -------- | -------- | -------- |
+| Booklist   | Internet   | https://www.taonan.moe.edu.sg/partners/for-parents/curriculum/#Booklist    | 
+| Curriculum Briefing Slides    | Internet   | https://www.taonan.moe.edu.sg/partners/for-parents/curriculum/#CurriculumBriefingSlides  |
+| Cyber Wellness Tips  | Internet   | https://www.taonan.moe.edu.sg/partners/for-parents/ict-matters/#CyberWellness   |
+| Admin and Finance Forms    | Internet   | https://www.taonan.moe.edu.sg/partners/for-parents/admin-n-finance/forms/  |
+| School Home Partnership Resources    | Internet   | https://www.taonan.moe.edu.sg/partners/for-parents/school-home-partnership/  |
+| TNS Library Catalogue    | Internet   | https://schoolibrary.moe.edu.sg/taonan    |
 
-**Parents**
-* [Booklists](https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/curriculum-matters/)
-* [Curriculum Briefings](https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/curriculum-matters/)
-* [Cyberwellness Tips](https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/ict-matters/)
-* [Forms (Student Matters and Finance)](https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/admin-n-finance/forms/)
-* [School-Home Partnership Resources](https://staging.d27rdzq3nz64km.amplifyapp.com/partners/for-parents/school-home-partnership/)
-* [TNS Library Catalogue](https://schoolibrary.moe.edu.sg/taonan/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)

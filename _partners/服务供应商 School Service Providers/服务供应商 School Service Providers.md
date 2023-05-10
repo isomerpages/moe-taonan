@@ -32,7 +32,7 @@ third_nav_title: 服务供应商 School Service Providers
     <td class="tg-7yig"><br><span style="font-weight:normal;color:#000">(Term Time)</span><br><span style="font-weight:normal;color:#000">Mon to Fri:</span><br><span style="font-weight:normal;color:#000">8:30am - 1:30pm (For students only)</span><br><br><span style="font-weight:normal;color:#000">Mon to Fri:</span><br><span style="font-weight:normal;color:#000">11:30am - 12:30pm (For parents only)</span></td>
   </tr>
   <tr>
-    <td class="tg-7yig"><br><span style="font-weight:normal;color:#000">School Dental Clinic</span>(Please call Dental Clinic for school holiday opening hours and appointments. Walk-ins are discouraged)</td>
+    <td class="tg-7yig"><br><span style="font-weight:normal;color:#000">School Dental Clinic</span><br><br>Please call Dental Clinic for school holiday opening hours and appointments. <br><br>Walk-ins are discouraged</td>
     <td class="tg-7yig"><br><span style="font-weight:normal;color:#000">Health Promotion Board</span></td>
     <td class="tg-ktyi"> 9113 0363</td>
     <td class="tg-7yig"><br><span style="font-weight:normal;color:#000">(Term Time)</span><br><span style="font-weight:normal;color:#000">Mon to Thu: 8am to 5.30pm</span><br><span style="font-weight:normal;color:#000">Fri: 8am to 5.00pm</span><br><span style="font-weight:normal;color:#000">Lunch hour: 1pm to 2pm</span><br><br></td>

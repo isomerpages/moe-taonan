@@ -27,7 +27,7 @@ lai@f1tpt.com<br>
 
 #### Bus Service &amp; Bus Fare (Not Exceed Pricing)
 
-A. Bus fares for daily school bus services by distance
+A. <u>Bus fares for daily school bus services by distance</u>
 
 Daily School Bus Services (i.e. for sending pupils from home to school and vice versa)
 
@@ -38,3 +38,20 @@ Daily School Bus Services (i.e. for sending pupils from home to school and vice 
 | Up to 2km     | $130.00     | $135.00     | $130.00     | $135.00     | $130.00     | $135.00     |
 | &gt;2-4km     | $155.00     | $160.00     | $155.00     | $160.00     | $155.00     | $160.00     |
 | &gt;4-6km     | $170.00     | $175.00     | $170.00     | $175.00     | $170.00     | $175.00     |
+
+Remarks: For students staying beyond the maximum distance range, parents may approach the bus operator directly for negotiation of bus fares.
+
+B. <u>Bus fares for daily school bus services by distance</u>
+
+Bus Services for after school activities (i.e. sending pupils from from school after enrichment programmes or classes)
+
+
+
+| Distance | Up to 15 seaters | &gt;15-30 seaters | &gt;30 seaters |
+| -------- | -------- | -------- | -------- |
+| Up to 2km     | $4.00     | $4.00     | $4.00     |
+| &gt; 2-4km     | $5.00     | $5.00     | $5.00     |
+| &gt; 4-6km     | $7.00     | $7.00     | $7.00     |
+
+Remarks: For students staying beyond the maximum distance range, parents may approach the bus operator directly for negotiation of bus fares.
+

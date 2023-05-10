@@ -35,8 +35,6 @@ Daily School Bus Services (i.e. for sending pupils from home to school and vice 
 
 | Distance | Up to 15 seaters (1-way) | Up to 15 seaters (2-way) | 15-30 Seaters (1-way) | 15-30 Seaters (2-way) | &gt;30 Seaters (1-way) | &gt;30 Seaters (2-way) |
 | -------- | -------- | -------- | -------- | -------- | -------- |-------- |
-| Up to 2km     | Text     | Text     | Text     | Text     | Text     | Text     |
-| &gt;2-4km     | Text     | Text     | Text     | Text     | Text     | Text     |
-| &gt;4-6km     | Text     | Text     | Text     | Text     | Text     | Text     |
-
-
+| Up to 2km     | $130.00     | $135.00     | $130.00     | $135.00     | $130.00     | $135.00     |
+| &gt;2-4km     | $155.00     | $160.00     | $155.00     | $160.00     | $155.00     | $160.00     |
+| &gt;4-6km     | $170.00     | $175.00     | $170.00     | $175.00     | $170.00     | $175.00     |

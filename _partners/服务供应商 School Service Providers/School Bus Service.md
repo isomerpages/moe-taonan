@@ -25,7 +25,7 @@ lai@f1tpt.com<br>
 **Contract Start Date:** 01.01.2020<br>
 **Contract End Date:** 31.12.2023
 
-#### Bus Service &amp; Bus Fare (Not Exceed Pricing)
+#### Bus Service &amp; Bus Fare (Not to exceed pricing)
 
 A. <u>Bus fares for daily school bus services by distance</u>
 
@@ -54,4 +54,3 @@ Bus Services for after school activities (i.e. sending pupils from from school a
 | &gt; 4-6km     | $7.00     | $7.00     | $7.00     |
 
 Remarks: For students staying beyond the maximum distance range, parents may approach the bus operator directly for negotiation of bus fares.
-

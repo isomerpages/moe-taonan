@@ -149,7 +149,7 @@ third_nav_title: 在职教员 Teaching Staff
   <tr>
     <td class="tg-f4yw">Form Teacher 2</td>
     <td class="tg-f4yw" rowspan="2">Mdm Zhao Yanfen [赵艳芬]</td>
-    <td class="tg-f4yw" rowspan="2">zhao_yanfen@moe.edu.sg</td>
+    <td class="tg-f4yw" rowspan="2">zhao_yan_fen@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-f4yw">Higher Chinese</td>

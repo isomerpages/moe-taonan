@@ -4,6 +4,10 @@ collections:
     order:
       - 家长会 Parent Support Group.md
       - 校友会 Alumni Association.md
+      - 服务供应商 School Service Providers/.keep
+      - 服务供应商 School Service Providers/服务供应商 School Service Providers.md
+      - 服务供应商 School Service Providers/校车服务 School Bus Service.md
+      - 服务供应商 School Service Providers/食堂摊位申请 School Canteen Advertisement.md
       - 家长资讯 For Parents/.keep
       - 家长资讯 For Parents/课程 Curriculum.md
       - 家长资讯 For Parents/品格与身心健康 Character and Well Being.md
@@ -13,5 +17,4 @@ collections:
       - 家长资讯 For Parents/交通安全 Road Safety Around School.md
       - 家长资讯 For Parents/行政与财政 Admin & Finance.md
       - 家长资讯 For Parents/小一报名 P1 Registration.md
-      - 家长资讯 For Parents/服务供应商 School Service Providers.md
       - 家长资讯 For Parents/家庭 学校合作伙伴 School Home Partnership.md

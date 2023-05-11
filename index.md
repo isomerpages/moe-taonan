@@ -9,13 +9,13 @@ sections:
   - hero:
       background: /images/taonanezgif.gif
       key_highlights:
-        - title: Announcements
+        - title: 通告 Announcements
           description: Click to view
-          url: https://staging.d27rdzq3nz64km.amplifyapp.com/announcement/
-        - title: Contact Us
+          url: https://taonan.moe.edu.sg/announcement
+        - title: 联系我们 Contact Us
           description: Click to view
-          url: https://staging.d27rdzq3nz64km.amplifyapp.com/contact-us/
-        - title: Quick Links
+          url: https://taonan.moe.edu.sg/sites/moe-taonan/contact-us
+        - title: 重要链接 Quick Links
           description: Click to view
-          url: https://staging.d27rdzq3nz64km.amplifyapp.com/quicklinks/
+          url: https://taonan.moe.edu.sg/quicklinks
 ---

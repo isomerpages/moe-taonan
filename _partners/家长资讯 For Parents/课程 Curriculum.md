@@ -58,7 +58,7 @@ Click to download:
 5. [2023 P3 Social Studies Curriculum Information](/files/2023%20P3%20Social%20Studies%20Curriculum%20Information.pdf)
 6. [2023 P3 Art and Music Curriculum Information](/files/2023_P3P4_ArtMusic.pdf)
 7. [2023 P3 PE Curriculum Information](/files/2023%20P3%20PE%20Curriculum%20Information.pdf)
-8. [2023 CCA Open House](/files/2023%20CCA%20Open%20House.pdf) ***NEW**
+8. [2023 CCA Open House](/files/2023%20CCA%20Open%20House.pdf)
 
 <u><strong> Primary 4 </strong></u>
 1. [2023 P4 English Language Curriculum Info](/files/2023%20P4%20English%20Language%20Curriculum%20Information.pdf)

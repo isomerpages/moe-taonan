@@ -73,7 +73,7 @@ Click to download:
 1. [2023 P5 English Language Curriculum Info](/files/2023%20P5%20English%20Language%20Curriculum%20Information.pdf)
 2. [2023 P5 Mathematics Curriculum Information](/files/2023%20P5%20Mathematics%20Curriculum%20Information.pdf)
 3. [2023 P5 Chinese Language Curriculum Information](/files/2023%20P5%20Chinese%20Language%20Curriculum%20Information.pdf)
-4. [2023 P5 Science Curriculum Information](/files/2023%20P5%20Science%20Language%20Curriculum%20Information.pdf)
+4. [2023 P5 Science Curriculum Information](/files/2023%20P5%20Science%20Curriculum%20Information.pdf)
 5. [2023 P5 Social Studies Curriculum Information](/files/2023%20P5%20Social%20Studies%20Curriculum%20Information.pdf)
 6. [2023 P5 Art and Music Curriculum Information](/files/2023%20P5%20Art%20%20Music%20Curriculum%20Information.pdf)
 7. [2023 P5 PE Curriculum Information](/files/2023%20P5%20PE%20Curriculum%20Information.pdf)

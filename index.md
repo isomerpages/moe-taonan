@@ -14,7 +14,7 @@ sections:
           url: https://taonan.moe.edu.sg/announcement
         - title: 联系我们 Contact Us
           description: Click to view
-          url: https://taonan.moe.edu.sg/sites/moe-taonan/contact-us
+          url: https://www.taonan.moe.edu.sg/contact-us/
         - title: 重要链接 Quick Links
           description: Click to view
           url: https://taonan.moe.edu.sg/quicklinks

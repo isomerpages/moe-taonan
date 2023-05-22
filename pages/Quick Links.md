@@ -11,7 +11,7 @@ description: ""
 | ICON 2.0    | Internet   | [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)   |
 | HR Online    | In<u>tra</u>net   | [https://intranet.moe.gov.sg/hronline/Pages/Home.aspx](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)  |
 | HR Portal    | In<u>tra</u>net   | [https://www.hrp.gov.sg](https://www.hrp.gov.sg)   |
-| iExam2 Portal    | Internet   |[https://iexams.seab.gov.sg](https://iexams.seab.gov.sg)   |
+| iExams2 Portal    | Internet   |[https://iexams.seab.gov.sg](https://iexams.seab.gov.sg)   |
 | MIMS Portal    | Internet   | [https://idp.mims.moe.gov.sg](https://idp.mims.moe.gov.sg)   |
 | MOE Intranet   | In<u>tra</u>net   | [https://intranet.moe.gov.sg/](https://intranet.moe.gov.sg)   |
 | OPAL2.0    | Internet   | [https://opal2.moe.edu.sg](https://opal2.moe.edu.sg)  |

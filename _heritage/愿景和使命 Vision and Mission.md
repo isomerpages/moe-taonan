@@ -46,7 +46,7 @@ Our pupils care for self, family, community, nation and the environment. They ar
 
 <br>
 
-培养品格高尚、好学不倦、并富有创意的学生
+培养品格高尚、好学不倦,   并富有创意的学生
 
   
 

@@ -12,148 +12,25 @@ P1 Registration Procedures
 
 **Primary 1 (P1) Registration Procedures**
 
-  
+ The registration of children for admission to Primary One (P1) in 2024 will open from Tuesday, 04 July 2023 to Tuesday, 31 October 2023.
+ 
+ The dates for the different phases of registration can be found at: [www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates](https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates). The list of primary schools and vacancies available will be updated on the MOE P1 Registration website at [www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration) by mid-June 2023.
 
-Please refer to Ministry of Education’s (MOE) website at&nbsp;[https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration)&nbsp;for the registration phases and key dates.
 
-  
+**Online Registration via new P1 Registration Portal**
 
-Similar to last year's P1 Registration Exercise, there will be&nbsp;**no in-person registration**&nbsp;at Tao Nan School&nbsp; You may register your child online in a phase as long as you fulfil&nbsp;**at least one**&nbsp;of the requirements for that phase. The link to the online form and user guide will be available on the MOE P1 Registration website during the registration periods of the respective phases.
+From this year’s P1 Registration Exercise, parents can use the new online P1 Registration Portal for all five phases (i.e. Phases 1, 2A, 2B, 2C, and 2C Supplementary) of the Exercise to register their child in their chosen school. The P1 Registration Portal replaces the online application form (for Phases 1, 2A, and 2B) and the P1 Internet System (for Phases 2C and 2C Supplementary) used in previous years.
 
-  
 
-  
 
-**Documents Required**
+The P1 Registration Portal will go live on 04 July 2023 and can be accessed via the MOE P1 Registration website. Parents can log in to the Portal to view the phase(s) and school(s) their child is eligible to register in, as well as register their child in their chosen school when the phase the child is eligible for opens for registration.
 
-  
 
-You will need to prepare the following information for the online form submission, such as:
 
-  
+Parents will require a valid Singpass with 2-Factor Authentication (2FA) to login to the P1 Registration Portal. Parents are advised to set up their Singpass 2FA early and ensure that their Singpass account is valid before the commencement of the P1 Registration Exercise. Only one parent is required to login and submit the registration through the Portal.
 
-1.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Child's full name
 
-  
-
-2.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Child's birth certificate number
-
-  
-
-3.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Child's date of birth
-
-  
-
-4.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Address for registration
-
-  
-
-5.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Email address
-
-  
-
-6.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Contact details
-
-  
-
-7.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Front &amp; back of parent’s NRIC (if registered address from MyInfo is different from your NRIC address) for uploading onto FormSG
-
-  
-
-8.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Court order setting out the custody arrangement of your child (&nbsp;_only if applicable_&nbsp;) for uploading onto FormSG.
-
-  
-
-**Additional documents required for Phase 2A**
-
-  
-
-If you are registering using priority as ex-student of Tao Nan School, you will need to email the following documents to&nbsp;[Natalia\_SUGIARTO@schools.gov.sg](mailto:Natalia_SUGIARTO@schools.gov.sg)&nbsp;**and**&nbsp;[PHAY\_Yuh-Shuang@schools.gov.sg](mailto:PHAY_Yuh-Shuang@schools.gov.sg)&nbsp;as proof that you, your spouse, or your older child had studied in Tao Nan School&nbsp;**in order to support your registration for Phase 2A eligibility**&nbsp;:&nbsp;
-
-  
-
-a.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;A scanned copy of relevant pages of Tao Nan School’s report book that clearly shows the name of you, your spouse or your older child and Tao Nan School, or the Primary School Leaving Examination (PSLE) certificate.
-
-  
-
-b.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Birth certificate of older child as proof of relationship (if applicable).
-
-  
-
-c. Letter from the alumni association certifying the status and date joined as an alumni member (if applicable).
-
-  
-
-**Please email the documents to the officers immediately after you have submitted your FormSG application online, failing which your application cannot be verified and will not be processed.**
-
-  
-
-  
-
-**Additional documents required for Phase 2B**
-
-  
-
-If you are registering using priority as an endorsed active community leader, please email the letter of eligibility issued by the People's Association to you or your spouse to&nbsp;[Natalia\_SUGIARTO@schools.gov.sg](mailto:Natalia_SUGIARTO@schools.gov.sg)&nbsp;**and**&nbsp;[PHAY\_Yuh-Shuang@schools.gov.sg](mailto:PHAY_Yuh-Shuang@schools.gov.sg)&nbsp;**in order to support your registration for Phase 2B eligibility. Please email the documents to the officers immediately after you have submitted your FormSG application online, failing which your application cannot be verified and will not be processed**&nbsp;.
-
-  
-
-If you are registering using priority as an endorsed Singapore Hokkien Huay Kuan (SHHK) member, there is no need for you to email the letter of eligibility to the school as SHHK will provide the list of endorsed members to the school directly.
-
-  
-
-  
-
-**Optional supporting documents (where applicable)**
-
-  
-
-Please email the following relevant documents to&nbsp;[Natalia\_SUGIARTO@schools.gov.sg](mailto:Natalia_SUGIARTO@schools.gov.sg)&nbsp;**and**&nbsp;[PHAY\_Yuh-Shuang@schools.gov.sg](mailto:PHAY_Yuh-Shuang@schools.gov.sg)&nbsp;**immediately after you have submitted your FormSG application online, failing which your application cannot be verified and will not be processed**&nbsp;:
-
-  
-
-a.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Declaration of alternative child-care arrangement
-
-  
-
-b.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Documents for using the address of a new property
-
-  
-
-\-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A copy of the original Sales and Purchase agreement for the private property; or
-
-  
-
-\-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A print out of the ‘New Flat’ page from My HDBPage, if applicable.&nbsp;
-
-  
-
-  
-
-**Note: The vacant or delivery possession date of the property must be within 2 years of your child’s entry into P1. You must also move into the new property within the same time.**
-
-  
-
-c.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Documents for using the address of a resale property
-
-  
-
-\-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An exercised Option-To-Purchase and buyer's stamp duty certificate for private resale property; or
-
-  
-
-\-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A printout of Resale Flat Status from HDB Resale Portal, if applicable.
-
-  
-
-  
-
-Note:&nbsp;**You must move into the registered resale property by 2 January of your child's P1 admission year.**
-
-  
-
-Please contact the school’s General Office via phone at 6442 8307 or via email at&nbsp;[taonan\_sch@moe.edu.sg](mailto:taonan_sch@moe.edu.sg)&nbsp;if you require further assistance. We seek your understanding that during the peak Primary 1 Registration period, we may not be able to get back to you on your enquiry immediately due to the large number of enquiries anticipated. Thank you.
-
+Parents who require assistance during registration may contact the school via email ([taonan_sch@moe.edu.sg](taonan_sch@moe.edu.sg)) or telephone (6442 8307) on the respective registration days between 9.00am to 4.30pm. Information on the P1 Registration process, eligibility criteria and user guides can be found at [www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration). 
 
 # Past Years' Statistics
 <style type="text/css">

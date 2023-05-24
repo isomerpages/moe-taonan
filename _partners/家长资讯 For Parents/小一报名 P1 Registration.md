@@ -18,6 +18,7 @@ P1 Registration Procedures
 
 
 **Online Registration via new P1 Registration Portal**
+
 From this year’s P1 Registration Exercise, parents can use the new online P1 Registration Portal for all five phases (i.e. Phases 1, 2A, 2B, 2C, and 2C Supplementary) of the Exercise to register their child in their chosen school. The P1 Registration Portal replaces the online application form (for Phases 1, 2A, and 2B) and the P1 Internet System (for Phases 2C and 2C Supplementary) used in previous years.
 
 

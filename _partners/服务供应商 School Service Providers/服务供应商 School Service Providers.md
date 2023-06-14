@@ -26,7 +26,7 @@ third_nav_title: 服务供应商 School Service Providers
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7yig"><br><span style="font-weight:normal;color:#000">School Bookshop &amp; Uniform</span><br><br><span style="font-weight:normal;color:#000">Click</span> <a href="https://taonan.moe.edu.sg/partners/for-parents/curriculum-matters/booklists"><span style="font-weight:400;text-decoration:underline;color:#F09B37">here</span></a> <span style="font-weight:normal;color:#000">for the booklists</span><br><br></td>
+    <td class="tg-7yig"><br><span style="font-weight:normal;color:#000">School Bookshop &amp; Uniform</span><br><br><span style="font-weight:normal;color:#000">Click</span> <a href="https://www.taonan.moe.edu.sg/partners/for-parents/curriculum/#Booklist"><span style="font-weight:400;text-decoration:underline;color:#F09B37">here</span></a> <span style="font-weight:normal;color:#000">for the booklists</span><br><br></td>
     <td class="tg-7yig"><br><span style="font-weight:normal;color:#000">Nee Bing Stationery</span></td>
     <td class="tg-7yig"><br><span style="font-weight:normal;color:#000">Ms Lynn Ong</span><br><span style="font-weight:normal;color:#000">9699-4904</span></td>
     <td class="tg-7yig"><br><span style="font-weight:normal;color:#000">(Term Time)</span><br><span style="font-weight:normal;color:#000">Mon to Fri:</span><br><span style="font-weight:normal;color:#000">8:30am - 1:30pm (For students only)</span><br><br><span style="font-weight:normal;color:#000">Mon to Fri:</span><br><span style="font-weight:normal;color:#000">11:30am - 12:30pm (For parents only)</span></td>

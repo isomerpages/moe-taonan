@@ -5,6 +5,7 @@ description: ""
 third_nav_title: 在职教员 Teaching Staff
 ---
 **ONLY TEACHERS TEACHING THE CHINESE LANGUAGE WILL HAVE THEIR NAMES REFLECTED IN CHINESE CHARACTERS**
+
 <table style="border-collapse:
  collapse;width:401pt;box-sizing: inherit;border-spacing: 0px;font-variant-ligatures: normal;
  font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
@@ -643,10 +644,10 @@ third_nav_title: 在职教员 Teaching Staff
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Mdm Tan Seow Yun</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
-  font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   .5pt solid black;border-bottom:none;border-left:none;box-sizing: inherit;
-  border-image: initial" width="297" class="xl68">tan_seow_yun@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:30.0pt;box-sizing: inherit" height="40"><td style="height:30.0pt;width:38pt;font-size:
+  border-image: initial" width="297" class="xl65">tan_seow_yun@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:30.0pt;box-sizing: inherit" height="40"><td style="height:30.0pt;width:38pt;font-size:
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
@@ -1170,17 +1171,6 @@ third_nav_title: 在职教员 Teaching Staff
   border-image: initial" width="50" class="xl65" height="40">105</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
-  none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Mrs Kim Christine Snodgrass (FAJT)</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
-  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
-  none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
-  .5pt solid black;border-bottom:none;border-left:none;box-sizing: inherit;
-  border-image: initial" width="297" class="xl65">kim_christine_lim_mui@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:30.0pt;box-sizing: inherit" height="40"><td style="height:30.0pt;width:38pt;font-size:
-  10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
-  none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
-  border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">106</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
-  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
-  none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Mrs Kwek Lee Yook</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
@@ -1189,7 +1179,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">107</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">106</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Mrs Law- Chin Wai Mun</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1200,7 +1190,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">108</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">107</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Mrs Lindsy Ng</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1211,7 +1201,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">109</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">108</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Mrs Loh Shwu Hwa</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1222,7 +1212,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">110</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">109</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Mrs Lorraine Anne Alcantra</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1233,7 +1223,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">111</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">110</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Mrs Low Su Ying Elizabeth</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1244,7 +1234,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">112</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">111</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Mrs Mimi Cheong</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1255,7 +1245,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">113</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">112</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Mrs Ngoh- Poh Sze Wei</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1266,7 +1256,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">114</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">113</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Mrs Ong- Chua Li Ling Eileen</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1277,7 +1267,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">115</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">114</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Mrs Ong- Pang Shi Jia Canphylia</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1288,7 +1278,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">116</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">115</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Mrs Ong- Shen Pinxiu</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1299,7 +1289,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">117</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">116</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Mrs Poonam Singh</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1310,7 +1300,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">118</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">117</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Mrs Quah- Heng Yin Qi</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1321,7 +1311,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">119</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">118</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Mrs Seng- Ng Kooi Fong [黄桂芳] (FAJT)</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1332,7 +1322,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">120</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">119</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Mrs Seow Li Li (FAJT)</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1343,7 +1333,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">121</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">120</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Mrs Tan-Ng Siew Leng Crayon</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1354,7 +1344,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">122</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">121</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Adeline Ong Hui En</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1365,7 +1355,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">123</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">122</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Ang Bee Lian [洪美莲]</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1376,7 +1366,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">124</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">123</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Avneesh Kaur</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1387,7 +1377,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">125</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">124</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Chee Pey Yi [纪佩妤]</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1398,7 +1388,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">126</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">125</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Chee Siok Tuan Janice</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1409,7 +1399,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">127</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">126</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Chia Jie Wei</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1420,18 +1410,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">128</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
-  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
-  none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
-  none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Clarice Ong Heng Hwee (FAJT)</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
-  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
-  none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
-  .5pt solid black;border-bottom:none;border-left:none;box-sizing: inherit;
-  border-image: initial" width="297" class="xl65">clarice_ong_heng_hwee@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:30.0pt;box-sizing: inherit" height="40"><td style="height:30.0pt;width:38pt;font-size:
-  10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
-  none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
-  border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">129</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">127</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Constance Han Shu Hui (FAJT)</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1442,7 +1421,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">130</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">128</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Dawn Chua Yu Xiu [蔡育修]</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1453,7 +1432,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">131</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">129</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Emma Kok Li Shan</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1464,7 +1443,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">132</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">130</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Fathin Ha Sya-Syah Binte Suhadak</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1475,7 +1454,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">133</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">131</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Goh Lay Kian [吴丽娟]</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1486,7 +1465,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">134</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">132</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Heng Boon Lih</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1497,7 +1476,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">135</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">133</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Jessilin Khee Shi Lin</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1508,7 +1487,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">136</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">134</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Khadijah Cassim Madari (FAJT)</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1519,7 +1498,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">137</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">135</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Lam May Fong</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1530,7 +1509,18 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">138</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">136</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
+  none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Latha- Siva PVL</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
+  .5pt solid black;border-bottom:none;border-left:none;box-sizing: inherit;
+  border-image: initial" width="297" class="xl65">siva_pvl@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:30.0pt;box-sizing: inherit" height="40"><td style="height:30.0pt;width:38pt;font-size:
+  10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
+  border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
+  border-image: initial" width="50" class="xl65" height="40">137</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Lee Pei Sze Ivy</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1541,7 +1531,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">139</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">138</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Leong Lye Ching</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1551,17 +1541,17 @@ third_nav_title: 在职教员 Teaching Staff
   border-image: initial" width="297" class="xl65">leong_lye_ching@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:30.0pt" height="40"><td style="height:30.0pt;width:38pt;font-size:
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
-  border-right:none;border-bottom:none;border-left:.5pt solid black" width="50" class="xl65" height="40">140</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-right:none;border-bottom:none;border-left:.5pt solid black" width="50" class="xl65" height="40">139</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none" width="187" class="xl65">Ms Leow Si Hoon (FAJT)</td><td style="width:223pt;font-size:10.0pt;color:black;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
-  .5pt solid black;border-bottom:none;border-left:none" width="297" class="xl69">leow_si_hoon_a@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:30.0pt;box-sizing: inherit" height="40"><td style="height:30.0pt;width:38pt;font-size:
+  .5pt solid black;border-bottom:none;border-left:none" width="297" class="xl68">leow_si_hoon_a@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:30.0pt;box-sizing: inherit" height="40"><td style="height:30.0pt;width:38pt;font-size:
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">141</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">140</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Lim Ying Xuan</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1572,7 +1562,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">142</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">141</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Lin Yao Chloe</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1583,14 +1573,23 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">143</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">142</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Meitri Harshad Parikh</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   .5pt solid black;border-bottom:none;border-left:none;box-sizing: inherit;
-  border-image: initial" width="297" class="xl65">meitri_parikh@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:30.0pt;box-sizing: inherit" height="40"><td style="height:30.0pt;width:38pt;font-size:
+  border-image: initial" width="297" class="xl65">meitri_parikh@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:30.0pt" height="40"><td style="height:30.0pt;width:38pt;font-size:
+  10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
+  border-right:none;border-bottom:none;border-left:.5pt solid black" width="50" class="xl65" height="40">143</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
+  none;border-bottom:none;border-left:none" width="187" class="xl65">Ms Michelle Lee Jing Qi</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
+  .5pt solid black;border-bottom:none;border-left:none" width="297" class="xl65">michelle_lee_jing_qi@moe.edu.sg<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="mso-height-source:userset;height:30.0pt;box-sizing: inherit" height="40"><td style="height:30.0pt;width:38pt;font-size:
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
@@ -1674,17 +1673,6 @@ third_nav_title: 在职教员 Teaching Staff
   border-image: initial" width="50" class="xl65" height="40">151</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
-  none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Siva PVL</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
-  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
-  none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
-  .5pt solid black;border-bottom:none;border-left:none;box-sizing: inherit;
-  border-image: initial" width="297" class="xl65">siva_pvl@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:30.0pt;box-sizing: inherit" height="40"><td style="height:30.0pt;width:38pt;font-size:
-  10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
-  none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
-  border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">152</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
-  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
-  none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Tan Hui Khoon</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
@@ -1693,7 +1681,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">153</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">152</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Tan Hwee Jing</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1704,7 +1692,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">154</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">153</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Tan Yen Ping Gina [陈燕萍]</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1715,7 +1703,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">155</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">154</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Teo Ruolan Lauren [张若岚]</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1726,18 +1714,17 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">156</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">155</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
-  none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Vaswani Deepa Hiro</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
-  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
-  none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
-  .5pt solid black;border-bottom:none;border-left:none;box-sizing: inherit;
-  border-image: initial" width="297" class="xl65">vaswani_deepa_hiro@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:30.0pt;box-sizing: inherit" height="40"><td style="height:30.0pt;width:38pt;font-size:
+  none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Vaswani Deepa Hiro</td><td style="font-size:10.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:.5pt solid black;
+  border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" class="xl69">vaswani_deepa_hiro@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:30.0pt;box-sizing: inherit" height="40"><td style="height:30.0pt;width:38pt;font-size:
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:none;border-left:.5pt solid black;box-sizing: inherit;
-  border-image: initial" width="50" class="xl65" height="40">157</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  border-image: initial" width="50" class="xl65" height="40">156</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:none;border-left:none;box-sizing: inherit;border-image: initial" width="187" class="xl65">Ms Yeo Tyze Feng [杨芝芬]</td><td style="width:223pt;font-size:10.0pt;color:windowtext;
@@ -1748,7 +1735,7 @@ third_nav_title: 在职教员 Teaching Staff
   10.0pt;color:windowtext;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid black;
   border-right:none;border-bottom:.5pt solid black;border-left:.5pt solid black;
-  box-sizing: inherit" width="50" class="xl65" height="40">158</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
+  box-sizing: inherit" width="50" class="xl65" height="40">157</td><td style="width:140pt;font-size:10.0pt;color:windowtext;
   font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
   none;font-family:Arial, sans-serif;border-top:.5pt solid black;border-right:
   none;border-bottom:.5pt solid black;border-left:none;box-sizing: inherit" width="187" class="xl65">Ms Yick Fang Ru</td><td style="width:223pt;font-size:10.0pt;color:windowtext;

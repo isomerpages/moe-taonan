@@ -15,6 +15,6 @@ Thank you.
 
 ### 2023 P5 Camp Briefing Slides
 Dear Parents/ Guardians,<br>
-You may find the briefing slides [here](https://www.taonan.moe.edu.sg/departments/physical-education/).
+You may find the briefing slides [here](https://www.taonan.moe.edu.sg/departments/physical-education/#P5CampBriefingSlides).
 
 Thank you

@@ -6,308 +6,1039 @@ third_nav_title: 在职教员 Teaching Staff
 ---
 **ONLY TEACHERS TEACHING THE CHINESE LANGUAGE WILL HAVE THEIR NAMES REFLECTED IN CHINESE CHARACTERS**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9hzb">CLASS</th>
-    <th class="tg-9hzb">SUBJECT</th>
-    <th class="tg-9hzb">NAME OF STAFF</th>
-    <th class="tg-9hzb">EMAIL ADDRESS</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw" rowspan="6">3A</td>
-    <td class="tg-f4yw">Form Teacher 1</td>
-    <td class="tg-f4yw" rowspan="3">Mdm Jessilin Khee Shi Lin</td>
-    <td class="tg-f4yw" rowspan="3">jessilin_khee_shi_lin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Maths</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Science</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Form Teacher 2</td>
-    <td class="tg-f4yw">Mdm Siti Nurfarah</td>
-    <td class="tg-f4yw">siti_nurfarah_mohamed_r@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Higher Chinese</td>
-    <td class="tg-f4yw">Mdm Wan Xifei [万希飞]</td>
-    <td class="tg-f4yw">wan_xifei@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">English</td>
-    <td class="tg-f4yw">Mdm Suhaidah Bte Mokhtar</td>
-    <td class="tg-f4yw">suhaidah_mokhtar@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="6">3B</td>
-    <td class="tg-f4yw">Form Teacher 1</td>
-    <td class="tg-f4yw" rowspan="2">Ms Emma Kok Li Shan</td>
-    <td class="tg-f4yw" rowspan="2">emma_kok_li_shan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">English</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Form Teacher 2</td>
-    <td class="tg-f4yw" rowspan="2">Mdm Siti Awallilah Bte Amin</td>
-    <td class="tg-f4yw" rowspan="2">siti_awalliah_amin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Science</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Maths</td>
-    <td class="tg-f4yw">Mdm Goh Yen Ping</td>
-    <td class="tg-f4yw">goh_yen_ping@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Higher Chinese</td>
-    <td class="tg-f4yw">Mdm Ang Sio Hoon [洪小芬]</td>
-    <td class="tg-f4yw">ang_sio_hoon@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="6">3C</td>
-    <td class="tg-f4yw">Form Teacher 1</td>
-    <td class="tg-f4yw" rowspan="2">Mdm Suhaidah Bte Mokhtar</td>
-    <td class="tg-f4yw" rowspan="2">suhaidah_mokhtar@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">English</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Form Teacher 2</td>
-    <td class="tg-f4yw" rowspan="2">Mdm Phua Mei Yan [潘美燕]</td>
-    <td class="tg-f4yw" rowspan="2">phua_mei_yan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Higher Chinese</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Maths</td>
-    <td class="tg-f4yw">Mr Sung Sheng Yi Kelvin</td>
-    <td class="tg-f4yw">sung_sheng_yi_kelvin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Science</td>
-    <td class="tg-f4yw">Mdm Siti Awallilah Bte Amin</td>
-    <td class="tg-f4yw">siti_awalliah_amin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="7">3D</td>
-    <td class="tg-f4yw">Form Teacher 1</td>
-    <td class="tg-f4yw" rowspan="3">Mdm Tan Li Shih</td>
-    <td class="tg-f4yw" rowspan="3">tan_li_shih@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">English</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Science</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Form Teacher 2</td>
-    <td class="tg-f4yw" rowspan="2">Mr Vikneswaran S/O Selvarajoo</td>
-    <td class="tg-f4yw" rowspan="2">vikneswaran_selvarajoo@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">PE</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Higher Chinese</td>
-    <td class="tg-f4yw">Mr Low Ko Hee [刘可喜]</td>
-    <td class="tg-f4yw">low_ko_hee@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Maths</td>
-    <td class="tg-f4yw">Ms Jessilin Khee Shi Lin</td>
-    <td class="tg-f4yw">jessilin_khee_shi_lin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="6">3E</td>
-    <td class="tg-f4yw">Form Teacher 1</td>
-    <td class="tg-f4yw" rowspan="2">Mdm Noorlailee Bte Mohd Jusin</td>
-    <td class="tg-f4yw" rowspan="2">noorlailee_mohd_jusin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">English</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Form Teacher 2</td>
-    <td class="tg-f4yw" rowspan="2">Mdm Gwee Bock Lan Lena</td>
-    <td class="tg-f4yw" rowspan="2">gwee_bock_lan_lena@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Maths</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Higher Chinese</td>
-    <td class="tg-f4yw">Mdm Feng Jie [冯 洁]</td>
-    <td class="tg-f4yw">feng_jie@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Science</td>
-    <td class="tg-f4yw">Mdm Adeline Ong Hui En</td>
-    <td class="tg-f4yw">adeline_ong_hui_en@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="6">3F</td>
-    <td class="tg-f4yw">Form Teacher 1</td>
-    <td class="tg-f4yw" rowspan="3">Mdm Adeline Ong Hui En</td>
-    <td class="tg-f4yw" rowspan="3">adeline_ong_hui_en@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">English</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Science</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Form Teacher 2</td>
-    <td class="tg-f4yw" rowspan="2">Mdm Soo Pei Chih [苏佩琪]</td>
-    <td class="tg-f4yw" rowspan="2">soo_pei_chih@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Higher Chinese</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Maths</td>
-    <td class="tg-f4yw">Mdm Tan Kime Huey Doreen</td>
-    <td class="tg-f4yw">tan_kime_huey_doreen@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="6">3G</td>
-    <td class="tg-f4yw">Form Teacher 1</td>
-    <td class="tg-f4yw" rowspan="2">Ms Siva PVL</td>
-    <td class="tg-f4yw" rowspan="2">siva_pvl@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">English</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Form Teacher 2</td>
-    <td class="tg-f4yw" rowspan="2">Mrs Loh- Lin Shwu Hwa</td>
-    <td class="tg-f4yw" rowspan="2">lin-loh_shwu_hwa@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Science</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Higher Chinese</td>
-    <td class="tg-f4yw">Ms Yeo Tyze Feng [杨芝芬]</td>
-    <td class="tg-f4yw">yeo_tyze_feng@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Maths</td>
-    <td class="tg-f4yw">Mdm Gloria Poon Mui Geok</td>
-    <td class="tg-f4yw">gloria_poon_mui_geok@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="7">3H</td>
-    <td class="tg-f4yw">Form Teacher 1</td>
-    <td class="tg-f4yw" rowspan="3">Mr Sung Sheng Yi Kelvin</td>
-    <td class="tg-f4yw" rowspan="3">sung_sheng_yi_kelvin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Maths</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Science</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Form Teacher 2</td>
-    <td class="tg-f4yw" rowspan="2">Mdm Ong Wee Wah</td>
-    <td class="tg-f4yw" rowspan="2">ong_wee_wah@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">PE</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">English</td>
-    <td class="tg-f4yw">Mdm Noorlailee Bte Mohd Jusin</td>
-    <td class="tg-f4yw">noorlailee_mohd_jusin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Higher Chinese</td>
-    <td class="tg-f4yw">Mrs Goh Soek Fong [郭素坊]</td>
-    <td class="tg-f4yw">goh_soek_fong@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="7">3I</td>
-    <td class="tg-f4yw">Form Teacher 1</td>
-    <td class="tg-f4yw" rowspan="2">Mdm Tan Kime Huey Doreen</td>
-    <td class="tg-f4yw" rowspan="2">tan_kime_huey_doreen@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Maths</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Form Teacher 2</td>
-    <td class="tg-f4yw" rowspan="2">Mr Paul Low Khin Sin</td>
-    <td class="tg-f4yw" rowspan="2">low_khin_sin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">PE</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">English</td>
-    <td class="tg-f4yw">Ms Chia Jie Wei</td>
-    <td class="tg-f4yw">chia_jie_wei@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Higher Chinese</td>
-    <td class="tg-f4yw">Mdm Ma Lin [马 琳]</td>
-    <td class="tg-f4yw">ma_lin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Science</td>
-    <td class="tg-f4yw">Mdm Tan Li Shih</td>
-    <td class="tg-f4yw">tan_li_shih@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="7">3J</td>
-    <td class="tg-f4yw">Form Teacher 1</td>
-    <td class="tg-f4yw" rowspan="3">Mdm Gloria Poon Mui Geok</td>
-    <td class="tg-f4yw" rowspan="3">gloria_poon_mui_geok@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Maths</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Science</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Form Teacher 2</td>
-    <td class="tg-f4yw" rowspan="2">Tan Hui Khoon</td>
-    <td class="tg-f4yw" rowspan="2">tan_hui_khoon@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Art</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">English</td>
-    <td class="tg-f4yw">Ms Siva PVL</td>
-    <td class="tg-f4yw">siva_pvl@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Higher Chinese</td>
-    <td class="tg-f4yw">Mdm Liu Ying [刘莹]</td>
-    <td class="tg-f4yw">liu_ying_d@moe.edu.sg</td>
-  </tr>
-</tbody>
-</table>
+<table style="border-collapse:
+ collapse;width:414pt" width="552" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1638;width:38pt" width="51"> <col style="mso-width-source:userset;mso-width-alt:3532;width:83pt" width="110"> <col style="mso-width-source:userset;mso-width-alt:5120;width:120pt" width="160"> <col style="mso-width-source:userset;mso-width-alt:7398;width:173pt" width="231"></colgroup><tbody><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:white;font-weight:700;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:black;mso-pattern:black none" width="51" class="xl75" height="18">CLASS</td><td style="width:83pt;font-size:10.0pt;color:white;
+  font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:black;mso-pattern:black none" width="110" class="xl75">SUBJECT</td><td style="width:120pt;font-size:10.0pt;color:white;
+  font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:black;mso-pattern:black none" width="160" class="xl75">NAME OF STAFF</td><td style="width:173pt;font-size:10.0pt;color:white;
+  font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:black;mso-pattern:black none" width="231" class="xl75">EMAIL ADDRESS</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl67" height="35">3A</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl68">Form Teacher 1</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Mdm Jessilin Khee Shi Lin</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">jessilin_khee_shi_lin@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="110" class="xl65">Maths</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="160" class="xl65"></td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="231" class="xl71">&nbsp;</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">Science</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">&nbsp;</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">&nbsp;</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="110" class="xl65">Form Teacher 2</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="160" class="xl65">Mr Lim Hon Shin Clifton</td><td style="font-size:10.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" class="xl66">lim_hon_shin_clifton@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border:.5pt solid windowtext;background:
+  white;mso-pattern:black none" width="110" class="xl76">Higher Chinese</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border:.5pt solid windowtext;background:
+  white;mso-pattern:black none" width="160" class="xl77">Mdm Wan Xifei [万希飞]</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border:.5pt solid windowtext;background:
+  white;mso-pattern:black none" width="231" class="xl78">wan_xifei@moe.edu.sg</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;
+  border-left:.5pt solid windowtext;background:white;mso-pattern:black none" width="51" class="xl72" height="35">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl73">English</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">Mdm Suhaidah Bte Mokhtar</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">suhaidah_mokhtar@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;border-top:none;
+  width:38pt;font-size:10.0pt;color:black;font-weight:400;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial, sans-serif;
+  border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="51" class="xl67" height="18">3B</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Form Teacher 1</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Ms Emma Kok Li Shan</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">emma_kok_li_shan@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">English</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">&nbsp;</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">&nbsp;</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="35">&nbsp;</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Form Teacher 2</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Mdm Siti Awallilah Bte Amin</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">siti_awalliah_amin@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">Science</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">&nbsp;</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">&nbsp;</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl76">Maths</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl77">Mdm Goh Yen Ping</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl78">goh_yen_ping@moe.edu.sg</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;
+  border-left:.5pt solid windowtext;background:white;mso-pattern:black none" width="51" class="xl72" height="35">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl73">Higher Chinese</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">Mdm Ang Sio Hoon [洪小芬]</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">ang_sio_hoon@moe.edu.sg</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl65" height="35">3C</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Form Teacher 1</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Mdm Suhaidah Bte Mokhtar</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">suhaidah_mokhtar@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl65" height="18"></td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">English</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">&nbsp;</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">&nbsp;</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl65" height="35"></td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Form Teacher 2</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Mdm Phua Mei Yan [潘美燕]</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">phua_mei_yan@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl65" height="18"></td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">Higher Chinese</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">&nbsp;</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">&nbsp;</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl65" height="18"></td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl76">Maths</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl77">Mr Sung Sheng Yi Kelvin</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl78">sung_sheng_yi_kelvin@moe.edu.sg</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl65" height="35"></td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Science</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Mdm Siti Awallilah Bte Amin</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">siti_awalliah_amin@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl67" height="18">3D</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Form Teacher 1</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Mdm Tan Li Shih</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">tan_li_shih@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="110" class="xl70">English</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="160" class="xl65"></td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="231" class="xl71">&nbsp;</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">Science</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">&nbsp;</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">&nbsp;</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="35">&nbsp;</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Form Teacher 2</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Mr Vikneswaran S/O Selvarajoo</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">vikneswaran_selvarajoo@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">PE</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">&nbsp;</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">&nbsp;</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl76">Higher Chinese</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl77">Mr Low Ko Hee [刘可喜]</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl78">low_ko_hee@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;
+  border-left:.5pt solid windowtext;background:white;mso-pattern:black none" width="51" class="xl72" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl73">Maths</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">Ms Jessilin Khee Shi Lin</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">jessilin_khee_shi_lin@moe.edu.sg</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;border-top:none;
+  width:38pt;font-size:10.0pt;color:black;font-weight:400;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial, sans-serif;
+  border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="51" class="xl67" height="35">3E</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Form Teacher 1</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Mdm Noorlailee Bte Mohd Jusin</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">noorlailee_mohd_jusin@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="110" class="xl70">English</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="160" class="xl65"></td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="231" class="xl71">&nbsp;</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="35">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Form Teacher 2</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Mdm Gwee Bock Lan Lena</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">gwee_bock_lan_lena@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">Maths</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">&nbsp;</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">&nbsp;</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="35">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">Maths</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">Ms Khadijah Cassim Madari</td><td style="font-size:10.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" class="xl66">khadijah_cassim_madari@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl76">Higher Chinese</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl77">Mdm Feng Jie [冯 洁]</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border:.5pt solid windowtext;background:
+  white;mso-pattern:black none" width="231" class="xl78">feng_jie@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;
+  border-left:.5pt solid windowtext;background:white;mso-pattern:black none" width="51" class="xl72" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl73">Science</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">Mdm Adeline Ong Hui En</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">adeline_ong_hui_en@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;border-top:none;
+  width:38pt;font-size:10.0pt;color:black;font-weight:400;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial, sans-serif;
+  border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="51" class="xl67" height="18">3F</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Form Teacher 1</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Mdm Adeline Ong Hui En</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">adeline_ong_hui_en@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="110" class="xl70">English</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="160" class="xl65"></td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="231" class="xl71">&nbsp;</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">Science</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">&nbsp;</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">&nbsp;</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="35">&nbsp;</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Form Teacher 2</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Mdm Soo Pei Chih [苏佩琪]</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">soo_pei_chih@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">Higher Chinese</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">&nbsp;</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">&nbsp;</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;
+  border-left:.5pt solid windowtext;background:white;mso-pattern:black none" width="51" class="xl72" height="35">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl73">Maths</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">Mdm Tan Kime Huey Doreen</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">tan_kime_huey_doreen@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;border-top:none;
+  width:38pt;font-size:10.0pt;color:black;font-weight:400;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial, sans-serif;
+  border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="51" class="xl67" height="18">3G</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Form Teacher 1</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Ms Latha- Siva PVL</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">siva_pvl@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">English</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">&nbsp;</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">&nbsp;</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Form Teacher 2</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Mrs Loh- Lin Shwu Hwa</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">lin-loh_shwu_hwa@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">Science</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">&nbsp;</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">&nbsp;</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="35">&nbsp;</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl76">Higher Chinese</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl77">Ms Yeo Tyze Feng [杨芝芬]</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl78">yeo_tyze_feng@moe.edu.sg</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;
+  border-left:.5pt solid windowtext;background:white;mso-pattern:black none" width="51" class="xl72" height="35">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl73">Maths</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">Mdm Gloria Poon Mui Geok</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">gloria_poon_mui_geok@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;border-top:none;
+  width:38pt;font-size:10.0pt;color:black;font-weight:400;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial, sans-serif;
+  border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="51" class="xl67" height="18">3H</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Form Teacher 1</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Mr Sung Sheng Yi Kelvin</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">sung_sheng_yi_kelvin@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="110" class="xl70">Maths</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="160" class="xl65"></td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="231" class="xl71">&nbsp;</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">Science</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">&nbsp;</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">&nbsp;</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Form Teacher 2</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Mdm Ong Wee Wah</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">ong_wee_wah@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">PE</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">&nbsp;</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">&nbsp;</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="35">&nbsp;</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl76">English</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl77">Mdm Noorlailee Bte Mohd Jusin</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl78">noorlailee_mohd_jusin@moe.edu.sg</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;
+  border-left:.5pt solid windowtext;background:white;mso-pattern:black none" width="51" class="xl72" height="35">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl73">Higher Chinese</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">Mrs Goh Soek Fong [郭素坊]</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">goh_soek_fong@moe.edu.sg</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;border-top:none;
+  width:38pt;font-size:10.0pt;color:black;font-weight:400;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Arial, sans-serif;
+  border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="51" class="xl67" height="35">3I</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Form Teacher 1</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Mdm Tan Kime Huey Doreen</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">tan_kime_huey_doreen@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">Maths</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">&nbsp;</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">&nbsp;</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Form Teacher 2</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Mr Paul Low Khin Sin</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">low_khin_sin@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">PE</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">&nbsp;</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">&nbsp;</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl76">English</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl77">Ms Chia Jie Wei</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl78">chia_jie_wei@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl70" height="18">&nbsp;</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl76">Higher Chinese</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl77">Mdm Ma Lin [马 琳]</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl78">ma_lin@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;
+  border-left:.5pt solid windowtext;background:white;mso-pattern:black none" width="51" class="xl72" height="18">&nbsp;</td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl73">Science</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">Mdm Tan Li Shih</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">tan_li_shih@moe.edu.sg</td></tr><tr style="height:26.4pt" height="35"><td style="height:26.4pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl65" height="35">3J</td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Form Teacher 1</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Mdm Gloria Poon Mui Geok</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">gloria_poon_mui_geok@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl65" height="18"></td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="110" class="xl70">Maths</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="160" class="xl65"></td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="231" class="xl71">&nbsp;</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl65" height="18"></td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">Science</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">&nbsp;</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">&nbsp;</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl65" height="18"></td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl67">Form Teacher 2</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl68">Tan Hui Khoon</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl69">tan_hui_khoon@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl65" height="18"></td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl72">Art</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl73">&nbsp;</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl74">&nbsp;</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl65" height="18"></td><td style="border-top:none;width:83pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl76">English</td><td style="border-top:none;width:120pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl77">Ms Latha- Siva PVL</td><td style="border-top:none;width:173pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl78">siva_pvl@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;
+  border-left:.5pt solid windowtext;background:white;mso-pattern:black none" width="51" class="xl65" height="18"></td><td style="width:83pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="110" class="xl65">Higher Chinese</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl65">Mdm Liu Ying [刘莹]</td><td style="width:173pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="231" class="xl65">liu_ying_d@moe.edu.sg</td></tr></tbody></table>
 
-**Updated on 03 January 2023**
+**Updated on 26 JUNE 2023**

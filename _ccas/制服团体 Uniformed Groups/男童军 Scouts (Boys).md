@@ -22,4 +22,3 @@ In Scouting, a boy is encouraged to educate himself instead of being instructed.
 |       Mr Aameer Bin Hassim       |      aameer_hassim@moe.edu.sg     |            |
 |     Mr Vikneswaran Selvarajoo    | vikneswaran_selvarajoo@moe.edu.sg |            |
 |     Mrs Ho- Sim Wanru Rachel     |    sim_wanru_rachel@moe.edu.sg    |            |
-|        Mdm Zhao Ang [赵昂]       |        zhao_ang@moe.edu.sg        |            |

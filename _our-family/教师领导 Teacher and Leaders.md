@@ -17,6 +17,5 @@ description: ""
 |   10  |     Mdm Tan Chiew Yen June      |       Senior Teacher (Learning Needs)        |       tan_chiew_yen@moe.edu.sg       |
 |   11  |       Mdm Ng Li Min Janice      |  Senior Teacher (Learning Needs) (Internal)  |      ng_li_min_janice@moe.edu.sg     |
 |   12  |  Mdm Nadiah Binte Abdul Khalik  |  Senior Teacher (Learning Needs) (Internal)  |    nadiah_abdul_khalik@moe.edu.sg    |
-|   13  |  Mr Mohamed Reza B Abdul Rashid |        Senior Teacher (PE) (Internal)        | mohamed_reza_abdul_rashid@moe.edu.sg |
 
 **Updated on 03 January 2023**

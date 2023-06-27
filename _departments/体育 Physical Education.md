@@ -26,3 +26,7 @@ The teaching of values will also be integrated into the physical education curri
 | Primary 5 | • Sports &amp; Games<br>• Dance<br>• Gymnastics<br>• Outdoor Education<br>• Track &amp; Field<br>• Swimming<br>• Physical Health &amp; Fitness | • Inter-Class Frisbee Tournament<br>• P5 Camp<br>• PE Values-in-Action<br>• Learning for Life Programme (LLP) |
 | Primary 6 | • Sports &amp; Games<br>• Dance<br>• Gymnastics<br>• Outdoor Education<br>• Track &amp; Field<br>• Swimming<br>• Physical Health &amp; Fitness | • Inter-Class Basketball Tournament<br>• Physical Fitness Test (NAPFA)<br>• Games Day<br>• PE Values-in-Action<br>• Learning for Life Programme (LLP) |
 | | | |
+
+**<a name="P5CampBriefingSlides"></a><u>P5 Camp Briefing Slides:</u>**<br>
+* [2023 P5 Camp Parents' Briefing 5A_5F_26June](/files/Department/2023%20p5%20camp%20parents'%20briefing%205a_5f_26june.pdf)
+* [2023 P5 Camp Parents' Briefing 5G_5L_26June](/files/Department/2023%20p5%20camp%20parents'%20briefing%205g_5l_26june.pdf)

@@ -7,6 +7,7 @@ description: ""
 |:----:|:----------------------------:|:----------------------------:|:------------------------------:|
 |   1  |      Mdm Phay Yuh-Shuang     |    Administration Manager    | phay_yuh-shuang@schools.gov.sg |
 |   2  |     Mdm Ding Ching Ching     |      Operations Manager      |   ding_ching_ching@moe.edu.sg  |
+|   3  |     Mr Muhammad Hafiz Bin Anuar     |      Operations Manager      |   muhammad_hafiz_anuar@moe.edu.sg  |
 |   3  |  Ms Nur Farhana Binte Salwar |          ICT Manager         |  nur_farhana_salwar@moe.edu.sg |
 |   4  |   Ms Mehrunnisha Binte Aziz  |         ICT Associate        |   mehrunnisha_aziz@moe.edu.sg  |
 |   5  |        Mdm Hayati Amat       |        Admin Executive       |   hayati_amat@schools.gov.sg   |
@@ -24,4 +25,4 @@ description: ""
 |  17  |       Mr Muhammad Azmi       |    Desktop Engineer (NCS)    |     g-ncs5240pde@ncs.com.sg    |
 |  18  |    Mr Kris Khoo Tiong Gee    |    Desktop Engineer (NCS)    |     g-ncs5240pde@ncs.com.sg    |
 
-**Updated on 06 April 2023**
+**Updated on 26 JUNE 2023**

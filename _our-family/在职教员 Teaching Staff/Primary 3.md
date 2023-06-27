@@ -1041,4 +1041,4 @@ third_nav_title: 在职教员 Teaching Staff
   border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
   background:white;mso-pattern:black none" width="231" class="xl65">liu_ying_d@moe.edu.sg</td></tr></tbody></table>
 
-**Updated on 03 January 2023**
+**Updated on 26 JUNE 2023**

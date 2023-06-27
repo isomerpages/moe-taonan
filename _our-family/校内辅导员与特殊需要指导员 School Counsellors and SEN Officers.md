@@ -9,6 +9,6 @@ description: ""
 |   2  | Miss Nur Kamila Binte Jamaludin |   Special Educational Needs Officer (SEN Officer) |   nur_kamila_jamaludin@moe.edu.sg  |
 |   3  |        Mdm Siew Wei Kuan        |    Special Educational Needs Officer (SEN Officer)    |      siew_wei_kuan@moe.edu.sg      |
 |   4  |   Miss Nur Shreen Binte Sidek   |    Special Educational Needs Officer (SEN Officer)   |    nur_shreen_sidek@moe.edu.sg     |
-|   4  |   Miss Phua Ying Jie   |    Special Educational Needs Officer (SEN Officer)    |    phua_ying_jie@moe.edu.sg     |
+|   5  |   Miss Phua Ying Jie   |    Special Educational Needs Officer (SEN Officer)    |    phua_ying_jie@moe.edu.sg     |
 
 **Updated on 26 JUNE 2023**

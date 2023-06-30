@@ -2,7 +2,7 @@
 title: 品德与公民教育 Character and Citizenship Education
 permalink: /departments/character-and-citizenship-education/
 description: ""
-third_nav_title: 品德与公民教育Character &amp; Citizenship
+third_nav_title: 品德与公民教育Character & Citizenship
 ---
 ### Vision / Mission
 
@@ -12,79 +12,92 @@ Love to Learn &amp; Learn to Love
 **Mission** <br>
 To nurture innovative pupils of exemplary character with a love for learning.
 
-![](/images/Banner_CCE_2021.jpg)
 
 ### Key Programmes / Activities
-Character Development is one of the three strategic trusts of the school. Tao Nan School believes that every Taonanite must be individuals who possess a sound set of values. Thus, we plan programmes which allow our students to comprehend and display positive character and citizenship traits.
+Tao Nan School believes that every Taonanite must be individuals who possess a sound set of values. Thus, we plan programmes which allow our students to comprehend and display positive character and citizenship traits.
 
 Our key drivers for Character &amp; Citizenship Education are the
-* Social-Emotional Programme
 * Values Education Curriculum
 * Values-in-Action Programme
 * National Education Programme
-* 3R Programme
+* Eco-stewardship Programme
+
 
 These are aligned to the Character &amp; Citizenship Education curriculum and each is customised to meet the diverse needs of our students. Our specially crafted activities fill the students with a sense of confidence and pave their way to becoming concerned citizens who are active contributors to the community and nation.
 
 **Social-Emotional Programme**<br>
 We take care of the social and emotional well-being of each student and develop their social-emotional competencies through our specially-designed programmes and individualised support.
 
-Our Social-Emotional Programmes are:
-
-1. Form-Teacher Guidance Period (FTGP)
-2. Chit-Chat Time
-3. Life skills for Effective Living and Communication
-4. P5-P6 Sexuality Education (SEd)
 
 <u><strong> Values Education Curriculum </strong></u> <br>
 We believe that values are both caught and taught. Thus, our programmes are anchored on our school core values and taught using explicit and implicit approaches.
 
+![](/images/Departments/img_cce_ve02.jpg)
+
+![](/images/Departments/img_cce_ve01.jpg)
+
 Programmes:
-1. Values Education Assembly Talks &amp; Level-based Lessons
-2. Growth Mindset
-3. Termly Star Pupil Award
+1.	CCE Human Stories initiative, Assembly Talks &amp; Level-based Lessons
+2.	Growth Mindset
+3.	Termly Star Pupil Award
 
 **Values-in-Action (VIA) Programme**<br> 
-Taonanites are encouraged to display positive traits and internalise the values through our level and school based programmes. The level-based programmes are planned in accordance with an expanding framework and are designed in alignment with the head, heart and hands approach. Thus the students not only feel a sense of empathy for another individual but are inspired to make the community a better place for one and all.
+Values in Action (VIA) is a Key Student Development Experience that aims to nurture socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. In alignment with our school Vision, ‘Love to Learn &amp; Learn to Love’, our progressive six-year level-based programme leverages the design thinking approach to support students’ acquisition and practice of the school values in a real-life setting, deepens their sense of belonging to Singapore, and engenders student ownership and initiative. To deepen student learning and invoke active citizenry, students reflect on their lived experiences, ruminate how they have put into practice the school values and explore and how they can continue to contribute meaningfully to the school and community moving forward. 
 
-| Level | Our Values in Action Programmes |
+![](/images/Departments/img_cce_via01.jpg)
+
+![](/images/Departments/img_cce_via02.jpg)
+
+| Level | Values in Action Programmes |
 |---|---|
 | Primary 1 | Project Kindness |
-| Primary 2 | Happy School Project |
-| Primary 3 | Project Earth |
+| Primary 2 | Project Responsibility |
+| Primary 3 | Project Sincerity |
 | Primary 4 | Project Love |
-| Primary 5 | Conservation Project |
+| Primary 5 | Project Respect|
 | Primary 5 (GEP) | Service Learning Project |
 | Primary 6 | Games Day cum Jumble Sale |
 
 **National Education (NE)**<br>
-NE is part of our holistic education. It aims to develop national cohesion, cultivate the instinct for survival as a nation, and instil confidence in our nation's future. It also emphasises the need to cultivate a sense of rootedness and belonging to Singapore.
+As a significant aspect of Character and Citizenship Education (CCE), NE comprises a wide range of school efforts that aims to:
 
-The 6 NE Messages are:
-1. Singapore is our homeland; this is where we belong. <br>
-    _We treasure our heritage and take pride in shaping our own unique way of life._
-2. We must preserve racial and religious harmony. <br>
-    _We value our diversity and are determined to stay a united people._
-3. We must uphold meritocracy and incorruptibility. <br>
-    _We provide opportunities for all, according to their ability and effort._
-4. No one owes Singapore a living. <br> 
-    _We find our own way to survive and prosper, turning challenge into opportunity._
-5. We must ourselves defend Singapore. <br>
-    _We are proud to defend Singapore ourselves; no one else is responsible for our security and well-being._
-6. We have confidence in our future. <br>  _United, determined and well-prepared, we have what it takes to build a bright future for ourselves, and to progress together as one nation._
+* Provide our students with the knowledge, skills and values to understand Singapore's history, realities and challenges unique to our nation, appreciate our journey to nationhood, cultivate the instincts for survival as a nation, and have confidence in our nation's future.
+* Be empowering and aspirational, allowing for individual sense-making, to nurture engaged citizens, who are socially aware, adept at critical thinking, and informed about local, regional and global issues.
+*  Help our students experience and explore their national identity as Singaporeans and foster a strong sense of belonging, reality, and hope which motivates our students to play a contributory role in their immediate communities and in the nation while they seek to achieve their personal life goals.
+
+![](/images/Departments/img_cce_ne01.jpg)
+
+![](/images/Departments/img_cce_ne02.jpg)
 
 Programmes:
-1. 4 Core NE Events (Total Defence Day, International Friendship Day, Racial Harmony Day, National Day)
-2. P1 to P6 Teacher-led Social Studies/ NE Learning Journeys
-3. P5 NE Show
-4. Sports Interaction Programme
-5. Celebrations of Festivals
-6. NE Ambassador Programme
+1.	Total Defence Day, International Friendship Day, Racial Harmony Day, National Day (NE Core Events)
+2.	P1 to P6 Social Studies/Cohort Learning Journeys
+3.	P5 NE Show
+4.	CCA Collaboration with Partner Schools
+5.	Celebrations of Festivals
+6.	NE Ambassador Programme
 
-**3Rs**<br>
-We aim to inculcate in our pupils the right values, attitudes and habits to ensure environmental sustainability. Thus, our Green Activists are tasked to encourage their classmates to adopt environmentally friendly practices. These Green Activists also assist in the up keeping of our Butterfly Garden and Fernery. In addition, they are involved in composting and the creation of an enzyme cleaner that they utilise to keep their classrooms clean while keeping the insects at bay.
+**Eco-stewarship** <br>
+We aim to inculcate in our students the right values, attitudes and habits to ensure environmental sustainability. Thus, our Eco Stewardship Programme is undertaken holistically through the 4Cs:
+
+* Curriculum
+* Campus
+* Culture
+* Community
+
+![](/images/Departments/img_cce_ecostewardship01.jpg)
+	
+
+![](/images/Departments/img_cce_ecostewardship02.jpg)
 
 Programmes:
-1. Green Wednesday
-2. Green OK Award (class-based)
-3. Green Activist Programme
+1.	Green OK Award 
+2.	Green Activist Programme
+3.	Conservation Awareness Day
+
+
+
+
+
+
+

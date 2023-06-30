@@ -12,6 +12,8 @@ Love to Learn &amp; Learn to Love
 **Mission** <br>
 To nurture innovative pupils of exemplary character with a love for learning.
 
+![](/images/Banner_CCE_2021.jpg)
+
 
 ### Key Programmes / Activities
 Tao Nan School believes that every Taonanite must be individuals who possess a sound set of values. Thus, we plan programmes which allow our students to comprehend and display positive character and citizenship traits.

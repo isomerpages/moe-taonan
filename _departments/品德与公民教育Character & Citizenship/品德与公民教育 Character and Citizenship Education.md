@@ -25,9 +25,6 @@ Our key drivers for Character &amp; Citizenship Education are the
 
 These are aligned to the Character &amp; Citizenship Education curriculum and each is customised to meet the diverse needs of our students. Our specially crafted activities fill the students with a sense of confidence and pave their way to becoming concerned citizens who are active contributors to the community and nation.
 
-**Social-Emotional Programme**<br>
-We take care of the social and emotional well-being of each student and develop their social-emotional competencies through our specially-designed programmes and individualised support.
-
 
 <u><strong> Values Education Curriculum </strong></u> <br>
 We believe that values are both caught and taught. Thus, our programmes are anchored on our school core values and taught using explicit and implicit approaches.
@@ -55,7 +52,6 @@ Values in Action (VIA) is a Key Student Development Experience that aims to nurt
 | Primary 3 | Project Sincerity |
 | Primary 4 | Project Love |
 | Primary 5 | Project Respect|
-| Primary 5 (GEP) | Service Learning Project |
 | Primary 6 | Games Day cum Jumble Sale |
 
 **National Education (NE)**<br>

@@ -3,7 +3,6 @@ title: 社会知识 Social Studies
 permalink: /departments/social-studies/
 description: ""
 ---
-
 ### Vision / Mission
 
 **Vision** <br>
@@ -16,7 +15,7 @@ To equip pupils with the knowledge about the world they live in and develop posi
 
 ### Key Programmes / Activities
 
-Social Studies is a subject that allows pupils to understand the interaction amongst people, places and the environment. Pupils also acquire thinking skills to help them evaluate information and develop positive attitudes towards self and others. 
+Social Studies is a subject that allows pupils to understand the interaction amongst people, places and the environment. Pupils also acquire thinking skills to help them evaluate information and develop positive attitudes towards self and others.&nbsp;
 
 Programmes:
 
@@ -24,8 +23,9 @@ Programmes:
 |---|---|
 | Primary 1 | Neighbourhood Walk |
 | Primary 2 | Visit to National Orchid Garden |
-| Primary 3 | Visit to NeWater Treatment Plan |
-| Primary 4 | Visit to Malay Heritage Centre & Kampong Glam |
-| Primary 5 | Visit to Indian Heritage Centre & Little India |
-| Primary 6 | Visit to Indian Heritage Centre & Little India & Singapore Hokkien Huay Kuan |
-| | | 
+| Primary 3 | Visit to Eurasian Heritage Gallery |
+| Primary 4 | Museum-based Learning: Tales of the Emporium  |
+| Primary 5 | Museum-based Learning: Sites and Sounds of Little India |
+| Primary 6 | Museum-based Learning: Asian Adventures &amp; 
+Visit to Singapore Hokkien Huay Kuan |
+| | |

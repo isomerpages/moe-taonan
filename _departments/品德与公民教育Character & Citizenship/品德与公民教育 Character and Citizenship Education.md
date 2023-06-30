@@ -16,7 +16,7 @@ To nurture innovative pupils of exemplary character with a love for learning.
 ### Key Programmes / Activities
 Tao Nan School believes that every Taonanite must be individuals who possess a sound set of values. Thus, we plan programmes which allow our students to comprehend and display positive character and citizenship traits.
 
-Our key drivers for Character &amp; Citizenship Education are the:
+Our key drivers for Character &amp; Citizenship Education are the
 * Values Education Curriculum
 * Values-in-Action Programme
 * National Education Programme

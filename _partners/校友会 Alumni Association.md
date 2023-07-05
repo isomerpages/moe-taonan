@@ -3,12 +3,10 @@ title: 校友会 Alumni Association
 permalink: /partners/alumni-association/
 description: ""
 ---
-
-<img src="/images/img_alumni.jpeg" 
-     style="width:80%">
+<img src="/images/img_alumni.jpeg" style="width:80%">
 
 [https://www.taonanalumni.org/index.html](https://www.taonanalumni.org/index.html) <br>
-Alumni Application Form: [https://www.taonanalumni.org/memberjoinin.html](https://www.taonanalumni.org/memberjoinin.html) 
+Alumni Application Form: [https://www.taonanalumni.org/MemberJoin.aspx](https://www.taonanalumni.org/MemberJoin.aspx) 
 
 ![](/images/img_alumniPhoto.png)
 

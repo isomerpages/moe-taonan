@@ -9,6 +9,7 @@ Forms
 ### Student Matters
 * [2023 Updating of Student’s Information](https://pg.moe.edu.sg/forms/sdf)
 * [2023 Waiting List Form](https://form.gov.sg/630451640386aa0012717828)
+* [2023 Leave of Absence Form](https://go.gov.sg/2023-leave-of-absence)
 * [2024 Leave of Absence Form](https://go.gov.sg/loa-form-2024)
 
 ### Finance

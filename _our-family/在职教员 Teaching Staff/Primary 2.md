@@ -6,6 +6,7 @@ third_nav_title: 在职教员 Teaching Staff
 ---
 **ONLY TEACHERS TEACHING THE CHINESE LANGUAGE WILL HAVE THEIR NAMES REFLECTED IN CHINESE CHARACTERS**
 
+  
 <table style="border-collapse:
  collapse;width:449pt" width="599" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1638;width:38pt" width="51"> <col style="mso-width-source:userset;mso-width-alt:3737;width:88pt" width="117"> <col style="mso-width-source:userset;mso-width-alt:5120;width:120pt" width="160"> <col style="mso-width-source:userset;mso-width-alt:8678;width:203pt" width="271"></colgroup><tbody><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
   10.0pt;color:white;font-weight:700;text-decoration:none;text-underline-style:
@@ -286,17 +287,65 @@ third_nav_title: 在职教员 Teaching Staff
   text-underline-style:none;text-line-through:none;font-family:Arial, sans-serif;
   border-top:.5pt solid windowtext;border-right:.5pt solid windowtext;
   border-bottom:none;border-left:.5pt solid windowtext;background:white;
-  mso-pattern:black none" width="51" class="xl66" height="18">2D</td><td style="border-top:none;width:88pt;font-size:10.0pt;
+  mso-pattern:black none" width="51" class="xl66" height="18">2D</td><td style="width:88pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="117" class="xl69">Form Teacher 1</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="160" class="xl65">Ms Vaswani Deepa Hiro</td><td style="font-size:10.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" class="xl82">vaswani_deepa_hiro@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl69" height="18">&nbsp;</td><td style="width:88pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="117" class="xl69">English</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="160" class="xl65"></td><td style="width:203pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="271" class="xl65"></td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial;border-top:none;border-right:
+  .5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl83" height="18"></td><td style="width:88pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="117" class="xl84">Maths</td><td style="width:120pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="160" class="xl83"></td><td style="width:203pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial;border-top:none;border-right:.5pt solid windowtext;
+  border-bottom:none;border-left:.5pt solid windowtext;background:white;
+  mso-pattern:black none" width="271" class="xl83"></td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
+  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl65" height="18"></td><td style="width:88pt;font-size:10.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="117" class="xl78">Form Teacher 2</td><td style="border-left:none;width:120pt;font-size:10.0pt;
   color:black;font-weight:400;text-decoration:none;text-underline-style:none;
   text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
   border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
-  background:white;mso-pattern:black none" width="117" class="xl78">Form Teacher 1</td><td style="border-top:none;border-left:none;width:120pt;
-  font-size:10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
-  none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
-  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
-  background:white;mso-pattern:black none" width="160" class="xl78">Mdm Wan Xifei [万希飞]</td><td style="border-top:none;border-left:none;width:203pt;
-  font-size:10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
-  none;text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="160" class="xl78">Mdm Wan Xifei [万希飞]</td><td style="border-left:none;width:203pt;font-size:10.0pt;
+  color:black;font-weight:400;text-decoration:none;text-underline-style:none;
+  text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
   border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
   background:white;mso-pattern:black none" width="271" class="xl78">wan_xifei@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
   10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
@@ -348,9 +397,9 @@ third_nav_title: 在职教员 Teaching Staff
   border-bottom:.5pt solid windowtext;border-left:.5pt solid windowtext;
   background:white;mso-pattern:black none" width="271" class="xl73">&nbsp;</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
   10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
-  none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
-  border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
-  background:white;mso-pattern:black none" width="51" class="xl69" height="18">&nbsp;</td><td style="border-top:none;width:88pt;font-size:10.0pt;
+  none;text-line-through:none;font-family:Arial;border-top:none;border-right:
+  .5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
+  background:white;mso-pattern:black none" width="51" class="xl84" height="18">&nbsp;</td><td style="border-top:none;width:88pt;font-size:10.0pt;
   color:black;font-weight:400;text-decoration:none;text-underline-style:none;
   text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
   background:white;mso-pattern:black none" width="117" class="xl75">English</td><td style="border-top:none;width:120pt;font-size:10.0pt;

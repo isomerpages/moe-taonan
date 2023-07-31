@@ -9,7 +9,7 @@ third_nav_title: 服务供应商 School Service Providers
 
 | Type of Stall| Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Japanese/ Western Stall (Halal)    | 26 May 2023     | The school is open to considering other cuisines as long as the stall is certified halal.      |
+| Japanese/ Western Stall (Halal)    | 31 Dec 2023     | The school is open to considering other cuisines as long as the stall is certified halal.      |
 
 #### Application Procedure
 

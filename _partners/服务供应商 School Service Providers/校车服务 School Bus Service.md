@@ -22,3 +22,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **Contact No:** 6442 8307<br>
 **Email:** PHAY_Yuh-Shuang@schools.gov.sg<br>
 **Contact Person:** Ms Phay Yuh-Shuang<br>
+
+#### How to get there?
+* Nearest MRT: Eunos MRT (EW7 line) – Take bus number 150 from Eunos Bus Interchange
+* Bus number: 13, 15, 16, 31, 43, 47, 48, 134, 135, 150, 196, 197

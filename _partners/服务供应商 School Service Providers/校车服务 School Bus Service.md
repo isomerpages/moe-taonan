@@ -9,10 +9,12 @@ third_nav_title: 服务供应商 School Service Providers
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 #### Service Requirements
-1. Call for Proposal
+1. Call for Proposal<br>
+[PDF - Call_for_Proposal_by_School_Final](/files/Partners/School%20Service%20Providers/schbusprovider_1_call_for_proposal_by_school_final.pdf)<br>
+[PDF - Call for Proposal Annex A](/files/Partners/School%20Service%20Providers/schbusprovider_2_call_for_proposal_annex_a_final.pdf)
 
-
-2. Agreement for Appointment of School Bus Operator (Sample)
+2. Agreement for Appointment of School Bus Operator (Sample) <br>
+[PDF - Appointment of School Bus Operator Agreement](/files/Partners/School%20Service%20Providers/schbusprovider_3_appointment_of_sch_bus_operator_agreement.pdf)
 
 #### Application Procedure
 1. Complete the Call for Proposal - Annex A.

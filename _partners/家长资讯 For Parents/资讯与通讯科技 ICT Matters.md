@@ -10,15 +10,14 @@ third_nav_title: 家长资讯 For Parents
 
 ### <a name="StudentPortals"></a>Student Portals
 
-[Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)  
-* [Student iCON Onboarding Guide](/files/TNS%20-%20Onboarding%20Guide%20for%20Student%20iCON_for%20PG.pdf)
-  
-[Student ICON / Google Workspace](https://workspace.google.com/dashboard)  
-* [Student iCON 3 Ways to Join Google Classroom](/files/Student%20iCON%20-%20Student%20EDM%20-%20Introducing%20Google%20Classroom_3%20ways%20to%20join%20Google%20classroom.pdf)
 
- [Request for Resetting of Students' ICT Account](https://go.gov.sg/tnspasswordreset)
 
-------------
+|  |  |
+| -------- | -------- | 
+|Google Account (for students)| [https://tao-nan-school-moe.gitbook.io/students-mims-account/google-account](https://tao-nan-school-moe.gitbook.io/students-mims-account/google-account)| 
+|MIMS Account | [https://tao-nan-school-moe.gitbook.io/students-mims-account/](https://tao-nan-school-moe.gitbook.io/students-mims-account/) |
+| Student Learning Space    |  [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)    | 
+|Request for Resetting of Students' ICT Account | [Request for Resetting of Students' ICT Account](https://go.gov.sg/tnspasswordreset)|
 
 ### <a name="CyberWellness"></a>Cyber Wellness
 [Back to top](#backtotop)

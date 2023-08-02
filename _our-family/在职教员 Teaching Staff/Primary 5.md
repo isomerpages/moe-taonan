@@ -650,7 +650,7 @@ third_nav_title: 在职教员 Teaching Staff
   color:black;font-weight:400;text-decoration:none;text-underline-style:none;
   text-line-through:none;font-family:Arial, sans-serif;border:.5pt solid windowtext;
   background:white;mso-pattern:black none;box-sizing: border-box;overflow-wrap: break-word;
-  border-image: initial" width="238" class="xl78">zhao_yanfen@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
+  border-image: initial" width="238" class="xl78">zhao_yan_fen@moe.edu.sg</td></tr><tr style="height:13.2pt" height="18"><td style="height:13.2pt;width:38pt;font-size:
   10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
   border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;

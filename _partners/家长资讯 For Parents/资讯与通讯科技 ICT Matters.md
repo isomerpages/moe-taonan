@@ -12,9 +12,12 @@ third_nav_title: 家长资讯 For Parents
 
 
 
-| Column 1 | Column 2 |
+|  |  |
 | -------- | -------- | 
-| Text     | Text     | 
+| Student Learning Space    |  [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)    | 
+| Student ICON Onboarding Guide|   |
+|MIMS Account | [https://tao-nan-school-moe.gitbook.io/students-mims-account/](https://tao-nan-school-moe.gitbook.io/students-mims-account/) |
+|Google Account (for students)| [https://tao-nan-school-moe.gitbook.io/students-mims-account/](https://tao-nan-school-moe.gitbook.io/students-mims-account/) |
 
 
 

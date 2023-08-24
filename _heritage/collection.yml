@@ -2,6 +2,7 @@ collections:
   heritage:
     output: true
     order:
+      - TNS in Media/新闻动态 TNS in Media.md
       - TNS in Media/.keep
       - 校长献词 Principal's Message.md
       - 财务和非财务信息 Financial and Non Financial Information.md

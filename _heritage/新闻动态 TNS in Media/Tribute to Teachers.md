@@ -6,6 +6,8 @@ third_nav_title: 新闻动态 TNS in Media
 ---
 ### Tribute to Teachers
 
+![tribute-to-teachers](/images/Heritage/TNS%20in%20Media/img_tribute-to-teachers.JPG)
+
 My son Alexander is a very active boy. From the time he was in kindergarten to Primary 2, I would sometimes receive feedback from teachers about him being playful in class. My son also tells me that his teachers would scold and criticise him in front of his classmates.<br>
 
 Then came Ms Adeline Ong, who is his Primary 4 form teacher in Tao Nan School.

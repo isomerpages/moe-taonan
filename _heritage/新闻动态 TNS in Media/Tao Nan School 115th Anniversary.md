@@ -6,6 +6,8 @@ third_nav_title: 新闻动态 TNS in Media
 ---
 ### Tao Nan School celebrated 115th Anniversary
 
+![tao-nan-school-115th-anniversary](/images/Heritage/TNS%20in%20Media/img_tao-nan-school-115th-anniversary.jpg)
+
 The school celebrated 115th Anniversary on 18 Nov 2021 with the theme “Fulfilling Mission, Nurturing Generations”. Dr Tan See Leng, Minister for Manpower and Second Minister for Trade and Industry, who is also the Honorary Member of the Alumni Association, graced the occasion as the Guest-of Honour (GOH). The day’s programme included the opening of the Innovation Oasis by Dr Tan and presentation of the Commemorative Book by the Alumni Association.
 
 Click on these links to read more:

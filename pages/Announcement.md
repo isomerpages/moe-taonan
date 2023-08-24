@@ -12,9 +12,3 @@ For the 2023 P1 Registration Exercise (2023 P1 Ex), parents who are registering 
 You may refer to MOE P1 website for information on the 2023 P1 Ex. 
 
 Thank you.
-
-### 2023 P5 Camp Briefing Slides
-Dear Parents/ Guardians,<br>
-You may find the briefing slides [here](https://www.taonan.moe.edu.sg/departments/physical-education/#P5CampBriefingSlides).
-
-Thank you

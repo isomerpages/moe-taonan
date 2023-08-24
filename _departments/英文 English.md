@@ -36,5 +36,5 @@ The aims of the Extensive Reading Programme are to:<br>
 
 #### 2021 Edition
 ------------
-
+[Sunny Side Up 2021](https://go.gov.sg/sunnysideup2021)
 ![](https://www.taonan.moe.edu.sg/images/img001.jpeg)

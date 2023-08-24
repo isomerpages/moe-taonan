@@ -3,6 +3,10 @@ title: Announcement
 permalink: /announcement/
 description: ""
 ---
+### Announcement on Teachers' Day 2023 to Alumni
+
+![teachers-day-2023-alumni](/images/teachers'%20day%202023.jpg)
+
 ### 2023 P1 Registration
 Dear Parents/ Guardians,<br>
 Phase 1 registration is for a Singapore Citizen (SC) or Permanent Resident (PR) child born between 02 January 2017 and 01 January 2018 (both dates inclusive) and has a sibling currently studying in our school. 

@@ -4,3 +4,6 @@ permalink: /heritage/tns-in-media/in-the-name-of-charity/
 description: ""
 third_nav_title: 新闻动态 TNS in Media
 ---
+### In the Name of Charity
+
+Our P6 student, Terry Goh Wei Jie, participated in the CCF Hair for Hope Event on 2 May 2021.

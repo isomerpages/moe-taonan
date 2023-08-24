@@ -2,6 +2,7 @@ collections:
   heritage:
     output: true
     order:
+      - 新闻动态 TNS in Media/In the Name of Charity.md
       - 新闻动态 TNS in Media/Commentary on the New PSLE Scoring System.md
       - 新闻动态 TNS in Media/National Primary School Chinese Story Telling
         Competition 2021.md

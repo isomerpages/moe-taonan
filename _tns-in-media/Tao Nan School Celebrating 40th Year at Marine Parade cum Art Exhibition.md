@@ -14,4 +14,4 @@ The school is celebrating its 40th year at Marine Parade and organising its annu
 Click on this link to read more:<br>
 * [https://www.8world.com/singapore/tao-nan-school-fundraising-1945561](https://www.8world.com/singapore/tao-nan-school-fundraising-1945561)
 * [https://www.facebook.com/100058119997400/posts/pfbid0C9ZFPd25vTZkFfCoP1bX3qjxTxWE74RwB6zyQyoit5gkHfgr9h84ZMdtTdKh7dadl/](https://www.facebook.com/100058119997400/posts/pfbid0C9ZFPd25vTZkFfCoP1bX3qjxTxWE74RwB6zyQyoit5gkHfgr9h84ZMdtTdKh7dadl/)
-*[ https://www.zaobao.com.sg/news/singapore/story20221016-1323229]( https://www.zaobao.com.sg/news/singapore/story20221016-1323229) (for subscribers)
+* [ https://www.zaobao.com.sg/news/singapore/story20221016-1323229]( https://www.zaobao.com.sg/news/singapore/story20221016-1323229) (for subscribers)

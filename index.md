@@ -19,7 +19,7 @@ sections:
           description: Click to view
           url: https://taonan.moe.edu.sg/quicklinks
   - infopic:
-      title: Teachers' Day to Alumni
+      title: Announcement on Teachers' Day to Alumni
       image: /images/teachers' day 2023.jpg
       alt: Image alt text
       button: Announcement

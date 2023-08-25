@@ -1,4 +1,5 @@
 collections:
   tns-in-media:
     output: true
-    order: []
+    order:
+      - Tao Nan School 115th Anniversary.md

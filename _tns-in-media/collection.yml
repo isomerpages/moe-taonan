@@ -2,7 +2,6 @@ collections:
   tns-in-media:
     output: true
     order:
-      - Tao Nan School 115th Anniversary.md
       - Mother Tongue Language (MTL) Fortnight.md
       - Assembly Programme about Hari Raya Haji.md
       - Girl Guides (Brownies).md

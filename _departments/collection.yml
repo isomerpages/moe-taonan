@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - 英文 English/Sunny Side Up.md
       - 英文 English/英文 English.md
       - 英文 English/.keep
       - 美术 Art.md

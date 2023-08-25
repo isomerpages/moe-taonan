@@ -8,7 +8,7 @@ third_nav_title: 英文 English
 
 #### 2022 Edition
 ------------
-
+[Sunny Side Up 2022](https://go.gov.sg/sunnysideup2022)
 ![](https://www.taonan.moe.edu.sg/images/img002.jpeg)
 
 #### 2021 Edition

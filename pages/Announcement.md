@@ -3,6 +3,10 @@ title: Announcement
 permalink: /announcement/
 description: ""
 ---
+### Announcement on Teachers' Day 2023 to Alumni
+
+![teachers-day-2023-alumni](/images/teachers'%20day%202023.jpg)
+
 ### 2023 P1 Registration
 Dear Parents/ Guardians,<br>
 Phase 1 registration is for a Singapore Citizen (SC) or Permanent Resident (PR) child born between 02 January 2017 and 01 January 2018 (both dates inclusive) and has a sibling currently studying in our school. 
@@ -12,9 +16,3 @@ For the 2023 P1 Registration Exercise (2023 P1 Ex), parents who are registering 
 You may refer to MOE P1 website for information on the 2023 P1 Ex. 
 
 Thank you.
-
-### 2023 P5 Camp Briefing Slides
-Dear Parents/ Guardians,<br>
-You may find the briefing slides [here](https://www.taonan.moe.edu.sg/departments/physical-education/#P5CampBriefingSlides).
-
-Thank you

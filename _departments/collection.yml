@@ -2,6 +2,9 @@ collections:
   departments:
     output: true
     order:
+      - 英文 English/.keep
+      - 英文 English/英文 English.md
+      - 英文 English/Sunny Side Up.md
       - 美术 Art.md
       - 品德与公民教育Character & Citizenship/.keep
       - 品德与公民教育Character & Citizenship/品德与公民教育 Character and Citizenship
@@ -11,7 +14,6 @@ collections:
       - 华文 Chinese/华文 Chinese.md
       - 华文 Chinese/华文开麦了!.md
       - 公民与道德教育 Civics and Moral Education.md
-      - 英文 English.md
       - 高才教育 Gifted Education.md
       - 资讯科技 Information Communication and Technology.md
       - 数学 Mathematics.md

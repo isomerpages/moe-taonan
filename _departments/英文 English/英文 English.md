@@ -2,6 +2,7 @@
 title: 英文 English
 permalink: /departments/english/
 description: ""
+third_nav_title: 英文 English
 ---
 ### Vision / Mission
 
@@ -24,17 +25,3 @@ The aims of STELLAR are to:
 The aims of the Extensive Reading Programme are to:<br>
 1. inculcate the love for reading  
 2. improve students’ reading skills and language proficiency
-
-
-
-### A magazine by the English Special Programme
-
-#### 2022 Edition
-------------
-
-![](https://www.taonan.moe.edu.sg/images/img002.jpeg)
-
-#### 2021 Edition
-------------
-
-![](https://www.taonan.moe.edu.sg/images/img001.jpeg)

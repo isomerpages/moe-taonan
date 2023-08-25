@@ -1,0 +1,15 @@
+---
+title: 新闻动态 TNS in Media
+permalink: /heritage/tns-in-media/permalink/
+description: ""
+third_nav_title: 新闻动态 TNS in Media
+---
+| ![](/images/Heritage/TNS%20in%20Media/icon_tao-nan-school-115th-anniversary.jpg)| ![](/images/Heritage/TNS%20in%20Media/icon_mother-tongue-language-mtl-fortnight.jpg)| ![](/images/Heritage/TNS%20in%20Media/icon_assembly-programme-about-hari-raya-haji.jpg)|
+| -------- | -------- | -------- |
+|[Tao Nan School celebrated 115th Anniversary](https://www.taonan.moe.edu.sg/heritage/tns-in-media/tao-nan-school-115th-anniversary/) | [Mother Tongue Language (MTL) Fortnight](https://www.taonan.moe.edu.sg/heritage/tns-in-media/mother-tongue-language-mtl-fortnight/) | [Assembly Programme about Hari Raya Haji](https://www.taonan.moe.edu.sg/heritage/tns-in-media/assembly-programme-about-hari-raya-haji/) |
+| ![](/images/Heritage/TNS%20in%20Media/icon_girl-guides-brownies.jpg)    | ![](/images/Heritage/TNS%20in%20Media/icon_interview-with-r-j-palacio-author-of-the-book-wonder.jpg)     | ![](/images/Heritage/TNS%20in%20Media/icon_tao-nan-alumni-association-published-picture-books.jpg)     |
+| [Girl Guides (Brownies)](https://www.taonan.moe.edu.sg/heritage/tns-in-media/girl-guides-brownies/) |  [Interview with R J Palacio, author of the book ‘Wonder’](https://www.taonan.moe.edu.sg/heritage/tns-in-media/interview-with-r-j-palacio-author-of-the-book-wonder/)| [Tao Nan Alumni Association Published Picture Books](https://www.taonan.moe.edu.sg/heritage/tns-in-media/tao-nan-alumni-association-published-picture-books/) |
+| ![](/images/Heritage/TNS%20in%20Media/icon_tribute-to-teachers.jpg) | ![](/images/Heritage/TNS%20in%20Media/icon_national-primary-school-chinese-story-telling-competition-2021_1.jpg) | ![](/images/Heritage/TNS%20in%20Media/icon_commentary-on-the-new-psle-scoring-system.jpg) |
+| [Tribute to Teachers](https://www.taonan.moe.edu.sg/heritage/tns-in-media/tribute-to-teachers/) | [National Primary School Chinese Story Telling Competition 2021](https://www.taonan.moe.edu.sg/heritage/tns-in-media/national-primary-school-chinese-story-telling-competition-2021/) | [Commentary on the New PSLE Scoring System](https://www.taonan.moe.edu.sg/heritage/tns-in-media/commentary-on-the-new-psle-scoring-system/) |
+| ![](/images/Heritage/TNS%20in%20Media/icon_in-the-name-of-charity.jpg) | ![](/images/Heritage/TNS%20in%20Media/icon_learning-ballet-as-part-of-holistic-development.jpg) |   |
+| [In the Name of Charity](https://www.taonan.moe.edu.sg/heritage/tns-in-media/in-the-name-of-charity/) | [Learning Ballet as part of Holistic Development](https://www.taonan.moe.edu.sg/heritage/tns-in-media/learning-ballet-as-part-of-holistic-development/) |  |

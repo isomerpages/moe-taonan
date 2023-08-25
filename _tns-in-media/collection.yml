@@ -2,6 +2,7 @@ collections:
   tns-in-media:
     output: true
     order:
+      - Assembly Programme about Hari Raya Haji.md
       - Girl Guides (Brownies).md
       - Interview with R J Palacio, author of the book ‘Wonder’.md
       - Tao Nan Alumni Association Published Picture Books.md

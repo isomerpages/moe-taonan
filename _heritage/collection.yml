@@ -2,7 +2,6 @@ collections:
   heritage:
     output: true
     order:
-      - 新闻动态 TNS in Media.md
       - 校长献词 Principal's Message.md
       - 财务和非财务信息 Financial and Non Financial Information.md
       - 属校董事部（新加坡福建会馆）School Management Committee (Singapore Hokkien Huay
@@ -16,4 +15,5 @@ collections:
       - 校歌 School Song.md
       - 校规 School Rules.md
       - 新闻动态 TNS in Media/.keep
+      - 新闻动态 TNS in Media.md
       - 联系我们 Contact Us.md

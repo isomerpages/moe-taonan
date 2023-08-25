@@ -2,6 +2,7 @@ collections:
   tns-in-media:
     output: true
     order:
+      - Tribute to Teachers.md
       - National Primary School Chinese Story Telling Competition 2021.md
       - Commentary on the New PSLE Scoring System.md
       - In the Name of Charity.md

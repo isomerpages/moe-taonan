@@ -2,5 +2,6 @@ collections:
   tns-in-media:
     output: true
     order:
+      - In the Name of Charity.md
       - Learning Ballet as part of Holistic Development.md
       - Tao Nan School 115th Anniversary.md

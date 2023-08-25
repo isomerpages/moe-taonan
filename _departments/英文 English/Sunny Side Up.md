@@ -13,5 +13,15 @@ third_nav_title: 英文 English
 
 #### 2021 Edition
 ------------
-[Sunny Side Up 2021](https://go.gov.sg/sunnysideup2021)
+
+
+| [Sunny Side Up 2021](https://go.gov.sg/sunnysideup2021) | Volume 1| ![](/images/Departments/English/Sunny%20Side%20Up/httpsgogovsgsunnysideup2021.png) |
+| -------- | -------- | -------- |
+
+
+
+
+
+
 ![](https://www.taonan.moe.edu.sg/images/img001.jpeg)
+

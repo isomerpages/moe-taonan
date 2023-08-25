@@ -1,8 +1,7 @@
 ---
 title: Mother Tongue Language (MTL) Fortnight
-permalink: /heritage/tns-in-media/mother-tongue-language-mtl-fortnight/
+permalink: /tns-in-media/mother-tongue-language-mtl-fortnight/
 description: ""
-third_nav_title: 新闻动态 TNS in Media
 ---
 ### Mother Tongue Language (MTL) Fortnight
 

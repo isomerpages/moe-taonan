@@ -1,8 +1,7 @@
 ---
 title: Assembly Programme about Hari Raya Haji
-permalink: /heritage/tns-in-media/assembly-programme-about-hari-raya-haji/
+permalink: /tns-in-media/assembly-programme-about-hari-raya-haji/
 description: ""
-third_nav_title: 新闻动态 TNS in Media
 ---
 ### Assembly Programme about Hari Raya Haji
 

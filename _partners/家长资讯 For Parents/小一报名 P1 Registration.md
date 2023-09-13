@@ -50,7 +50,9 @@ Parents who require assistance during registration may contact the school via em
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-54sw"><span style="font-weight:bold">Phase</span></th>
+   	<th class="tg-54sw"><span style="font-weight:bold">Phase</span></th>
+    <th class="tg-54sw"><span style="font-weight:bold">2023*</span></th>
+		<th class="tg-54sw"><span style="font-weight:bold">Phase</span></th>
     <th class="tg-54sw"><span style="font-weight:bold">2022*</span></th>
     <th class="tg-54sw"><span style="font-weight:bold">Phase</span></th>
     <th class="tg-2g1l"><span style="font-weight:bold">2021</span></th>
@@ -61,7 +63,9 @@ Parents who require assistance during registration may contact the school via em
 </thead>
 <tbody>
   <tr>
-    <td class="tg-rcip">Phase 1</td>
+     <td class="tg-rcip">Phase 1</td>
+    <td class="tg-rcip">183</td>
+		<td class="tg-rcip">Phase 1</td>
     <td class="tg-rcip">164</td>
     <td class="tg-rcip">Phase 1</td>
     <td class="tg-f4yw">174</td>
@@ -71,6 +75,8 @@ Parents who require assistance during registration may contact the school via em
   </tr>
   <tr>
     <td class="tg-nbj5" rowspan="6"><span style="font-weight:normal;color:#000">Phase 2A</span></td>
+    <td class="tg-nbj5" rowspan="2"><span style="font-weight:normal;color:#000">117</span></td>
+		<td class="tg-nbj5" rowspan="6"><span style="font-weight:normal;color:#000">Phase 2A</span></td>
     <td class="tg-nbj5" rowspan="2"><span style="font-weight:normal;color:#000">125</span></td>
     <td class="tg-rcip">Phase 2A (1)</td>
     <td class="tg-f4yw">116</td>
@@ -87,6 +93,7 @@ Parents who require assistance during registration may contact the school via em
   </tr>
   <tr>
     <td class="tg-f4yw">Within 1 km = 39 Applicants</td>
+		<td class="tg-f4yw">Within 1 km = 39 Applicants</td>
     <td class="tg-f4yw">Within 1 km = 11 Applicants</td>
     <td class="tg-f4yw">NA</td>
     <td class="tg-f4yw">NA</td>
@@ -94,19 +101,22 @@ Parents who require assistance during registration may contact the school via em
   </tr>
   <tr>
     <td class="tg-f4yw">Between 1-2 km = 34 Applicant</td>
+		<td class="tg-f4yw">Between 1-2 km = 34 Applicant</td>
     <td class="tg-f4yw">Between 1-2 km = 4 Applicant</td>
     <td class="tg-f4yw">NA</td>
     <td class="tg-f4yw">NA</td>
     <td class="tg-f4yw">NA</td>
   </tr>
   <tr>
-    <td class="tg-f4yw">Outside 2km = 54 Applicant</td>
+    <td class="tg-f4yw">Outside 2km = 65 Applicant</td>
+		<td class="tg-f4yw">Outside 2km = 54 Applicant</td>
     <td class="tg-f4yw">Outside 2km = 16 Applicant</td>
     <td class="tg-f4yw">NA</td>
     <td class="tg-f4yw">NA</td>
     <td class="tg-f4yw">NA</td>
   </tr>
   <tr>
+		<td class="tg-f4yw">Total = 138 Applicants</td>
     <td class="tg-f4yw">Total = 127 Applicants</td>
     <td class="tg-f4yw">Total = 31 Applicants</td>
     <td class="tg-f4yw">Total = 41 Applicants</td>
@@ -114,7 +124,9 @@ Parents who require assistance during registration may contact the school via em
     <td class="tg-f4yw">Total = 26 Applicants</td>
   </tr>
   <tr>
-    <td class="tg-7yig" rowspan="5"><span style="font-weight:normal;color:#000">Phase 2B</span></td>
+     <td class="tg-7yig" rowspan="5"><span style="font-weight:normal;color:#000">Phase 2B</span></td>
+    <td class="tg-f4yw">20</td>
+		<td class="tg-7yig" rowspan="5"><span style="font-weight:normal;color:#000">Phase 2B</span></td>
     <td class="tg-f4yw">24</td>
     <td class="tg-7yig" rowspan="5"><span style="font-weight:normal;color:#000">Phase 2B</span></td>
     <td class="tg-f4yw">20</td>
@@ -122,7 +134,7 @@ Parents who require assistance during registration may contact the school via em
     <td class="tg-f4yw">35</td>
     <td class="tg-f4yw">42</td>
   </tr>
-  <tr>
+	  <tr>
     <td class="tg-f4yw">Within 1 km = 57 Applicants</td>
     <td class="tg-f4yw">Within 1 km = 55 Applicants</td>
     <td class="tg-f4yw">Within 1 km = 51 Applicants</td>

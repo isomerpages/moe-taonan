@@ -183,12 +183,12 @@ Parents who require assistance during registration may contact the school via em
   </tr>
   <tr>
     <td class="tg-f4yw">3</td>
-    <td class="tg-f4yw">0</td>
-	  <td class="tg-f4yw">0</td>
-    <td class="tg-f4yw">3</td>
-    <td class="tg-f4yw">0</td>
-    <td class="tg-f4yw">0</td>
-    <td class="tg-f4yw">0</td>
+		<td class="tg-f4yw"><b>0</b></td>
+		<td class="tg-f4yw"><b>0</b></td>
+		<td class="tg-f4yw">3</td>
+		<td class="tg-f4yw"><b>0</b></td>
+		<td class="tg-f4yw"><b>0</b></td>
+		<td class="tg-f4yw"><b>0</b></td>
   </tr>
   <tr>
 		<td class="tg-ktyi"></td>

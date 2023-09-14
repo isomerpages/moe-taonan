@@ -56,28 +56,28 @@ Parents who require assistance during registration may contact the school via em
 </thead>
 <tbody>
   <tr>
-     <td class="tg-rcip">Phase 1</td>
-    <td class="tg-rcip">183</td>
-		<td class="tg-rcip">164</td>
-    <td class="tg-rcip">Phase 1</td>
-    <td class="tg-f4yw">174</td>
-    <td class="tg-f4yw">170</td>
-    <td class="tg-f4yw">158</td>
+     <td class="tg-rcip">1</td>
+		<td class="tg-rcip"><b>183</b></td>
+		<td class="tg-rcip"><b>164</b></td>
+    <td class="tg-rcip">1</td>
+		<td class="tg-f4yw"><b>174</b></td>
+		<td class="tg-f4yw"><b>170</b></td>
+		<td class="tg-f4yw"><b>158</b></td>
   </tr>
   <tr>
-    <td class="tg-nbj5" rowspan="6"><span style="font-weight:normal;color:#000">Phase 2A</span></td>
-    <td class="tg-nbj5" rowspan="2"><span style="font-weight:normal;color:#000">138<br>No. of Application</span></td>
-		<td class="tg-nbj5" rowspan="2"><span style="font-weight:normal;color:#000">125<br>No. of Application</span></td>
-    <td class="tg-rcip">Phase 2A (1)</td>
-    <td class="tg-f4yw">116<br>No. of Application</td>
-    <td class="tg-f4yw">108<br>No. of Application</td>
-    <td class="tg-f4yw">109<br>No. of Application</td>
+    <td class="tg-nbj5" rowspan="6"><span style="font-weight:normal;color:#000">2A</span></td>
+		<td class="tg-nbj5" rowspan="2"><span style="font-weight:normal;color:#000"><b>116</b></span></td>
+		<td class="tg-nbj5" rowspan="2"><span style="font-weight:normal;color:#000"><b>125</b></span></td>
+    <td class="tg-rcip">2A (1)</td>
+		<td class="tg-f4yw"><b>116</b></td>
+    <td class="tg-f4yw"><b>108</b></td>
+    <td class="tg-f4yw"><b>109</b></td>
   </tr>
   <tr>
-    <td class="tg-7yig" rowspan="5"><span style="font-weight:normal;color:#000">Phase 2A (2)</span></td>
-    <td class="tg-f4yw">27<br>No. of Application</td>
-    <td class="tg-f4yw">41<br>No. of Application</td>
-    <td class="tg-f4yw">22<br>No. of Application</td>
+    <td class="tg-7yig" rowspan="5"><span style="font-weight:normal;color:#000">2A (2)</span></td>
+		<td class="tg-f4yw"><b>27</b></td>
+		<td class="tg-f4yw"><b>41</b></td>
+		<td class="tg-f4yw"><b>22</b></td>
   </tr>
   <tr>
     <td class="tg-f4yw">Within 1 km = 39 Applicants</td>
@@ -108,23 +108,23 @@ Parents who require assistance during registration may contact the school via em
     <td class="tg-f4yw">Total = 22 Applicants</td>
   </tr>
   <tr>
-     <td class="tg-7yig" rowspan="5"><span style="font-weight:normal;color:#000">Phase 2B</span></td>
-    <td class="tg-f4yw">20</td>
-		<td class="tg-f4yw">24</td>
-    <td class="tg-7yig" rowspan="5"><span style="font-weight:normal;color:#000">Phase 2B</span></td>
-    <td class="tg-f4yw">20</td>
-    <td class="tg-f4yw">21</td>
-    <td class="tg-f4yw">35</td>
+     <td class="tg-7yig" rowspan="5"><span style="font-weight:normal;color:#000">2B</span></td>
+		<td class="tg-f4yw"><b>20</b></td>
+		<td class="tg-f4yw"><b>24</b></td>
+    <td class="tg-7yig" rowspan="5"><span style="font-weight:normal;color:#000">2B</span></td>
+		<td class="tg-f4yw"><b>20</b></td>
+		<td class="tg-f4yw"><b>21</b></td>
+		<td class="tg-f4yw"><b>35</b></td>
   </tr>
 	  <tr>
-    <td class="tg-f4yw">Within 1 km = 57 Applicants</td>
+    <td class="tg-f4yw">Within 1 km = 66 Applicants</td>
 		<td class="tg-f4yw">Within 1 km = 57 Applicants</td>
     <td class="tg-f4yw">Within 1 km = 55 Applicants</td>
     <td class="tg-f4yw">Within 1 km = 51 Applicants</td>
     <td class="tg-f4yw">Within 1km = 35 Applicants</td>
   </tr>
   <tr>
-    <td class="tg-f4yw">Between 1-2 km = 3 Applicant</td>
+    <td class="tg-f4yw">Between 1-2 km = 1 Applicant</td>
 		<td class="tg-f4yw">Between 1-2 km = 3 Applicant</td>
     <td class="tg-f4yw">Between 1-2 km = 2 Applicant</td>
     <td class="tg-f4yw">Between 1-2 km = 2 Applicant</td>
@@ -138,54 +138,54 @@ Parents who require assistance during registration may contact the school via em
     <td class="tg-f4yw">Outside 2km = 0 Applicant</td>
   </tr>
   <tr>
-    <td class="tg-f4yw">Total = 61 Applicants</td>
+    <td class="tg-f4yw">Total = 68 Applicants</td>
 		<td class="tg-f4yw">Total = 61 Applicants</td>
     <td class="tg-f4yw">Total = 57 Applicants</td>
     <td class="tg-f4yw">Total = 53 Applicants</td>
     <td class="tg-f4yw">Total = 36 Applicants</td>
   </tr>
   <tr>
-    <td class="tg-7yig" rowspan="5"><span style="font-weight:normal;color:#000">Phase 2C</span></td>
-    <td class="tg-f4yw">47</td>
-		<td class="tg-f4yw">47</td>
-    <td class="tg-7yig" rowspan="5"><span style="font-weight:normal;color:#000">Phase 2C</span></td>
-    <td class="tg-f4yw">23</td>
-    <td class="tg-f4yw">21</td>
-    <td class="tg-f4yw">36</td>
+    <td class="tg-7yig" rowspan="5"><span style="font-weight:normal;color:#000">2C</span></td>
+		<td class="tg-f4yw"><b>41</b></td>
+		<td class="tg-f4yw"><b>47</b></td>
+    <td class="tg-7yig" rowspan="5"><span style="font-weight:normal;color:#000">2C</span></td>
+		<td class="tg-f4yw"><b>23</b></td>
+		<td class="tg-f4yw"><b>21</b></td>
+		<td class="tg-f4yw"><b>36</b></td>
   </tr>
   <tr>
-    <td class="tg-f4yw">Within 1 km = 97 Applicants</td>
+    <td class="tg-f4yw">Within 1 km = 90 Applicants</td>
 		<td class="tg-f4yw">Within 1 km = 97 Applicants</td>
     <td class="tg-f4yw">Within 1 km = 48 Applicants</td>
     <td class="tg-f4yw">Within 1 km = 72 Applicants</td>
     <td class="tg-f4yw">Within 1km = 61 Applicants</td>
   </tr>
   <tr>
-    <td class="tg-f4yw">Between 1-2 km = 1 Applicant</td>
+    <td class="tg-f4yw">Between 1-2 km = 2 Applicant</td>
 		<td class="tg-f4yw">Between 1-2 km = 1 Applicant</td>
     <td class="tg-f4yw">Between 1-2 km = 0 Applicant</td>
     <td class="tg-f4yw">Between 1-2 km = 3 Applicant</td>
     <td class="tg-f4yw">Between 1-2km = 1 Applicant</td>
   </tr>
   <tr>
-    <td class="tg-f4yw">Outside 2km = 1 Applicant</td>
+    <td class="tg-f4yw">Outside 2km = 3 Applicant</td>
 		<td class="tg-f4yw">Outside 2km = 1 Applicant</td>
     <td class="tg-f4yw">Outside 2km = 0 Applicant</td>
     <td class="tg-f4yw">Outside 2km = 0 Applicant</td>
     <td class="tg-f4yw">Outside 2km = 0 Applicant</td>
   </tr>
   <tr>
-    <td class="tg-f4yw">Total = 99 Applicants</td>
+    <td class="tg-f4yw">Total = 95 Applicants</td>
 		<td class="tg-f4yw">Total = 99 Applicants</td>
     <td class="tg-f4yw">Total = 48 Applicants</td>
     <td class="tg-f4yw">Total = 75 Applicants</td>
     <td class="tg-f4yw">Total = 62 Applicants</td>
   </tr>
   <tr>
-    <td class="tg-f4yw">Phase 3</td>
+    <td class="tg-f4yw">3</td>
     <td class="tg-f4yw">0</td>
 	  <td class="tg-f4yw">0</td>
-    <td class="tg-f4yw">Phase 3</td>
+    <td class="tg-f4yw">3</td>
     <td class="tg-f4yw">0</td>
     <td class="tg-f4yw">0</td>
     <td class="tg-f4yw">0</td>

@@ -40,7 +40,7 @@ third_nav_title: 服务供应商 School Service Providers
   <tr>
     <td class="tg-7yig"><br><span style="font-weight:normal;color:#000">Student Care</span></td>
     <td class="tg-ktyi">Singapore Edusmart Learning Hub</td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">9720-0807</span><br><br><span style="font-weight:normal;color:#000">Email:  </span><br><span style="font-weight:normal;color:#000">taonan_sccops@singaporeedusmart.com.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">9720-0807</span><br><br><span style="font-weight:normal;color:#000">Email:  </span><br><span style="font-weight:normal;color:#000">taonan_sccops@singaporeedusmart.edu.sg</span></td>
     <td class="tg-7yig"><br><span style="font-weight:normal;color:#000">(Term Time)</span><br><span style="font-weight:normal;color:#000">Mon to Fri:</span><br><span style="font-weight:normal;color:#000">1:30pm - 7:00pm</span><br><br><span style="font-weight:normal;color:#000">(School Holiday)</span><br><span style="font-weight:normal;color:#000">Mon to Fri:</span><br><span style="font-weight:normal;color:#000">7:30am - 7:00pm</span><br></td>
   </tr>
   <tr>

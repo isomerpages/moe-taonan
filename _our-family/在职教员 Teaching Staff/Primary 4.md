@@ -990,7 +990,7 @@ third_nav_title: 在职教员 Teaching Staff
   color:black;font-weight:400;text-decoration:none;text-underline-style:none;
   text-line-through:none;font-family:Arial, sans-serif;border-top:.5pt solid windowtext;
   border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;
-  background:white;mso-pattern:black none" width="263" class="xl68">zulhelmi_omar@moe.edu.sg</td></tr><tr style="height:13.8pt" height="18"><td style="height:13.8pt;width:38pt;font-size:
+  background:white;mso-pattern:black none" width="263" class="xl68">zulhelmi_bin_omar@moe.edu.sg</td></tr><tr style="height:13.8pt" height="18"><td style="height:13.8pt;width:38pt;font-size:
   10.0pt;color:black;font-weight:400;text-decoration:none;text-underline-style:
   none;text-line-through:none;font-family:Arial, sans-serif;border-top:none;
   border-right:.5pt solid windowtext;border-bottom:none;border-left:.5pt solid windowtext;

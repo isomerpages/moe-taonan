@@ -25,3 +25,4 @@ P4 - BiCEP Oratorical Camp (SHHK 5 Affiliated Schools) <br>
 P5 - Immersion Trips to Taiwan, Fujian and Xi’an (SHHK 5 Affiliated Schools) <br>
 P6 - Graduation Ceremony (SHHK 5 Affiliated Schools)
 
+**Briefing Slides**

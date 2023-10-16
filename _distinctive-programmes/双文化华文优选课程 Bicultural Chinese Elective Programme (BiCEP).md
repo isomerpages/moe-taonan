@@ -26,4 +26,4 @@ P5 - Immersion Trips to Taiwan, Fujian and Xi’an (SHHK 5 Affiliated Schools) <
 P6 - Graduation Ceremony (SHHK 5 Affiliated Schools)
 
 **Briefing Slides**
-* [2022 BiCEP Briefing for 2023 Intake](/files/2023%20BiCEP%20Intake%20Parent%20briefing%20Sch%20Web%2005092022.pdf)
+* [2022 BiCEP Briefing for 2023 Intake][](/files/2023%20bicep%20intake%20parent%20briefing%20sch%20web.pdf)

@@ -7,13 +7,13 @@ description: ""
 
 ![](/images/img_psgPhoto.png)
 
-Passionate parents from the Tao Nan School (TNS) Parents Support Group (PSG) collaborate with the school to play a supportive role. TNS PSG endeavours to be the channel for the school and the parents to come together, to make Tao Nan a better place for our children.
+Passionate parents from the Tao Nan School (TNS) Parent Support Group (PSG) collaborate with the school to play a supportive role. TNS PSG endeavours to be the channel for the school and the parents to come together, to make Tao Nan a better place for our children.
 
 PSG comprises of parent volunteers whose children are currently studying in Tao Nan. PSG provides daily support to the school in areas such as recess and library duty, and co-organize events and workshops such as International Friendship Day and Racial Harmony Day. We collaborate with the school to facilitate classroom art appreciation lessons via the Art Outreach program, and act as chaperones for field trips.
 
 PSG also actively supports FamilyMatters@School and the Dads for Life movement by organizing workshops and events to equip parents with skills to nurture positive family relationships, and fun-filled activities to strengthen family bonds.
 
-For more information, please go to the TNS PSG Facebook page at \[fb.com/groups/taonanpsg/\](https://www.facebook.com/groups/taonanpsg/) .
+For more information, please go to the TNS PSG Facebook page at&nbsp;\[fb.com/groups/taonanpsg/\](https://www.facebook.com/groups/taonanpsg/)&nbsp;.
 
 You can also email us at [psgtns@gmail.com](mailto:psgtns@gmail.com)
 
@@ -29,7 +29,7 @@ You can volunteer for Daily Duties, Art Explorer Programme (AE), Ad Hoc Programm
 Please take a moment to indicate your interest and preference in the online form [https://tinyurl.com/TNSPSGNEWPV](https://tinyurl.com/TNSPSGNEWPV)
 
 <u> Daily Duties </u> <br>
-PSG supports the school in these areas: Library, Recess and Language & Literacy support for pupils. Parents who are proficient in English should consider availing themselves and provide support to pupils who enter Primary 1 & 2 with weak English language and literacy skills.
+PSG supports the school in these areas: Library, Recess and Language &amp; Literacy support for pupils. Parents who are proficient in English should consider availing themselves and provide support to pupils who enter Primary 1 &amp; 2 with weak English language and literacy skills.
 
 <u> Art Explorer Programme </u><br>
 Art Explorer (AE) is an in-house education programme that is designed around the academic curriculum and aims to expose students to the world of art and promote visual literacy. You need not be trained in art as training in both pedagogy and content for art portfolio will be provided.
@@ -37,7 +37,7 @@ Art Explorer (AE) is an in-house education programme that is designed around the
 <u> Ad Hoc Duties </u><br>
 Parents with work commitments can opt to volunteer at some of these ad hoc programmes that run throughout the year. We specially invite TNS fathers to join us in planning Dads for Life programmes.
 
-|  |  |  |  |
+|&nbsp; |&nbsp; |&nbsp; |&nbsp; |
 |---|---|---|---|
 | Chinese New Year | Green Week | Mid-Autumn Festival | Racial Harmony Day |
 | Dads for Life | English Week | Anti Cyber bullying | P6 Amazing Race |

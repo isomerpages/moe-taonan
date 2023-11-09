@@ -2,6 +2,7 @@
 title: 执行与行政人员 Executive and Administrative Staff
 permalink: /our-family/executive-and-administrative-staff/
 description: ""
+variant: markdown
 ---
 | S/No |             Name             |          Designation         |              Email             |
 |:----:|:----------------------------:|:----------------------------:|:------------------------------:|
@@ -22,7 +23,7 @@ description: ""
 |  14  |       Ms Tan Siew Hong       |  Operations Support Officer  |                -               |
 |  15  |       Mr Teo Hai Guan        |  Operations Support Officer  |                -               |
 |  16  |       Mdm Teo Lay Lian       |  Operations Support Officer  |                -               |
-|  17  |       Mr Muhammad Azmi       |    Desktop Engineer (NCS)    |     g-ncs5240pde@ncs.com.sg    |
-|  18  |    Mr Kris Khoo Tiong Gee    |    Desktop Engineer (NCS)    |     g-ncs5240pde@ncs.com.sg    |
+|  17  |       Mr Muhammad Azmi       |    Desktop Engineer (NCS)    |     DE-ncs5240pde@ncs.com.sg    |
+|  18  |    Mr Kris Khoo Tiong Gee    |    Desktop Engineer (NCS)    |     DE-ncs5240pde@ncs.com.sg    |
 
 **Updated on 26 JUNE 2023**

@@ -15,7 +15,7 @@ variant: markdown
 
 Click to download:
 * [2024 P1 Booklist](/files/Partners/For%20Parents/2024_P1.pdf)
-* [2024 P2 Booklist](/files/Partners/For%20Parents/2024_P1.pdf)
+* [2024 P2 Booklist](/files/Partners/For%20Parents/2024_P2.pdf)
 * [2024 P3 Booklist](/files/Primary3.pdf)
 * [2023 P4 Booklist](/files/Primary4.pdf)
 * [2023 P5 Booklist](/files/Primary5.pdf)

@@ -3,8 +3,18 @@ title: Sunny Side Up
 permalink: /departments/english/sunny-side-up/
 description: ""
 third_nav_title: 英文 English
+variant: markdown
 ---
 ### A magazine by the English Special Programme
+
+#### 2023 Edition
+------------
+
+| [Sunny Side Up 2022](https://go.gov.sg/sunnysideup2022) |  Volume 2| Scan the QR code to view with your mobile  |  ![](/images/Departments/English/Sunny%20Side%20Up/gogovsgsunnysideup2022200by217.png) |
+| -------- | -------- |  -------- |  -------- |
+|   |   |   |   |
+
+![](https://www.taonan.moe.edu.sg/images/img002.jpeg)
 
 #### 2022 Edition
 ------------

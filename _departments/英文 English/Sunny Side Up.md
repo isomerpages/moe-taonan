@@ -10,7 +10,7 @@ variant: markdown
 #### 2023 Edition
 ------------
 
-| [Sunny Side Up 2023](https://go.gov.sg/sunnysideup2023) |  Volume 3| Scan the QR code to view with your mobile  |  ![vol3](/images/Departments/English/Sunny%20Side%20Up/go_gov_sg_sunnysideup2023.png) |
+| [Sunny Side Up 2023](https://go.gov.sg/sunnysideup2023) |  Volume 3| Scan the QR code to view with your mobile  | ![vol3](/images/Departments/English/Sunny%20Side%20Up/https___go_gov_sg_sunnysideup2023_200by217.png) |
 | -------- | -------- |  -------- |  -------- |
 |   |   |   |   |
 

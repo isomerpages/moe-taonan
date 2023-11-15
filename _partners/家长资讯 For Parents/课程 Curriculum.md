@@ -16,17 +16,17 @@ variant: markdown
 Click to download:
 * [2024 P1 Booklist](/files/Partners/For%20Parents/2024_P1.pdf)
 * [2024 P2 Booklist](/files/Partners/For%20Parents/2024_P2.pdf)
-* [2024 P3 Booklist](/files/Primary3.pdf)
-* [2023 P4 Booklist](/files/Primary4.pdf)
-* [2023 P5 Booklist](/files/Primary5.pdf)
-* [2023 P6 Booklist](/files/Primary6.pdf)
-* [2023 P6 Foundation Booklist](/files/Primary6%20Foundation.pdf)
-* [2023 BiCEP-P4 Booklist](/files/Primary%204%20BICEP.pdf)
-* [2023 BiCEP-P5 Booklist](/files/Primary%205%20BICEP.pdf)
-* [2023 BiCEP-P6 Booklist](/files/Primary%206%20BICEP.pdf)
-* [2023 GEP4 Booklist](/files/Primary%204%20GEP.pdf)
-* [2023 GEP5 Booklist](/files/Primary%205%20GEP.pdf)
-* [2023 GEP6 Booklist](/files/Primary%206%20GEP.pdf)
+* [2024 P3 Booklist](/files/Partners/For%20Parents/2024_P3.pdf)
+* [2024 P4 Booklist](/files/Partners/For%20Parents/2024_P4.pdf)
+* [2024 P5 Booklist](/files/Partners/For%20Parents/2024_P5.pdf)
+* [2024 P6 Booklist](/files/Partners/For%20Parents/2024_P6.pdf)
+* [2024 P6 Foundation Booklist](/files/Partners/For%20Parents/2024_P6_Foundation.pdf)
+* [2024 P4 BiCEP Booklist](/files/Partners/For%20Parents/2024_P4_BICEP.pdf)
+* [2024 P5 BiCEP Booklist](/files/Partners/For%20Parents/2024_P5_BICEP.pdf)
+* [2024 P6 BiCEP Booklist](/files/Partners/For%20Parents/2024_P6_BICEP.pdf)
+* [2024 P4 GEP Booklist](/files/Partners/For%20Parents/2024_P4_GEP.pdf)
+* [2024 P5 GEP Booklist](/files/Partners/For%20Parents/2024P5_GEP.pdf)
+* [2024 P6 GEP Booklist](/files/Partners/For%20Parents/2024_P6_GEP.pdf)
 
 ------------------
 

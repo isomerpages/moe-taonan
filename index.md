@@ -18,4 +18,11 @@ sections:
         - title: 重要链接 Quick Links
           description: Click to view
           url: https://taonan.moe.edu.sg/quicklinks
+  - infobar:
+      title: Office closure from 1pm on 20 Nov 2023
+      subtitle: Announcement
+      id: infobar
+      description: Please note that TNS General Office will be closed on 20 Nov 2023
+        (Monday), 1pm onwards for an official staff event. We apologize for the
+        inconvenience caused.
 ---

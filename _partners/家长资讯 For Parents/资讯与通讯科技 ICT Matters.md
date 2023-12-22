@@ -3,6 +3,7 @@ title: 资讯与通讯科技 ICT Matters
 permalink: /partners/for-parents/ict-matters/
 description: ""
 third_nav_title: 家长资讯 For Parents
+variant: markdown
 ---
 ### ICT Matters <a name="backtotop"></a>
 * [Student Portals](#StudentPortals)
@@ -39,7 +40,7 @@ To help your child/ward stay safe and have positive experiences online, you can:
 * **Set ground rules** for internet use; and
 * **Navigate** the internet together to understand their usage.
 
-For more information on MOE’s Cyber Wellness Programme and useful resources, please visit [https://www.moe.gov.sg/programmes/cyber-wellness](https://www.moe.gov.sg/programmes/cyber-wellness)
+For more information on MOE’s Cyber Wellness Programme and useful resources, please visit [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 
 #### Tips/Resources for Parents:
 * [Parent Kit –Cyber Wellness for your child](/files/cyber-wellness-for-your-child.pdf)

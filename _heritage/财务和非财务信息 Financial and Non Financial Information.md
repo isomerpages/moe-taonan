@@ -2,12 +2,12 @@
 title: 财务和非财务信息 Financial and Non Financial Information
 permalink: /heritage/financial-and-non-financial-information/
 description: ""
+variant: markdown
 ---
-
 ### Financial Information 
 Information on the school’s financial information is available at MOE’s website under
 
-[https://www.moe.gov.sg/about/org-structure/fdd/financial-summary-of-government-aided-schools-and-independent-schools-donation-funds.](https://www.moe.gov.sg/about/org-structure/fdd/financial-summary-of-government-aided-schools-and-independent-schools-donation-funds.)
+[https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary ](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary )
 
 ### Non-Financial Information
 

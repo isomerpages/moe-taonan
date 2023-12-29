@@ -3,9 +3,8 @@ title: 校园安全 Safety & Security in School
 permalink: /partners/for-parents/safety-n-security-in-school/
 description: ""
 third_nav_title: 家长资讯 For Parents
+variant: markdown
 ---
-
-
 We believe in taking a proactive approach in cultivating safety habits in our pupils, and encourage all parents/guardians to take similar responsibility and ownership to help the school achieve better safety outcomes for our pupils.
 
 For the safety and security of all our staff and pupils in the school, we seek your understanding and cooperation in the following areas:
@@ -17,4 +16,4 @@ For the safety and security of all our staff and pupils in the school, we seek y
 5. We wish to emphasise that visitors are not allowed to tour the school premises on their own. Please seek assistance from the General Office for enquiries.
 6. We seek your understanding that the school does not grant permission to parents/guardians to hold birthday celebrations for their child/ward in the school.
 
-For more information, please refer to the Student Handbook (_Pages 9, 11 and 12_).
+For more information, please refer to the Student Handbook (_Pages 10, 12 and 13_).

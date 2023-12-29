@@ -2,6 +2,7 @@
 title: 愿景和使命 Vision and Mission
 permalink: /heritage/vision-and-mission/
 description: ""
+variant: markdown
 ---
 <div>
 <div style="float: left">
@@ -56,7 +57,7 @@ Our pupils care for self, family, community, nation and the environment. They ar
 
 *   造就独立自主并追求卓越的学习者
 *   培育具有创新精神和热爱学习的优秀毕业生
-*   栽培满怀信自且处事坚韧的领导者，让他们具备良好的品德和爱国爱校的精神
+*   栽培满怀自信且处事坚韧的领导者，让他们具备良好的品德和爱国爱校的精神
 *   灌输学校的核心价值观：仁爱、尊重、正直、诚恳、毅力、尽责
 *   培养精通双语，懂得欣赏中华文化并对它深感自豪的学生
 *   取得理想的教育成果

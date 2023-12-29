@@ -2,13 +2,6 @@
 title: 校内辅导员与特殊需要指导员 School Counsellors and SEN Officers
 permalink: /our-family/school-counsellors-and-sen-officers/
 description: ""
+variant: tiptap
 ---
-| S/No |               Name              |    Designation    |                Email               |
-|:----:|:-------------------------------:|:-----------------:|:----------------------------------:|
-|   1  |   Miss Pillay May Yin Jennifer  | School Counsellor | pillay_may_yin_jennifer@moe.edu.sg |
-|   2  | Miss Nur Kamila Binte Jamaludin |   Special Educational Needs Officer (SEN Officer) |   nur_kamila_jamaludin@moe.edu.sg  |
-|   3  |        Mdm Siew Wei Kuan        |    Special Educational Needs Officer (SEN Officer)    |      siew_wei_kuan@moe.edu.sg      |
-|   4  |   Miss Nur Shreen Binte Sidek   |    Special Educational Needs Officer (SEN Officer)   |    nur_shreen_sidek@moe.edu.sg     |
-|   5  |   Miss Phua Ying Jie   |    Special Educational Needs Officer (SEN Officer)    |    phua_ying_jie@moe.edu.sg     |
-
-**Updated on 26 JUNE 2023**
+<table><tbody><tr><td rowspan="1" colspan="1"><p>S/No</p></td><td rowspan="1" colspan="1"><p>Name</p></td><td rowspan="1" colspan="1"><p>Designation</p></td><td rowspan="1" colspan="1"><p>Email</p></td></tr><tr><td rowspan="1" colspan="1"><p>1</p></td><td rowspan="1" colspan="1"><p>Miss Pillay May Yin Jennifer</p></td><td rowspan="1" colspan="1"><p>School Counsellor</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">pillay_may_yin_jennifer@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>2</p></td><td rowspan="1" colspan="1"><p>Miss Nur Kamila Binte Jamaludin</p></td><td rowspan="1" colspan="1"><p>Special Educational Needs Officer (SEN Officer)</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">nur_kamila_jamaludin@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>Mdm Siew Wei Kuan</p></td><td rowspan="1" colspan="1"><p>Special Educational Needs Officer (SEN Officer)</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">siew_wei_kuan@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>4</p></td><td rowspan="1" colspan="1"><p>Miss Nur Shreen Binte Sidek</p></td><td rowspan="1" colspan="1"><p>Special Educational Needs Officer (SEN Officer)</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">nur_shreen_sidek@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>5</p></td><td rowspan="1" colspan="1"><p>Miss Phua Ying Jie</p></td><td rowspan="1" colspan="1"><p>Special Educational Needs Officer (SEN Officer)</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">phua_ying_jie@moe.edu.sg</a></p></td></tr></tbody></table><p></p><p><strong>Updated on 29 December 2023</strong></p>

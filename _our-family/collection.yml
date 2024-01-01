@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - 学校执导委员会 School Steering Committee.md
-      - 教师领导 Teacher and Leaders.md
+      - 教师领导 Teacher Leaders.md
       - 在职教员 Teaching Staff/.keep
       - 在职教员 Teaching Staff/Teaching Staff.md
       - 在职教员 Teaching Staff/Primary 1.md

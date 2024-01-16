@@ -34,6 +34,8 @@ https://idp.mims.moe.gov.sg/nidp/app/login
 **MIMS login ID:** Full_Name@students.edu.sg <br>
 **Password:** iCON email password
 
+For more information, go to https://tao-nan-school-moe.gitbook.io/students-mims-account/
+
 ### <a name="CyberWellness"></a>Cyber Wellness
 [Back to top](#backtotop)
 

@@ -3,20 +3,6 @@ title: 帆船 Sailing
 permalink: /ccas/physical-sports/sailing/
 description: ""
 third_nav_title: 体能运动 Physical Sports
+variant: tiptap
 ---
-Sailing is a unique sport in which our young sailors learn perseverance, problem-solving, decision-making as well as spatial awareness as they hone their sense of directions.
-
-Through its dedicated teachers and students, Tao Nan School Sailing team provides a safe, friendly and conducive environment to the foster self-reliance and seamanship.
-
-Our sailors gain confidence and accomplishment from being able to man their own Optimist boats, while the sport itself instils in them courage and a sense of adventure.
-
-**Teachers In-Charge:**
-
-| NAME OF CCA<br>TEACHER-IN-CHARGE |              Email              |    ROLE    |
-|:--------------------------------:|:-------------------------------:|:----------:|
-|         Mr Ang Chee Yong         |    ang_chee_yong_a@moe.edu.sg   | Overall IC |
-|          Mr Low Khee How         |    low_khee_how_a@moe.edu.sg    |            |
-|   Mr Muhammad Yusuf Mirza Bin M  | muhammad_yusuf_mirza@moe.edu.sg |            |
-|       Mdm Ng Li Min Janice       |   ng_li_min_janice@moe.edu.sg   |            |
-|      Miss Vaswani Deepa Hiro     |  vaswani_deepa_hiro@moe.edu.sg  |            |
-
+<p>Sailing is a unique sport in which our young sailors learn perseverance, problem-solving, decision-making as well as spatial awareness as they hone their sense of directions.</p><p>Through its dedicated teachers and students, Tao Nan School Sailing team provides a safe, friendly and conducive environment to the foster self-reliance and seamanship.</p><p>Our sailors gain confidence and accomplishment from being able to man their own Optimist boats, while the sport itself instils in them courage and a sense of adventure.</p><p><strong><u>2024</u></strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p>NAME OF CCA<br>TEACHER-IN-CHARGE</p></th><th rowspan="1" colspan="1"><p>Email</p></th><th rowspan="1" colspan="1"><p>ROLE</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Low Khee How</p></td><td rowspan="1" colspan="1"><p>low_khee_how@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p>Overall IC</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Chan Yi Jun James</p></td><td rowspan="1" colspan="1"><p>james_chan_yi_jun@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p>Overall 2IC</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Ng Li Min Janice</p></td><td rowspan="1" colspan="1"><p>ng_li_min_janice@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Samantha Evon Chia Chin Mei [谢静美]</p></td><td rowspan="1" colspan="1"><p>samantha_evon_chia@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Ang Chee Yong</p></td><td rowspan="1" colspan="1"><p>ang_chee_yong_a@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>

@@ -3,15 +3,6 @@ title: 男少年旅 Boys' Brigade
 permalink: /ccas/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: 制服团体 Uniformed Groups
+variant: tiptap
 ---
-The BB Programme in Tao Nan School engages our BB Boys in outdoor and adventure activities as well as VIA projects (BB CARES and BB Share-A-Gift) that aim at developing character, leadership and team building skills in them. Through the weekly parades and camps, our BB Boys will also acquire skills and knowledge on personal mastery, global awareness and community spiritedness.  
-
-**Teachers In-Charge:**
-
-| NAME OF CCA<br>TEACHER-IN-CHARGE |              Email              |    ROLE    |
-|:--------------------------------:|:-------------------------------:|:----------:|
-|  Miss Tan Yen Ping Gina [陈燕萍] |   tan_yen_ping_gina@moe.edu.sg  | Overall IC |
-|      Mr Dominic Nyi Nyi Htut     | dominic_nyi_nyi_htut@moe.edu.sg |            |
-|      Mdm Han Huiwen Adeline      |  han_huiwen_adeline@moe.edu.sg  |            |
-|         Ms Ngoh Siew Teng        |    ngoh_siew_teng@moe.edu.sg    |            |
-|          Mrs Mimi Cheong         |       mimi_yeo@moe.edu.sg       |            |
+<p>The BB Programme in Tao Nan School engages our BB Boys in outdoor and adventure activities as well as VIA projects (BB CARES and BB Share-A-Gift) that aim at developing character, leadership and team building skills in them. Through the weekly parades and camps, our BB Boys will also acquire skills and knowledge on personal mastery, global awareness and community spiritedness.</p><p><strong><u>2024</u></strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p>NAME OF CCA<br>TEACHER-IN-CHARGE</p></th><th rowspan="1" colspan="1"><p>Email</p></th><th rowspan="1" colspan="1"><p>ROLE</p></th></tr><tr><td rowspan="1" colspan="1"><p>Ms Tan Yen Ping Gina [陈燕萍]</p></td><td rowspan="1" colspan="1"><p>tan_yen_ping_gina@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p>Overall IC</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Han Huiwen Adeline</p></td><td rowspan="1" colspan="1"><p>han_huiwen_adeline@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p>Overall 2IC</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Dominic Nyi Nyi Htut</p></td><td rowspan="1" colspan="1"><p>dominic_nyi_nyi_htut@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Ngoh Siew Teng</p></td><td rowspan="1" colspan="1"><p>ngoh_siew_teng@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Mimi Cheong</p></td><td rowspan="1" colspan="1"><p>mimi_yeo@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>

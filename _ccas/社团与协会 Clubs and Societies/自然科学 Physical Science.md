@@ -3,17 +3,6 @@ title: 自然科学 Physical Science
 permalink: /ccas/clubs-and-societies/physical-science/
 description: ""
 third_nav_title: 社团与协会 Clubs and Societies
+variant: tiptap
 ---
-**Objective:** To promote the learning of science in a fun and interesting way.
-
-Our school Science Club focusses on enriching the science curriculum through specialised training workshops and activities. Physical science and life science workshops are conducted for every level and they provide our students with the necessary exposure to real life applications of science.
-
-**Teachers In-Charge:**
-
-| NAME OF CCA<br>TEACHER-IN-CHARGE |              Email              |    ROLE    |
-|:--------------------------------:|:-------------------------------:|:----------:|
-|     Mdm Lee Yin Ling Jasmine     | lee_yin_ling_jasmine@moe.edu.sg | Overall IC |
-|     Mdm Tan Kime Huey Doreen     | tan_kime_huey_doreen@moe.edu.sg |            |
-|          Mr Teo Wei Loon         |     teo_wei_loon@moe.edu.sg     |            |
-|    Mdm Siti Awalliah Bte Amin    |  siti_awalliah_amin@moe.edu.sg  |            |
-
+<p><strong>Objective:</strong>&nbsp;To promote the learning of science in a fun and interesting way.</p><p>Our school Science Club focusses on enriching the science curriculum through specialised training workshops and activities. Physical science and life science workshops are conducted for every level and they provide our students with the necessary exposure to real life applications of science.</p><p><strong><u>2024</u></strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p>NAME OF CCA<br>TEACHER-IN-CHARGE</p></th><th rowspan="1" colspan="1"><p>Email</p></th><th rowspan="1" colspan="1"><p>ROLE</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mdm Lee Yin Ling Jasmine</p></td><td rowspan="1" colspan="1"><p>lee_yin_ling_jasmine@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p>Overall IC</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Siti Awalliah Bte Amin</p></td><td rowspan="1" colspan="1"><p>siti_awalliah_amin@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Teo Wei Loon</p></td><td rowspan="1" colspan="1"><p>teo_wei_loon@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Zahidah Binte Osman</p></td><td rowspan="1" colspan="1"><p>zahidah_osman@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>

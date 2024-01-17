@@ -11,8 +11,7 @@ variant: markdown
 * [Cyber Wellness](#CyberWellness)
 
 ### <a name="StudentPortals"></a>Student Portals
-
-
+[Back to top](#backtotop)
 
 |  |  |
 | -------- | -------- | 
@@ -22,11 +21,11 @@ variant: markdown
 |Request for Resetting of Students' ICT Account | [Request for Resetting of Students' ICT Account](https://go.gov.sg/tnspasswordreset)|
 
 ### <a name="MIMSAccount"></a>MIMS Account
+[Back to top](#backtotop)
 
 MOE Identity Management System (MIMS) is a new system that replaces IAMS 2.0 for managing the user accounts of all staff and students in MOE. MIMS provides access to multiple applications with a single ID and password such as your login to the school laptops, school WI-FI (SWN@SSOE), SLS, Google Workspace, Microsoft Office 365 ProPlus Apps etc.
 
 ##### How to login to my MIMS Account?
-[Back to top](#backtotop)
 
 **Website:**
 https://idp.mims.moe.gov.sg/nidp/app/login

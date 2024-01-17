@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### ICT Matters <a name="backtotop"></a>
 * [Student Portals](#StudentPortals)
-* [MIMS Account] (#MIMSAccount)
+* [MIMS Account](#MIMSAccount)
 * [Cyber Wellness](#CyberWellness)
 
 ### <a name="StudentPortals"></a>Student Portals

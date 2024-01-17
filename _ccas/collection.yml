@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - 课外辅助活动 Co Curricular Activities.md
-      - CCA Schedule.md
+      - 课程辅助活动表 CCA Schedule.md
       - 体能运动 Physical Sports/.keep
       - 体能运动 Physical Sports/羽毛球 Badminton.md
       - 体能运动 Physical Sports/篮球 Basketball.md

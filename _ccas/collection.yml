@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Co Curricular Activities.md
       - CCA Schedule.md
       - 体能运动 Physical Sports/.keep
       - 体能运动 Physical Sports/羽毛球 Badminton.md

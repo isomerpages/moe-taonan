@@ -3,21 +3,6 @@ title: 羽毛球 Badminton
 permalink: /ccas/physical-sports/badminton/
 description: ""
 third_nav_title: 体能运动 Physical Sports
+variant: tiptap
 ---
-Tao Nan School Badminton consists of School Teams and CCA members.
-
-The School Teams will have the opportunity to represent the school at team competitions and individual tournaments respectively. As for the P3 to P6 CCA members, our weekly sessions are purely recreational by nature though all relevant badminton skills are imparted at the sessions as well.
-
-**Teachers In-Charge:**
-
-| NAME OF CCA<br>TEACHER-IN-CHARGE |             Email            |     ROLE     |
-|:--------------------------------:|:----------------------------:|:------------:|
-|    Mdm Hung Huey Jing [韩惠晶]   |   hung_huey_jing@moe.edu.sg  |  Overall IC  |
-|         Miss Ng Lay Kuan         |   ng_lay_kuan_a@moe.edu.sg   | Overall 2IC  |
-|     Mdm Phua Mei Yan [潘美燕]    |    phua_mei_yan@moe.edu.sg   |  Overall 2IC |
-|       Mr Chan Yi Jun James       | james_chan_yi_jun@moe.edu.sg |              |
-|     Mdm Shen Yang [沈阳]    |    shen_yang@moe.edu.sg   |   |
-|         Mr Teo Choon Meng        |   teo_choon_meng@moe.edu.sg  |              |
-|    Miss Yeo Tyze Feng [杨芝芬]   |   yeo_tyze_feng@moe.edu.sg   |              |
-|        Mr Zhang Yu [张宇]        |     zhang_yu_b@moe.edu.sg    |              |
-|       Mr Zulhelmi Bin Omar       |   zulhelmi_omar@moe.edu.sg   |              |
+<p>Tao Nan School Badminton consists of School Teams and CCA members.</p><p>The School Teams will have the opportunity to represent the school at team competitions and individual tournaments respectively. As for the P3 to P6 CCA members, our weekly sessions are purely recreational by nature though all relevant badminton skills are imparted at the sessions as well.</p><p><strong><u>2024</u></strong></p><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>TEACHER-IN-CHARGE</strong></p></td><td rowspan="1" colspan="1"><p><strong>EMAIL</strong></p></td><td rowspan="1" colspan="1"><p><strong>ROLE</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Hung Huey Jing [韩惠晶]</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">hung_huey_jing@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p>Overall IC</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Zulhelmi Bin Omar</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">zulhelmi_bin_omar@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p>Overall 2IC</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Dawn Chua Yu Xiu [蔡育修]</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">dawn_chua_yu_xiu@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Deng Min</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">deng_min@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Moi Mei Kuen</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">moi_mei_kuen@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Yeo Tyze Feng [杨芝芬]</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">yeo_tyze_feng@moe.edu.sg</a></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>

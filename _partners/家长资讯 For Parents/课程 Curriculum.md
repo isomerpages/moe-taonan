@@ -55,8 +55,14 @@ Click to download:
 * [PSLE Scoring System](https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html)
 * [DSA Sec Matters](https://www.moe.gov.sg/secondary/dsa)
 * [Sec 1 Posting](https://www.moe.gov.sg/secondary/s1-posting)
+* [CNA Insider’s "A New School of Thought: Full SBB"](http://go.gov.sg/anewschoolofthought)
 
 ____________________________________________________________________________________
+
+| A New School of Thought: Full SBB - What does it mean for me? | A New School of Thought: Full SBB - Mixed form classes and common curriculum lessons |
+| -------- | -------- |
+| <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5gnLHBL5KlM?si=rw1FrMigFquV5l_m" height="315" width="380"></iframe> | <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/M5ghgnm03BE?si=3oOAG3Sw9pNhZniF" height="315" width="380"></iframe> |
+
 
 | Welcome to Secondary School | Broadening Definitions of Success – “Love Beyond Grades” |
 | -------- | -------- |

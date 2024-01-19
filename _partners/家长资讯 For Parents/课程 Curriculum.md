@@ -56,7 +56,7 @@ Click to download:
 * [DSA Sec Matters](https://www.moe.gov.sg/secondary/dsa)
 * [Sec 1 Posting](https://www.moe.gov.sg/secondary/s1-posting)
 
-
+____________________________________________________________________________________
 
 | Welcome to Secondary School | Broadening Definitions of Success – “Love Beyond Grades” |
 | -------- | -------- |

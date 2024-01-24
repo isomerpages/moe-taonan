@@ -1,0 +1,30 @@
+collections:
+  ccas:
+    output: true
+    order:
+      - 课外辅助活动 Co Curricular Activities.md
+      - 课程辅助活动表 CCA Schedule.md
+      - 体能运动 Physical Sports/.keep
+      - 体能运动 Physical Sports/羽毛球 Badminton.md
+      - 体能运动 Physical Sports/篮球 Basketball.md
+      - 体能运动 Physical Sports/英式女篮 Netball.md
+      - 体能运动 Physical Sports/户外探险 Outdoor Adventure.md
+      - 体能运动 Physical Sports/帆船 Sailing.md
+      - 体能运动 Physical Sports/田径 Track and Field.md
+      - 体能运动 Physical Sports/武术 Wushu.md
+      - 视觉与表演艺术Visual& Performing Arts/.keep
+      - 视觉与表演艺术Visual& Performing Arts/美术协会 Art and Crafts.md
+      - 视觉与表演艺术Visual& Performing Arts/华族舞蹈团 Chinese Dance.md
+      - 视觉与表演艺术Visual& Performing Arts/华乐团 Chinese Orchestra.md
+      - 视觉与表演艺术Visual& Performing Arts/合唱团 Choir.md
+      - 视觉与表演艺术Visual& Performing Arts/漫画与绘画社 Comics and Illustration Club.md
+      - 视觉与表演艺术Visual& Performing Arts/古筝团 Guzheng Ensemble.md
+      - 视觉与表演艺术Visual& Performing Arts/华语演艺班 Speech and Drama (Chinese).md
+      - 社团与协会 Clubs and Societies/.keep
+      - 社团与协会 Clubs and Societies/国际象棋 International Chess Club.md
+      - 社团与协会 Clubs and Societies/自然科学 Physical Science.md
+      - 制服团体 Uniformed Groups/.keep
+      - 制服团体 Uniformed Groups/男少年旅 Boys' Brigade.md
+      - 制服团体 Uniformed Groups/女童军 Girl Guides (Brownies).md
+      - 制服团体 Uniformed Groups/女少年旅 Girls' Brigade.md
+      - 制服团体 Uniformed Groups/男童军 Scouts (Boys).md

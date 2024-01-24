@@ -1,0 +1,9 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - 学校殊荣 School Awards.md
+      - 今年荣誉 Current Achievements/.keep
+      - 今年荣誉 Current Achievements/个人和团队 Individual and Team.md
+      - 今年荣誉 Current Achievements/课程辅助活动 （个人和团队) CCA (Individual and Team).md
+      - 历届荣誉 Past Achievements.md

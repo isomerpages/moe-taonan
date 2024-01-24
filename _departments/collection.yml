@@ -1,0 +1,27 @@
+collections:
+  departments:
+    output: true
+    order:
+      - 英文 English/.keep
+      - 英文 English/英文 English.md
+      - 英文 English/Sunny Side Up.md
+      - 美术 Art.md
+      - 品德与公民教育Character & Citizenship/.keep
+      - 品德与公民教育Character & Citizenship/品德与公民教育 Character and Citizenship
+        Education.md
+      - 品德与公民教育Character & Citizenship/性教育课 Sexuality Education (SEd).md
+      - 华文 Chinese/.keep
+      - 华文 Chinese/华文 Chinese.md
+      - 华文 Chinese/华文开麦了!.md
+      - 公民与道德教育 Civics and Moral Education.md
+      - 高才教育 Gifted Education.md
+      - 资讯科技 Information Communication and Technology.md
+      - 数学 Mathematics.md
+      - 音乐 Music.md
+      - 体育 Physical Education.md
+      - 艺体陶冶计划 Programme for Active Learning (PAL).md
+      - 科学 Science.md
+      - 社会知识 Social Studies.md
+      - 学生领导与发展 Student Leadership/.keep
+      - 学生领导与发展 Student Leadership/学生领导与发展 Student Leadership.md
+      - 学生领导与发展 Student Leadership/学生管理和身心发展 Student Management and Well Being.md

@@ -11,7 +11,7 @@ by impelling them to adopt a physically active and healthy lifestyle.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner%20_PE_2021.jpg">
 </div>
 <h3>Key Programmes / Activities</h3>
-<p><strong><u>Values Through Action in PE</u></strong>
+<p><strong><u>Values Through Action in PE</u></strong> 
 <br>The teaching of values will also be integrated into the physical education
 curriculum. It seeks to consciously expose students to life situations,
 in authentic context, to facilitate perspective taking, relationship management

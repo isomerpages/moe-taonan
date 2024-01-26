@@ -216,6 +216,10 @@ variant: tiptap
         <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P6_PE.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Physical Education (PE) Curriculum Information</a>
         </p>
     </li>
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P5_P6_Art_and_Music.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5&amp;P6 Art and Music Curriculum Information</a>
+        </p>
+    </li>
 </ol>
 <p></p>
 <ul data-tight="true" class="tight">

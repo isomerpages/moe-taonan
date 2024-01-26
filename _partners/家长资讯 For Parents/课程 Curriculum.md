@@ -149,6 +149,10 @@ variant: tiptap
         </p>
     </li>
     <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P3_Science.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P3 Science Curriculum Information</a>
+        </p>
+    </li>
+    <li>
         <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P3_PE.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P3 Physical Education (PE) Curriculum Information</a>
         </p>
     </li>
@@ -174,6 +178,10 @@ variant: tiptap
     </li>
     <li>
         <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P4_Higher_Chinese_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Higher Chinese Language Curriculum Information</a>
+        </p>
+    </li>
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P4_Science.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Science Curriculum Information</a>
         </p>
     </li>
     <li>
@@ -205,6 +213,10 @@ variant: tiptap
         </p>
     </li>
     <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P5_Science.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Science Curriculum Information</a>
+        </p>
+    </li>
+    <li>
         <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P5_PE.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Physical Education (PE) Curriculum Information</a>
         </p>
     </li>
@@ -230,6 +242,10 @@ variant: tiptap
     </li>
     <li>
         <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P6_Chinese_and_Higher_Chinese_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Chinese and Higher Chinese Language Curriculum Information</a>
+        </p>
+    </li>
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P6_Science.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Science Curriculum Information</a>
         </p>
     </li>
     <li>

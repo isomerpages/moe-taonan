@@ -149,9 +149,30 @@ variant: tiptap
         </p>
     </li>
 </ol>
-<p></p>
 <p><strong><u>Primary 4</u></strong>
 </p>
+<ol data-tight="true" class="tight">
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P4_English_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 English Language Curriculum Information</a>
+        </p>
+    </li>
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P4_Mathematics.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Mathematics Curriculum Information</a>
+        </p>
+    </li>
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P4_Higher_Chinese_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Higher Chinese Language Curriculum Information</a>
+        </p>
+    </li>
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P6_PE.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Physical Education (PE) Curriculum Information</a>
+        </p>
+    </li>
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P3_P4_Art_and_Music.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P3&amp;P4 Art and Music Curriculum Information</a>
+        </p>
+    </li>
+</ol>
 <p><strong><u>Primary 5</u></strong>
 </p>
 <p><strong><u>Primary 6</u></strong>

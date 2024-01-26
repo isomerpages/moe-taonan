@@ -175,8 +175,49 @@ variant: tiptap
 </ol>
 <p><strong><u>Primary 5</u></strong>
 </p>
+<ol data-tight="true" class="tight">
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P5_English_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 English Language Curriculum Information</a>
+        </p>
+    </li>
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P5_Mathematics.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Mathematics Curriculum Information</a>
+        </p>
+    </li>
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P5_Chinese_and_Higher_Chinese_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Chinese and Higher Chinese Language Curriculum Information</a>
+        </p>
+    </li>
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P5_PE.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Physical Education (PE) Curriculum Information</a>
+        </p>
+    </li>
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P5_P6_Art_and_Music.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5&amp;P6 Art and Music Curriculum Information</a>
+        </p>
+    </li>
+</ol>
 <p><strong><u>Primary 6</u></strong>
 </p>
+<ol data-tight="true" class="tight">
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P6_English_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 English Language Curriculum Information</a>
+        </p>
+    </li>
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P6_Mathematics.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Mathematics Curriculum Information</a>
+        </p>
+    </li>
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P6_Chinese_and_Higher_Chinese_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Chinese and Higher Chinese Language Curriculum Information</a>
+        </p>
+    </li>
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P6_PE.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Physical Education (PE) Curriculum Information</a>
+        </p>
+    </li>
+</ol>
+<p></p>
 <ul data-tight="true" class="tight">
     <li>
         <p><a href="/files/psle%202023%20-%20parent%20engagement.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE 2023 - Parent Engagement</a>

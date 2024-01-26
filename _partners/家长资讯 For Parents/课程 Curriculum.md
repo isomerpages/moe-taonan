@@ -97,6 +97,10 @@ variant: tiptap
         </p>
     </li>
     <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P1_SS.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Social Studies Curriculum Information</a>
+        </p>
+    </li>
+    <li>
         <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P1_P2_Art_and_Music.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1&amp;P2 Art and Music Curriculum Information</a>
         </p>
     </li>
@@ -118,6 +122,10 @@ variant: tiptap
     </li>
     <li>
         <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P2_PE.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P2 Physical Education (PE) Curriculum Information</a>
+        </p>
+    </li>
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P2_SS.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P2 Social Studies Curriculum Information</a>
         </p>
     </li>
     <li>
@@ -145,6 +153,10 @@ variant: tiptap
         </p>
     </li>
     <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P3_SS.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P3 Social Studies Curriculum Information</a>
+        </p>
+    </li>
+    <li>
         <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P3_P4_Art_and_Music.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P3&amp;P4 Art and Music Curriculum Information</a>
         </p>
     </li>
@@ -166,6 +178,10 @@ variant: tiptap
     </li>
     <li>
         <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P6_PE.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Physical Education (PE) Curriculum Information</a>
+        </p>
+    </li>
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P4_SS.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Social Studies Curriculum Information</a>
         </p>
     </li>
     <li>
@@ -193,6 +209,10 @@ variant: tiptap
         </p>
     </li>
     <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P5_SS.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Social Studies Curriculum Information</a>
+        </p>
+    </li>
+    <li>
         <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P5_P6_Art_and_Music.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5&amp;P6 Art and Music Curriculum Information</a>
         </p>
     </li>
@@ -214,6 +234,10 @@ variant: tiptap
     </li>
     <li>
         <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P6_PE.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Physical Education (PE) Curriculum Information</a>
+        </p>
+    </li>
+    <li>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P6_SS.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Social Studies Curriculum Information</a>
         </p>
     </li>
     <li>

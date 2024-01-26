@@ -185,7 +185,7 @@ variant: tiptap
         </p>
     </li>
     <li>
-        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P6_PE.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Physical Education (PE) Curriculum Information</a>
+        <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P4_PE.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Physical Education (PE) Curriculum Information</a>
         </p>
     </li>
     <li>

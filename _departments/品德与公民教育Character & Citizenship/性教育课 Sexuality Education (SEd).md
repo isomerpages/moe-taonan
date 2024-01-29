@@ -99,6 +99,20 @@ from sexuality-related risks.
 <table>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>CCE(FTGP) THEME</p>
 </th>
@@ -106,7 +120,7 @@ from sexuality-related risks.
 <p>LESSON TITLE / DURATION</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Lesson OVERVIEW</p>
+<p>LESSON OVERVIEW</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>TIME PERIOD
@@ -167,12 +181,27 @@ own responses when they encounter pornography by applying the strategy
 <p>In this lesson, students will learn about sexual abuse, how it can happen
 during online and offline interactions and the impact of such abuse on
 victims. They also learn how to take precautionary measures to be safe
-and how to seek help for themselves and their friends.
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+and how to seek help for themselves and their friends.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -182,6 +211,20 @@ so that the students will feel more comfortable during the discussions.</p>
 <table>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>CCE(FTGP) THEME</p>
 </th>
@@ -189,7 +232,7 @@ so that the students will feel more comfortable during the discussions.</p>
 <p>LESSON TITLE / DURATION</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Lesson OVERVIEW</p>
+<p>LESSON OVERVIEW</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>TIME PERIOD
@@ -197,7 +240,7 @@ so that the students will feel more comfortable during the discussions.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -222,9 +265,7 @@ healthy friendships with their circles of friends.</p>
 <td rowspan="1" colspan="1">
 <p>Are We More than Friends?
 <br>Lesson 2
-<br>(60 min)
-<br>
-</p>
+<br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will learn healthy ways to manage the emotions
@@ -234,32 +275,12 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Did You Know?*
-<br>(60 min)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students to know what pornography is and
-how it can affect themselves and others. Students will learn the dangers
-of being exposed to sexually explicit materials and reject the viewing
-and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy
-Stop-Think-Do .
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Term 2 Week 7</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Please Note:<br>For 2023, the Primary 5 lesson "Did You Know?" will also be conducted for the Primary 6 cohort.</strong>
 </p>
 <h3>INFORMATION FOR PARENTS</h3>
@@ -274,7 +295,7 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be issued to parents
 at the start of the year via Parents’ Gateway and is also accessible&nbsp;<strong><a href="https://form.gov.sg/63b047bed1c132001268c0ac" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
-The completed opt-out form is to be submitted by&nbsp;<strong>18/01/2023.</strong>
+The completed opt-out form is to be submitted by&nbsp;<strong>18/01/2023.</strong> 
 <br>
 </p>
 </li>

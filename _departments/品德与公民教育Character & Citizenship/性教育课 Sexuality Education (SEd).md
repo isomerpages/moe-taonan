@@ -280,9 +280,6 @@ and learn to behave maturely towards each other.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>Please Note:<br>For 2023, the Primary 5 lesson "Did You Know?" will also be conducted for the Primary 6 cohort.</strong>
-</p>
 <h3>INFORMATION FOR PARENTS</h3>
 <ol start="8" data-tight="true" class="tight">
 <li>
@@ -293,16 +290,16 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 </li>
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form will be issued to parents
-at the start of the year via Parents’ Gateway and is also accessible&nbsp;<strong><a href="https://form.gov.sg/63b047bed1c132001268c0ac" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
-The completed opt-out form is to be submitted by&nbsp;<strong>18/01/2023.</strong> 
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also available at <a href="https://go.gov.sg/sexuality-education-lessons-parent-opt-out-form-2024-tao-nan-school" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sexuality-education-lessons-parent-opt-out-form-2024-tao-nan-school</a>.
+The completed opt-out form is to be submitted by <strong>16/02/2024</strong>.
 <br>
 </p>
 </li>
 <li>
-<p>Parents can contact the school at&nbsp;<strong>6442 8307</strong>&nbsp;for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.
+<p>Parents can contact the school at&nbsp;<strong>6442 8307</strong>&nbsp;or
+<a href="mailto:taonan_sch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">taonan_sch@moe.edu.sg</a>for discussion or to seek clarification about
+the school’s Sexuality Education programme.
 <br>
 </p>
 </li>

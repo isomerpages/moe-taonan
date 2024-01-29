@@ -2,52 +2,438 @@
 title: Quick Links
 permalink: /quicklinks/
 description: ""
+variant: tiptap
 ---
-| Staff |  |  |
-| -------- | -------- | -------- |
-| All Ears Form Builder    | Internet   | [https://forms.moe.edu.sg](https://forms.moe.edu.sg)    | 
-| FormSG    | Internet   | [https://form.gov.sg](https://form.gov.sg)   |
-| Go.gov.sg | Internet   | [https://go.gov.sg](https://go.gov.sg)   |
-| ICON 2.0    | Internet   | [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)   |
-| HR Online    | In<u>tra</u>net   | [https://intranet.moe.gov.sg/hronline/Pages/Home.aspx](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)  |
-| HR Portal    | In<u>tra</u>net   | [https://www.hrp.gov.sg](https://www.hrp.gov.sg)   |
-| iExams2 Portal    | Internet   |[https://iexams.seab.gov.sg](https://iexams.seab.gov.sg)   |
-| MIMS Portal    | Internet   | [https://idp.mims.moe.gov.sg](https://idp.mims.moe.gov.sg)   |
-| MOE Intranet   | In<u>tra</u>net   | [https://intranet.moe.gov.sg/](https://intranet.moe.gov.sg)   |
-| OPAL2.0    | Internet   | [https://opal2.moe.edu.sg](https://opal2.moe.edu.sg)  |
-| Parents Gateway    | Internet   | [https://pg.moe.edu.sg](https://pg.moe.edu.sg)  |
-| MIMS Portal    | Internet   | [https://idp.mims.moe.gov.sg](https://idp.mims.moe.gov.sg)   |
-| Resource Booking Service (RBS)    | Internet   | [https://rbs.avero-tech.com/login.html](https://rbs.avero-tech.com/login.html) |
-| SC Mobile    | Internet   | [https://scmobile.moe.edu.sg/login](https://scmobile.moe.edu.sg/login) |
-| School Cockpit    | Internet   | [https://schoolcockpit.moe.gov.sg](https://schoolcockpit.moe.gov.sg) |
-
-<br>
-<br>
-<br>
-
-| Students |  |  |
-| -------- | -------- | -------- |
-| eZhishi    | Internet   | [https://www.ezhishi.net](https://www.ezhishi.net)    | 
-| Google Account    | Internet   | [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)  |
-| iMTL Portal    | Internet   | [https://imtl.moe.edu.sg](https://imtl.moe.edu.sg)  |
-| Microsoft Office 365    | Internet   | [https://office.com](https://office.com)  |
-| MIMS Portal    | Internet   | [https://idp.mims.moe.gov.sg](https://idp.mims.moe.gov.sg)   |
-| MySkillsFuture | Internet   | [https://www.myskillsfuture.gov.sg/content/student/en/primary/education-guide/education-landscape.html](https://www.myskillsfuture.gov.sg/content/student/en/primary/education-guide/education-landscape.html)  |
-| Request For for Resetting of Student ICT Account    | Internet   | [https://go.gov.sg/tnspasswordreset](https://go.gov.sg/tnspasswordreset)   |
-| Student iCON (Google) Email (P4 to P6 only)    | Internet   | [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)  |
-| Student Learning Space (SLS)   | Internet   | [https://vle.learning.moe.edu.sg/login ](https://vle.learning.moe.edu.sg/login )  |
-| TNS Library Catalogue    | Internet   | [https://schoolibrary.moe.edu.sg/taonan](https://schoolibrary.moe.edu.sg/taonan)   |
-| Zoom   | Internet   | [https://zoom.us ](https://zoom.us )  |
-
-<br>
-<br>
-<br>
-
-| Parents |  |  |
-| -------- | -------- | -------- |
-| Booklist   | Internet   | [https://www.taonan.moe.edu.sg/partners/for-parents/curriculum/#Booklist](https://www.taonan.moe.edu.sg/partners/for-parents/curriculum/#Booklist)    | 
-| Curriculum Briefing Slides    | Internet   | [https://www.taonan.moe.edu.sg/partners/for-parents/curriculum/#CurriculumBriefingSlides](https://www.taonan.moe.edu.sg/partners/for-parents/curriculum/#CurriculumBriefingSlides)  |
-| Cyber Wellness Tips  | Internet   | [https://www.taonan.moe.edu.sg/partners/for-parents/ict-matters/#CyberWellness](https://www.taonan.moe.edu.sg/partners/for-parents/ict-matters/#CyberWellness)   |
-| Admin and Finance Forms    | Internet   | [https://www.taonan.moe.edu.sg/partners/for-parents/admin-n-finance/forms](https://www.taonan.moe.edu.sg/partners/for-parents/admin-n-finance/forms)  |
-| School Home Partnership Resources    | Internet   | [https://www.taonan.moe.edu.sg/partners/for-parents/school-home-partnership](https://www.taonan.moe.edu.sg/partners/for-parents/school-home-partnership)  |
-| TNS Library Catalogue    | Internet   | [https://schoolibrary.moe.edu.sg/taonan](https://schoolibrary.moe.edu.sg/taonan)    |
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Students</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>eZhishi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ezhishi.net" rel="noopener noreferrer nofollow" target="_blank">https://www.ezhishi.net</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Google Account</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>iMTL Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://imtl.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://imtl.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Microsoft Office 365</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://office.com" rel="noopener noreferrer nofollow" target="_blank">https://office.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MIMS Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://idp.mims.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MySkillsFuture</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary/education-guide/education-landscape.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/primary/education-guide/education-landscape.html</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Request For for Resetting of Student ICT Account</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/tnspasswordreset" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tnspasswordreset</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student iCON (Google) Email (P4 to P6 only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Learning Space (SLS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TNS Library Catalogue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://schoolibrary.moe.edu.sg/taonan" rel="noopener noreferrer nofollow" target="_blank">https://schoolibrary.moe.edu.sg/taonan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zoom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://zoom.us" rel="noopener noreferrer nofollow" target="_blank">https://zoom.us</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Parents</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Booklist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.taonan.moe.edu.sg/partners/for-parents/curriculum/#Booklist" rel="noopener noreferrer nofollow" target="_blank">https://www.taonan.moe.edu.sg/partners/for-parents/curriculum/#Booklist</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Curriculum Briefing Slides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.taonan.moe.edu.sg/partners/for-parents/curriculum/#CurriculumBriefingSlides" rel="noopener noreferrer nofollow" target="_blank">https://www.taonan.moe.edu.sg/partners/for-parents/curriculum/#CurriculumBriefingSlides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cyber Wellness Tips</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.taonan.moe.edu.sg/partners/for-parents/ict-matters/#CyberWellness" rel="noopener noreferrer nofollow" target="_blank">https://www.taonan.moe.edu.sg/partners/for-parents/ict-matters/#CyberWellness</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin and Finance Forms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.taonan.moe.edu.sg/partners/for-parents/admin-n-finance/forms" rel="noopener noreferrer nofollow" target="_blank">https://www.taonan.moe.edu.sg/partners/for-parents/admin-n-finance/forms</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Home Partnership Resources</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.taonan.moe.edu.sg/partners/for-parents/school-home-partnership" rel="noopener noreferrer nofollow" target="_blank">https://www.taonan.moe.edu.sg/partners/for-parents/school-home-partnership</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TNS Library Catalogue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://schoolibrary.moe.edu.sg/taonan" rel="noopener noreferrer nofollow" target="_blank">https://schoolibrary.moe.edu.sg/taonan</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Staff</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>All Ears Form Builder</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://forms.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FormSG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Go.gov.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICON 2.0</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HR Online</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In<u>tra</u>net</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/hronline/Pages/Home.aspx</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HR Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In<u>tra</u>net</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.hrp.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.hrp.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>iExams2 Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://iexams.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://iexams.seab.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MIMS Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://idp.mims.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Intranet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In<u>tra</u>net</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://intranet.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OPAL2.0</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://opal2.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://opal2.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents Gateway</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pg.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MIMS Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://idp.mims.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Resource Booking Service (RBS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://rbs.avero-tech.com/login.html" rel="noopener noreferrer nofollow" target="_blank">https://rbs.avero-tech.com/login.html</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SC Mobile</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://scmobile.moe.edu.sg/login</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Cockpit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://schoolcockpit.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://schoolcockpit.moe.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

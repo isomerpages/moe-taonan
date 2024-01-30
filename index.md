@@ -22,6 +22,6 @@ sections:
       title: 2024 CNY Announcement to Alumni
       subtitle: ANNOUNCEMENT
       id: infopic
-      button: Button Text
       alt: Image alt text
+      image: /images/Announcement/2024 cny announcement to alumni.jpg
 ---

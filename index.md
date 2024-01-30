@@ -18,4 +18,10 @@ sections:
         - title: 重要链接 Quick Links
           description: Click to view
           url: https://taonan.moe.edu.sg/quicklinks
+  - infopic:
+      title: 2024 CNY Announcement to Alumni
+      subtitle: ANNOUNCEMENT
+      id: infopic
+      alt: Image alt text
+      image: /images/Announcement/2024 cny announcement to alumni.jpg
 ---

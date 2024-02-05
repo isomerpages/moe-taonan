@@ -43,6 +43,7 @@ and nation</p>
 <p>HEP is a 3- year programme for all Gifted Education students enrolled
 in Tao Nan School from 2021 onwards, to provide them with a unique, holistic
 and enriched learning experience. The programme consists of 3 modules:
+<br>
 <br>1. Bilingualism and Biculturalism - where students learn to appreciate
 the literature, culture and contemporary affairs of both the western countries
 and China;

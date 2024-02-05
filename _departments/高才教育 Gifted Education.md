@@ -52,4 +52,7 @@ learning;
 <br>3. World of Technology - where students learn to problem solve and innovate
 through learning of computer coding and Artificial Intelligence.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GEP.png">
+</div>
 <p></p>

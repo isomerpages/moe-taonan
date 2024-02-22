@@ -2,6 +2,7 @@
 title: 社会知识 Social Studies
 permalink: /departments/social-studies/
 description: ""
+variant: markdown
 ---
 ### Vision / Mission
 
@@ -23,7 +24,7 @@ Programmes:
 |---|---|
 | Primary 1 | Neighbourhood Walk |
 | Primary 2 | Visit to National Orchid Garden |
-| Primary 3 | Visit to Eurasian Heritage Gallery |
+| Primary 3 | Visit to Peranakan Museum |
 | Primary 4 | Museum-based Learning: Tales of the Emporium  |
 | Primary 5 | Museum-based Learning: Sites and Sounds of Little India |
 | Primary 6 | Museum-based Learning: Asian Adventures &amp; Visit to Singapore Hokkien Huay Kuan |

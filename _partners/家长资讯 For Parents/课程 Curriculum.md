@@ -137,10 +137,6 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Partners/For Parents/Curriculum_Information_2024_TNS_P3_P4_Curriculum_Briefing_Principa_Vice_Principals_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 TNS P3&amp;P4 Curriculum Briefing Principal &amp; Vice-Principals Address</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P3_English_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P3 English Language Curriculum Information</a>
 </p>
 </li>
@@ -172,10 +168,6 @@ variant: tiptap
 <p><strong><u>Primary 4</u></strong>
 </p>
 <ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Partners/For Parents/Curriculum_Information_2024_TNS_P3_P4_Curriculum_Briefing_Principa_Vice_Principals_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 TNS P3&amp;P4 Curriculum Briefing Principal &amp; Vice-Principals Address</a>
-</p>
-</li>
 <li>
 <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P4_English_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 English Language Curriculum Information</a>
 </p>
@@ -209,10 +201,6 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Partners/For Parents/Curriculum_Information_2024_TNS_P5_P6_Curriculum_Briefing_Principa_Vice_Principals_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 TNS P5&amp;P6 Curriculum Briefing Principal &amp; Vice-Principals Address</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P5_English_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 English Language Curriculum Information</a>
 </p>
 </li>
@@ -244,10 +232,6 @@ variant: tiptap
 <p><strong><u>Primary 6</u></strong>
 </p>
 <ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/Partners/For Parents/Curriculum_Information_2024_TNS_P5_P6_Curriculum_Briefing_Principa_Vice_Principals_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 TNS P5&amp;P6 Curriculum Briefing Principal &amp; Vice-Principals Address</a>
-</p>
-</li>
 <li>
 <p><a href="/files/Partners/For Parents/Curriculum_Information_2024_P6_English_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 English Language Curriculum Information</a>
 </p>

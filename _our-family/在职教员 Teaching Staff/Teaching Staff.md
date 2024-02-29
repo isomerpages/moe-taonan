@@ -1902,7 +1902,20 @@ variant: tiptap
 <p>Mdm Patsy Hoon (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hoon_poh_nguak_patsy_a@moe.edu.sg</p>
+<p><a href="hoon_poh_nguak_patsy_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoon_poh_nguak_patsy_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>158</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Clarice Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="clarice_ong_heng_hwee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clarice_ong_heng_hwee_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

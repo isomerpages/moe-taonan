@@ -41,7 +41,7 @@ at the end of each semester. This will take effect from Term 2 (2024).
 </p>
 </li>
 </ol>
-<p><strong><u>CO-CURRICULAR ACTIVITIES (CCA) REQUEST FORM</u></strong> 
+<p><strong><u>CO-CURRICULAR ACTIVITIES (CCA) REQUEST FORM</u></strong>
 </p>
 <table>
 <tbody>

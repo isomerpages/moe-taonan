@@ -41,8 +41,20 @@ at the end of each semester. This will take effect from Term 2 (2024).
 </p>
 </li>
 </ol>
-<p><strong><u>CO-CURRICULAR ACTIVITIES (CCA) REQUEST FORM</u></strong>
-<br>
-<br><strong><a href="https://go.gov.sg/tns-cca-request-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tns-cca-request-form</a></strong>
+<p><strong><u>CO-CURRICULAR ACTIVITIES (CCA) REQUEST FORM</u></strong> 
 </p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><a href="https://go.gov.sg/tns-cca-request-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tns-cca-request-form</a></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/tns-cca-request-form"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCAs/https___go_gov_sg_tns_cca_request_form.png"></a>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

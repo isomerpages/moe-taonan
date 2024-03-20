@@ -1240,6 +1240,5 @@ Head (LH/SH)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>Updated on 02 January 2024</strong>
+<p><strong>Updated on 18 March 2024</strong>
 </p>

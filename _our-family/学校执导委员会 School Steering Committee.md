@@ -653,11 +653,49 @@ Head (LH/SH)</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="3" colspan="1">
+<p><a href="mailto:vikneswaran_selvarajoo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vikneswaran_selvarajoo@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Vikneswaran Selvarajoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - PAL &amp; CCA (Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>品德与公民教育</p>
 </td>
 <td rowspan="3" colspan="1">
+<table>
+<tbody>
+<tr>
+<td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lorraine_anne_alcantra@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+</tbody>
+</table>
 </td>
 </tr>
 <tr>
@@ -675,7 +713,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>25</p>
+<p>26</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>翁添保</p>
@@ -684,13 +722,23 @@ Head (LH/SH)</p>
 <p>特备课程 - 中华文化</p>
 </td>
 <td rowspan="3" colspan="1">
+<table>
+<tbody>
+<tr>
+<td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ang_thiam_poh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
+<tr></tr>
+<tr></tr>
+</tbody>
+</table>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>（主任）</p>
+<p>&nbsp;（主任）</p>
 </td>
 </tr>
 <tr>
@@ -699,34 +747,6 @@ Head (LH/SH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD - Special Programme (SP) (Chinese Culture)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>26</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>韩惠晶</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>特备课程 - 中华文化</p>
-</td>
-<td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hung_huey_jing@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;(科主任1)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Hung Huey Jing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH - Special Programme 1 (SP) (Chinese Culture)</p>
 </td>
 </tr>
 <tr>

@@ -376,7 +376,7 @@ Head (LH/SH)</p>
 <p>科学部</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lin-loh_shwu_hwa@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lin-loh_shwu_hwa@moe.edu.s</a>
 </p>
 </td>
 </tr>
@@ -404,7 +404,7 @@ Head (LH/SH)</p>
 <p>科学部</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lin-loh_shwu_hwa@moe.edu.sg</a>
+<p><a href="mailto:tan_hwee_jing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hwee_jing@moe.edu.sg</a>
 </p>
 </td>
 </tr>

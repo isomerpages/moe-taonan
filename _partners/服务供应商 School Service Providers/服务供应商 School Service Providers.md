@@ -22,7 +22,7 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Contact Person/
-<br>Number</p>
+<br>Number*</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Operating Hours</p>
@@ -123,7 +123,7 @@ more info.
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lai Zhenghao
-<br>9118-8490
+<br>9118 8490
 <br>Email: Lai@F1tpt.com
 <br>
 </p>
@@ -134,4 +134,5 @@ more info.
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>*Working hours ONLY</strong>
+</p>

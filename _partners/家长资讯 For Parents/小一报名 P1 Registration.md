@@ -3,6 +3,7 @@ title: 小一报名 P1 Registration
 permalink: /partners/for-parents/p1-registration/permalink/
 description: ""
 third_nav_title: 家长资讯 For Parents
+variant: markdown
 ---
 ## Procedures
 
@@ -10,20 +11,20 @@ third_nav_title: 家长资讯 For Parents
 
 **Primary 1 (P1) Registration Procedures**
 
- The registration of children for admission to Primary One (P1) in 2024 will open from Tuesday, 04 July 2023 to Tuesday, 31 October 2023.
- 
- The dates for the different phases of registration can be found at: [www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates](https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates). The list of primary schools and vacancies available will be updated on the MOE P1 Registration website at [www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration) by mid-June 2023.
+The registration of children for admission to Primary One (P1) in 2025 will open from Tuesday, 02 July 2024 to Friday, 16 August 2024.
 
+The dates for the different phases of registration can be found at: [www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates](www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates). 
 
 **Online Registration via new P1 Registration Portal**
 
-From this year’s P1 Registration Exercise, parents can use the new online P1 Registration Portal for all five phases (i.e. Phases 1, 2A, 2B, 2C, and 2C Supplementary) of the Exercise to register their child in their chosen school. The P1 Registration Portal replaces the online application form (for Phases 1, 2A, and 2B) and the P1 Internet System (for Phases 2C and 2C Supplementary) used in previous years.
+Parents can use the online P1 Registration Portal for all five phases (i.e. Phases 1, 2A, 2B, 2C, and 2C Supplementary) of the Exercise to register their child in their chosen school. 
 
-The P1 Registration Portal will go live on 04 July 2023 and can be accessed via the MOE P1 Registration website. Parents can log in to the Portal to view the phase(s) and school(s) their child is eligible to register in, as well as register their child in their chosen school when the phase the child is eligible for opens for registration.
+The P1 Registration Portal will go live on 02 July 2024 and can be accessed via the MOE P1 Registration website. Parents can log in to the Portal to view the phase(s) and school(s) their child is eligible to register in, as well as register their child in their chosen school when the phase the child is eligible for opens for registration.
 
 Parents will require a valid Singpass with 2-Factor Authentication (2FA) to login to the P1 Registration Portal. Parents are advised to set up their Singpass 2FA early and ensure that their Singpass account is valid before the commencement of the P1 Registration Exercise. Only one parent is required to login and submit the registration through the Portal.
 
-Parents who require assistance during registration may contact the school via email ([taonan_sch@moe.edu.sg](taonan_sch@moe.edu.sg)) or telephone (6442 8307) on the respective registration days between 9.00am to 4.30pm. Information on the P1 Registration process, eligibility criteria and user guides can be found at [www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration). 
+Parents who require assistance during registration may contact the school via email (taonan_sch@moe.edu.sg) or telephone (6442 8307) on the respective registration days between 9.00am to 4.30pm. Information on the P1 Registration process, eligibility criteria and user guides can be found at www.moe.gov.sg/primary/p1-registration.
+
 
 ## Past Years' Statistics
 

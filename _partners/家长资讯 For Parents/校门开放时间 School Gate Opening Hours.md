@@ -61,7 +61,7 @@ their child/ ward only
 <br><u>After school activities: </u>
 <br>3.45 pm to 6.00pm
 <br>
-<br><u>课后活动结束后</u>
+<br><u>课后活动结束后</u> 
 <br>下午3时45分 至 6时</p>
 </td>
 </tr>

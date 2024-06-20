@@ -430,11 +430,25 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chia- Xu Yizhen Evelyn</p>
+<p>Mdm Helmiaty Binte Mohamad Amin</p>
 </td>
-<td rowspan="2" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">xu_yizhen_evelyn@moe.edu.sg</a>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">helmiaty_mohamad_amin@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -445,21 +459,10 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Mrs Chia- Xu Yizhen Evelyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Helmiaty Binte Mohamad Amin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">helmiaty_mohamad_amin@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">xu_yizhen_evelyn@moe.edu.sg</a>
 </p>
 </td>
 </tr>

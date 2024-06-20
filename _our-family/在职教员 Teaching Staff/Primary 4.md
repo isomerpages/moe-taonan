@@ -304,10 +304,10 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Low Ko Hee [刘可喜]</p>
+<p>Mdm Sun Li [孙莉]</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">low_ko_hee@moe.edu.sg</a>
+<p><a href="mailto:sun_li_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sun_li_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>

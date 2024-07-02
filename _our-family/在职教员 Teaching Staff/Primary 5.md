@@ -66,10 +66,10 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Soo Pei Chih [苏佩琪]</p>
+<p>Ms Neo Lay Peng [梁丽萍]</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">soo_pei_chih@moe.edu.sg</a>
+<p><a href="mailto:neo_lay_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_lay_peng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -215,11 +215,12 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Terry Foo Siang Yong</p>
+<p>Mdm Koh Xin Rui Eleora</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">foo_siang_yong@moe.edu.sg</a>
+<td rowspan="3" colspan="1">
+<p><a href="mailto:koh_xin_rui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_xin_rui@moe.edu.sg</a>
 </p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -232,8 +233,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -430,11 +439,25 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chia- Xu Yizhen Evelyn</p>
+<p>Mdm Helmiaty Binte Mohamad Amin</p>
 </td>
-<td rowspan="2" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">xu_yizhen_evelyn@moe.edu.sg</a>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">helmiaty_mohamad_amin@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -445,21 +468,10 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Mrs Chia- Xu Yizhen Evelyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Helmiaty Binte Mohamad Amin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">helmiaty_mohamad_amin@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">xu_yizhen_evelyn@moe.edu.sg</a>
 </p>
 </td>
 </tr>

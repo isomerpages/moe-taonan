@@ -34,10 +34,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.taonan.moe.edu.sg/national-chinese-challenge-2024/" rel="noopener noreferrer nofollow" target="_blank">National Chinese Challenge 2024</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.taonan.moe.edu.sg/introducing-tao-nan-school-dragon-dance-troupe/" rel="noopener noreferrer nofollow" target="_blank">Introducing Tao Nan School Dragon Dance Troupe</a>
+</p>
 </td>
 </tr>
 <tr>

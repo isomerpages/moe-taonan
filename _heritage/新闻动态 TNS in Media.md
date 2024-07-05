@@ -30,7 +30,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.taonan.moe.edu.sg/opening-ceremony-of-thomson-east-coast-mrt-stations/" rel="noopener noreferrer nofollow" target="_blank">Opening Ceremony of Thomson-East Coast MRT stations</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

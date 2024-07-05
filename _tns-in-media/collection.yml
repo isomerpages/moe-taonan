@@ -2,6 +2,7 @@ collections:
   tns-in-media:
     output: true
     order:
+      - Opening Ceremony of Thomson East Coast MRT stations.md
       - National Chinese Challenge 2024.md
       - Introducing Tao Nan School Dragon Dance Troupe.md
       - 2023 National Vlog Competition for Singapore Primary School Students.md

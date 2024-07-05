@@ -2,6 +2,7 @@ collections:
   tns-in-media:
     output: true
     order:
+      - Introducing Tao Nan School Dragon Dance Troupe.md
       - Tao Nan School celebrated 115th Anniversary.md
       - Mother Tongue Language (MTL) Fortnight.md
       - Assembly Programme about Hari Raya Haji.md

@@ -11,5 +11,5 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="img_nationalchinesechallenge2024" src="/images/Heritage/TNS in Media/img_national_chinese_challenge_2024.jpg">
 </div>
 <p>Click on this link to read more:
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/news/singapore/story20240428-3515824</a>
+<br><a href="https://www.zaobao.com.sg/news/singapore/story20240428-3515824" rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/news/singapore/story20240428-3515824</a>
 </p>

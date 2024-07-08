@@ -85,10 +85,9 @@ such as your login to the school laptops, school WI-FI (SWN@SSOE), SLS,
 Google Workspace, Microsoft Office 365 ProPlus Apps etc.</p>
 <h5>How to login to my MIMS Account?</h5>
 <p><strong>Website: </strong><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">https://mims.moe.gov.sg</a>
-</p>
-<p><strong>MIMS login ID:</strong> Full_Name@students.edu.sg
-<br><strong>Password:</strong> (USER-DEFINED)*</p>
-<p>*MIMS password is the same for school WINDOWS laptop password, school
+<br><strong>MIMS login ID:</strong> Full_Name@students.edu.sg
+<br><strong>Password:</strong> (USER-DEFINED)*
+<br>*MIMS password is the same for school WINDOWS laptop password, school
 WI-FI (SWN@SSOE), SLS (Login with MIMS), Google Workspace, Microsoft Office
 365 ProPlus Apps.</p>
 <p>

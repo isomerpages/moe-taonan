@@ -61,17 +61,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Top Entries (Students' artwork will be featured at Paya Lebar MRT Station
-from 31 Jan 2024</p>
-</td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Top Entries:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -140,8 +131,7 @@ from 31 Jan 2024</p>
 <p>Ng Yu Ze (5K)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>&nbsp;</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -152,8 +142,7 @@ from 31 Jan 2024</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>&nbsp;</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -169,10 +158,21 @@ from 31 Jan 2024</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction Prize:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Jia En (6I-3) 2024 - Distinction Prize</p>
+<p>Lim Jia En (6I-3) 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>

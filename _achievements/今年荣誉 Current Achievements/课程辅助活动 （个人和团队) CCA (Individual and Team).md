@@ -1587,30 +1587,32 @@ variant: tiptap
 <p>Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NTU Institutional Lion Dance Competition 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary School Category</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>&nbsp;</u>
+<p><strong>NTU Institutional Lion Dance Competition 2024</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver Placing</p>
+<p><strong><u>Primary School Category</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Silver Placing</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1753,10 +1755,12 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Competition 2024</p>
+<p><strong>National School Games Wushu Competition 2024</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Competition 2024</p>
+<p><strong>National School Games Wushu Competition 2024</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1764,10 +1768,12 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Individual Award</p>
+<p><strong><u>Individual Award</u></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Boys</p>
+<p><strong><u>Junior Boys</u></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1811,7 +1817,8 @@ variant: tiptap
 <p>Angelina Gillian Wee Ser Ching (4E)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Girls</p>
+<p><strong><u>Junior Girls</u></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1855,7 +1862,8 @@ variant: tiptap
 <p>1st International Cudgel - 3rd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Boys</p>
+<p><strong><u>Senior Boys</u></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1888,7 +1896,8 @@ variant: tiptap
 <p>Lee Rui Ya Adele (5F)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Girls</p>
+<p><strong><u>Senior Girls</u></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -2095,137 +2104,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>5-Duan Nanquan - 6th</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Others</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>ACHIEVEMENT (National/International)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Individual</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Team</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>&nbsp;</u>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>&nbsp;</u>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>

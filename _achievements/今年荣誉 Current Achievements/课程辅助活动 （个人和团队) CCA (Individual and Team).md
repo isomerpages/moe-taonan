@@ -1106,7 +1106,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>100m Freestyle - 4th</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>2. Breast - Lucas Choy (4A)</p>
@@ -1117,7 +1121,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>200m Freestyle - 3rd</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>3. Fly - Dylan Shui (2L)</p>
@@ -1128,7 +1136,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>50m Fly/50m Free - 8th</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>4. Free - Lyu Jing Chen Jasper (3H)</p>
@@ -1150,7 +1162,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>50m Backstroke - 2nd</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1161,7 +1177,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>100m Breaststroke - 2nd</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1172,7 +1192,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>50m Fly/50m Breast - 3rd</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1183,7 +1207,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>50m Back/50m Breast - 1st</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1792,7 +1820,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>3-Duan Changquan - 7th</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Group Weapons - 8th</p>
@@ -1803,7 +1835,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>4-Duan Cudgel - 3rd</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1814,7 +1850,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Angelina Gillian Wee Ser Ching (4E)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Junior Girls</u></strong>
@@ -1826,7 +1866,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>5-Duan Nanquan - 6th</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Group Weapons - 2nd</p>
@@ -1848,7 +1892,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>5-Duan Broadsword - 2nd</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1859,7 +1907,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>1st International Cudgel - 3rd</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Senior Boys</u></strong>
@@ -1882,7 +1934,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>1st International Spear - 3rd</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1905,7 +1961,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>1st International Changquan - 2nd</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Group Weapons - 6th</p>
@@ -1916,7 +1976,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>1st International Sword - 3rd</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1938,7 +2002,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>5-Duan Changquan - 4th</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1949,7 +2017,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>5-Duan Broadsword - 3rd</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1971,7 +2043,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>1st International Changquan - 1st</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1982,7 +2058,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>4-Duan Broadsword - 1st</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1993,7 +2073,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>4-Duan Cudgel - 1st</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2015,7 +2099,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>1st International Sword - 4th</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2026,7 +2114,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>1st International Spear - 4th</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2037,7 +2129,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>5-Duan Changquan - 6th</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2059,7 +2155,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>1st International Sword - 3rd</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2070,7 +2170,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>1st International Changquan - 5th</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2081,7 +2185,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>1st International Spear - 8th</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2103,7 +2211,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>5-Duan Nanquan - 6th</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>

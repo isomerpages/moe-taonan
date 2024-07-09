@@ -23,6 +23,7 @@ variant: tiptap
 <h3>Student Portals</h3>
 <p><a href="#backtotop" rel="noopener noreferrer nofollow" target="_blank">Back to top</a>
 </p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -31,10 +32,11 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>One-stop-Guide to MOE ICT Portals for Students</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="https://tao-nan-school-moe.gitbook.io/moe-student-ict-accounts" rel="noopener noreferrer nofollow" target="_blank">https://tao-nan-school-moe.gitbook.io/moe-student-ict-accounts</a></strong>
+</p>
 </th>
 </tr>
 <tr>

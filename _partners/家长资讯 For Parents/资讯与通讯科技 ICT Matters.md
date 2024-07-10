@@ -23,7 +23,6 @@ variant: tiptap
 <h3>Student Portals</h3>
 <p><a href="#backtotop" rel="noopener noreferrer nofollow" target="_blank">Back to top</a>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -32,34 +31,125 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>One-stop-Guide to MOE ICT Portals for Students</p>
+<p>One-stop-Guide
+<br>to MOE ICT Portals
+<br>for Students</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong><a href="https://tao-nan-school-moe.gitbook.io/moe-student-ict-accounts" rel="noopener noreferrer nofollow" target="_blank">https://tao-nan-school-moe.gitbook.io/moe-student-ict-accounts</a></strong>
 </p>
 </th>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Portal</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Platform</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Website</p>
+</th>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Google Account (for students)</p>
+<p>eZhishi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://tao-nan-school-moe.gitbook.io/students-mims-account/google-account" rel="noopener noreferrer nofollow" target="_blank">https://tao-nan-school-moe.gitbook.io/students-mims-account/google-account</a>
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ezhishi.net" rel="noopener noreferrer nofollow" target="_blank">https://www.ezhishi.net</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MIMS Account</p>
+<p>Google Account</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://tao-nan-school-moe.gitbook.io/students-mims-account/" rel="noopener noreferrer nofollow" target="_blank">https://tao-nan-school-moe.gitbook.io/students-mims-account/</a>
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Learning Space</p>
+<p>iMTL Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://imtl.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://imtl.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Microsoft Office 365</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://office.com" rel="noopener noreferrer nofollow" target="_blank">https://office.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MIMS Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://idp.mims.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MySkillsFuture</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/primary.html</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student iCON (Google) Email (P4 to P6 only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Learning Space (SLS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
@@ -68,10 +158,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Request for Resetting of Students' ICT Account</p>
+<p>TNS Library Catalogue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/tnspasswordreset" rel="noopener noreferrer nofollow" target="_blank">Request for Resetting of Students' ICT Account</a>
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://schoolibrary.moe.edu.sg/taonan" rel="noopener noreferrer nofollow" target="_blank">https://schoolibrary.moe.edu.sg/taonan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zoom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://zoom.us" rel="noopener noreferrer nofollow" target="_blank">https://zoom.us</a>
 </p>
 </td>
 </tr>

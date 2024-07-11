@@ -197,26 +197,33 @@ Google Workspace, Microsoft Office 365 ProPlus Apps etc.</p>
 <br>*MIMS password is the same for school WINDOWS laptop password, school
 WI-FI (SWN@SSOE), SLS (Login with MIMS), Google Workspace, Microsoft Office
 365 ProPlus Apps.</p>
-<p>
-<br><strong>MIMS Account Support (School-based Helpline)</strong>
-<br>The 'Forget Password' function is <strong>disabled</strong> for Primary
-School students.</p>
+<p>You may click on the link below for the step-by-step guide.
+<br><a href="https://tao-nan-school-moe.gitbook.io/moe-student-ict-accounts/mims-account" rel="noopener noreferrer nofollow" target="_blank">https://tao-nan-school-moe.gitbook.io/moe-student-ict-accounts/mims-account</a>
+<br>
+<br><strong>MIMS/ICT Account Support (School-based Helpline)</strong>
+<br>The 'Forget Password' function for MIMS &amp; Google Account is <strong>disabled</strong> for
+Primary School students.
+<br>
+</p>
 <p>If you encounter password issues, please submit the School-based Password
 Reset FormSG via <a href="http://go.gov.sg/tnspasswordreset" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/tnspasswordreset</a>.
-Look out for the email with the default password sent to you.</p>
+Look out for the email from FORMSG to view the default password. Our school
+personnel will respond to your query via the same FormSG.</p>
 <p>We seek your patience and understanding as password resets are done manually
 by our school personnel. Any forms received after 4:30 pm will be processed
 the next working day.</p>
 <p><strong><u>Operating Hours (via FormSG &amp; Email)</u></strong>
 <br><strong>Mondays ― Fridays:</strong>
 <br>1:30 pm ― 4:30 pm (school days)
-<br>9:00 am ― 4:30 pm (school holidays)
+<br>9:00 am ― 4:30 pm (school holidays)</p>
+<p>If you are experiencing technical difficulties with the form, you may
+contact the school at 6442 8307 or email to <a href="mailto:taonan_sch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">taonan_sch@moe.edu.sg</a> with the screenshot
+of the error message.
+<br>
 <br><strong><u>Operating Hours (via school phone)</u></strong>
 <br><strong>Mondays ― Fridays:</strong>
 <br>7:30 am ― 5:00 pm</p>
-<p>You may click on the link below for the step-by-step guide.
-<br><a href="https://tao-nan-school-moe.gitbook.io/moe-student-ict-accounts/mims-account" rel="noopener noreferrer nofollow" target="_blank">https://tao-nan-school-moe.gitbook.io/moe-student-ict-accounts/mims-account</a>
-</p>
+<p></p>
 <h3>Cyber Wellness</h3>
 <p><a href="#backtotop" rel="noopener noreferrer nofollow" target="_blank">Back to top</a>
 </p>

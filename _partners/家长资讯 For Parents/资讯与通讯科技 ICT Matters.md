@@ -204,9 +204,9 @@ School students.</p>
 <p>If you encounter password issues, please submit the School-based Password
 Reset FormSG via <a href="http://go.gov.sg/tnspasswordreset" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/tnspasswordreset</a>.
 Look out for the email with the default password sent to you.</p>
-<p>Upon form submission, we seek your patience and understanding as password
-resets are done manually by our school personnel. Any forms received after
-4:30 pm will be processed the next working day.</p>
+<p>We seek your patience and understanding as password resets are done manually
+by our school personnel. Any forms received after 4:30 pm will be processed
+the next working day.</p>
 <p><strong><u>Operating Hours (via FormSG &amp; Email)</u></strong>
 <br><strong>Mondays ― Fridays:</strong>
 <br>1:30 pm ― 4:30 pm (school days)
@@ -214,7 +214,8 @@ resets are done manually by our school personnel. Any forms received after
 <br><strong><u>Operating Hours (via school phone)</u></strong>
 <br><strong>Mondays ― Fridays:</strong>
 <br>7:30 am ― 5:00 pm</p>
-<p>For more information, go to <a href="https://tao-nan-school-moe.gitbook.io/moe-student-ict-accounts" rel="noopener noreferrer nofollow" target="_blank">https://tao-nan-school-moe.gitbook.io/moe-student-ict-accounts</a>
+<p>You may click on the link below for the step-by-step guide.
+<br><a href="https://tao-nan-school-moe.gitbook.io/moe-student-ict-accounts/mims-account" rel="noopener noreferrer nofollow" target="_blank">https://tao-nan-school-moe.gitbook.io/moe-student-ict-accounts/mims-account</a>
 </p>
 <h3>Cyber Wellness</h3>
 <p><a href="#backtotop" rel="noopener noreferrer nofollow" target="_blank">Back to top</a>

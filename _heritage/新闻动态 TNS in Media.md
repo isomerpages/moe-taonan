@@ -194,3 +194,17 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.taonan.moe.edu.sg/tns-in-media/assembly-programme-about-hari-raya-haji/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="img_2022_harirayahaji" src="/images/Heritage/TNS in Media/img_assembly-programme-about-hari-raya-haji.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assembly Programme about Hari Raya Haji</div><div class="isomer-card-link">Click here for more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.taonan.moe.edu.sg/tns-in-media/mother-tongue-language-mtl-fortnight/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Heritage/TNS in Media/img_mother-tongue-language-mtl-fortnight.JPG">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">MTL Fortnight</div>
+<div class="isomer-card-link">Click here for more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.taonan.moe.edu.sg/tns-in-media/tao-nan-school-115th-anniversary/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="img_115anniversary" src="/images/Heritage/TNS in Media/img_tao-nan-school-115th-anniversary.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">115th Anniversary</div><div class="isomer-card-link">Click here for more</div></div></a>
+</div>
+<p></p>

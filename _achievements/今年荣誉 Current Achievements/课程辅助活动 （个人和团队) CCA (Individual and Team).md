@@ -39,19 +39,51 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Dance</p>
+<p>Boys' Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys' Brigade Best Boy Award 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Boon Chiang Medal - Isaiah Chan Hin Jing (6F)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore Youth Festival Arts Presentation (SYF AP) 2024</strong>
-</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation (SYF AP) 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -73,14 +105,46 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation (SYF AP) 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Orchestra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore Youth Festival Arts Presentation (SYF AP) 2024</strong>
-</p>
+<p>Singapore Youth Festival Arts Presentation (SYF AP) 2024</p>
 </td>
 </tr>
 <tr>
@@ -113,8 +177,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore Youth Festival Arts Presentation (SYF AP) 2024</strong>
-</p>
+<p>Singapore Youth Festival Arts Presentation (SYF AP) 2024</p>
 </td>
 </tr>
 <tr>
@@ -144,8 +207,7 @@ variant: tiptap
 <p>International Chess</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>75th National School Individual Chess Championship 2024</strong>
-</p>
+<p>75th National School Individual Chess Championship 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -153,8 +215,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Girls Under 8</u></strong>
-</p>
+<p>Girls Under 8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -176,11 +237,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>East Zone (Top 10 positions) - 1st</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -191,11 +248,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>National (Top 20 positions) - 2nd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -217,11 +270,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>East Zone (Top 10 positions) - 2nd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -232,11 +281,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>National (Top 20 positions) - 8th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -258,11 +303,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>East Zone (Top 10 positions) - 3rd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -273,11 +314,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>National (Top 20 positions) - 10th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -299,11 +336,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>East Zone (Top 10 positions) - 4th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -314,11 +347,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>National (Top 20 positions) - 18th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -340,8 +369,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Girls Under 10</u></strong>
-</p>
+<p>Girls Under 10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -363,11 +391,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>East Zone (Top 10 positions) - 4th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -378,11 +402,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>National (Top 20 positions) - 14th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -404,11 +424,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>East Zone (Top 10 positions) - 8th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -430,8 +446,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Girls Under 12</u></strong>
-</p>
+<p>Girls Under 12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -453,11 +468,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>East Zone (Top 10 positions) - 1st</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -468,11 +479,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>National (Top 20 positions) - 14th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -486,8 +493,7 @@ variant: tiptap
 <p>Deborah Lee Yining (5H)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>&nbsp;</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -495,15 +501,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>East Zone (Top 10 positions) - 6th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>&nbsp;</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -522,8 +523,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Under 8 (Open)</u></strong>
-</p>
+<p>Under 8 (Open)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -545,11 +545,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>East Zone (Top 10 positions) - 3rd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -571,15 +567,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>East Zone (Top 10 positions) - 7th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>&nbsp;</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -590,8 +581,7 @@ variant: tiptap
 <p>Cao Bangting (2E)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>&nbsp;</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -599,11 +589,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>East Zone (Top 10 positions) - 8th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -625,11 +611,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>East Zone (Top 10 positions) - 9th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -651,8 +633,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Under 10 (Open)</u></strong>
-</p>
+<p>Under 10 (Open)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -666,8 +647,7 @@ variant: tiptap
 <p>Euan Loh Kai Ern (4A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>&nbsp;</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -675,15 +655,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>East Zone (Top 10 positions) - 2nd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>&nbsp;</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -691,11 +666,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>National (Top 20 positions) - 7th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -717,11 +688,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>East Zone (Top 10 positions) - 7th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -743,11 +710,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>East Zone (Top 10 positions) - 10th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -769,8 +732,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Under 12 (Open)</u></strong>
-</p>
+<p>Under 12 (Open)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -792,11 +754,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>East Zone (Top 10 positions) - 1st</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -807,11 +765,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>National (Top 20 positions) - 2nd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -833,11 +787,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>East Zone (Top 10 positions) - 3rd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -848,11 +798,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>National (Top 20 positions) - 7th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -863,7 +809,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Chun Leong, George (5I)</p>
+<p>&nbsp;&nbsp; Lee Chun Leong, George (5I)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -874,11 +820,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>East Zone (Top 10 positions) - 6th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -889,14 +831,54 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>National (Top 20 positions) - 14th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girls' Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Girls' Brigade Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TNS Girls' Brigade Company&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award (for accomplishments in 2023)</p>
 </td>
 </tr>
 <tr>
@@ -913,26 +895,23 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Girl Guides</p>
-<p>(Brownies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Puan Noor Aishah Award (PNAA)</strong>
-</p>
+<p>Puan Noor Aishah Award (PNAA)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>(Brownies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>(for the year of assessment 2023)</strong>
-</p>
+<p>(for the year of assessment 2023)</p>
 </td>
 </tr>
 <tr>
@@ -973,12 +952,10 @@ variant: tiptap
 <p>Swimming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>National School Games Swimming Competition 2024</strong>
-</p>
+<p>National School Games Swimming Competition 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>National School Games Swimming Competition 2024</strong>
-</p>
+<p>National School Games Swimming Competition 2024</p>
 </td>
 </tr>
 <tr>
@@ -986,12 +963,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Senior Girls</u></strong>
-</p>
+<p>Senior Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior 1 Boys Team</u></strong>
-</p>
+<p>Junior 1 Boys Team</p>
 </td>
 </tr>
 <tr>
@@ -1002,8 +977,7 @@ variant: tiptap
 <p>Chiu Lok Yaen Esther (6I)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>4 x 25m Freestyle Relay - 8th</strong>
-</p>
+<p>4 x 25m Freestyle Relay - 8th</p>
 </td>
 </tr>
 <tr>
@@ -1011,11 +985,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>50m Breaststroke - 2nd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Lucas Choy (4A)</p>
@@ -1026,11 +996,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>100m Breaststroke - 4th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>2. Dylan Shui (2L)</p>
@@ -1041,11 +1007,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>50m Fly/50m Breast - 2nd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>3. Jonathan Sew Kai Sheng (4I)</p>
@@ -1056,11 +1018,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>50m Breast/50m Free - 5th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>4. Lyu Jing Chen Jasper (3H)</p>
@@ -1082,12 +1040,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Boys</strong>
-</p>
+<p>Senior Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>4 x 25m Medley Relay - 7th</strong>
-</p>
+<p>4 x 25m Medley Relay - 7th</p>
 </td>
 </tr>
 <tr>
@@ -1106,11 +1062,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>100m Freestyle - 4th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>2. Breast - Lucas Choy (4A)</p>
@@ -1121,11 +1073,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>200m Freestyle - 3rd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>3. Fly - Dylan Shui (2L)</p>
@@ -1136,11 +1084,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>50m Fly/50m Free - 8th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>4. Free - Lyu Jing Chen Jasper (3H)</p>
@@ -1162,11 +1106,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>50m Backstroke - 2nd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1177,11 +1117,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>100m Breaststroke - 2nd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1192,11 +1128,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>50m Fly/50m Breast - 3rd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1207,11 +1139,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>50m Back/50m Breast - 1st</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1233,8 +1161,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior 2 Boys</u></strong>
-</p>
+<p>Junior 2 Boys</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1256,11 +1183,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>100m Breaststroke - 3rd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1271,11 +1194,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>100m Backstroke - 4th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1297,11 +1216,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>50m Butterfly - 3rd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1312,11 +1227,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>100m Butterfly - 5th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1327,11 +1238,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>50m Fly/50m Back - 7th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1353,8 +1260,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior 1 Boys (P3 &amp; P4)</u></strong>
-</p>
+<p>Junior 1 Boys (P3 &amp; P4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1376,11 +1282,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>50m Breaststroke - 6th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1391,11 +1293,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>25m Fly/25m Breast - 7th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1417,8 +1315,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior 1 Girls (P3 &amp; P4)</u></strong>
-</p>
+<p>Junior 1 Girls (P3 &amp; P4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1440,11 +1337,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>25m Fly/25m Back - 1st</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1455,11 +1348,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>25m Breast/25m Free - 3rd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1481,11 +1370,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>25m Breaststroke - 4th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1496,11 +1381,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>100m Individual Medley - 6th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1522,11 +1403,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>25m Breast/25m Free - 7th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1548,11 +1425,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>25m Backstroke - 6th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1563,11 +1436,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>25m Fly/25m Back - 2nd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1589,11 +1458,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>25m Fly/25m Free - 8th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1605,6 +1470,83 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Singapore Scout Association&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Singapore Scout Association</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Akela Award 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Attained Frank Cooper Sands Award for year ending 2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>East Area - Tao Nan Mowgli Cub Scout Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hayden Ho Liren (6G)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kuah Zhi Te</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pang Tian Yang (5L)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1615,23 +1557,10 @@ variant: tiptap
 <p>Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NTU Institutional Lion Dance Competition 2024</strong>
-</p>
+<p>National School Games Wushu Competition 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Primary School Category</u></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>National School Games Wushu Competition 2024</p>
 </td>
 </tr>
 <tr>
@@ -1639,169 +1568,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Silver Placing</strong>
-</p>
+<p>Individual Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Samantha Ng Min En (4C)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vereena Sim (4E)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ayden Lim Dean Zhe (5A)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Evan Sng Aik Soon (5A)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Junwei Joel (5J)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Li Xinjing (5K)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chua Yuen Xi (5L)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teo Wen Xin Denise (6B)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chow Wei Xin (6F)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Xaralyn Tan Jia Xuan (6F)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cheng Chel Hee (6G)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>National School Games Wushu Competition 2024</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>National School Games Wushu Competition 2024</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Individual Award</u></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Junior Boys</u></strong>
-</p>
+<p>Junior Boys</p>
 </td>
 </tr>
 <tr>
@@ -1820,11 +1590,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>3-Duan Changquan - 7th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Group Weapons - 8th</p>
@@ -1835,11 +1601,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>4-Duan Cudgel - 3rd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1850,15 +1612,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Angelina Gillian Wee Ser Ching (4E)</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Junior Girls</u></strong>
-</p>
+<p>Junior Girls</p>
 </td>
 </tr>
 <tr>
@@ -1866,11 +1623,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>5-Duan Nanquan - 6th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Group Weapons - 2nd</p>
@@ -1892,11 +1645,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>5-Duan Broadsword - 2nd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1907,15 +1656,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>1st International Cudgel - 3rd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Senior Boys</u></strong>
-</p>
+<p>Senior Boys</p>
 </td>
 </tr>
 <tr>
@@ -1934,11 +1678,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>1st International Spear - 3rd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1952,8 +1692,7 @@ variant: tiptap
 <p>Lee Rui Ya Adele (5F)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Senior Girls</u></strong>
-</p>
+<p>Senior Girls</p>
 </td>
 </tr>
 <tr>
@@ -1961,11 +1700,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>1st International Changquan - 2nd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Group Weapons - 6th</p>
@@ -1976,11 +1711,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>1st International Sword - 3rd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2002,11 +1733,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>5-Duan Changquan - 4th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2017,11 +1744,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>5-Duan Broadsword - 3rd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2043,11 +1766,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>1st International Changquan - 1st</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2058,11 +1777,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>4-Duan Broadsword - 1st</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2073,11 +1788,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>4-Duan Cudgel - 1st</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2099,11 +1810,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>1st International Sword - 4th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2114,11 +1821,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>1st International Spear - 4th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2129,11 +1832,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>5-Duan Changquan - 6th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2155,11 +1854,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>1st International Sword - 3rd</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2170,11 +1865,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>1st International Changquan - 5th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2185,11 +1876,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>1st International Spear - 8th</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2211,11 +1898,207 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>5-Duan Nanquan - 6th</p>
-</li>
-</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Others</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>ACHIEVEMENT (National/International)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Individual</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Team</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lion Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTU Institutional Lion Dance Competition 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary School Category</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Samantha Ng Min En (4C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vereena Sim (4E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ayden Lim Dean Zhe (5A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Evan Sng Aik Soon (5A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Junwei Joel (5J)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Li Xinjing (5K)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Yuen Xi (5L)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teo Wen Xin Denise (6B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chow Wei Xin (6F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xaralyn Tan Jia Xuan (6F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheng Chel Hee (6G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>

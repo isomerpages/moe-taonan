@@ -4,7 +4,13 @@ permalink: /our-family/school-steering-committee/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1263,6 +1269,5 @@ Head (LH/SH)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Updated on 18 March 2024</strong>
 </p>

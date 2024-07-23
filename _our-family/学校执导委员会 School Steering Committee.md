@@ -687,7 +687,7 @@ Head (LH/SH)</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>艺体陶冶计划与课程辅助活动（科主任-内部）</p>
 </td>
 <td rowspan="2" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">vikneswaran_selvarajoo@moe.edu.sg</a>

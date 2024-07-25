@@ -21,7 +21,12 @@ and school’s core values of respect, responsibility, perseverance, love,
 sincerity and integrity.</p>
 <p><strong><u>Key PE Programmes:</u></strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -43,11 +48,10 @@ sincerity and integrity.</p>
 <br>• Dance
 <br>• Gymnastics
 <br>• Outdoor Education
-<br>• Physical Health &amp; Fitness</p>
+<br>• Physical Health and Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Lower Sports Day
-<br>• Sports Carnival
+<p>• Sports Carnival
 <br>• PE Values-in-Action
 <br>• Assembly Programme
 <br>• Learning for Life Programme (LLP)</p>
@@ -62,11 +66,10 @@ sincerity and integrity.</p>
 <br>• Dance
 <br>• Gymnastics
 <br>• Outdoor Education
-<br>• Physical Health &amp; Fitness</p>
+<br>• Physical Health and Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Lower Sports Day
-<br>• Sports Carnival
+<p>• Sports Carnival
 <br>• PE Values-in-Action
 <br>• Assembly Programme
 <br>• Learning for Life Programme (LLP)</p>
@@ -83,10 +86,10 @@ sincerity and integrity.</p>
 <br>• Outdoor Education
 <br>• Track &amp; Field
 <br>• Swimming
-<br>• Physical Health &amp; Fitness</p>
+<br>• Physical Health and Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Lower Sports Day
+<p>• Sports carnival
 <br>• Wushu (In alignment with TNS SAP programme)
 <br>• PE Values-in-Action
 <br>• Assembly Programme
@@ -102,9 +105,8 @@ sincerity and integrity.</p>
 <br>• Dance
 <br>• Gymnastics
 <br>• Outdoor Education
-<br>• Track &amp; Field
-<br>• Swimming
-<br>• Physical Health &amp; Fitness</p>
+<br>• Athletics
+<br>• Physical Health and Safety</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Inter-Class Captain's Ball Tournament
@@ -123,9 +125,8 @@ sincerity and integrity.</p>
 <br>• Dance
 <br>• Gymnastics
 <br>• Outdoor Education
-<br>• Track &amp; Field
-<br>• Swimming
-<br>• Physical Health &amp; Fitness</p>
+<br>• Athletics
+<br>• Physical Health and Safety</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Inter-Class Frisbee Tournament
@@ -143,9 +144,8 @@ sincerity and integrity.</p>
 <br>• Dance
 <br>• Gymnastics
 <br>• Outdoor Education
-<br>• Track &amp; Field
-<br>• Swimming
-<br>• Physical Health &amp; Fitness</p>
+<br>• Athletics
+<br>• Physical Health and Safety</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Inter-Class Basketball Tournament
@@ -169,14 +169,4 @@ sincerity and integrity.</p>
 </tbody>
 </table>
 <h3>P5 Camp Briefing Slides</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Department/PE_2024_P5_Camp_Parents__Briefing_5A_5F_25_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Camp Briefing Slides 5A to 5F (25 Jan 2024)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Department/PE_2024_P5_Camp_Parents__Briefing_5G_5L_25_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Camp Briefing Slides 5G to 5L (25 Jan 2024)</a>
-</p>
-</li>
-</ul>
 <p></p>

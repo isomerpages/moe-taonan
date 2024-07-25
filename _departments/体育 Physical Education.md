@@ -89,7 +89,6 @@ sincerity and integrity.</p>
 <br>• Physical Health and Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Lower Sports Day</p>
 <p>• Sports carnival
 <br>• Wushu (In alignment with TNS SAP programme)
 <br>• PE Values-in-Action

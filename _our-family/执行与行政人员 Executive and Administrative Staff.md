@@ -91,6 +91,21 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Abdul Gaffore Mohamed Abdul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Abdul_Gaffore_Mohamed_Abdul@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Abdul_Gaffore_Mohamed_Abdul@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Mehrunnisha Binte Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,7 +118,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hayati Amat</p>
@@ -118,7 +133,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Maisarah Abdullah</p>
@@ -133,7 +148,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Natalia Sugiarto</p>
@@ -148,7 +163,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sharon Yeo Guat Kheng</p>
@@ -163,7 +178,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Ah Cheng</p>
@@ -178,7 +193,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Margaret Soh</p>
@@ -192,7 +207,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Samsudin Bin Haji Rahman</p>
@@ -206,7 +221,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p>14</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Seah Teong Hwa</p>
@@ -220,7 +235,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Soh Chin Teck</p>
@@ -234,7 +249,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
+<p>16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Tan Siew Hong</p>
@@ -248,7 +263,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16</p>
+<p>17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Hai Guan</p>
@@ -262,7 +277,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sabariah Bte Hussin</p>
@@ -276,7 +291,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p>19</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Lay Lian</p>
@@ -290,7 +305,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18</p>
+<p>20</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kris Khoo Tiong Gee</p>
@@ -305,7 +320,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19</p>
+<p>21</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Azmi</p>

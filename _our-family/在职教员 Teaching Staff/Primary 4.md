@@ -991,8 +991,7 @@ variant: tiptap
 <p>Ms Deng Min [邓敏]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sun_li_a@moe.edu.sg</a>&nbsp;/&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">deng_min@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">deng_min@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1081,7 +1080,7 @@ variant: tiptap
 <p>Mdm Sun Li [孙莉]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">zhang_yu_b@moe.edu.sg</a>
+<p><a href="mailto:sun_li_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sun_li_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>

@@ -923,7 +923,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-Jan</p>
+<p>4-1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
@@ -988,7 +988,7 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sun Li [孙莉] / Ms Deng Min [邓敏]&nbsp;</p>
+<p>Ms Deng Min [邓敏]&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">sun_li_a@moe.edu.sg</a>&nbsp;/&nbsp;
@@ -998,7 +998,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-Feb</p>
+<p>4-2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
@@ -1078,7 +1078,7 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zhang Yu [张宇]</p>
+<p>Mdm Sun Li [孙莉]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">zhang_yu_b@moe.edu.sg</a>

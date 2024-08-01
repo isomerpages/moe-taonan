@@ -17,16 +17,20 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CLASS</p>
+<p><strong>CLASS</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SUBJECT</p>
+<p><strong>SUBJECT</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NAME OF STAFF</p>
+<p><strong>NAME OF STAFF</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EMAIL ADDRESS</p>
+<p><strong>EMAIL ADDRESS</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -181,7 +185,7 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Pei Boon (FAJT) [蔡佩雯]</p>
+<p>Mdm Chua Pei Boon [蔡佩雯]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chua_pei_boon@moe.edu.sg</a>

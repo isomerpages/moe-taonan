@@ -383,25 +383,11 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Chee Yong</p>
+<p>Mdm Patsy Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_chee_yong_a@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">hoon_poh_nguak_patsy_a@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>

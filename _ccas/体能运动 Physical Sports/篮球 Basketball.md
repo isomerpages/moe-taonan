@@ -5,4 +5,143 @@ description: ""
 third_nav_title: 体能运动 Physical Sports
 variant: tiptap
 ---
-<p><strong>The Basketball (Boys) team</strong>&nbsp;comprises of two teams:</p><ul data-tight="true" class="tight"><li><p>School Team that takes part in National School Games (NSG) competitions</p></li><li><p>Recreational Team that participates in weekly training sessions</p></li></ul><p>Primary 3 and 4 Basketball (Boys) team members will train in development groups before selection to the School Team is conducted at Primary 4.</p><p>School Team members are eligible to participate in the Junior (Primary 4 and 5) and Senior (Primary 6) Divisions of the NSG competitions. Students who are not selected for the School Team have the option of joining the Recreational Team.</p><p>In the Senior Boys Division of the 2019 SPSSC Basketball Championships, the Basketball (Boys) team emerged as Champions in the East Zone competition and finished in third placing in the National competition.</p><p>In the Junior Boys Division, the Basketball (Boys) team participated in the inaugural edition of the competition featuring the new 3v3 format and emerged as Champions in the National Tier 1 competition.</p><p>In Tao Nan School, basketball is more than a sport or a co-curricular activity, it is family. As a family, the&nbsp;<strong>Basketball (Girls) team</strong>&nbsp;develops every player’s skills, knowledge, and understanding of the game within the context of character development, the pursuit of individual and team excellence, and valuing team above self.</p><p>The effectiveness of the Basketball programme is evident in the results attained in the annual National School Games competitions, but more crucially in the character of every Basketball team member.</p><p>In the Senior Girls Division of the 2019 SPSSC Basketball Championships, the Basketball (Girls) team, comprising Primary 6 students, emerged Champions in the East Zone competition and finished in second placing in the National competition.</p><p>In the Junior Girls Division, the Basketball (Girls) team, comprising Primary 4 and 5 students, participated in the inaugural edition of the competition featuring the new 3v3 format and emerged as Champions in the National Tier 1 competition.</p><p>The Basketball (Girls) team continues to give their best every day so as to scale higher peaks of sporting excellence.</p><p><strong><u>2024</u></strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p>NAME OF CCA<br>TEACHER-IN-CHARGE</p></th><th rowspan="1" colspan="1"><p>Email</p></th><th rowspan="1" colspan="1"><p>ROLE</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Syed Ali Omar Bin Syed Halid Alhatas</p></td><td rowspan="1" colspan="1"><p>syed_ali_omar_halid@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p>Overall IC</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Ong Wee Wah [王维华]</p></td><td rowspan="1" colspan="1"><p>ong_wee_wah@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p>Overall 2IC</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Cheah Li Wei [谢俐蔚]</p></td><td rowspan="1" colspan="1"><p>cheah_li_wei@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Chong Zhi Howe Kenneth</p></td><td rowspan="1" colspan="1"><p>chong_zhi_howe_kenneth@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Mohammad Daud Teo B Mohd Anwar</p></td><td rowspan="1" colspan="1"><p>daud_teo@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Ng Lay Kuan</p></td><td rowspan="1" colspan="1"><p>ng_lay_kuan_a@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Pang Say Wak [陈才发]</p></td><td rowspan="1" colspan="1"><p>pang_say_wak@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Terry Foo Siang Yong</p></td><td rowspan="1" colspan="1"><p>foo_siang_yong@moe.edu.sg</p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
+<p>Our Basketball Team is an exciting and dynamic part of Tao Nan School,
+featuring two key teams:</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Team: Competes
+in National School Games (NSG) competitions.</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA Team: Engages in
+weekly training sessions to develop skills and teamwork.</p>
+<p><strong>Development Pathway</strong>
+</p>
+<p>Students in Primary 3 and 4 start their journey in development groups,
+honing their skills before being selected for the School Team in Primary
+4. School Team members then compete in the Junior (Primary 4 and 5) and
+Senior (Primary 6) Divisions of the NSG competitions. Those not selected
+for the School Team are encouraged to continue their growth and passion
+for the sport with the CCA Team.</p>
+<p><strong>More Than Just a Sport</strong>
+</p>
+<p>At Tao Nan School, basketball is more than a sport or a co-curricular
+activity—it’s a family. We focus on developing every player’s skills, knowledge,
+and understanding of the game, while also emphasizing character development,
+individual and team excellence, and placing team above self.</p>
+<p><strong>Achievements and Excellence</strong>
+</p>
+<p>Our Basketball programme's effectiveness is reflected in the outstanding
+results at the annual National School Games competitions and the personal
+growth of each team member. In the 2024 SPSSC Basketball Championships,
+our Senior Boys and Girls teams both finished as national runners-up. Our
+Junior teams are competing in the pool-tier National Games 3V3 format,
+building their competitive edge and applying their training in real games.</p>
+<p><strong><u>2024</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>NAME OF CCA
+<br>TEACHER-IN-CHARGE</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>ROLE</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Syed Ali Omar Bin Syed Halid Alhatas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>syed_ali_omar_halid@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Overall IC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Wee Wah [王维华]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_wee_wah@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Overall 2IC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Cheah Li Wei [谢俐蔚]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>cheah_li_wei@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chong Zhi Howe Kenneth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chong_zhi_howe_kenneth@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Daud Teo B Mohd Anwar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>daud_teo@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Lay Kuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_lay_kuan_a@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Pang Say Wak [陈才发]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>pang_say_wak@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Terry Foo Siang Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>foo_siang_yong@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

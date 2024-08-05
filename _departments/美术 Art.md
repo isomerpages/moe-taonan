@@ -13,7 +13,7 @@ developing visual literacy in our students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Art_2021.jpg">
 </div>
-<h3>1)Key Programmes </h3>
+<h3>1)Key Programmes</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -70,28 +70,6 @@ developing visual literacy in our students.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1) Key Programmes</p>
-<p>Level&nbsp;&nbsp;&nbsp; Key Programmes</p>
-<p>Primary 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Clay Relief and Chinese Craft</p>
-<p>Primary 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Chinese Calligraphy</p>
-<p>Primary 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Chinese Calligraphy (Tang Poetry)</p>
-<p>Primary 4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Clay Animal Figurine</p>
-<p>Primary 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Manga Art &amp; Charcoal Drawing</p>
-<p>Primary 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-3D Pen Printing</p>
-<p>&nbsp;</p>
 <p>2) Partnerships and Programmes</p>
 <p><strong>2023: TNS x OEPS Students’ Art Exhibition</strong>
 </p>
@@ -114,7 +92,13 @@ contribute to society.</p>
 <p>This journey is a significant part of the Primary Art Syllabus and promises
 an immersive and enriching art experience for our P4 students. Through
 this journey, students will have the opportunity to:</p>
-<p>&nbsp;PHOTOS</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="student2" src="/images/Chinese_orchestra.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="student" src="/images/Ukulele.jpg">
+</div>
 <p>&nbsp;</p>
 <p>• Showcase how their art ideas are influenced by the MBL experience;</p>
 <p>• Develop inquiry skills by asking relevant questions about chosen Singapore
@@ -155,16 +139,3 @@ by our students, teachers, parent volunteers, and school leaders!</p>
 <p>1. SYF Art Presentation</p>
 <p>2. Interclass Art Competitions</p>
 <p>3. External Art Competitions</p>
-<p>&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student practice1" src="/images/Chinese_orchestra.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student practice" src="/images/Ukulele.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>

@@ -11,7 +11,10 @@ variant: tiptap
 <br>To provide an enriching environment where students can have fun learning
 music and developing an appreciation for music in various genres and cultures</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/music_vision.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ukulele.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_orchestra.jpg">
 </div>
 <h3>Key Programmes / Activities</h3>
 <table style="minWidth: 50px">
@@ -75,15 +78,5 @@ during curriculum time</p>
 </tbody>
 </table>
 <p><strong><u>Talent Development Programme</u></strong> 
-<br>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Aesthetics Week!</p>
-</li>
-</ol>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="students 2" src="/images/Ukulele___Copy.jpg">
-</div>
+<br>Aesthetics Week!</p>
 <p></p>

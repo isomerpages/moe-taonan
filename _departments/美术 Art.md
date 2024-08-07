@@ -13,7 +13,7 @@ developing visual literacy in our students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_Art_2021.jpg">
 </div>
-<h3>1)Key Programmes</h3>
+<h3>1) Key Programmes</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -70,7 +70,7 @@ developing visual literacy in our students.</p>
 </tr>
 </tbody>
 </table>
-<p>2) Partnerships and Programmes</p>
+<h3>2) Partnerships and Programmes</h3>
 <p><strong>2023: TNS x OEPS Students’ Art Exhibition</strong>
 </p>
 <p>The 2023 TNS X OEPS Students’ Art Exhibition reinforces the collaboration
@@ -86,27 +86,28 @@ Centre as the designated beneficiary. The exhibition took place at i12
 Katong from 28 October 2023 to 9 November 2023, and captivated our viewers
 as they celebrated how Art is able to bridge gaps, promote dialogue, and
 contribute to society.</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/WhatsApp_Image_2023_10_27_at_19_14_30.jpg">
+</div>
 <p><strong>P4 Cohort Museum-Based Learning (MBL) Journey to National Gallery Singapore (NGS)</strong>
-</p>
-<p>This journey is a significant part of the Primary Art Syllabus and promises
+<br>This journey is a significant part of the Primary Art Syllabus and promises
 an immersive and enriching art experience for our P4 students. Through
 this journey, students will have the opportunity to:</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student2" src="/images/Chinese_orchestra.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student" src="/images/Ukulele.jpg">
-</div>
-<p>&nbsp;</p>
-<p>• Showcase how their art ideas are influenced by the MBL experience;</p>
-<p>• Develop inquiry skills by asking relevant questions about chosen Singapore
+<ul data-tight="true" class="tight">
+<li>
+<p>Showcase how their art ideas are influenced by the MBL experience;</p>
+</li>
+<li>
+<p>Develop inquiry skills by asking relevant questions about chosen Singapore
 artworks;</p>
-<p>• Remember the titles and stories behind each selected artwork; and</p>
-<p>• Understand how artists use their creations to narrate stories about
-Singapore.</p>
-<p>&nbsp;</p>
+</li>
+<li>
+<p>Remember the titles and stories behind each selected artwork; and</p>
+</li>
+<li>
+<p>Understand how artists use their creations to narrate stories about Singapore.</p>
+</li>
+</ul>
 <p><strong>Aesthetics Week 美艺周 2024</strong>
 </p>
 <p>In our continued efforts to ensure all Taonanites have a holistic educational
@@ -119,23 +120,27 @@ through Art and Music;</p>
 <p>•&nbsp;&nbsp; having the opportunity to showcase the students’ artistic
 and musical skills and talents by creating, performing, and/or displaying
 their creations in school to foster confidence and self-expression.</p>
-<p>&nbsp;</p>
 <p>Students are treated to an exciting array of activities to facilitate
 their discovery, and booths are set-up to showcase students’ work of several
 art forms, performances, cultures and media.</p>
-<p>&nbsp;</p>
 <p>Past activities have included Chinese Clay Animal Making, 3D Kampung House
 painting, Henna bookmark designing, Chinese Blow Painting, Rangoli making,
 Pebble Painting by our Art Explorers (AE), an introduction to Tongue Drums,
 and Caricature Art during assembly.</p>
-<p>&nbsp;</p>
 <p>The Roving Art Truck, courtesy of National Gallery of Singapore, also
 made a grand appearance and introduced our students to many exciting activities,
 local artworks and artists! We also have our very own Buskers by the Bay
 by our students, teachers, parent volunteers, and school leaders!</p>
-<p>&nbsp;</p>
-<p><strong>3) Talent Development Programme</strong>
-</p>
-<p>1. SYF Art Presentation</p>
-<p>2. Interclass Art Competitions</p>
-<p>3. External Art Competitions</p>
+<h3>3) Talent Development Programme</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p>SYF Art Presentation</p>
+</li>
+<li>
+<p>Interclass Art Competitions</p>
+</li>
+<li>
+<p>External Art Competitions</p>
+</li>
+</ol>
+<p></p>

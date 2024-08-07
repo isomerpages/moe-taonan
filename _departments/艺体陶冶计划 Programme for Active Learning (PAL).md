@@ -33,10 +33,10 @@ in the 4 domains:
 school, and facilitates holistic and well-rounded development of the students.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pal_chineseopera" src="/images/Departments/PAL/Chinese_opera.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="pal_visualarts" src="/images/Departments/PAL/PAL_Visual_Arts.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pal_visualarts" src="/images/Departments/PAL/PAL_Visual_Arts.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="PAL_OE" src="/images/Departments/PAL/PAL_OE.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="pal_sg" src="/images/Departments/PAL/PAL_S_G.jpg">

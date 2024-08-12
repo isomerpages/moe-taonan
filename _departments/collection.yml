@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - 英文 English/Our Opinions.md
       - 英文 English/.keep
       - 英文 English/英文 English.md
       - 英文 English/Sunny Side Up.md

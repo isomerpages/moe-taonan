@@ -39,6 +39,11 @@ and nation</p>
 <p>To develop strong moral values and qualities for responsible leadership</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GE1.jpg">
+</div>
+<p></p>
 <h3>Holistic Enrichment Programme (HEP)</h3>
 <p>HEP is a 3- year programme for all Gifted Education students enrolled
 in Tao Nan School from 2021 onwards, to provide them with a unique, holistic
@@ -53,8 +58,7 @@ and disadvantaged groups in Singapore, and make a difference through service-lea
 and/or advocacy;
 <br>3. World of Technology - where students learn to problem solve and innovate
 through learning of computer coding and Artificial Intelligence.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GEP.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GE2.jpg">
 </div>
 <p></p>

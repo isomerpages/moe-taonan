@@ -40,11 +40,8 @@ and nation</p>
 </li>
 </ul>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -55,18 +52,39 @@ and nation</p>
 <img style="width: 100%" height="auto" width="100%" alt="choralrecitationshowcase" src="/images/Choral_Recitation_Showcase.jpg">
 </div>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choral Recitation Showcase</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="irslesson" src="/images/IRS_Lesson.jpg">
 </div>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IRS Lesson</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="mathematicslesson" src="/images/Mathematics_Lesson.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="mathematicslesson" src="/images/Mathematics_Lesson.jpg">
 </div>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics Lesson</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -76,23 +94,16 @@ and nation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Choral Recitation Showcase</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>IRS Lesson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics Lesson</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Science Lesson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GE3.png">
-</div>
 <h3>Holistic Enrichment Programme (HEP)</h3>
 <p>HEP is a 3- year programme for all Gifted Education students enrolled
 in Tao Nan School from 2021 onwards, to provide them with a unique, holistic

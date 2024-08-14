@@ -49,8 +49,8 @@ Monitor)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School-wide ambassadorship/ Service appointments
-<br>(NE Ambassador, Green Activist, Health Ranger, Media Leader, Cyber Wellness
-Ambassador and Peer Support Leader)</p>
+<br>(NE Ambassador, Green Activist, Media Leader, Cyber Wellness Ambassador
+and Peer Support Leader)</p>
 </td>
 </tr>
 <tr>
@@ -100,32 +100,37 @@ school;
 <br>&nbsp;d)&nbsp;&nbsp;&nbsp; Supporting in major school functions; and
 <br>&nbsp;e)&nbsp;&nbsp;&nbsp; Participating in Project Committees to serve
 the school</p>
-<p>&nbsp;The 4 Project Committees and their scope of duties are:</p>
+<p>&nbsp;</p>
+<p><strong>Prefects’ Investiture</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prefect2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EXCO_2024.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/prefect3.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prefects_Investiture.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sharing_programmes_managed_by_Prefects.jpg">
+</div>
+<p></p>
+<p>The 4 Project Committees and their scope of duties are:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prefect2.png">
 </div>
 <p><strong>Morning Sharing by Prefects</strong>
 <br>Prefects shared their learning experiences with peers to motivate them
 to live the school core values, to build their resilience and to be active
 members who contribute to the community.</p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/prefect4.png">
-</div>
-<p><strong>Good Stories from Taonanites</strong>
-<br>Prefects mentored and supported selected P4 students to share their good
-stories with peers during school assemblies.</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/prefect5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Morning_Sharing.jpg">
 </div>
 <p><strong>Appreciation Day for Non-Teaching Staff</strong>
 <br>Students came together as a school to show appreciation to the non-teaching
 staff in Tao Nan School.</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/prefect6.png">
-</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>‘TNS Wishing Well’ – A Student Suggestion Scheme</strong>
 <br>Prefects prepared promotional clips to encourage students to give suggestions
 to help improve the school environment and student activities.</p>

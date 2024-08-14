@@ -106,12 +106,19 @@ the school</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EXCO_2024.jpg">
 </div>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prefects_Investiture.jpg">
 </div>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sharing_programmes_managed_by_Prefects.jpg">
 </div>
+<p></p>
 <p></p>
 <p>The 4 Project Committees and their scope of duties are:</p>
 <div class="isomer-image-wrapper">
@@ -127,10 +134,9 @@ members who contribute to the community.</p>
 <p><strong>Appreciation Day for Non-Teaching Staff</strong>
 <br>Students came together as a school to show appreciation to the non-teaching
 staff in Tao Nan School.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Appreciation_Day_1.png">
+</div>
 <p><strong>‘TNS Wishing Well’ – A Student Suggestion Scheme</strong>
 <br>Prefects prepared promotional clips to encourage students to give suggestions
 to help improve the school environment and student activities.</p>

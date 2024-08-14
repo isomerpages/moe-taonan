@@ -140,17 +140,25 @@ staff in Tao Nan School.</p>
 <p><strong>‘TNS Wishing Well’ – A Student Suggestion Scheme</strong>
 <br>Prefects prepared promotional clips to encourage students to give suggestions
 to help improve the school environment and student activities.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/prefect7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wishing_Well_1.png">
 </div>
-<p><strong>My School, My Home Project – Managing Stress, the Right Way in 2022</strong>
-<br>Prefects planned interesting recess activities to encourage students to
-learn to manage their stress using positive means.</p>
+<p><strong>My School, My Home Project 2024 – Circle of Friends</strong>
+<br>Prefects worked together with Peer Support Leaders to coordinate and plan
+interesting recess activities to encourage their peers to make new friends.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/prefect8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Implementing__My_School__My_Home__Project__2_.jpg">
 </div>
+<p></p>
 <p><strong>TNS Innovates</strong>
 <br>Prefects design activities to engage students at Innovation Oasis during
 recess.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Innovates.png">
+</div>
 <p>&nbsp;</p>
 <p></p>

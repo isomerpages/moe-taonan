@@ -101,10 +101,12 @@ and enriched learning experience. The programme consists of 3 modules:
 <br>1. Bilingualism and Biculturalism - where students learn to appreciate
 the literature, culture and contemporary affairs of both the western countries
 and China;
+<br>
 <br>2. Social Responsibility - where students gain awareness of societal and
 environmental issues such as social-economic stereotypes, global warming
 and disadvantaged groups in Singapore, and make a difference through service-learning
 and/or advocacy;
+<br>
 <br>3. World of Technology - where students learn to problem solve and innovate
 through learning of computer coding and Artificial Intelligence.</p>
 <table style="minWidth: 75px">

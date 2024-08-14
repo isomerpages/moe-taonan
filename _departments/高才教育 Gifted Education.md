@@ -39,7 +39,6 @@ and nation</p>
 <p>To develop strong moral values and qualities for responsible leadership</p>
 </li>
 </ul>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>

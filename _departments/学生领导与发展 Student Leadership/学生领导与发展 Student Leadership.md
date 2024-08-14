@@ -100,8 +100,7 @@ school;
 <br>&nbsp;d)&nbsp;&nbsp;&nbsp; Supporting in major school functions; and
 <br>&nbsp;e)&nbsp;&nbsp;&nbsp; Participating in Project Committees to serve
 the school</p>
-<p>&nbsp;</p>
-<p><strong>Prefects’ Investiture</strong>
+<p>&nbsp;<strong>Prefects’ Investiture</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EXCO_2024.jpg">
@@ -155,8 +154,6 @@ interesting recess activities to encourage their peers to make new friends.</p>
 <p><strong>TNS Innovates</strong>
 <br>Prefects design activities to engage students at Innovation Oasis during
 recess.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Innovates.png">
 </div>

@@ -40,7 +40,56 @@ and nation</p>
 </li>
 </ul>
 <p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="choralrecitationshowcase" src="/images/Choral_Recitation_Showcase.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="irslesson" src="/images/IRS_Lesson.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="mathematicslesson" src="/images/Mathematics_Lesson.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="sciencelesson" src="/images/Science_Lesson.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choral Recitation Showcase</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IRS Lesson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics Lesson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science Lesson</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GE3.png">
 </div>
@@ -58,10 +107,46 @@ and disadvantaged groups in Singapore, and make a difference through service-lea
 and/or advocacy;
 <br>3. World of Technology - where students learn to problem solve and innovate
 through learning of computer coding and Artificial Intelligence.</p>
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GE4.png">
+<img style="width: 100%" height="auto" width="100%" alt="bilingualismandbiculturalism" src="/images/Bilingualism_and_Biculturalism.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="computerenrichmentprogramme" src="/images/Computer_Enrichment_Programme.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="socialresponsibility" src="/images/Social_Responsibility.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bilingualism and Biculturalism</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Enrichment Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Responsibility</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <p></p>

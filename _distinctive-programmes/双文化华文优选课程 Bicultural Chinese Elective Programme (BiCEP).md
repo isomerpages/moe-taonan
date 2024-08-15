@@ -2,6 +2,7 @@
 title: 双文化华文优选课程 Bicultural Chinese Elective Programme (BiCEP)
 permalink: /distinctive-programmes/bicultural-chinese-elective-programme-bicep/
 description: ""
+variant: markdown
 ---
 2007年，新加坡福建会馆响应政府的教育方针，首开先例为属下五所小学的小四生开办一项为期3年的双文化华文优选课程（BiCEP）。这项课程由属校资深华文老师精心设计，并获得专家学者的咨询与指导，目的在培养一批双语兼通，对华族文化有深刻认识的学生。  
 
@@ -27,4 +28,4 @@ P6 - Graduation Ceremony (SHHK 5 Affiliated Schools)
 
 **Briefing Slides**
 
-*  [2023 BiCEP Briefing for 2024 Intake](/files/2023%20bicep%20intake%20parent%20briefing%20sch%20web%2020092023.pdf)
+*  [2024 BiCEP Briefing for 2025 Intake](/files/Distinctive%20Programmes/2025_Intake_BiCEP_Briefing_Sch_Web_____Compatibility_Mode.pdf)

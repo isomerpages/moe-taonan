@@ -38,17 +38,6 @@ learn to explain their works with confidence.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Hui Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_hui_hoon@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Overall IC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Vaswani Deepa Hiro</p>
 </td>
 <td rowspan="1" colspan="1">

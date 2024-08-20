@@ -13,6 +13,7 @@ music and developing an appreciation for music in various genres and cultures</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ukulele.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_orchestra.jpg">
 </div>

@@ -4,34 +4,29 @@ permalink: /departments/programme-for-active-learning-pal/
 description: ""
 variant: tiptap
 ---
-<h3>Vision / Mission</h3>
-<p>PAL provides a broad exposure of experiences to our P1 and P2 students
-in the 4 domains:
-<br>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Sport &amp; Games
-<br>
-</p>
-</li>
-<li>
-<p>Outdoor Education
-<br>
-</p>
-</li>
-<li>
-<p>Performing Arts
-<br>
-</p>
-</li>
-<li>
-<p>Visual Arts</p>
-</li>
-</ol>
-<p>It offers a balance between the academic and non-academic areas in the
-school, and facilitates holistic and well-rounded development of the students.</p>
+<h3>What is PAL?</h3>
+<p>PAL is a key component of the curriculum for all Primary 1 and 2 students.
+The program offers practical and experiential learning in four areas:</p>
+<p>1.&nbsp;&nbsp;&nbsp; Sports &amp; Games;</p>
+<p>2.&nbsp;&nbsp;&nbsp; Outdoor Education;</p>
+<p>3.&nbsp;&nbsp;&nbsp; Visual Arts; and</p>
+<p>4.&nbsp;&nbsp;&nbsp; Performing Arts.</p>
+<p>PAL allows students to explore new interests, build character, and develop
+social-emotional skills.&nbsp;</p>
+<h3>PAL Vision/Mission:</h3>
 <p></p>
+<p>PAL aims to place greater focus on non-academic programs for all Primary
+1 and 2 students by offering diverse and enjoyable learning experiences
+in the four domains. PAL lessons also provide an opportunity for students
+and teachers to strengthen Teacher-Student Relations (TSR). This is achieved
+through effective facilitation of sharing feelings and discussions on self-awareness
+and relationship management through the O.R.I.D collaboration tool.</p>
+<h3>How does PAL look like in Tao Nan School?</h3>
+<p>At TNS, all Primary 1 and 2 students participate in Programme for Active
+Learning (PAL) modules during school hours. These lesson packages are distributed
+over two years and aim to give students a broad exposure to the four domains,
+as well as a platform for learning and adopting school values and developing
+social-emotional skills.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="pal_visualarts" src="/images/Departments/PAL/PAL_Visual_Arts.jpg">
 </div>

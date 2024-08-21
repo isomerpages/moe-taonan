@@ -22,6 +22,16 @@ developing visual literacy in our students.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Key Programmes</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -143,4 +153,8 @@ by our students, teachers, parent volunteers, and school leaders!</p>
 <p>External Art Competitions</p>
 </li>
 </ol>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>

@@ -2,5 +2,6 @@
 title: Announcement
 permalink: /announcement/
 description: ""
+variant: markdown
 ---
-Currently, there are no announcement.
+![](/images/TEACHERS__DAY_2024.jpg)

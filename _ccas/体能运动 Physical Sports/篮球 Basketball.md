@@ -5,6 +5,13 @@ description: ""
 third_nav_title: 体能运动 Physical Sports
 variant: tiptap
 ---
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Our Basketball Team is an exciting and dynamic part of Tao Nan School,
 featuring two key teams:</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Team: Competes
@@ -33,6 +40,10 @@ growth of each team member. In the 2024 SPSSC Basketball Championships,
 our Senior Boys and Girls teams both finished as national runners-up. Our
 Junior teams are competing in the pool-tier National Games 3V3 format,
 building their competitive edge and applying their training in real games.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>2024</u></strong>
 </p>
 <table style="minWidth: 75px">

@@ -5,8 +5,7 @@ description: ""
 third_nav_title: 制服团体 Uniformed Groups
 variant: tiptap
 ---
-<p><strong>41J – Tao Nan School Company</strong>
-</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>

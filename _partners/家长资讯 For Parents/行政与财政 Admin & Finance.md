@@ -17,7 +17,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>2025 Waiting List Form (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2025-waiting-list</a>)</p>
+<p><a href="https://go.gov.sg/2025-waiting-list" rel="noopener nofollow" target="_blank">2025 Waiting List Form</a>
+</p>
 </li>
 </ul>
 <h3>Finance</h3>

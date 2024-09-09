@@ -49,18 +49,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>iMTL Portal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Internet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://imtl.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://imtl.moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Microsoft Office 365</p>
 </td>
 <td rowspan="1" colspan="1">

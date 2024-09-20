@@ -780,10 +780,10 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Chee Pey Yi</p>
+<p>Mdm Chee Pey Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Special Programme 1 (SP) (Chinese Culture) (Internal)</p>
+<p>SH - Special Assistance Plan (Internal)</p>
 </td>
 </tr>
 <tr>

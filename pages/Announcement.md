@@ -2,6 +2,6 @@
 title: Announcement
 permalink: /announcement/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-![](/images/TEACHERS__DAY_2024.jpg)
+<p></p>

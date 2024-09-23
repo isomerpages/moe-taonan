@@ -1,5 +1,5 @@
 collections:
-  past-achievements:
+  highlights:
     output: true
     order:
       - 2023/CCA (Individual and Team).md

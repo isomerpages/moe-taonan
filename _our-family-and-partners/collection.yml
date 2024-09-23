@@ -2,7 +2,6 @@ collections:
   our-family-and-partners:
     output: true
     order:
-      - 教育伙伴 Partners/.keep
       - 学校执导委员会 School Steering Committee.md
       - 教师领导 Teacher Leaders.md
       - 在职教员 Teaching Staff/.keep
@@ -15,3 +14,4 @@ collections:
       - 在职教员 Teaching Staff/Primary 6.md
       - 校内辅导员与特殊需要指导员 School Counsellors and SEN Officers.md
       - 执行与行政人员 Executive and Administrative Staff.md
+      - 教育伙伴 Partners/.keep

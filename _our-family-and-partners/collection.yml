@@ -2,6 +2,7 @@ collections:
   our-family-and-partners:
     output: true
     order:
+      - 教育伙伴 Partners/.keep
       - 学校执导委员会 School Steering Committee.md
       - 教师领导 Teacher Leaders.md
       - 在职教员 Teaching Staff/.keep

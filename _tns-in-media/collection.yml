@@ -2,7 +2,6 @@ collections:
   tns-in-media:
     output: true
     order:
-      - 2023 National Vlog Competition for Singapore Primary School Students.md
       - Commemorating Racial Harmony Day 2023.md
       - Our P5 Students Topped the Singapore Amazing Flying Machine Competition
         2023.md

@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - 家长会 Parent Support Group.md
       - 校友会 Alumni Association.md
       - 服务供应商 School Service Providers/.keep
       - 服务供应商 School Service Providers/服务供应商 School Service Providers.md

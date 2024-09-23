@@ -2,7 +2,6 @@ collections:
   tns-in-media:
     output: true
     order:
-      - Tribute to Teachers.md
       - Interview with R J Palacio, author of the book ‘Wonder’.md
       - Girl Guides (Brownies).md
       - Assembly Programme about Hari Raya Haji.md

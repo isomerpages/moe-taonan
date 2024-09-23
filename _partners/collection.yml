@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - 校友会 Alumni Association.md
       - 服务供应商 School Service Providers/.keep
       - 服务供应商 School Service Providers/服务供应商 School Service Providers.md
       - 服务供应商 School Service Providers/校车服务 School Bus Service.md

@@ -1,5 +1,5 @@
 collections:
-  achievements:
+  highlights:
     output: true
     order:
       - 学校殊荣 School Awards.md

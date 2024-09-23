@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - 食堂摊位申请 School Canteen Advertisement.md
       - 校车服务 School Bus Service.md
       - 服务供应商 School Service Providers.md
       - 服务供应商 School Service Providers/.keep

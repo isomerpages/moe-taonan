@@ -2,6 +2,7 @@
 title: 2023 National Vlog Competition for Singapore Primary School Students
 permalink: /tns-in-media/2023-national-vlog-competition-for-singapore-primary-school-students/
 description: ""
+third_nav_title: 新闻动态 TNS in Media
 ---
 ### 2023 National Vlog Competition for Singapore Primary School Students
 

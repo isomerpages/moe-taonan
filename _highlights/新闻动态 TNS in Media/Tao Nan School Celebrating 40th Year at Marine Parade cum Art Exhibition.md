@@ -2,6 +2,7 @@
 title: Tao Nan School Celebrating 40th Year at Marine Parade cum Art Exhibition
 permalink: /tns-in-media/tao-nan-school-celebrating-40th-year-at-marine-parade-cum-art-exhibition/
 description: ""
+third_nav_title: 新闻动态 TNS in Media
 ---
 ### Tao Nan School Celebrating 40th Year @ Marine Parade (1982-2022) cum Art Exhibition
 

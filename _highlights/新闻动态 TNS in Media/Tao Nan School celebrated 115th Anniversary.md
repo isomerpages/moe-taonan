@@ -2,6 +2,7 @@
 title: Tao Nan School celebrated 115th Anniversary
 permalink: /tns-in-media/tao-nan-school-115th-anniversary/
 description: ""
+third_nav_title: 新闻动态 TNS in Media
 ---
 ### Tao Nan School celebrated 115th Anniversary
 

@@ -2,8 +2,8 @@
 title: 服务供应商 School Service Providers
 permalink: /partners/for-parents/school-service-providers/
 description: ""
-third_nav_title: 服务供应商 School Service Providers
 variant: tiptap
+third_nav_title: 服务供应商 School Service Providers
 ---
 <table style="minWidth: 100px">
 <colgroup>

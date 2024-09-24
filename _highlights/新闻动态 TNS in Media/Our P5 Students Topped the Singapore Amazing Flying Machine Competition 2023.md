@@ -2,6 +2,7 @@
 title: Our P5 Students Topped the Singapore Amazing Flying Machine Competition 2023
 permalink: /tns-in-media/our-p5-students-topped-the-singapore-amazing-flying-machine-competition-2023/
 description: ""
+third_nav_title: 新闻动态 TNS in Media
 ---
 ### Our P5 Students Topped the Singapore Amazing Flying Machine Competition 2023
 

@@ -3,6 +3,7 @@ title: Introducing Tao Nan School Dragon Dance Troupe
 permalink: /introducing-tao-nan-school-dragon-dance-troupe/
 variant: tiptap
 description: ""
+third_nav_title: 新闻动态 TNS in Media
 ---
 <h3>Introducing Tao Nan School Dragon Dance Troupe </h3>
 <h4>道南学校舞龙团</h4>

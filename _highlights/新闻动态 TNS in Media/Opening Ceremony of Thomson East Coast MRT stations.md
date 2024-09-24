@@ -3,6 +3,7 @@ title: Opening Ceremony of Thomson East Coast MRT stations
 permalink: /opening-ceremony-of-thomson-east-coast-mrt-stations/
 variant: tiptap
 description: ""
+third_nav_title: 新闻动态 TNS in Media
 ---
 <h3>Opening Ceremony of Thomson-East Coast MRT stations</h3>
 <p></p>

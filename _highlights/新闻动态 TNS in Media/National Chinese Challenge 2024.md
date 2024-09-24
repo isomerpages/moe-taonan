@@ -3,6 +3,7 @@ title: National Chinese Challenge 2024
 permalink: /national-chinese-challenge-2024/
 variant: tiptap
 description: ""
+third_nav_title: 新闻动态 TNS in Media
 ---
 <h3>National Chinese Challenge 2024</h3>
 <h4>华文大比拼 道南学校夺亚军</h4>

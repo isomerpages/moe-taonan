@@ -59,7 +59,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Parenting for Wellness 14Oct24" src="/images/Screenshot_2024_10_14_082924.png">
+<img style="width: 35%;" height="auto" width="100%" alt="Parenting for Wellness 14Oct24" src="/images/Screenshot_2024_10_14_082924.png">
 </div>
 <p><a href="/files/pfw_toolbox_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Parenting for Wellness</a>
 </p>

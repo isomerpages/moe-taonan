@@ -2,23 +2,45 @@
 title: 校友会 Alumni Association
 permalink: /partners/alumni-association/
 description: ""
+variant: tiptap
 ---
-<img src="/images/img_alumni.jpeg" style="width:80%">
-
-[https://www.taonanalumni.org/index.html](https://www.taonanalumni.org/index.html) <br>
-Alumni Application Form: [https://www.taonanalumni.org/MemberJoin.aspx](https://www.taonanalumni.org/MemberJoin.aspx) 
-
-![](/images/img_alumniPhoto.png)
-
-### 展望与愿景
-
-* 承传历史传统丶弘扬文化艺术丶调整步伐与时并进。
-* 成为有特色的学缘团体，深具开创性和挑战性，以吸呐各个领域的毕业生。  
-* 不断茁壮强大，为母校作出贡献。
-
-### Mission
-* To foster, maintain and support the goals and vision of our alma mater.
-* To develop in our students a deeper understanding of the Chinese language and culture.
-
-### Vision
-* To promote in our alumni a love of and a lifelong relationship with our alma mater through a wealth of activities and programmes.
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/img_alumni.jpeg">
+</div>
+<p><a href="https://www.taonanalumni.org/index.html" rel="noopener noreferrer nofollow" target="_blank">https://www.taonanalumni.org/index.html</a> 
+<br>Alumni Application Form: <a href="https://www.taonanalumni.org/MemberJoin.aspx" rel="noopener noreferrer nofollow" target="_blank">https://www.taonanalumni.org/MemberJoin.aspx</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lye Ching - email dated 15 oct 24" src="/images/alumni_association.jpg">
+</div>
+<h3>展望与愿景</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>承传历史传统丶弘扬文化艺术丶调整步伐与时并进。</p>
+</li>
+<li>
+<p>成为有特色的学缘团体，深具开创性和挑战性，以吸呐各个领域的毕业生。</p>
+</li>
+<li>
+<p>不断茁壮强大，为母校作出贡献。</p>
+</li>
+</ul>
+<h3>Mission</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>To foster, maintain and support the goals and vision of our alma mater.</p>
+</li>
+<li>
+<p>To develop in our students a deeper understanding of the Chinese language
+and culture.</p>
+</li>
+</ul>
+<h3>Vision</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>To promote in our alumni a love of and a lifelong relationship with our
+alma mater through a wealth of activities and programmes.</p>
+</li>
+</ul>
+<p></p>

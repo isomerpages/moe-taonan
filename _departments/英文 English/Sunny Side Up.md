@@ -30,7 +30,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sunny_Side_Up_2024_QR_.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sunny_Side_Up_2024_QR_.png">
 </div>
 </th>
 </tr>

@@ -57,8 +57,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P6_BICEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P6 BiCEP B</a>
-<a href="/files/P6_BICEP.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Partners/For%20Parents/2024_P6_BICEP.pdf" rel="noopener noreferrer nofollow" target="_blank">ooklist</a>
+<p><a href="/files/Partners/For%20Parents/2024_P6_BICEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P6 BiCEP Booklist</a>
 </p>
 </li>
 <li>

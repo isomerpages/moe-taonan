@@ -8,8 +8,9 @@ variant: tiptap
 <h3>A magazine by the English Special Programme</h3>
 <p></p>
 <h4>2024 Edition</h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -22,6 +23,9 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p>Volume 4</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -30,7 +34,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sunny_Side_Up_2024_QR_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sunny_Side_Up_2024_QR_.png">
 </div>
 </th>
 </tr>
@@ -47,8 +51,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

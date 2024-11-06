@@ -62,6 +62,9 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sunny_Side_Up_poster.png">
+</div>
 <p></p>
 <p></p>
 <h4>2023 Edition</h4>

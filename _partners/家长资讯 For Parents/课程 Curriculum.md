@@ -21,27 +21,27 @@ variant: tiptap
 <p>Click to download:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P1 Booklist</a>
+<p><a href="/files/Partners/For%20Parents/2024_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P2 Booklist</a>
+<p><a href="/files/Partners/For%20Parents/2024_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P2 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P3 Booklist</a>
+<p><a href="/files/Partners/For%20Parents/2024_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P3 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Booklist</a>
+<p><a href="/files/Partners/For%20Parents/2024_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P4 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 Booklist</a>
+<p><a href="/files/Partners/For%20Parents/2024_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Booklist</a>
+<p><a href="/files/Partners/For%20Parents/2024_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P6 Booklist</a>
 </p>
 </li>
 <li>
@@ -293,7 +293,11 @@ variant: tiptap
 </li>
 </ul>
 <hr>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -318,7 +322,11 @@ lessons</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

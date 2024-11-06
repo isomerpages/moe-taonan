@@ -49,27 +49,28 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P4_BICEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 BiCEP Booklist</a>
+<p><a href="/files/Partners/For%20Parents/2024_P4_BICEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P4 BiCEP Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P5_BICEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 BiCEP Booklist</a>
+<p><a href="/files/Partners/For%20Parents/2024_P5_BICEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 BiCEP Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P6_BICEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 BiCEP Booklist</a>
+<p><a href="/files/Partners/For%20Parents/2024_P6_BICEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P6 BiCEP B</a>
+<a href="/files/P6_BICEP.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Partners/For%20Parents/2024_P6_BICEP.pdf" rel="noopener noreferrer nofollow" target="_blank">ooklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P4_GEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 GEP Booklist</a>
+<p><a href="/files/Partners/For%20Parents/2024_P4_GEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P4 GEP Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024P5_GEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P5 GEP Booklist</a>
+<p><a href="/files/Partners/For%20Parents/2024P5_GEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 GEP Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P6_GEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 GEP Booklist</a>
+<p><a href="/files/Partners/For%20Parents/2024_P6_GEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P6 GEP Booklist</a>
 </p>
 </li>
 </ul>

@@ -25,51 +25,51 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P2 Booklist</a>
+<p><a href="/files/P2.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P2 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P3 Booklist</a>
+<p><a href="/files/P3.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P3 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P4 Booklist</a>
+<p><a href="/files/P4.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P4 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P5.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 Booklist</a>
+<p><a href="/files/P5.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P6 Booklist</a>
+<p><a href="/files/P6.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P6 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P6_Foundation.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P6 Foundation Booklist</a>
+<p><a href="/files/P6_Foundation.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P6 Foundation Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P4_BICEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P4 BiCEP Booklist</a>
+<p><a href="/files/P4_BICEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P4 BiCEP Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P5_BICEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 BiCEP Booklist</a>
+<p><a href="/files/P5_BICEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 BiCEP Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P6_BICEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P6 BiCEP Booklist</a>
+<p><a href="/files/P6_BICEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P6 BiCEP Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P4_GEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P4 GEP Booklist</a>
+<p><a href="/files/P4_GEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P4 GEP Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024P5_GEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 GEP Booklist</a>
+<p><a href="/files/P5_GEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P5 GEP Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P6_GEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P6 GEP Booklist</a>
+<p><a href="/files/P6_GEP.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P6 GEP Booklist</a>
 </p>
 </li>
 </ul>

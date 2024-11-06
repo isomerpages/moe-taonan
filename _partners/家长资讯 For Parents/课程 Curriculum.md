@@ -45,7 +45,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P6_Foundation.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Foundation Booklist</a>
+<p><a href="/files/Partners/For%20Parents/2024_P6_Foundation.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P6 Foundation Booklist</a>
 </p>
 </li>
 <li>

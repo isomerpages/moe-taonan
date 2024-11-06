@@ -21,7 +21,7 @@ variant: tiptap
 <p>Click to download:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Partners/For%20Parents/2024_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Booklist</a>
+<p><a href="/files/P1.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Booklist</a>
 </p>
 </li>
 <li>

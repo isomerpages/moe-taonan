@@ -8,16 +8,16 @@ variant: tiptap
 <img style="width:80%" height="auto" width="100%" src="/images/img_alumni.jpeg">
 </div>
 <p>Alumni&nbsp;Association website:&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.taonanalumni.org/index.html</a>
+<p><a href="https://www.taonanalumni.org/index.html" rel="noopener noreferrer nofollow" target="_blank">https://www.taonanalumni.org/index.html</a>
 </p>
 <p>Alumni&nbsp;Association&nbsp;Instagram:&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/taonan_alumni?igsh=a2gyMzYxaWY1a3Ux</a>
+<p><a href="https://www.instagram.com/taonan_alumni?igsh=a2gyMzYxaWY1a3Ux" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/taonan_alumni?igsh=a2gyMzYxaWY1a3Ux</a>
 </p>
 <p>Alumni Association Application Form (aged 21 years old &amp; above):&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.taonanalumni.org/MemberJoin.aspx</a>
+<p><a href="https://www.taonanalumni.org/MemberJoin.aspx" rel="noopener noreferrer nofollow" target="_blank">https://www.taonanalumni.org/MemberJoin.aspx</a>
 </p>
 <p>Tao Nan Alumni (aged 20 years old &amp; below):&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/673ea3e7e0ad549b8e54c88f</a>
+<p><a href="https://form.gov.sg/673ea3e7e0ad549b8e54c88f" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/673ea3e7e0ad549b8e54c88f</a>
 </p>
 <p></p>
 <p></p>

@@ -2,6 +2,7 @@
 title: 数学 Mathematics
 permalink: /departments/mathematics/
 description: ""
+variant: markdown
 ---
 ### Vision / Mission
 
@@ -30,7 +31,7 @@ _(Source: Primary Mathematics Teaching and Learning Syllabus, 2013)_
 
 Students will have opportunities to work independently or collaborate with their peers and engage in mathematical thinking through resources such as puzzles, logic games and stories.
 
-**<u>Mathematics Special Programme (E2K Mathematics and Mathematical Olympiad)</u>** <br>
+**<u>Mathematics Special Programme (E2K Mathematics)</u>** <br>
 
 The E2K Mathematics Programme aims to develop students' mathematical reasoning skills and deepens their conceptual understanding through an inquiry approach.
 

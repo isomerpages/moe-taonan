@@ -7,6 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/img_alumni.jpeg">
 </div>
+<p>Alumni&nbsp;Association website:&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.taonanalumni.org/index.html</a>
 </p>
 <p>Alumni&nbsp;Association&nbsp;Instagram:&nbsp;</p>

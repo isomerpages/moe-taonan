@@ -221,13 +221,16 @@ description: ""
 <br>(Percussion)
 <br>(Pipa/ Liuqin / Ruan)
 <br>(Sheng / Souna)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Orchestra
-<br>(Combined Practice)
+<p></p>
+<p>(Combined Practice)
 <br>(Cello/ D. Bass)
 <br>(Erhu)
 <br>(Yang Qin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
 </td>
 </tr>
 <tr>

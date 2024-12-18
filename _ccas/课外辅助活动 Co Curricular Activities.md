@@ -36,14 +36,17 @@ the school's values while serving as role models.</p>
 <p>To give students the needed time to gain knowledge and master skills in
 their CCAs, as well as develop friendships, teamwork and leadership competencies
 among peers within the CCA, requests for changing CCAs will only be considered
-at the end of each semester. This will take effect from Term 2 (2024).
+at the end of each term.&nbsp;
 <br>
 </p>
 </li>
 </ol>
 <p><strong><u>CO-CURRICULAR ACTIVITIES (CCA) REQUEST FORM</u></strong>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

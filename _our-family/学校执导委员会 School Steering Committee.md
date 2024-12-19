@@ -59,19 +59,19 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>邹佳珉</p>
+<p>符美彬</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>副校长</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">agnes_chow@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">foo_mei_ping@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Agnes Chow Chia Min</p>
+<p>Mrs Gan-Foo Mei Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal (EO)</p>
@@ -80,6 +80,29 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>陈德昌</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>副校长</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chan_tuck_cheong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Martin Chan Tuck Cheong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (EO)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>黄慧敏</p>
@@ -102,7 +125,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>4</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>张彩霞</p>

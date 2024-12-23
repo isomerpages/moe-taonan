@@ -299,7 +299,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>（级主任2 - 内部）</p>
+<p>（级主任2）</p>
 </td>
 </tr>
 <tr>
@@ -307,7 +307,7 @@ Head (LH/SH)</p>
 <p>Mrs Pang Shi Jia Canphylia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH - English Language 2 (Internal)</p>
+<p>LH - English Language 2</p>
 </td>
 </tr>
 <tr>
@@ -405,7 +405,7 @@ Head (LH/SH)</p>
 <p>科学部</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lin-loh_shwu_hwa@moe.edu.s</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lin-loh_shwu_hwa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -559,7 +559,7 @@ Head (LH/SH)</p>
 <p>Mdm Tai Chi Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH - Chinese Language 3 (Internal)</p>
+<p>LH - Chinese Language 3</p>
 </td>
 </tr>
 <tr>
@@ -798,7 +798,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;(科主任1 - 内部）</p>
+<p>&nbsp;(科主任1）</p>
 </td>
 </tr>
 <tr>
@@ -806,40 +806,12 @@ Head (LH/SH)</p>
 <p>Mdm Chee Pey Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Special Assistance Plan (Internal)</p>
+<p>SH - Special Assistance Plan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
 <p>30</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>林绮惠</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>双文化华文优选课程</p>
-</td>
-<td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_chii_huey@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;(科主任)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Chii Huey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH - Bi-Cultural Chinese Elective Programme (BiCEP)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>31</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>黄小翠</p>
@@ -867,7 +839,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>32</p>
+<p>31</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>许欣蕊</p>
@@ -895,7 +867,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>33</p>
+<p>32</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>梁艺贞</p>
@@ -923,7 +895,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>34</p>
+<p>33</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>陈淑玲</p>
@@ -951,7 +923,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>35</p>
+<p>34</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>张宇</p>
@@ -979,7 +951,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>36</p>
+<p>35</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>蔡丽玲</p>
@@ -1007,7 +979,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>37</p>
+<p>36</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>吴燕萍</p>
@@ -1035,7 +1007,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>38</p>
+<p>37</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>洪美莲</p>
@@ -1063,7 +1035,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>39</p>
+<p>38</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>苏诗惠</p>
@@ -1091,7 +1063,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>40</p>
+<p>39</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>-</p>
@@ -1124,7 +1096,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>41</p>
+<p>40</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>刘丽珠</p>
@@ -1152,7 +1124,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>42</p>
+<p>41</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>刘颖熹</p>
@@ -1180,7 +1152,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>43</p>
+<p>42</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>-</p>
@@ -1208,7 +1180,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>44</p>
+<p>43</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>潘美燕</p>
@@ -1236,7 +1208,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>45</p>
+<p>44</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>黄秀玲</p>
@@ -1264,7 +1236,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>46</p>
+<p>45</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>-</p>

@@ -551,7 +551,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>（级主任3 - 内部）</p>
+<p>（级主任2 - 内部）</p>
 </td>
 </tr>
 <tr>
@@ -559,7 +559,7 @@ Head (LH/SH)</p>
 <p>Mdm Tai Chi Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH - Chinese Language 3</p>
+<p>LH - Chinese Language 2</p>
 </td>
 </tr>
 <tr>

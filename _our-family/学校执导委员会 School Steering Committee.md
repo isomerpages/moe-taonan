@@ -551,7 +551,7 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>（级主任2 - 内部）</p>
+<p>（级主任2）</p>
 </td>
 </tr>
 <tr>

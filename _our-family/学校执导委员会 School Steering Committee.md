@@ -722,7 +722,7 @@ Head (LH/SH)</p>
 <p>艺体陶冶计划与课程辅助活动（科主任-内部）</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">vikneswaran_selvarajoo@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">vikneswaran_selvarajoo@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -745,7 +745,7 @@ Head (LH/SH)</p>
 <p>品德与公民教育</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lorraine_anne_alcantra@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lorraine_anne_alcantra@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -773,7 +773,7 @@ Head (LH/SH)</p>
 <p>特备课程 - 中华文化</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_thiam_poh@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ang_thiam_poh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -801,7 +801,7 @@ Head (LH/SH)</p>
 <p>特备课程 - 中华文化</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chee_pey_yi@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chee_pey_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -840,7 +840,7 @@ Head (LH/SH)</p>
 <p>SH - Special Assistance Plan 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hao_deyi@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">hao_deyi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -855,7 +855,7 @@ Head (LH/SH)</p>
 <p>学生才能与领导发展</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_shao_chui@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ng_shao_chui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -883,7 +883,7 @@ Head (LH/SH)</p>
 <p>学生领导</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_xin_rui@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">koh_xin_rui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -911,7 +911,7 @@ Head (LH/SH)</p>
 <p>学校合作伙伴</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">leong_lye_ching@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">leong_lye_ching@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -939,7 +939,7 @@ Head (LH/SH)</p>
 <p>高才部</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_su_ling_violet@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_su_ling_violet@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -967,7 +967,7 @@ Head (LH/SH)</p>
 <p>高才部</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">zhang_yu_b@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">zhang_yu_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -995,7 +995,7 @@ Head (LH/SH)</p>
 <p>信息管理</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_li_ling_eileen@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chua_li_ling_eileen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1023,7 +1023,7 @@ Head (LH/SH)</p>
 <p>信息管理</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">goh_yen_ping@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">goh_yen_ping@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1051,7 +1051,7 @@ Head (LH/SH)</p>
 <p>资讯通信科技</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_bee_lian_b@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ang_bee_lian_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1079,7 +1079,7 @@ Head (LH/SH)</p>
 <p>资讯通信科技</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">soh_shihui@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">soh_shihui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1107,7 +1107,7 @@ Head (LH/SH)</p>
 <p>课程创新</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">helmiaty_mohamad_amin@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">helmiaty_mohamad_amin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1140,7 +1140,7 @@ Head (LH/SH)</p>
 <p>一二年级</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">liu_lee_choo_sharon@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">liu_lee_choo_sharon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1168,7 +1168,8 @@ Head (LH/SH)</p>
 <p>一二年级</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lau_ying_xi@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lau_ying_xi@@</a>
+<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
 </p>
 </td>
 </tr>
@@ -1196,7 +1197,8 @@ Head (LH/SH)</p>
 <p>三四年级</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_nurfarah_mohamed_r@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">siti_nurfarah_mohamed_r@@</a>
+<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
 </p>
 </td>
 </tr>
@@ -1224,7 +1226,8 @@ Head (LH/SH)</p>
 <p>三四年级</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">phua_mei_yan@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">phua_mei_yan@@</a>
+<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
 </p>
 </td>
 </tr>
@@ -1252,7 +1255,8 @@ Head (LH/SH)</p>
 <p></p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">fong_mei_chuan@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">fong_mei_chuan@@</a>
+<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
 </p>
 </td>
 </tr>
@@ -1280,7 +1284,8 @@ Head (LH/SH)</p>
 <p>五六年级</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">avneesh_kaur@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">avneesh_kaur@@</a>
+<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
 </p>
 </td>
 </tr>

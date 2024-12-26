@@ -2023,5 +2023,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 11 July 2024</strong>
+<p><strong>Updated on 26 December 2024</strong>
 </p>

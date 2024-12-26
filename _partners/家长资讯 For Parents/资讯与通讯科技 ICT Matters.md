@@ -296,6 +296,10 @@ please visit <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cybe
 <p><a href="/files/2021%20Cyber%20Wellness%20Tips%20Parental%20Control.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness Tips for Parents on Parental Control (Content and Privacy Restrictions)</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/learning-about-cyber-wellness-youths" rel="noopener nofollow" target="_blank">Cyber Wellness For Youths</a>
+</p>
+</li>
 </ul>
 <hr>
 <p></p>

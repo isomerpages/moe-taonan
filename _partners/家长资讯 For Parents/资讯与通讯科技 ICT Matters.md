@@ -86,13 +86,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>iMTL Portal</p>
+<p>Koobits</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Internet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://imtl.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://imtl.moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">http://member.koobits.com/</a>
 </p>
 </td>
 </tr>
@@ -177,6 +177,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://zoom.us" rel="noopener noreferrer nofollow" target="_blank">https://zoom.us</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dudu (For P1 and P2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">http://go.dudu.town</a>
 </p>
 </td>
 </tr>

@@ -92,7 +92,7 @@ variant: tiptap
 <p>Internet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://member.koobits.com/</a>
+<p><a href="http://member.koobits.com/" rel="noopener nofollow" target="_blank">http://member.koobits.com/</a>
 </p>
 </td>
 </tr>
@@ -188,7 +188,7 @@ variant: tiptap
 <p>Internet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://go.dudu.town</a>
+<p><a href="http://go.dudu.town" rel="noopener noreferrer nofollow" target="_blank"><u>http://go.dudu.town</u></a>
 </p>
 </td>
 </tr>

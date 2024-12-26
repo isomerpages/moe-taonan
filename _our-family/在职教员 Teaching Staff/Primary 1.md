@@ -41,10 +41,10 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Li Min Janice</p>
+<p>Mdm Siti Awalliah Bte Amin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_li_min_janice@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>siti_awalliah_amin@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -67,27 +67,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ma Lin [马 琳]</p>
+<p>Mdm Tan Hui Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ma_lin@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>tan_hui_hoon@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -96,7 +82,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
+<p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -113,10 +99,10 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Seok Joo</p>
+<p>Mrs Lindsy Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_seok_joo@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>tan_leng_see_lindsy@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -156,10 +142,10 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yick Fang Ru</p>
+<p>Mrs Seng- Ng Kooi Fong (FAJT) [黄桂芳]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yick_fang_ru@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>seng-ng_kooi_fong@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -168,7 +154,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

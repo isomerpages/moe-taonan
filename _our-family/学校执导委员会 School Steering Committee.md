@@ -263,8 +263,7 @@ variant: tiptap
 <p>英文部 (级主任1)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chia_jie_wei@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chia_jie_wei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -288,8 +287,7 @@ variant: tiptap
 <p>英文部 (级主任2)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">pang_shi_jia_canphylia@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">pang_shi_jia_canphylia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -338,8 +336,7 @@ variant: tiptap
 <p>数学部 (级主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_yusuf_mirza@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_yusuf_mirza@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -363,8 +360,7 @@ variant: tiptap
 <p>科学部 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_seow_yun@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_seow_yun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -388,8 +384,7 @@ variant: tiptap
 <p>科学部 (级主任1)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lin-loh_shwu_hwa@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lin-loh_shwu_hwa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -413,8 +408,7 @@ variant: tiptap
 <p>科学部 (级主任2 -&nbsp; 内部)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a href="mailto:tan_hwee_jing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hwee_jing@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_hwee_jing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -438,8 +432,7 @@ variant: tiptap
 <p>华文部 (主任）</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_peng_gek@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_peng_gek@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -463,7 +456,7 @@ variant: tiptap
 <p>华文部 (级主任1)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wu_yun@</a><a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">wu_yun@schools.gov.sg</a>
 </p>
 </td>
 </tr>

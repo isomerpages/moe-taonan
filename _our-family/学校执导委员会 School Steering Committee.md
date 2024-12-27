@@ -1278,10 +1278,10 @@ Head (LH/SH)</p>
 <p>46</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>陈秀玲</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>五六年级（主任）</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1292,7 +1292,7 @@ Head (LH/SH)</p>
 <p>Mrs Tan-Ng Siew Leng Crayon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head P6</p>
+<p>Year Head P5 &amp; P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank"><u>crayon_tan_ng@schools.gov.sg</u></a>

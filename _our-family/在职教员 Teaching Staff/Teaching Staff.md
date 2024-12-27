@@ -875,8 +875,7 @@ variant: tiptap
 <p>Mr Ang Yong An</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_yong_an@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:ang_yong_an@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_yong_an@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -888,8 +887,7 @@ variant: tiptap
 <p>Mr Chan Yi Jun James</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">james_chan_yi_jun@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:james_chan_yi_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">james_chan_yi_jun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -901,8 +899,7 @@ variant: tiptap
 <p>Mr Cher Boon Kiat Augustine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">cher_boon_kiat_augustine@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:cher_boon_kiat_augustine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cher_boon_kiat_augustine@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -914,8 +911,7 @@ variant: tiptap
 <p>Mr Chong Zhi Howe Kenneth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chong_zhi_howe_kenneth@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:chong_zhi_howe_kenneth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_zhi_howe_kenneth@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -927,8 +923,7 @@ variant: tiptap
 <p>Mr Dominic Nyi Nyi Htut</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">dominic_nyi_nyi_htut@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:dominic_nyi_nyi_htut@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dominic_nyi_nyi_htut@schools.gov.sg</a>
 </p>
 </td>
 </tr>

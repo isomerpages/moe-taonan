@@ -1796,8 +1796,7 @@ variant: tiptap
 <p>Ms Poh Cheng Yee [傅静瑜]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">poh_cheng_yee@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:poh_cheng_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_cheng_yee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1809,8 +1808,7 @@ variant: tiptap
 <p>Ms Praise Teo Hwee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">praise_teo_hwee_leng@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:praise_teo_hwee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">praise_teo_hwee_leng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1822,8 +1820,7 @@ variant: tiptap
 <p>Ms Tan Hwee Jing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_hwee_jing@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:tan_hwee_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hwee_jing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1835,8 +1832,7 @@ variant: tiptap
 <p>Ms Tan Yen Ping Gina [陈燕萍]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_yen_ping_gina@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:tan_yen_ping_gina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yen_ping_gina@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1848,8 +1844,7 @@ variant: tiptap
 <p>Ms Toh Kai Xuan, Jeanette</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">toh_kai_xuan_jeanette@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:toh_kai_xuan_jeanette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_kai_xuan_jeanette@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1861,8 +1856,7 @@ variant: tiptap
 <p>Ms Vaswani Deepa Hiro</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">vaswani_deepa_hiro@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:vaswani_deepa_hiro@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vaswani_deepa_hiro@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1874,8 +1868,7 @@ variant: tiptap
 <p>Ms Yick Fang Ru</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yick_fang_ru@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:yick_fang_ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yick_fang_ru@schools.gov.sg</a>
 </p>
 </td>
 </tr>

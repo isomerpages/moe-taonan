@@ -37,8 +37,7 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">pillay_may_yin_jennifer@@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">pillay_may_yin_jennifer@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -53,8 +52,7 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Brian_Yeo_Qiyang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Brian_Yeo_Qiyang@@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a href="mailto:Brian_Yeo_Qiyang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">brian_yeo_qiyang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -69,8 +67,7 @@ variant: tiptap
 <p>Special Educational Needs Officer (SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_kamila_jamaludin@@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">nur_kamila_jamaludin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -85,8 +82,7 @@ variant: tiptap
 <p>Special Educational Needs Officer (SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siew_wei_kuan@@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">siew_wei_kuan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -101,8 +97,7 @@ variant: tiptap
 <p>Special Educational Needs Officer (SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_shreen_sidek@@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">nur_shreen_sidek@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -117,12 +112,11 @@ variant: tiptap
 <p>Special Educational Needs Officer (SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">phua_ying_jie@@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">phua_ying_jie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 26 December 2024</strong>
+<p><strong>Updated on 27 December 2024</strong>
 </p>

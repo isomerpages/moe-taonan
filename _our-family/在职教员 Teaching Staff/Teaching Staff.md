@@ -396,8 +396,7 @@ variant: tiptap
 <p>Mdm Noorlailee Bte Mohd Jusin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">noorlailee_mohd_jusin@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:noorlailee_mohd_jusin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noorlailee_mohd_jusin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -409,8 +408,7 @@ variant: tiptap
 <p>Mdm Noraini Binte Mohamed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">noraini_mohamed_ali@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:noraini_mohamed_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_mohamed_ali@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -422,8 +420,7 @@ variant: tiptap
 <p>Mdm Norhayati Binte Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">norhayati_ibrahim@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:norhayati_ibrahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norhayati_ibrahim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -435,8 +432,7 @@ variant: tiptap
 <p>Mdm Nur Rasheeda Bte Mohd Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_rasheeda_mohd_ismail@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:nur_rasheeda_mohd_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_rasheeda_mohd_ismail@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -448,8 +444,7 @@ variant: tiptap
 <p>Mdm Nur Yusrina Yaakob</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_yusrina_yaakob@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:nur_yusrina_yaakob@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_yusrina_yaakob@schools.gov.sg</a>
 </p>
 </td>
 </tr>

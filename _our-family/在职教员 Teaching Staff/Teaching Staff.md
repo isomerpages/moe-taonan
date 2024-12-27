@@ -456,8 +456,7 @@ variant: tiptap
 <p>Mdm Nurazimah Binte Ab Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nurazimah_ab_rahman@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:nurazimah_ab_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurazimah_ab_rahman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -469,8 +468,7 @@ variant: tiptap
 <p>Mdm Ong Wee Wah [王维华]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ong_wee_wah@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:ong_wee_wah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wee_wah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -494,8 +492,7 @@ variant: tiptap
 <p>Mdm Phua Mei Yan [潘美燕]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">phua_mei_yan@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:phua_mei_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phua_mei_yan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -507,8 +504,7 @@ variant: tiptap
 <p>Mdm Samantha Evon Chia Chin Mei [谢静美]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">samantha_evon_chia@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:samantha_evon_chia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_evon_chia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -520,8 +516,7 @@ variant: tiptap
 <p>Mdm Shahadatunisa d/o M M Noorddin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">shahadatunisa_m_m_noorddin@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:shahadatunisa_m_m_noorddin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahadatunisa_m_m_noorddin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -533,8 +528,7 @@ variant: tiptap
 <p>Mdm Shen Yang [沈阳]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">shen_yang@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:shen_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shen_yang@schools.gov.sg</a>
 </p>
 </td>
 </tr>

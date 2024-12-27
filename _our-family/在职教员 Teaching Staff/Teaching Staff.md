@@ -36,7 +36,7 @@ variant: tiptap
 <p>Mdm Amy- Helmiaty Binte Mohamad Amin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="helmiaty_mohamad_amin@schools.gov.sg" rel="noopener nofollow" target="_blank">helmiaty_mohamad_amin@schools.gov.sg</a>
+<p><a href="mailto:helmiaty_mohamad_amin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helmiaty_mohamad_amin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ variant: tiptap
 <p>Mdm Ang Sio Hoon [洪小芬]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ang_sio_hoon@schools.gov.sg" rel="noopener nofollow" target="_blank">ang_sio_hoon@schools.gov.sg</a>
+<p><a href="mailto:ang_sio_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_sio_hoon@schools.gov.sg</a>
 </p>
 </td>
 </tr>

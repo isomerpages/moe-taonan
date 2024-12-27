@@ -300,8 +300,7 @@ variant: tiptap
 <p>Mdm Lim Chii Huey [林绮惠]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_chii_huey@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:lim_chii_huey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chii_huey@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -313,8 +312,7 @@ variant: tiptap
 <p>Mdm Lim Lay Choo Tina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_lay_choo_tina@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:lim_lay_choo_tina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lay_choo_tina@schools.gov.sg</a>
 </p>
 </td>
 </tr>

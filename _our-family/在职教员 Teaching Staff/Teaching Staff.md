@@ -48,8 +48,7 @@ variant: tiptap
 <p>Mdm Ang Sio Hoon [洪小芬]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_sio_hoon@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="ang_sio_hoon@schools.gov.sg" rel="noopener nofollow" target="_blank">ang_sio_hoon@schools.gov.sg</a>
 </p>
 </td>
 </tr>

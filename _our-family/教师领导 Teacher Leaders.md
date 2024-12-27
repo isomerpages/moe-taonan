@@ -97,8 +97,7 @@ variant: tiptap
 <p>Senior Teacher/Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ngoh_siew_teng@@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ngoh_siew_teng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -143,7 +142,7 @@ variant: tiptap
 <p>Senior Teacher/Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dawn_chua_yu_xiu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_evon_chia@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">samantha_evon_chia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -173,7 +172,7 @@ variant: tiptap
 <p>Senior Teacher/Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:samantha_evon_chia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">praise_teo_hwee_leng@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">praise_teo_hwee_leng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -188,7 +187,7 @@ variant: tiptap
 <p>Senior Teacher/PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:praise_teo_hwee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">syed_ali_omar_halid@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">syed_ali_omar_halid@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -203,7 +202,7 @@ variant: tiptap
 <p>Senior Teacher/English (Cross-level)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:praise_teo_hwee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">niu_zi_bin@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">niu_zi_bin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -218,7 +217,7 @@ variant: tiptap
 <p>Senior Teacher/Learning Needs (Lower Primary Learners)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:praise_teo_hwee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chiew_yen@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_chiew_yen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -233,7 +232,7 @@ variant: tiptap
 <p>Senior Teacher/Learning Needs (Lower Primary Learners)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:praise_teo_hwee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_li_min_janice@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ng_li_min_janice@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -248,7 +247,7 @@ variant: tiptap
 <p>Senior Teacher/Learning Needs (Lower Primary Learners) (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:praise_teo_hwee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadiah_abdul_khalik@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">nadiah_abdul_khalik@schools.gov.sg</a>
 </p>
 </td>
 </tr>

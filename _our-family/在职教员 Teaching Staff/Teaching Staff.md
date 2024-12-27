@@ -1233,8 +1233,7 @@ variant: tiptap
 <p>Mrs Jenny Tan- Lian Wei Chun Jenny</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lian_wei_chun_jenny@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:lian_wei_chun_jenny@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lian_wei_chun_jenny@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1246,8 +1245,7 @@ variant: tiptap
 <p>Mrs Kwek Lee Yook</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kok_lee_yook@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:kok_lee_yook@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kok_lee_yook@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1259,8 +1257,7 @@ variant: tiptap
 <p>Mrs Law- Chin Wai Mun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">law-chin_wai_mun@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:law-chin_wai_mun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">law-chin_wai_mun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1272,8 +1269,7 @@ variant: tiptap
 <p>Mrs Lindsy Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_leng_see_lindsy@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:tan_leng_see_lindsy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_leng_see_lindsy@schools.gov.sg</a>
 </p>
 </td>
 </tr>

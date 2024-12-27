@@ -1533,8 +1533,7 @@ variant: tiptap
 <p>Ms Fathin Ha Sya-Syah Binte Suhadak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">fathin_ha_sya-syah_suhadak@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:fathin_ha_sya-syah_suhadak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fathin_ha_sya-syah_suhadak@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1546,8 +1545,7 @@ variant: tiptap
 <p>Ms Goh Lay Kian [吴丽娟]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">goh_lay_kian@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:goh_lay_kian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_lay_kian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1559,8 +1557,7 @@ variant: tiptap
 <p>Ms Heng Boon Lih</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">heng_boon_lih@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:heng_boon_lih@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_boon_lih@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1572,8 +1569,7 @@ variant: tiptap
 <p>Ms Jessilin Khee Shi Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">jessilin_khee_shi_lin@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:jessilin_khee_shi_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jessilin_khee_shi_lin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1597,8 +1593,7 @@ variant: tiptap
 <p>Ms Khor Peck Yin Katherine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">khor_peck_yin_katherine@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:khor_peck_yin_katherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khor_peck_yin_katherine@schools.gov.sg</a>
 </p>
 </td>
 </tr>

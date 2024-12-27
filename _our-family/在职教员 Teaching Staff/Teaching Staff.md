@@ -1605,8 +1605,7 @@ variant: tiptap
 <p>Ms Kwan Kah Poh Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kwan_kah_poh_rachel@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:kwan_kah_poh_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_kah_poh_rachel@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1618,8 +1617,7 @@ variant: tiptap
 <p>Ms Lam May Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lam_may_fong@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:lam_may_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lam_may_fong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1631,8 +1629,7 @@ variant: tiptap
 <p>Ms Latha- Siva PVL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siva_pvl@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:siva_pvl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siva_pvl@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1644,8 +1641,7 @@ variant: tiptap
 <p>Ms Leong Lye Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">leong_lye_ching@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:leong_lye_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_lye_ching@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1657,8 +1653,7 @@ variant: tiptap
 <p>Ms Lim Ying Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_ying_xuan_a@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:lim_ying_xuan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ying_xuan_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: 在职教员 Teaching Staff
 variant: tiptap
 ---
-<p><strong>ONLY TEACHERS TEACHING THE CHINESE LANGUAGE WILL HAVE THEIR NAMES REFLECTED IN CHINESE CHARACTERS</strong>
+<p><strong>ONLY TEACHERS TEACHING THE CHINESE LANGUAGE WILL HAVE THEIR NAMES REFLECTED IN CHINESE CHARACTERS </strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -36,7 +36,7 @@ variant: tiptap
 <p>Mdm Amy- Helmiaty Binte Mohamad Amin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:helmiaty_mohamad_amin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helmiaty_mohamad_amin@schools.gov.sg</a>
+<p><a href="helmiaty_mohamad_amin@schools.gov.sg" rel="noopener nofollow" target="_blank">helmiaty_mohamad_amin@schools.gov.sg</a>
 </p>
 </td>
 </tr>

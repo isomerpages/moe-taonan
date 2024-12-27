@@ -52,8 +52,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ding_ching_ching@@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ding_ching_ching@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -68,8 +67,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_hafiz_anuar@@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_hafiz_anuar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -84,8 +82,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Abdul_Gaffore_Mohamed_Abdul@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Abdul_Gaffore_Mohamed_Abdul@@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a href="mailto:Abdul_Gaffore_Mohamed_Abdul@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">abdul_gaffore_mohamed_abdul@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -115,8 +112,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">maisarah_abdullah@@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">maisarah_abdullah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -131,8 +127,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">natalia_sugiarto@@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">natalia_sugiarto@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -147,8 +142,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yeo_guat_kheng@@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yeo_guat_kheng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -163,8 +157,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_ah_cheng@@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_ah_cheng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -312,5 +305,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 26 December 2024</strong>
+<p><strong>Updated on 27 December 2024</strong>
 </p>

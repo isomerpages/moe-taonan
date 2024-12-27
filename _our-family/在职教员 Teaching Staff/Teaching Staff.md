@@ -540,8 +540,7 @@ variant: tiptap
 <p>Mdm Siti Awalliah Bte Amin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_awalliah_amin@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:siti_awalliah_amin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_awalliah_amin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -553,8 +552,7 @@ variant: tiptap
 <p>Mdm Siti Nurfarah Binte Mohamed R Z</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_nurfarah_mohamed_r@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:siti_nurfarah_mohamed_r@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurfarah_mohamed_r@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -566,21 +564,19 @@ variant: tiptap
 <p>Mdm Soh Shihui [苏诗惠]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">soh_shihui@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:soh_shihui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_shihui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>46</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sun Li (FAJT) [孙莉]</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sun_li_a@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>

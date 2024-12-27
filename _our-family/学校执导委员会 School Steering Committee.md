@@ -455,7 +455,7 @@ Head (LH/SH)</p>
 <p>Miss Tan Hwee Jing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH – Science 2</p>
+<p>LH – Science 2 (Internal)</p>
 </td>
 </tr>
 <tr>

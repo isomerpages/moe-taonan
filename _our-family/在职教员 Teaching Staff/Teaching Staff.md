@@ -5,7 +5,7 @@ description: ""
 third_nav_title: 在职教员 Teaching Staff
 variant: tiptap
 ---
-<p><strong>ONLY TEACHERS TEACHING THE CHINESE LANGUAGE WILL HAVE THEIR NAMES REFLECTED IN CHINESE CHARACTERS </strong>
+<p><strong>ONLY TEACHERS TEACHING THE CHINESE LANGUAGE WILL HAVE THEIR NAMES REFLECTED IN CHINESE CHARACTERS.</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>

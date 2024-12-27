@@ -1473,8 +1473,7 @@ variant: tiptap
 <p>Ms Chee Pey Yi [纪佩妤]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chee_pey_yi@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:chee_pey_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chee_pey_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1486,8 +1485,7 @@ variant: tiptap
 <p>Ms Chia Jie Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chia_jie_wei@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:chia_jie_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_jie_wei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1499,8 +1497,7 @@ variant: tiptap
 <p>Ms Dawn Chua Yu Xiu [蔡育修]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">dawn_chua_yu_xiu@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:dawn_chua_yu_xiu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dawn_chua_yu_xiu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1512,8 +1509,7 @@ variant: tiptap
 <p>Ms Deng Min [邓敏]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">deng_min@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:deng_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">deng_min@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1525,8 +1521,7 @@ variant: tiptap
 <p>Ms Emma Kok Li Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">emma_kok_li_shan@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:emma_kok_li_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">emma_kok_li_shan@schools.gov.sg</a>
 </p>
 </td>
 </tr>

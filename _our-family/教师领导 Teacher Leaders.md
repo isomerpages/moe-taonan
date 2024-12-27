@@ -137,7 +137,7 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Samantha Evon Chia Chin Mei</p>
+<p>Mdm Samantha Evon Chia Chin Mei [谢静美]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher/Chinese Language</p>
@@ -152,6 +152,21 @@ variant: tiptap
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Clare Li Xunzi [李勋子]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/Chinese Language (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">clare_li_xunzi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Praise Teo Hwee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -164,7 +179,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Syed Ali Omar Bin Syed Halid Alhatas</p>
@@ -179,7 +194,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Niu Zi Bin</p>
@@ -194,7 +209,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Chiew Yen June</p>
@@ -209,7 +224,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p>14</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Li Min Janice</p>
@@ -224,7 +239,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nadiah Binte Abdul Khalik</p>

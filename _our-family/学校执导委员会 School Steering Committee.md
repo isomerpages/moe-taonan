@@ -28,7 +28,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>学校领导&nbsp;&nbsp;&nbsp;&nbsp; School Leaders</p>
+<p><strong>学校领导&nbsp;&nbsp;&nbsp;&nbsp; School Leaders</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -148,7 +149,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>学校行政团队&nbsp;&nbsp;&nbsp; School Admin Team (SAT)</p>
+<p><strong>学校行政团队&nbsp;&nbsp;&nbsp; School Admin Team (SAT)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -222,8 +224,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>主任、级主任、科主任&nbsp;&nbsp;&nbsp; Head-of-Department (HOD) &amp; Level/Subject
-Head (LH/SH)</p>
+<p><strong>主任、级主任、科主任&nbsp;&nbsp;&nbsp; Head-of-Department (HOD) &amp; Level/Subject Head (LH/SH)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -233,8 +235,8 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>林美芳</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>英文部</p>
+<td rowspan="2" colspan="1">
+<p>英文部 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lam_may_fong@</a>
@@ -242,11 +244,7 @@ Head (LH/SH)</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（主任）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Lam May Fong</p>
@@ -262,8 +260,8 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>谢婕薇</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>英文部</p>
+<td rowspan="2" colspan="1">
+<p>英文部 (级主任1)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chia_jie_wei@</a>
@@ -271,11 +269,7 @@ Head (LH/SH)</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（级主任1）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Chia Jie Wei</p>
@@ -291,8 +285,8 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>方诗嘉</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>英文部</p>
+<td rowspan="2" colspan="1">
+<p>英文部 (级主任2)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">pang_shi_jia_canphylia@</a>
@@ -300,11 +294,7 @@ Head (LH/SH)</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（级主任2）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Pang Shi Jia Canphylia</p>
@@ -320,8 +310,8 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>陈淑美</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>数学部</p>
+<td rowspan="2" colspan="1">
+<p>数学部 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_sue_may_francisca@</a>
@@ -329,11 +319,7 @@ Head (LH/SH)</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（主任）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Francisca Tan</p>
@@ -349,8 +335,8 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>-</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>数学部</p>
+<td rowspan="2" colspan="1">
+<p>数学部 (级主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_yusuf_mirza@</a>
@@ -358,11 +344,7 @@ Head (LH/SH)</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（级主任）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Yusuf Mirza B M A M</p>
@@ -378,8 +360,8 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>陈晓芸</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>科学部</p>
+<td rowspan="2" colspan="1">
+<p>科学部 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_seow_yun@</a>
@@ -387,11 +369,7 @@ Head (LH/SH)</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（主任）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Seow Yun</p>
@@ -407,8 +385,8 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>林淑华</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>科学部</p>
+<td rowspan="2" colspan="1">
+<p>科学部 (级主任1)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lin-loh_shwu_hwa@</a>
@@ -416,11 +394,7 @@ Head (LH/SH)</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（级主任1）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Loh Shwu Hwa</p>
@@ -436,8 +410,8 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>陈慧晶</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>科学部</p>
+<td rowspan="2" colspan="1">
+<p>科学部 (级主任2 -&nbsp; 内部)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a href="mailto:tan_hwee_jing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hwee_jing@</a>
@@ -445,11 +419,7 @@ Head (LH/SH)</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（级主任2 -&nbsp; 内部）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Tan Hwee Jing</p>
@@ -465,8 +435,8 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>陈萍玉</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>华文部</p>
+<td rowspan="2" colspan="1">
+<p>华文部 (主任）</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_peng_gek@</a>
@@ -474,11 +444,7 @@ Head (LH/SH)</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（主任）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Peng Gek</p>
@@ -494,19 +460,15 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>吴赟</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>华文部</p>
+<td rowspan="2" colspan="1">
+<p>华文部 (级主任1)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">wu_yun@</a><a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（级主任1）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Wu Yun</p>
@@ -522,8 +484,8 @@ Head (LH/SH)</p>
 <td rowspan="3" colspan="1">
 <p>吴丽娟</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>华文兼品德与公民教育</p>
+<td rowspan="3" colspan="1">
+<p>华文兼品德与公民教育 (级主任)</p>
 </td>
 <td rowspan="4" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">goh_lay_kian@schools.gov.sg</a>
@@ -531,11 +493,7 @@ Head (LH/SH)</p>
 </td>
 </tr>
 <tr></tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（级主任）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Goh Lay Kian</p>
@@ -551,19 +509,15 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>戴芷慧</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>华文部</p>
+<td rowspan="2" colspan="1">
+<p>华文部 (级主任2)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tai_chi_hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（级主任2）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Tai Chi Hui</p>
@@ -579,19 +533,15 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>梁丽萍</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>体育部</p>
+<td rowspan="2" colspan="1">
+<p>体育部 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">neo_lay_peng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（主任）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Neo Lay Peng</p>
@@ -607,19 +557,15 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>洪志荣</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>体育部</p>
+<td rowspan="2" colspan="1">
+<p>体育部 (科主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ang_chee_yong_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（科主任）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Chee Yong</p>
@@ -635,19 +581,15 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>郭丽煜</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>师资培训</p>
+<td rowspan="2" colspan="1">
+<p>师资培训 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">kok_lee_yook@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（主任）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Kok Lee Yook</p>
@@ -663,19 +605,15 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>沈品秀</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>师资培训与康乐</p>
+<td rowspan="2" colspan="1">
+<p>师资培训与康乐 (科主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">shen_pinxiu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（科主任）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Ong- Shen Pinxiu</p>
@@ -691,19 +629,15 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>侯慧冰</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>美育与课程辅助活动</p>
+<td rowspan="2" colspan="1">
+<p>美育与课程辅助活动 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">how_hooi_bing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;(主任)</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm How Hooi Bing Tiffany</p>
@@ -719,19 +653,15 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>刘树英</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>美术</p>
+<td rowspan="2" colspan="1">
+<p>美术 (科主任-内部)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank"><u>lim_su_ying_elizabeth@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（科主任-内部）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Low Su Ying Elizabeth</p>
@@ -748,7 +678,7 @@ Head (LH/SH)</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>艺体陶冶计划与课程辅助活动（科主任-内部）</p>
+<p>艺体陶冶计划与课程辅助活动 (科主任-内部)</p>
 </td>
 <td rowspan="2" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">vikneswaran_selvarajoo@schools.gov.sg</a>
@@ -770,19 +700,15 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>-</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>品德与公民教育</p>
+<td rowspan="2" colspan="1">
+<p>品德与公民教育 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lorraine_anne_alcantra@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（主任）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Lorraine Anne Alcantra</p>
@@ -798,19 +724,15 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>郭丽善</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>品德与公民教育</p>
+<td rowspan="2" colspan="1">
+<p>品德与公民教育 (科主任-内部)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank"><u>emma_kok_li_shan@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（科主任-内部）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Emma Kok Li Shan</p>
@@ -826,19 +748,15 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>翁添保</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>特备课程 - 中华文化</p>
+<td rowspan="2" colspan="1">
+<p>特备课程 - 中华文化 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ang_thiam_poh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（主任）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Thiam Poh</p>
@@ -854,19 +772,15 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>纪佩妤</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>特备课程 - 中华文化</p>
+<td rowspan="2" colspan="1">
+<p>特备课程 - 中华文化 (科主任1)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chee_pey_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;(科主任1）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Chee Pey Yi</p>
@@ -882,19 +796,15 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>郝德奕</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>特备课程&nbsp;-&nbsp;中华文化&nbsp;</p>
+<td rowspan="2" colspan="1">
+<p>特备课程&nbsp;-&nbsp;中华文化&nbsp;(科主任2)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">hao_deyi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(科主任2）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Hao Deyi</p>
@@ -910,19 +820,15 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>黄小翠</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>学生才能与领导发展</p>
+<td rowspan="2" colspan="1">
+<p>学生才能与领导发展 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ng_shao_chui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（主任）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Ng Shao Chui Delisa</p>
@@ -938,19 +844,15 @@ Head (LH/SH)</p>
 <td rowspan="2" colspan="1">
 <p>许欣蕊</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>学生领导</p>
+<td rowspan="2" colspan="1">
+<p>学生领导 (科主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">koh_xin_rui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;(科主任)</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Koh Xin Rui Eleora</p>
@@ -960,25 +862,44 @@ Head (LH/SH)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>姚鈺淰</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>企业沟通与合作伙伴关系 (主任)</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><a href="mailto:yeo_yu_nian_nikki@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yu_nian_nikki@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeo Yu Nian Nikki</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD - Corporate Communications &amp; Partnership</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>36</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>梁艺贞</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>学校合作伙伴</p>
+<td rowspan="2" colspan="1">
+<p>学校合作伙伴 (科主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">leong_lye_ching@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;(科主任)</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Leong Lye Ching</p>
@@ -989,24 +910,20 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>36</p>
+<p>37</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>陈淑玲</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>高才部</p>
+<td rowspan="2" colspan="1">
+<p>高才部 (科主任1)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_su_ling_violet@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（科主任1）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Tan Su Ling, Violet</p>
@@ -1017,24 +934,20 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>37</p>
+<p>38</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>张宇</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>高才部</p>
+<td rowspan="2" colspan="1">
+<p>高才部 (科主任2)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">zhang_yu_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（科主任2）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Zhang Yu</p>
@@ -1045,24 +958,20 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>38</p>
+<p>39</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>蔡丽玲</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>信息管理</p>
+<td rowspan="2" colspan="1">
+<p>信息管理 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chua_li_ling_eileen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;(主任)</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Ong- Chua Li Ling Eileen</p>
@@ -1073,24 +982,20 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>39</p>
+<p>40</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>吴燕萍</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>信息管理</p>
+<td rowspan="2" colspan="1">
+<p>信息管理 (科主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">goh_yen_ping@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;(科主任)</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Goh Yen Ping</p>
@@ -1101,24 +1006,20 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>40</p>
+<p>41</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>洪美莲</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>资讯通信科技</p>
+<td rowspan="2" colspan="1">
+<p>资讯通信科技 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ang_bee_lian_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;(主任)</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Ang Bee Lian</p>
@@ -1129,24 +1030,20 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>41</p>
+<p>42</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>苏诗惠</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>资讯通信科技</p>
+<td rowspan="2" colspan="1">
+<p>资讯通信科技 (科主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">soh_shihui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;(科主任)</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Soh Shihui</p>
@@ -1157,24 +1054,20 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>42</p>
+<p>43</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>-</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>课程创新</p>
+<td rowspan="2" colspan="1">
+<p>课程创新 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">helmiaty_mohamad_amin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（主任）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Helmiaty Binte Mohamad Amin</p>
@@ -1185,29 +1078,26 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>年级主任和助理主任&nbsp; Year Head &amp; Assistant Year Head</p>
+<p><strong>年级主任和助理主任&nbsp; Year Head &amp; Assistant Year Head</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>43</p>
+<p>44</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>刘丽珠</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>一二年级</p>
+<td rowspan="2" colspan="1">
+<p>一二年级 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">liu_lee_choo_sharon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(主任)</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Liu Lee Choo Sharon</p>
@@ -1218,25 +1108,21 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>44</p>
+<p>45</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>刘颖熹</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>一二年级</p>
+<td rowspan="2" colspan="1">
+<p>一二年级 (助理主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lau_ying_xi@@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lau_ying_xi@s</a>
+<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">chools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（助理主任）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Lau Ying Xi</p>
@@ -1247,25 +1133,21 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>45</p>
+<p>46</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>-</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>三四年级</p>
+<td rowspan="2" colspan="1">
+<p>三四年级 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_nurfarah_mohamed_r@@</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">siti_nurfarah_mohamed_r@</a>
 <a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（主任）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Nurfarah Binte Mohamed R Z</p>
@@ -1276,25 +1158,21 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>46</p>
+<p>47</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>潘美燕</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>三四年级</p>
+<td rowspan="2" colspan="1">
+<p>三四年级 (助理主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">phua_mei_yan@@</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">phua_mei_yan@</a>
 <a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（助理主任）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Phua Mei Yan</p>
@@ -1305,24 +1183,43 @@ Head (LH/SH)</p>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>47</p>
+<p>48</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>邝美川</p>
+<p>陈秀玲</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>五六年级</p>
+<td rowspan="3" colspan="1">
+<p>五六年级 (主任)</p>
 </td>
 <td rowspan="4" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">fong_mei_chuan@@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sgv</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>crayon_tan_ng@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr></tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>（主任）</p>
+<p>Mrs Tan-Ng Siew Leng Crayon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head P5 &amp; P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>49</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>邝美川</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>五六年级 (主任)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">fong_mei_chuan@</a>
+<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1332,65 +1229,27 @@ Head (LH/SH)</p>
 <td rowspan="1" colspan="1">
 <p>Year Head P5 &amp; P6</p>
 </td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>48</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>陈秀玲</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>五六年级</p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>（主任）</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Tan-Ng Siew Leng Crayon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head P5 &amp; P6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>crayon_tan_ng@schools.gov.sg</u></a>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>49</p>
+<p>50</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>-</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>五六年级</p>
+<td rowspan="2" colspan="1">
+<p>五六年级 (助理主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">avneesh_kaur@@</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">avneesh_kaur@</a>
 <a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>（助理主任）</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Avneesh Kaur</p>

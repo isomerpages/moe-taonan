@@ -41,10 +41,10 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Li Min Janice</p>
+<p>Mdm Siti Awalliah Bte Amin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_li_min_janice@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>siti_awalliah_amin@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -67,13 +67,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Tan Hui Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>tan_hui_hoon@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -81,14 +82,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
+<p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ma Lin [马 琳]</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ma_lin@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -99,10 +99,11 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chee Pey Yi [纪佩妤]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>chee_pey_yi@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -113,10 +114,10 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Seok Joo</p>
+<p>Mrs Lindsy Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_seok_joo@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>tan_leng_see_lindsy@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -156,25 +157,11 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yick Fang Ru</p>
+<p>Mrs Seng- Ng Kooi Fong (FAJT) [黄桂芳]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yick_fang_ru@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>seng-ng_kooi_fong@moe.edu.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -185,11 +172,10 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Pei Boon [蔡佩雯]</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_pei_boon@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -200,10 +186,10 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Chiew Yen</p>
+<p>Ms Ong Jing Yun, Jessica</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_chiew_yen@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>ong_jing_yun@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -226,6 +212,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Gwee Bock Lan Lena</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>gwee_bock_lan_lena@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Maths</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -240,25 +241,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Hu Yuxia [胡玉侠]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hu_yuxia@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Lu Wen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -272,10 +258,39 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vaswani Deepa Hiro</p>
+<p>Mdm Lau Ying Xi [刘颖熹]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">vaswani_deepa_hiro@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>lau_ying_xi@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Patsy Hoon (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>hoon_poh_nguak_patsy_a</u>@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -299,35 +314,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Liu Ying [刘莹]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">liu_ying_d@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -344,10 +330,10 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Lay Kuan</p>
+<p>Ms Kwan Kah Poh Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_lay_kuan_a@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>kwan_kah_poh_rachel@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -370,6 +356,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Aameer Bin Hassim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>aameer_hassim@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Maths</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -384,14 +385,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Patsy Hoon</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hoon_poh_nguak_patsy_a@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -402,10 +402,10 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Samantha Evon Chia Chin Mei [谢静美]</p>
+<p>Ms Goh Lay Kian [吴丽娟]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">samantha_evon_chia@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>goh_lay_kian@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -417,10 +417,39 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zahidah Binte Osman</p>
+<p>Mdm Woo Jenny [邬燕妮]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">zahidah_osman@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>woo_jenny@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chen Jing Ying (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>chen_jing_ying</u>@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -444,35 +473,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tai Chi Hui [戴芷慧]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tai_chi_hui@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -489,10 +489,10 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shahadatunisa d/o M M Noorddin</p>
+<p>Mdm Zahidah Binte Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">shahadatunisa_m_m_noorddin@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>zahidah_osman@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -532,10 +532,10 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dawn Chua Yu Xiu [蔡育修]</p>
+<p>Mdm Wu Yun [吴赟]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">dawn_chua_yu_xiu@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>wu_yun@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -561,68 +561,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurazimah Binte Ab Rahman</p>
+<p>Ms Ng Lui Kiang [黄蕊坚]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nurazimah_ab_rahman@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>ng_lui_kiang@schools.gov.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Praise Teo Hwee Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">praise_teo_hwee_leng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -633,11 +576,52 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hung Huey Jing [韩惠晶]</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hung_huey_jing@moe.edu.sg</a>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yam May San Priscilla</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -648,10 +632,10 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Cher Boon Kiat Augustine</p>
+<p>Mdm Nadiah Binte Abdul Khalik</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">cher_boon_kiat_augustine@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>nadiah_abdul_khalik@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -691,10 +675,10 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wan Xifei [万希飞]</p>
+<p>Ms Tan Yen Ping Gina [陈燕萍]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wan_xifei@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>tan_yen_ping_gina@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -720,10 +704,10 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Han Huiwen Adeline</p>
+<p>Mdm Lim Lay Choo Tina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">han_huiwen_adeline@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>lim_lay_choo_tina@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -746,6 +730,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kwek Lee Yook</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>kok_lee_yook@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Maths</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -760,28 +759,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Soh Shihui [苏诗惠]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">soh_shihui@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Deng Min [邓敏]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>deng_min@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>

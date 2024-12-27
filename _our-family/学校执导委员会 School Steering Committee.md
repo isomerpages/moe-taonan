@@ -823,10 +823,10 @@ Head (LH/SH)</p>
 <p>30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>郝德奕</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>特备课程 - 中华文化&nbsp;(科主任2)</p>
+<p>特备课程&nbsp;-&nbsp;中华文化&nbsp;(科主任2）</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -837,7 +837,7 @@ Head (LH/SH)</p>
 <p>Mdm Hao Deyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Special Assistance Plan 1</p>
+<p>SH - Special Assistance Plan 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">hao_deyi@schools.gov.sg</a>
@@ -1249,10 +1249,10 @@ Head (LH/SH)</p>
 <p>45</p>
 </td>
 <td rowspan="2" colspan="1">
-<p></p>
+<p>邝美川</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="2" colspan="1">
+<p>五六年级（主任）</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">fong_mei_chuan@@</a>
@@ -1260,14 +1260,10 @@ Head (LH/SH)</p>
 </p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>五六年级（主任）</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Fong Mei Chuan</p>
+<p>Mrs Ashley How (Fong Mei Chuan)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head P5 &amp; P6</p>

@@ -84,8 +84,7 @@ variant: tiptap
 <p>Mdm Chng Pau Ling Beatrice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chng_pau_ling_beatrice@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:chng_pau_ling_beatrice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_pau_ling_beatrice@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -97,8 +96,7 @@ variant: tiptap
 <p>Mdm Choo Kay Ngee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">choo_kay_ngee@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:choo_kay_ngee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_kay_ngee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -110,8 +108,7 @@ variant: tiptap
 <p>Mdm Chow Yuen Meng Jaclyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">low-chow_yuen_meng_jaclyn@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:low-chow_yuen_meng_jaclyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low-chow_yuen_meng_jaclyn@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -135,8 +132,7 @@ variant: tiptap
 <p>Mdm Clare Li Xunzi [李勋子]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">clare_li_xunzi@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:clare_li_xunzi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">clare_li_xunzi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -148,8 +144,7 @@ variant: tiptap
 <p>Mdm Feng Jie [冯 洁]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">feng_jie@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:feng_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">feng_jie@schools.gov.sg</a>
 </p>
 </td>
 </tr>

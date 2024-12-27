@@ -311,8 +311,7 @@ variant: tiptap
 <p>数学部 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_sue_may_francisca@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_sue_may_francisca@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1109,8 +1108,7 @@ variant: tiptap
 <p>一二年级 (助理主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lau_ying_xi@s</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">chools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lau_ying_xi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1134,8 +1132,7 @@ variant: tiptap
 <p>三四年级 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_nurfarah_mohamed_r@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">siti_nurfarah_mohamed_r@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1159,8 +1156,7 @@ variant: tiptap
 <p>三四年级 (助理主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">phua_mei_yan@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">phua_mei_yan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1208,9 +1204,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>五六年级 (主任)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">fong_mei_chuan@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<td rowspan="2" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">fong_mei_chuan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1220,9 +1215,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head P5 &amp; P6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1236,8 +1228,7 @@ variant: tiptap
 <p>五六年级 (助理主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">avneesh_kaur@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">avneesh_kaur@schools.gov.sg</a>
 </p>
 </td>
 </tr>

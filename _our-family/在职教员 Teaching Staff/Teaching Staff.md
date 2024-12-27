@@ -935,8 +935,7 @@ variant: tiptap
 <p>Mr Lim Hoe Seng Francis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_hoe_seng_francis@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:lim_hoe_seng_francis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hoe_seng_francis@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -948,8 +947,7 @@ variant: tiptap
 <p>Mr Lim Hon Shin Clifton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_hon_shin_clifton@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:lim_hon_shin_clifton@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hon_shin_clifton@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -961,8 +959,7 @@ variant: tiptap
 <p>Mr Lim Keng Tiong Alex</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_keng_tiong_alex@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:lim_keng_tiong_alex@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_keng_tiong_alex@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -985,22 +982,19 @@ variant: tiptap
 <p>Mr Low Khee How</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">low_khee_how@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:low_khee_how@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_khee_how@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>81</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Low Khin Sin Paul</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">low_khin_sin@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1011,8 +1005,7 @@ variant: tiptap
 <p>Mr Mohamad Suhirman Bin Zainal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mohamad_suhirman_zainal@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:mohamad_suhirman_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_suhirman_zainal@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1024,8 +1017,7 @@ variant: tiptap
 <p>Mr Mohammad Daud Teo B Mohd Anwar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">daud_teo@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:daud_teo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">daud_teo@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1037,8 +1029,7 @@ variant: tiptap
 <p>Mr Muhammad Yusuf Mirza Bin M</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_yusuf_mirza@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:muhammad_yusuf_mirza@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_yusuf_mirza@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1050,8 +1041,7 @@ variant: tiptap
 <p>Mr Ngiam Tee Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ngiam_tee_teng@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:ngiam_tee_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngiam_tee_teng@schools.gov.sg</a>
 </p>
 </td>
 </tr>

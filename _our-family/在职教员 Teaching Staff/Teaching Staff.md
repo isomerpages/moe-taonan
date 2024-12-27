@@ -156,8 +156,7 @@ variant: tiptap
 <p>Mdm Gloria Poon Mui Geok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">gloria_poon_mui_geok@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:gloria_poon_mui_geok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gloria_poon_mui_geok@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -169,8 +168,7 @@ variant: tiptap
 <p>Mdm Goh Yen Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">goh_yen_ping@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:goh_yen_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yen_ping@schools.gov.sg</a>
 </p>
 </td>
 </tr>

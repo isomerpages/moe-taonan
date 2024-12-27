@@ -1676,8 +1676,7 @@ variant: tiptap
 <p>Ms Lin Yao Chloe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lin_yao@</a><a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a>
-<a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:lin_yao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_yao@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1689,8 +1688,7 @@ variant: tiptap
 <p>Ms Liu Ying [刘莹]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">liu_ying_d@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:liu_ying_d@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_ying_d@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1702,8 +1700,7 @@ variant: tiptap
 <p>Ms Meitri Harshad Parikh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">meitri_parikh@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:meitri_parikh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">meitri_parikh@schools.gov.sg</a>
 </p>
 </td>
 </tr>

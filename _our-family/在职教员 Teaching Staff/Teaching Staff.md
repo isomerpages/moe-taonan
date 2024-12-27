@@ -1847,7 +1847,7 @@ variant: tiptap
 <p>Ms Michelle Lee Jing Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">michelle_lee_jing_qi@@</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">michelle_lee_jing_qi@</a>
 <a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>

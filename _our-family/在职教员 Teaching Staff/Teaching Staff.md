@@ -5,7 +5,7 @@ description: ""
 third_nav_title: 在职教员 Teaching Staff
 variant: tiptap
 ---
-<p><strong>ONLY TEACHERS TEACHING THE CHINESE LANGUAGE WILL HAVE THEIR NAMES REFLECTED IN CHINESE CHARACTERS.</strong>
+<p><strong>ONLY TEACHERS TEACHING THE CHINESE LANGUAGE WILL HAVE THEIR NAMES REFLECTED IN CHINESE CHARACTERS</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -180,8 +180,7 @@ variant: tiptap
 <p>Mdm Gwee Bock Lan Lena</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">gwee_bock_lan_lena@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:gwee_bock_lan_lena@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gwee_bock_lan_lena@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -193,8 +192,7 @@ variant: tiptap
 <p>Mdm Han Huiwen Adeline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">han_huiwen_adeline@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:han_huiwen_adeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_huiwen_adeline@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -206,8 +204,7 @@ variant: tiptap
 <p>Mdm How Hooi Bing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">how_hooi_bing@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:how_hooi_bing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">how_hooi_bing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -219,8 +216,7 @@ variant: tiptap
 <p>Mdm Hu Yuxia [胡玉侠]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hu_yuxia@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:hu_yuxia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hu_yuxia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -232,8 +228,7 @@ variant: tiptap
 <p>Mdm Hung Huey Jing [韩惠晶]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hung_huey_jing@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:hung_huey_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hung_huey_jing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -245,8 +240,7 @@ variant: tiptap
 <p>Mdm Koh Xin Rui Eleora</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_xin_rui@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:koh_xin_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_xin_rui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -258,8 +252,7 @@ variant: tiptap
 <p>Mdm Lau Ying Xi [刘颖熹]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lau_ying_xi@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:lau_ying_xi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_ying_xi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -271,8 +264,7 @@ variant: tiptap
 <p>Mdm Lee Seok Joo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_seok_joo@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:ee_seok_joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_seok_joo@schools.gov.sg</a>
 </p>
 </td>
 </tr>

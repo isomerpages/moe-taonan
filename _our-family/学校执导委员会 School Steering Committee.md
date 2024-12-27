@@ -816,17 +816,23 @@ Head (LH/SH)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>30</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>郝德奕</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>特备课程&nbsp;-&nbsp;中华文化&nbsp;(科主任2）</p>
+<p>特备课程&nbsp;-&nbsp;中华文化&nbsp;</p>
 </td>
+<td rowspan="3" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">hao_deyi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>(科主任2）</p>
 </td>
 </tr>
 <tr>
@@ -835,10 +841,6 @@ Head (LH/SH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH - Special Assistance Plan 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hao_deyi@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -1245,7 +1247,7 @@ Head (LH/SH)</p>
 <td rowspan="4" colspan="1">
 <p>45</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>邝美川</p>
 </td>
 <td rowspan="2" colspan="1">
@@ -1253,15 +1255,12 @@ Head (LH/SH)</p>
 </td>
 <td rowspan="4" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">fong_mei_chuan@@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sgv</a>
 </p>
 </td>
 </tr>
 <tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>（主任）</p>
 </td>

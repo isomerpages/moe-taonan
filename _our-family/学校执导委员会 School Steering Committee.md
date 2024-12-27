@@ -239,8 +239,7 @@ variant: tiptap
 <p>英文部 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lam_may_fong@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:lam_may_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lam_may_fong@schools.gov.sg</a>
 </p>
 </td>
 </tr>

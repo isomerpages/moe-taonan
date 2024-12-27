@@ -1281,8 +1281,7 @@ variant: tiptap
 <p>Mrs Loh Shwu Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lin-loh_shwu_hwa@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:lin-loh_shwu_hwa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin-loh_shwu_hwa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1294,8 +1293,7 @@ variant: tiptap
 <p>Mrs Lorraine Anne Alcantra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lorraine_anne_alcantra@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:lorraine_anne_alcantra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lorraine_anne_alcantra@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1307,8 +1305,7 @@ variant: tiptap
 <p>Mrs Low Su Ying Elizabeth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_su_ying_elizabeth@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:lim_su_ying_elizabeth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_su_ying_elizabeth@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1320,8 +1317,7 @@ variant: tiptap
 <p>Mrs Mimi Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mimi_yeo@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:mimi_yeo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mimi_yeo@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1333,8 +1329,7 @@ variant: tiptap
 <p>Mrs Ngoh- Poh Sze Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">poh_sze_wei@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:poh_sze_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_sze_wei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1346,8 +1341,7 @@ variant: tiptap
 <p>Mrs Ong- Chua Li Ling Eileen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_li_ling_eileen@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:chua_li_ling_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_li_ling_eileen@schools.gov.sg</a>
 </p>
 </td>
 </tr>

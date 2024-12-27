@@ -713,6 +713,34 @@ Head (LH/SH)</p>
 </td>
 </tr>
 <tr>
+<td rowspan="3" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>刘树英</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>美术</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>lim_su_ying_elizabeth@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>（科主任-内部）</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Low Su Ying Elizabeth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - Art (Internal)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p>26</p>
 </td>

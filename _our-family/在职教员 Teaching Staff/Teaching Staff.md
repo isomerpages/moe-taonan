@@ -1712,8 +1712,7 @@ variant: tiptap
 <p>Ms Michelle Lee Jing Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">michelle_lee_jing_qi@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:michelle_lee_jing_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_lee_jing_qi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1725,8 +1724,7 @@ variant: tiptap
 <p>Ms Neo Lay Peng [梁丽萍]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">neo_lay_peng@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:neo_lay_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_lay_peng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1738,8 +1736,7 @@ variant: tiptap
 <p>Ms Ng Lay Kuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_lay_kuan_a@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:ng_lay_kuan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lay_kuan_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1751,8 +1748,7 @@ variant: tiptap
 <p>Ms Ng Lui Kiang [黄蕊坚]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_lui_kiang@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:ng_lui_kiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lui_kiang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1764,8 +1760,7 @@ variant: tiptap
 <p>Ms Ng Shao Chui Delisa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_shao_chui@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:ng_shao_chui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shao_chui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1777,8 +1772,7 @@ variant: tiptap
 <p>Ms Ngoh Siew Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ngoh_siew_teng@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:ngoh_siew_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngoh_siew_teng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1790,8 +1784,7 @@ variant: tiptap
 <p>Ms Ong Jing Yun, Jessica</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ong_jing_yun@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:ong_jing_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_jing_yun@schools.gov.sg</a>
 </p>
 </td>
 </tr>

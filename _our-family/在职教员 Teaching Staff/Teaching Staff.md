@@ -276,8 +276,7 @@ variant: tiptap
 <p>Mdm Lee Yin Ling Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_yin_ling_jasmine@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:lee_yin_ling_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yin_ling_jasmine@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -289,8 +288,7 @@ variant: tiptap
 <p>Mdm Leong Siok Yin Jocelyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">leong_siok_yin@</a>
-<a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:leong_siok_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_siok_yin@schools.gov.sg</a>
 </p>
 </td>
 </tr>

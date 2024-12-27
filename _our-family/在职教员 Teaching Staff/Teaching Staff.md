@@ -2012,7 +2012,7 @@ variant: tiptap
 <p>Ms Yick Fang Ru</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yick_fang_ru@@</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yick_fang_ru@</a>
 <a href="http://schools.gov" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a><a rel="noopener noreferrer nofollow" target="_blank">.sg</a>
 </p>
 </td>

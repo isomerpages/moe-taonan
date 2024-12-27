@@ -516,22 +516,26 @@ Head (LH/SH)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>19</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>吴丽娟</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>华文兼品德与公民教育（级主任）</p>
-<p>华文兼品德与公民教育（级主任）</p>
+<p>华文兼品德与公民教育</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">goh_lay_kian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>（级主任）</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Goh Lay Kian</p>

@@ -709,126 +709,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="2" colspan="1">
-<p>黄小翠</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>学生才能与领导发展 (主任)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Ng Shao Chui Delisa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD - Student, Talent &amp; Leadership Development</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="2" colspan="1">
-<p>许欣蕊</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>学生领导 (科主任)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Koh Xin Rui Eleora</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH - Student Leadership</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>23</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>郭丽煜</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>师资培训 (主任)</p>
-</td>
-<td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kok_lee_yook@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr></tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Kok Lee Yook</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer (SSD)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>24</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>沈品秀</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>师资培训与康乐 (科主任)</p>
-</td>
-<td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">shen_pinxiu@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr></tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Ong- Shen Pinxiu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH - Staff Development &amp; Well-being</p>
-</td>
-</tr>
-<tr>
 <td rowspan="3" colspan="1">
 <p></p>
 </td>
@@ -839,7 +719,7 @@ variant: tiptap
 <p>学生才能与领导发展 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_shao_chui@schools.gov.sg</a>
+<p><a href="mailto:ng_shao_chui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shao_chui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -877,48 +757,27 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="2" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="3" colspan="1">
 <p></p>
 </td>
 <td rowspan="2" colspan="1">
-<p></p>
+<p>陈淑玲</p>
 </td>
 <td rowspan="2" colspan="1">
-<p></p>
+<p>高才部 (科主任1)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p></p>
+<p><a href="mailto:tan_su_ling_violet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_ling_violet@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Tan Su Ling, Violet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH - Gifted Education 1 (GE)</p>
 </td>
 </tr>
 <tr>
@@ -926,27 +785,28 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="2" colspan="1">
-<p></p>
+<p>张宇</p>
 </td>
 <td rowspan="2" colspan="1">
-<p></p>
+<p>高才部 (科主任2)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p></p>
+<p><a href="mailto:zhang_yu_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yu_b@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Zhang Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH - Gifted Education 2 (GE)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>30</p>
+<p></p>
 </td>
 <td rowspan="2" colspan="1">
 <p>翁添保</p>
@@ -955,7 +815,7 @@ variant: tiptap
 <p>特备课程 - 中华文化 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_thiam_poh@schools.gov.sg</a>
+<p><a href="mailto:ang_thiam_poh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_thiam_poh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -970,7 +830,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>31</p>
+<p></p>
 </td>
 <td rowspan="2" colspan="1">
 <p>纪佩妤</p>
@@ -979,7 +839,7 @@ variant: tiptap
 <p>特备课程 - 中华文化 (科主任1)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chee_pey_yi@schools.gov.sg</a>
+<p><a href="mailto:chee_pey_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chee_pey_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -994,7 +854,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>32</p>
+<p></p>
 </td>
 <td rowspan="2" colspan="1">
 <p>郝德奕</p>
@@ -1003,7 +863,7 @@ variant: tiptap
 <p>特备课程&nbsp;-&nbsp;中华文化&nbsp;(科主任2)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hao_deyi@schools.gov.sg</a>
+<p><a href="mailto:hao_deyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hao_deyi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1018,48 +878,50 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>33</p>
+<p></p>
 </td>
 <td rowspan="2" colspan="1">
-<p>黄小翠</p>
+<p>郭丽煜</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>学生才能与领导发展 (主任)</p>
+<p>师资培训 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p></p>
+<p><a href="mailto:kok_lee_yook@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kok_lee_yook@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Ng Shao Chui Delisa</p>
+<p>Mdm Kok Lee Yook</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD - Student, Talent &amp; Leadership Development</p>
+<p>School Staff Developer (SSD)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>34</p>
+<p></p>
 </td>
 <td rowspan="2" colspan="1">
-<p>许欣蕊</p>
+<p>沈品秀</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>学生领导 (科主任)</p>
+<p>师资培训与康乐 (科主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p></p>
+<p><a href="mailto:shen_pinxiu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shen_pinxiu@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Koh Xin Rui Eleora</p>
+<p>Mrs Ong- Shen Pinxiu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Student Leadership</p>
+<p>SH - Staff Development &amp; Well-being</p>
 </td>
 </tr>
 <tr>
@@ -1114,23 +976,22 @@ variant: tiptap
 <p>37</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>陈淑玲</p>
+<p></p>
 </td>
 <td rowspan="2" colspan="1">
-<p>高才部 (科主任1)</p>
+<p></p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_su_ling_violet@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Su Ling, Violet</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Gifted Education 1 (GE)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1138,23 +999,22 @@ variant: tiptap
 <p>38</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>张宇</p>
+<p></p>
 </td>
 <td rowspan="2" colspan="1">
-<p>高才部 (科主任2)</p>
+<p></p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">zhang_yu_b@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Zhang Yu</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Gifted Education 2 (GE)</p>
+<p></p>
 </td>
 </tr>
 <tr>

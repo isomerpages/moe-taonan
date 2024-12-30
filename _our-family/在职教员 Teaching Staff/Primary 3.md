@@ -579,14 +579,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="6" colspan="1">
 <p>3H</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Chow Yuen Meng Jaclyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -594,10 +594,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -607,37 +604,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Feng Jie [冯 洁]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:feng_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">feng_jie@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
@@ -650,16 +628,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Maths</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p>Mdm Lim Lay Choo Tina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_lay_choo_tina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lay_choo_tina@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ang Yong An</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_yong_an@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_yong_an@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

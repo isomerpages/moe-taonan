@@ -1902,5 +1902,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 27 December 2024</strong>
+<p><strong>Updated on 2 January 2025</strong>
 </p>

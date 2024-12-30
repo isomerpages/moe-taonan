@@ -691,10 +691,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Han Huiwen Adeline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:han_huiwen_adeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_huiwen_adeline@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -733,10 +734,12 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Phua Mei Yan [潘美燕] / Mdm Soh Shihui [苏诗惠]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:phua_mei_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phua_mei_yan@schools.gov.sg</a> /
+<a href="mailto:soh_shihui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_shihui@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

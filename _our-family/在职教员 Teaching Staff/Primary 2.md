@@ -532,10 +532,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Nurazimah Binte Ab Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nurazimah_ab_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurazimah_ab_rahman@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -574,6 +575,21 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Yang Xiaojuan [杨晓娟]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yang_xiaojuan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_xiaojuan_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -588,10 +604,11 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Hung Huey Jing [韩惠晶]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hung_huey_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hung_huey_jing@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

@@ -37,6 +37,21 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Khor Peck Yin Katherine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:khor_peck_yin_katherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khor_peck_yin_katherine@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maths</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,7 +63,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

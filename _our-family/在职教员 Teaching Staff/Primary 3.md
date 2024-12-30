@@ -30,7 +30,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="7" colspan="1">
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,9 +46,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Maths</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,9 +56,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>PE</p>
 </td>
@@ -74,58 +68,54 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ngoh Siew Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ngoh_siew_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngoh_siew_teng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Tan Li Shih / Ms Ngoh Siew Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_li_shih@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_shih@schools.gov.sg</a> /
+<a href="mailto:ngoh_siew_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngoh_siew_teng@schools.gov.sg</a>
+</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>English</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chow Yuen Meng Jaclyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low-chow_yuen_meng_jaclyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low-chow_yuen_meng_jaclyn@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Zhao Ang [赵昂]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zhao_ang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_ang@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

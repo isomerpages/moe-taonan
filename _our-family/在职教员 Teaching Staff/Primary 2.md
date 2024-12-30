@@ -619,10 +619,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Cher Boon Kiat Augustine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:cher_boon_kiat_augustine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cher_boon_kiat_augustine@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -661,10 +662,11 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Wan Xifei [万希飞]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:wan_xifei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wan_xifei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

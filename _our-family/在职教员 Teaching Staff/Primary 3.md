@@ -426,24 +426,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Noorlailee Bte Mohd Jusin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:noorlailee_mohd_jusin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noorlailee_mohd_jusin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -451,7 +438,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -468,10 +455,11 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Poh Cheng Yee [傅静瑜]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:poh_cheng_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_cheng_yee@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -493,12 +481,31 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p>Maths</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mr Sung Sheng Yi Kelvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sung_sheng_yi_kelvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sung_sheng_yi_kelvin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Yong An / Ms Ngoh Siew Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_yong_an@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_yong_an@schools.gov.sg</a> /
+<a href="mailto:ngoh_siew_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngoh_siew_teng@schools.gov.sg</a>
+</p>
+<p></p>
 <p></p>
 </td>
 </tr>

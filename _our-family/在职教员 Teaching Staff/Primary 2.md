@@ -739,10 +739,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Thio Lay Lay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:thio_lay_lay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thio_lay_lay@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -772,10 +773,11 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Zhao Ang [赵昂]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zhao_ang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_ang@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

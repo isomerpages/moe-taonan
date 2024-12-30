@@ -730,24 +730,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Noraini Binte Mohamed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:noraini_mohamed_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_mohamed_ali@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -755,7 +742,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -772,10 +759,11 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lu Wen [吕雯]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lu_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lu_wen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -797,13 +785,29 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p>Maths</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Ms Meitri Harshad Parikh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:meitri_parikh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">meitri_parikh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Toh Kai Xuan, Jeanette</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_kai_xuan_jeanette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_kai_xuan_jeanette@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

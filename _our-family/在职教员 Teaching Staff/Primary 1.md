@@ -879,10 +879,10 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Thio Lay Lay</p>
+<p>Mdm Wang Binxin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">thio_lay_lay@moe.edu.sg</a>
+<p><a href="mailto:wang_binxin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_binxin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -922,10 +922,10 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhao Ang [赵昂]</p>
+<p>Mdm Ang Sio Hoon [洪小芬]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">zhao_ang@moe.edu.sg</a>
+<p><a href="mailto:ang_sio_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_sio_hoon@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

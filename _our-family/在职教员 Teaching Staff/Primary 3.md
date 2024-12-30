@@ -198,10 +198,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lim Ying Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_ying_xuan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ying_xuan_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -210,20 +211,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -251,7 +238,22 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Chee Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_chee_yong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chee_yong_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -265,13 +267,29 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Maths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Low Khee How</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_khee_how@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_khee_how@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Liu Ying [刘莹]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:liu_ying_d@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_ying_d@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

@@ -117,7 +117,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -127,6 +127,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -142,6 +145,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -153,7 +159,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -166,6 +172,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -178,7 +187,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -188,6 +197,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -203,6 +215,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -214,9 +229,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Feng Jie [冯 洁]</p>
 </td>
-<td rowspan="2" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">feng_jie@moe.edu.sg</a>
-</p>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -228,6 +242,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -240,9 +257,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Goh Soek Fong [郭素坊]</p>
 </td>
-<td rowspan="2" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">goh_soek_fong@moe.edu.sg</a>
-</p>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -251,6 +267,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -266,9 +285,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Khor Peck Yin Katherine</p>
 </td>
-<td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">khor_peck_yin_katherine@moe.edu.sg</a>
-</p>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -281,6 +299,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -288,6 +309,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -304,8 +328,7 @@ variant: tiptap
 <p>Ms Ong Jing Yun, Jessica</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ong_jing_yun@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -318,9 +341,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Hui Hoon</p>
 </td>
-<td rowspan="2" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_hui_hoon@moe.edu.sg</a>
-</p>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -333,6 +355,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -344,9 +369,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Aameer Bin Hassim</p>
 </td>
-<td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">aameer_hassim@moe.edu.sg</a>
-</p>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -359,6 +383,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -366,6 +393,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

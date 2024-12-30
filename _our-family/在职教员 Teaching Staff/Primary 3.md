@@ -282,10 +282,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Looi Yen Mei Wendy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:looi_yen_mei_wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">looi_yen_mei_wendy@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -294,34 +295,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -349,6 +322,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hao Deyi [郝德奕]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hao_deyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hao_deyi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -356,6 +344,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Yong An</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_yong_an@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_yong_an@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

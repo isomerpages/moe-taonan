@@ -1245,7 +1245,7 @@ variant: tiptap
 <p>102</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kim Snodgrass</p>
+<p>Mrs Kim Snodgrass (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="kim_christine_lim_mui_a@schools.gov.sg" rel="noopener nofollow" target="_blank">kim_christine_lim_mui_a@schools.gov.sg</a>

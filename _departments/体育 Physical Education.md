@@ -168,5 +168,5 @@ sincerity and integrity.</p>
 </tr>
 </tbody>
 </table>
-<h3>P5 Camp Briefing Slides</h3>
+<h3></h3>
 <p></p>

@@ -807,10 +807,10 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Lee Choo Sharon</p>
+<p>Mdm Nur Rasheeda Bte Mohd Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">liu_lee_choo_sharon@moe.edu.sg</a>
+<p><a href="nur_rasheeda_mohd_ismail@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_rasheeda_mohd_ismail@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -850,25 +850,11 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Syed Ali Omar Bin Syed Halid Alhatas</p>
+<p>Mdm Clare Li Xunzi [李勋子]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">syed_ali_omar_halid@moe.edu.sg</a>
+<p><a href="clare_li_xunzi@schools.gov.sg" rel="noopener nofollow" target="_blank">clare_li_xunzi@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -879,11 +865,10 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yen Ping Gina [陈燕萍]</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_yen_ping_gina@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>

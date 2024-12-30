@@ -671,7 +671,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="5" colspan="1">
 <p>2K</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -683,17 +683,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liu_lee_choo_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_lee_choo_sharon@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -712,15 +701,16 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Syed Ali Omar Bin Syed Halid Alhatas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:syed_ali_omar_halid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">syed_ali_omar_halid@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Music</p>
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -734,10 +724,11 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Yen Ping Gina [陈燕萍]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_yen_ping_gina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yen_ping_gina@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

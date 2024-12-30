@@ -275,7 +275,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="6" colspan="1">
 <p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -291,9 +291,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -305,9 +302,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Maths</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -318,9 +312,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
 </td>
@@ -334,9 +325,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -347,9 +335,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
@@ -362,23 +347,21 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="6" colspan="1">
 <p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Sung Sheng Yi Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sung_sheng_yi_kelvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sung_sheng_yi_kelvin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Maths</p>
 </td>
@@ -391,9 +374,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -405,50 +385,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Goh Soek Fong [郭素坊]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:goh_soek_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_soek_fong@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
@@ -457,6 +404,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lam May Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lam_may_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lam_may_fong@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

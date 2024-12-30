@@ -115,10 +115,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lee Seok Joo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_seok_joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_seok_joo@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -157,10 +158,11 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Chua Pei Boon (FAJT) [蔡佩雯]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="chua_pei_boon@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_pei_boon@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>

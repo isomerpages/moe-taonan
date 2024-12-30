@@ -232,7 +232,8 @@ variant: tiptap
 <p>Mdm Hu Yuxia [胡玉侠]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hu_yuxia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hu_yuxia@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

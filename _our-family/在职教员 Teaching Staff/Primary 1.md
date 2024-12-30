@@ -244,10 +244,11 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lu Wen</p>
+<p>Ms Lu Wen [吕雯]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lu_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lu_wen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -320,6 +321,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lau Ying Xi [刘颖熹]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lau_ying_xi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_ying_xi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

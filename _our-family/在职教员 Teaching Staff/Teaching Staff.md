@@ -201,7 +201,7 @@ variant: tiptap
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hao Deyi</p>
+<p>Mdm Hao Deyi [郝德奕]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hao_deyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hao_deyi@schools.gov.sg</u></a>

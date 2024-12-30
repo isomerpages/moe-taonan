@@ -88,7 +88,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Cheah Li Wei [谢俐蔚]</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheah_li_wei@schools.gov.sg</a>
 </p>
 </td>
@@ -99,6 +99,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

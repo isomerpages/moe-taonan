@@ -519,6 +519,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
+<p></p>
+</td>
+<td rowspan="2" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>课程创新 (主任)</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><a href="mailto:helmiaty_mohamad_amin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helmiaty_mohamad_amin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Helmiaty Binte Mohamad Amin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD - Curriculum Innovation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>21</p>
 </td>
 <td rowspan="2" colspan="1">
@@ -563,6 +587,197 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH - Physical Education (PE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p></p>
+</td>
+<td rowspan="2" colspan="1">
+<p>侯慧冰</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>美育与课程辅助活动 (主任)</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><a href="mailto:how_hooi_bing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">how_hooi_bing@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm How Hooi Bing Tiffany</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD - Aesthetics &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>艺体陶冶计划与课程辅助活动 (科主任-内部)</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><a href="mailto:vikneswaran_selvarajoo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vikneswaran_selvarajoo@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Vikneswaran Selvarajoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - PAL &amp; CCA (Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p></p>
+</td>
+<td rowspan="2" colspan="1">
+<p>刘树英</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>美术 (科主任-内部)</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><a href="mailto:lim_su_ying_elizabeth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_su_ying_elizabeth@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Low Su Ying Elizabeth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - Art (Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p></p>
+</td>
+<td rowspan="2" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>品德与公民教育 (主任)</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><a href="mailto:lorraine_anne_alcantra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lorraine_anne_alcantra@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Lorraine Anne Alcantra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD - Character &amp; Citizenship Education (CCE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p></p>
+</td>
+<td rowspan="2" colspan="1">
+<p>郭丽善</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>品德与公民教育 (科主任-内部)</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><a href="mailto:emma_kok_li_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">emma_kok_li_shan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Emma Kok Li Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - Character &amp; Citizenship Education (CCE) (Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="2" colspan="1">
+<p>黄小翠</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>学生才能与领导发展 (主任)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ng Shao Chui Delisa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD - Student, Talent &amp; Leadership Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="2" colspan="1">
+<p>许欣蕊</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>学生领导 (科主任)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Koh Xin Rui Eleora</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -615,121 +830,118 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>25</p>
+<p></p>
 </td>
 <td rowspan="2" colspan="1">
-<p>侯慧冰</p>
+<p>黄小翠</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>美育与课程辅助活动 (主任)</p>
+<p>学生才能与领导发展 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">how_hooi_bing@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ng_shao_chui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm How Hooi Bing Tiffany</p>
+<p>Miss Ng Shao Chui Delisa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD - Aesthetics &amp; CCA</p>
+<p>HOD - Student, Talent &amp; Leadership Development</p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>26</p>
+<p></p>
 </td>
 <td rowspan="2" colspan="1">
-<p>刘树英</p>
+<p>许欣蕊</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>美术 (科主任-内部)</p>
+<p>学生领导 (科主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>lim_su_ying_elizabeth@schools.gov.sg</u></a>
+<p><a href="mailto:koh_xin_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_xin_rui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Low Su Ying Elizabeth</p>
+<p>Miss Koh Xin Rui Eleora</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Art (Internal)</p>
+<p>SH - Student Leadership</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>27</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>艺体陶冶计划与课程辅助活动 (科主任-内部)</p>
+<p></p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">vikneswaran_selvarajoo@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Vikneswaran Selvarajoo</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - PAL &amp; CCA (Internal)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>28</p>
+<p></p>
 </td>
 <td rowspan="2" colspan="1">
-<p>-</p>
+<p></p>
 </td>
 <td rowspan="2" colspan="1">
-<p>品德与公民教育 (主任)</p>
+<p></p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lorraine_anne_alcantra@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lorraine Anne Alcantra</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD - Character &amp; Citizenship Education (CCE)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>29</p>
+<p></p>
 </td>
 <td rowspan="2" colspan="1">
-<p>郭丽善</p>
+<p></p>
 </td>
 <td rowspan="2" colspan="1">
-<p>品德与公民教育 (科主任-内部)</p>
+<p></p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>emma_kok_li_shan@schools.gov.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Emma Kok Li Shan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Character &amp; Citizenship Education (CCE) (Internal)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -815,8 +1027,7 @@ variant: tiptap
 <p>学生才能与领导发展 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_shao_chui@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr></tr>
@@ -839,8 +1050,7 @@ variant: tiptap
 <p>学生领导 (科主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_xin_rui@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr></tr>

@@ -244,11 +244,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="5" colspan="1">
 <p>4E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>Math</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jessilin Khee Shi Lin</p>
@@ -256,28 +258,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jessilin_khee_shi_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jessilin_khee_shi_lin@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>

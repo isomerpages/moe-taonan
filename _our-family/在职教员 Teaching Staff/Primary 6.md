@@ -576,6 +576,21 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Thong Jia Sui Jessica</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:thong_jia_sui_jessica@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thong_jia_sui_jessica@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -584,10 +599,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p>Music</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -604,24 +619,11 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Ong- Chua Li Ling Eileen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chua_li_ling_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_li_ling_eileen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -646,10 +648,11 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Thong Jia Sui Jessica</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:thong_jia_sui_jessica@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thong_jia_sui_jessica@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -660,10 +663,11 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Clare Li Xunzi [李勋子]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:clare_li_xunzi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">clare_li_xunzi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

@@ -858,8 +858,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>6-3</p>
+<p>(GE)</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -874,9 +876,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(GE)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Maths</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -888,9 +887,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Science</p>
 </td>

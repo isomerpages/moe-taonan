@@ -200,7 +200,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2F</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -208,6 +208,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Meitri Harshad Parikh</p>
@@ -219,18 +220,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Math</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Sharon Liu Lee Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:liu_lee_choo_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_lee_choo_sharon@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tai Chi Hui [戴芷慧]</p>
@@ -238,17 +241,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tai_chi_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tai_chi_hui@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>

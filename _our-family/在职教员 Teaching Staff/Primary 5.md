@@ -57,7 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -129,7 +129,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -225,7 +225,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -275,7 +275,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -392,7 +392,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Keng Tiong Alex</p>
@@ -431,7 +431,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -503,7 +503,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -576,7 +576,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -740,7 +740,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Moi Mei Kuen</p>
@@ -780,7 +780,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Francisca Tan / Mr Ngiam Tee Teng</p>
@@ -912,7 +912,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ngoh Siew Teng / Mrs Francisca Tan</p>
@@ -953,7 +953,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Francisca Tan / Ms Ngoh Siew Teng</p>

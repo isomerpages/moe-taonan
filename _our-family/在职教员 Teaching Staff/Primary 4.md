@@ -821,8 +821,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="6" colspan="1">
 <p>4-1</p>
+<p>(GE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
@@ -837,9 +838,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(GE)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -850,9 +848,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
 </td>
@@ -866,9 +861,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Maths&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -879,9 +871,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Science&nbsp;</p>
 </td>
@@ -894,9 +883,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>

@@ -755,7 +755,7 @@ variant: tiptap
 <p>Mdm Wee Kai Jee (FAJT) [黄开利]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wee_kai_jee_a@moe.edu.sg</a>
+<p><a href="mailto:Wee_Kai_Jee_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wee_kai_jee_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>

@@ -116,7 +116,7 @@ variant: tiptap
 <p>Mrs Seng- Ng Kooi Fong [黄桂芳]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>seng-ng_kooi_fong@moe.edu.sg</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>sengng_kooi_fong@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

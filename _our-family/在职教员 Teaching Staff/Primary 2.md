@@ -278,7 +278,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2H</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -287,6 +287,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurazimah Binte Ab Rahman</p>
@@ -298,29 +300,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>Music</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yang Xiaojuan [杨晓娟]</p>
@@ -328,17 +309,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yang_xiaojuan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_xiaojuan_a@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Music</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>

@@ -676,7 +676,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5-4</p>
 <p>(GE)</p>
 </td>
@@ -701,6 +701,18 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_sue_may_francisca@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sue_may_francisca@schools.gov.sg</a> /
 <a href="mailto:ngoh_siew_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngoh_siew_teng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kim Snodgrass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kim_christine_lim_mui_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kim_christine_lim_mui_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>

@@ -37,10 +37,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Law- Chin Wai Mun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:law-chin_wai_mun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">law-chin_wai_mun@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -49,34 +50,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -104,13 +77,43 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Peng Gek [陈萍玉]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_peng_gek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_peng_gek@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Loh Shwu Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lin-loh_shwu_hwa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin-loh_shwu_hwa@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

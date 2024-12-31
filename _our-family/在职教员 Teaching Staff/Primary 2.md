@@ -220,18 +220,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Liu Lee Choo Sharon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liu_lee_choo_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_lee_choo_sharon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
 <p>Higher Chinese</p>
 </td>
@@ -240,6 +228,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tai_chi_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tai_chi_hui@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Liu Lee Choo Sharon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liu_lee_choo_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_lee_choo_sharon@schools.gov.sg</a>
 </p>
 </td>
 </tr>

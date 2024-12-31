@@ -682,10 +682,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Ong- Pang Shi Jia Canphylia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:pang_shi_jia_canphylia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_shi_jia_canphylia@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -710,10 +711,11 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Teo Choon Meng (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:teo_choon_meng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_choon_meng_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -738,10 +740,11 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Michelle Lee Jing Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:michelle_lee_jing_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_lee_jing_qi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -752,10 +755,11 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lau Ying Xi [刘颖熹]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lau_ying_xi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_ying_xi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

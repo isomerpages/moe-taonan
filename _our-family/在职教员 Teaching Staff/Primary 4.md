@@ -244,7 +244,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>4E</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -263,6 +263,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fathin Ha Sya-Syah Binte Suhadak</p>
@@ -270,17 +271,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fathin_ha_sya-syah_suhadak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fathin_ha_sya-syah_suhadak@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Art</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>

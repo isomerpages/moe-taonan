@@ -227,6 +227,21 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Latha- Siva PVL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siva_pvl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siva_pvl@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -238,13 +253,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Goh Yen Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:goh_yen_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yen_ping@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -266,13 +282,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
+<p>Maths</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Teo Choon Meng (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:teo_choon_meng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_choon_meng_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -283,24 +300,11 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Goh Soek Fong [郭素坊]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:goh_soek_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_soek_fong@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>

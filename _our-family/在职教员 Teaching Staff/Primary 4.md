@@ -411,7 +411,7 @@ variant: tiptap
 <p>Mdm Phua Mei Yan [潘美燕]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:phua_mei_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phua_mei_yan@schools.gov.sg</a> 
+<p><a href="mailto:phua_mei_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phua_mei_yan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -576,7 +576,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>4-1</p>
 <p>(GE)</p>
 </td>
@@ -602,6 +602,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_hon_shin_clifton@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hon_shin_clifton@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Grace-Clemence Wong Ying Qi / Mrs Mimi Cheong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_ying_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ying_qi@schools.gov.sg</a> /
+<a href="mailto:mimi_yeo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mimi_yeo@schools.gov.sg</a>
 </p>
 </td>
 </tr>

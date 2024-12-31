@@ -69,9 +69,6 @@ variant: tiptap
 <p><a href="mailto:tan_li_shih@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_shih@schools.gov.sg</a> /
 <a href="mailto:ngoh_siew_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngoh_siew_teng@schools.gov.sg</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -330,7 +327,6 @@ variant: tiptap
 <p><a href="mailto:ang_yong_an@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_yong_an@schools.gov.sg</a> /
 <a href="mailto:ngoh_siew_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngoh_siew_teng@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>

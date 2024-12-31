@@ -828,6 +828,21 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Gurung-Lee Chin Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_chin_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chin_min@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(GE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -836,16 +851,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(GE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Hon Shin Clifton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_hon_shin_clifton@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hon_shin_clifton@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -870,10 +886,11 @@ variant: tiptap
 <p>Science&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Wong Hong Aik Allan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:wong_hong_aik_allan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_hong_aik_allan@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -884,10 +901,11 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Zhang Yu [张宇]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zhang_yu_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yu_b@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -976,5 +994,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 01 August 2024</strong>
+<p><strong>Updated on 02 January 2025</strong>
 </p>

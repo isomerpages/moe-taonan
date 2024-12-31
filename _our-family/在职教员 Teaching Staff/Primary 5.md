@@ -72,11 +72,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="4" colspan="1">
 <p>5B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamad Suhirman Bin Zainal</p>
@@ -88,29 +90,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chan Yi Jun James</p>
@@ -118,17 +99,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:james_chan_yi_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">james_chan_yi_jun@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>

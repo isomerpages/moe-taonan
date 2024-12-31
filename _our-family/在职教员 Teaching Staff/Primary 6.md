@@ -244,52 +244,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Koh Xin Rui Eleora</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:koh_xin_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_xin_rui@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -308,16 +267,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science&nbsp;</p>
+<p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ang Bee Lian [洪美莲]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ang_bee_lian_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_bee_lian_b@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -332,6 +306,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Amy- Helmiaty Binte Mohamad Amin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:helmiaty_mohamad_amin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helmiaty_mohamad_amin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

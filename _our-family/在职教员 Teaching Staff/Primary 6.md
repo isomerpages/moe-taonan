@@ -409,10 +409,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Poonam Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:poonam_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poonam_singh@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -437,24 +438,11 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Amy- Helmiaty Binte Mohamad Amin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:helmiaty_mohamad_amin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helmiaty_mohamad_amin@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -479,10 +467,11 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Koh Xin Rui Eleora</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:koh_xin_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_xin_rui@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -490,13 +479,14 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Samantha Evon Chia Chin Mei [谢静美]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:samantha_evon_chia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_evon_chia@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

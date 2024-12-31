@@ -651,10 +651,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lim Chii Huey [林绮惠]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_chii_huey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chii_huey@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -662,13 +663,15 @@ variant: tiptap
 <p>(Mixed Form Class)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PE</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Quah- Heng Yin Qi / Mr Ngiam Tee Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:heng_yin_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_yin_qi@schools.gov.sg</a> /
+<a href="mailto:ngiam_tee_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngiam_tee_teng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

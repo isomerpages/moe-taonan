@@ -245,6 +245,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Khadijah Cassim Madari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Khadijah_Cassim_Madari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khadijah_cassim_madari@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>19</p>
 </td>
 <td rowspan="1" colspan="1">

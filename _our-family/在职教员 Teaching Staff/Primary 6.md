@@ -40,10 +40,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Mohammad Daud Teo B Mohd Anwar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:daud_teo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">daud_teo@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -65,27 +66,14 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Neo Lay Peng [梁丽萍]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:neo_lay_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_lay_peng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +95,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -118,16 +106,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Yusuf Mirza Bin M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_yusuf_mirza@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_yusuf_mirza@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English (Foundation)</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Teo Wei Loon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:teo_wei_loon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wei_loon@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -138,10 +142,11 @@ variant: tiptap
 <p>Maths (Foundation)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Khadijah Cassim Madari (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:khadijah_cassim_madari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khadijah_cassim_madari@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -166,10 +171,11 @@ variant: tiptap
 <p>Chinese (Foundation)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ong Wee Wah [王维华]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ong_wee_wah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wee_wah@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

@@ -850,10 +850,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Chong Zhi Howe Kenneth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chong_zhi_howe_kenneth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_zhi_howe_kenneth@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -861,7 +862,7 @@ variant: tiptap
 <p>(Mixed Form Class)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -878,10 +879,11 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Leong Lye Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:leong_lye_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_lye_ching@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -892,10 +894,12 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ang Thiam Poh [翁添保] / Mdm Tan Peng Gek [陈萍玉]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ang_thiam_poh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_thiam_poh@schools.gov.sg</a> /
+<a href="mailto:tan_peng_gek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_peng_gek@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

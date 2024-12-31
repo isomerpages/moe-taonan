@@ -902,10 +902,11 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Kwan Kah Poh Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kwan_kah_poh_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_kah_poh_rachel@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -916,10 +917,12 @@ variant: tiptap
 <p>Maths</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ngoh Siew Teng / Mrs Francisca Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ngoh_siew_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngoh_siew_teng@schools.gov.sg</a> /
+<a href="mailto:tan_sue_may_francisca@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sue_may_francisca@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

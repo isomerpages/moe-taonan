@@ -487,10 +487,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Teo Wei Loon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:teo_wei_loon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wei_loon@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -509,49 +510,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Science</p>
@@ -568,13 +527,58 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese</p>
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Praise Teo Hwee Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:praise_teo_hwee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">praise_teo_hwee_leng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jenny Tan- Lian Wei Chun Jenny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lian_wei_chun_jenny@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lian_wei_chun_jenny@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wu Yun [吴赟]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wu_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wu_yun@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

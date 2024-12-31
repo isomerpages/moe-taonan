@@ -567,10 +567,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Tan Yew Li Yang Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sharon_tan_yew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharon_tan_yew@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -579,48 +580,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -648,13 +607,58 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Hoe Seng Francis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_hoe_seng_francis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hoe_seng_francis@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Jing Yun, Jessica</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_jing_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_jing_yun@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Woo Jenny [邬燕妮]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:woo_jenny@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">woo_jenny@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

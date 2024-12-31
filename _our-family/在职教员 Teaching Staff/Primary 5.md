@@ -763,8 +763,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5-3</p>
+<p>(GE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
@@ -779,9 +780,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(GE)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Maths</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -795,16 +793,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Kim Snodgrass (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kim_christine_lim_mui_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kim_christine_lim_mui_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

@@ -770,10 +770,11 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Leong Lye Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:leong_lye_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_lye_ching@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -784,10 +785,12 @@ variant: tiptap
 <p>Maths</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Francisca Tan / Mr Ngiam Tee Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_sue_may_francisca@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sue_may_francisca@schools.gov.sg</a> /
+<a href="mailto:ngiam_tee_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngiam_tee_teng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

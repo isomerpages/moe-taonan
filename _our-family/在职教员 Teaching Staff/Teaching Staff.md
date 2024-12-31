@@ -120,7 +120,7 @@ variant: tiptap
 <p>Mdm Chua Pei Boon (FAJT) [蔡佩雯]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_pei_boon@moe.edu.sg</a>
+<p><a href="mailto:Chua_Pei_Boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_pei_boon@schools.gov.sg</a>
 </p>
 </td>
 </tr>

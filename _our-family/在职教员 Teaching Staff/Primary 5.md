@@ -494,10 +494,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Ong- Shen Pinxiu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:shen_pinxiu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shen_pinxiu@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -505,7 +506,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>Maths</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -522,10 +523,11 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Hung Huey Jing [韩惠晶]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hung_huey_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hung_huey_jing@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -550,10 +552,11 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Ong- Pang Shi Jia Canphylia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:pang_shi_jia_canphylia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_shi_jia_canphylia@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -561,13 +564,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Adeline Ong Hui En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:adeline_ong_hui_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_ong_hui_en@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

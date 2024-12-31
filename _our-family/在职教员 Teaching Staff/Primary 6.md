@@ -179,7 +179,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>6C</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -209,6 +209,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_bee_lian_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_bee_lian_b@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Lay Kian [吴丽娟]/</p>
+<p>Mdm Samantha Evon Chia Chin Mei [谢静美]/</p>
+<p>Mdm Wu Yun [吴赟]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_lay_kian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_lay_kian@schools.gov.sg</a>
+</p>
+<p><a href="mailto:samantha_evon_chia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_evon_chia@schools.gov.sg</a>
+</p>
+<p><a href="mailto:wu_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wu_yun@schools.gov.sg</a>
 </p>
 </td>
 </tr>

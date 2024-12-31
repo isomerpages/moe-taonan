@@ -593,12 +593,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5L</p>
 <p>(Mixed Form Class)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chong Zhi Howe Kenneth</p>
@@ -606,17 +607,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_zhi_howe_kenneth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_zhi_howe_kenneth@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -686,7 +676,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5-4</p>
 <p>(GE)</p>
 </td>
@@ -716,14 +706,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kim Snodgrass (FAJT)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kim_christine_lim_mui_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kim_christine_lim_mui_a@schools.gov.sg</a>
-</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

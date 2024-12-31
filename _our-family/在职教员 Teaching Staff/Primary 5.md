@@ -422,10 +422,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Moi Mei Kuen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:moi_mei_kuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moi_mei_kuen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -464,24 +465,11 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chee Pey Yi [纪佩妤]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chee_pey_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chee_pey_yi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -496,6 +484,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeo Yu Nian Nikki</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_yu_nian_nikki@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yu_nian_nikki@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

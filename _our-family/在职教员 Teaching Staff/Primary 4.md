@@ -512,10 +512,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Emma Kok Li Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:emma_kok_li_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>emma_kok_li_shan@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -540,10 +541,11 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Vikneswaran Selvarajoo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:vikneswaran_selvarajoo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vikneswaran_selvarajoo@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -551,7 +553,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -568,10 +570,26 @@ variant: tiptap
 <p>Maths</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Jessilin Khee Shi Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jessilin_khee_shi_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jessilin_khee_shi_lin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Li Shih</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_li_shih@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_shih@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

@@ -313,62 +313,26 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="7" colspan="1">
 <p>6D</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Tan-Ng Siew Leng Crayon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:crayon_tan_ng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">crayon_tan_ng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="2" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Maths</p>
 </td>
@@ -381,10 +345,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese</p>
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -395,8 +356,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Form Teacher 2</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Lay Kian [吴丽娟]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_lay_kian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_lay_kian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
@@ -405,6 +375,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Daud Teo B Mohd Anwar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:daud_teo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">daud_teo@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ashley How (Fong Mei Chuan)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fong_mei_chuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fong_mei_chuan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

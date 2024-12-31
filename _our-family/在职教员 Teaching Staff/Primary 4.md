@@ -598,52 +598,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lee Yin Ling Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_yin_ling_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yin_ling_jasmine@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -679,13 +638,58 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Yusrina Yaakob</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_yusrina_yaakob@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_yusrina_yaakob@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeo Yu Nian Nikki</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_yu_nian_nikki@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yu_nian_nikki@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Wee Kai Jee (FAJT) [黄开利]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:wee_kai_jee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee_kai_jee_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>

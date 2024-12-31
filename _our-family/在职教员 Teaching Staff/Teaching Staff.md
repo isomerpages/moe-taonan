@@ -150,14 +150,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Gloria Poon Mui Geok</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gloria_poon_mui_geok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gloria_poon_mui_geok@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -492,7 +491,7 @@ variant: tiptap
 <p>Mdm Patsy Hoon (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hoon_poh_nguak_patsy_a@moe.edu.sg</a>
+<p><a href="mailto:Hoon_Poh_Nguak_Patsy_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoon_poh_nguak_patsy_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>

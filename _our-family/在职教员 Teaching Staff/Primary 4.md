@@ -600,10 +600,12 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Phua Mei Yan [潘美燕] / Mdm Soh Shihui [苏诗惠]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:phua_mei_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phua_mei_yan@schools.gov.sg</a> /
+<a href="mailto:soh_shihui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_shihui@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

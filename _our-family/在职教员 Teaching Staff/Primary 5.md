@@ -723,45 +723,43 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5-1</p>
+<p>(MS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chia Jie Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chia_jie_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_jie_wei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>(MS)</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Maths</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Moi Mei Kuen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:moi_mei_kuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moi_mei_kuen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Loh Shwu Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lin-loh_shwu_hwa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin-loh_shwu_hwa@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

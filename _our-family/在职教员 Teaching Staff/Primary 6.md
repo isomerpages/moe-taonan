@@ -946,10 +946,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Dominic Nyi Nyi Htut</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:dominic_nyi_nyi_htut@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dominic_nyi_nyi_htut@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -960,10 +961,11 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Tan Seow Yun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_seow_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_seow_yun@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -974,10 +976,11 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Shen Yang [沈阳]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:shen_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shen_yang@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

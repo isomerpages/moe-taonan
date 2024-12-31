@@ -743,10 +743,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Ngoh- Poh Sze Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:poh_sze_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_sze_wei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -754,13 +755,14 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
+<p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Muhammad Yusuf Mirza Bin M</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:muhammad_yusuf_mirza@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_yusuf_mirza@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -768,13 +770,14 @@ variant: tiptap
 <p>(Mixed Form Class)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Pang Say Wak [陈才发]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:pang_say_wak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_say_wak@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

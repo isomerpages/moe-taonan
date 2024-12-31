@@ -221,11 +221,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="4" colspan="1">
 <p>5E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>English</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Adeline Ong Hui En</p>
@@ -237,29 +239,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Zulhelmi Bin Omar</p>
@@ -267,17 +248,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zulhelmi_bin_omar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zulhelmi_bin_omar@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>

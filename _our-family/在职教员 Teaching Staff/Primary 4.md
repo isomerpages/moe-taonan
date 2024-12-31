@@ -125,38 +125,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Michelle Lee Jing Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:michelle_lee_jing_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_lee_jing_qi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -192,13 +165,58 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Nurfarah Binte Mohamed R Z</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_nurfarah_mohamed_r@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurfarah_mohamed_r@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Leong Siok Yin Jocelyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leong_siok_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_siok_yin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ang Sio Hoon [洪小芬]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ang_sio_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_sio_hoon@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

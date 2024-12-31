@@ -7,6 +7,7 @@ variant: tiptap
 ---
 <p><strong>ONLY TEACHERS TEACHING THE CHINESE LANGUAGE WILL HAVE THEIR NAMES REFLECTED IN CHINESE CHARACTERS</strong>
 </p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -41,7 +42,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
 <p>English</p>
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norhayati Binte Ibrahim / Mdm Ng Li Min Janice</p>
@@ -76,7 +77,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
 <p>English</p>
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Seok Joo</p>

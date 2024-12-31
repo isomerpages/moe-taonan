@@ -665,38 +665,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Heng Boon Lih</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:heng_boon_lih@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_boon_lih@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -718,7 +691,22 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jenny Tan- Lian Wei Chun Jenny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lian_wei_chun_jenny@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lian_wei_chun_jenny@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -732,13 +720,29 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Kime Huey Doreen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_kime_huey_doreen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kime_huey_doreen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Dawn Chua Yu Xiu [蔡育修]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:dawn_chua_yu_xiu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dawn_chua_yu_xiu@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

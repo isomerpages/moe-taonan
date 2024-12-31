@@ -30,11 +30,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Law- Chin Wai Mun</p>
@@ -46,29 +48,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Peng Gek [陈萍玉]</p>
@@ -76,17 +57,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_peng_gek@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_peng_gek@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>

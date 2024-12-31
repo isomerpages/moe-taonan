@@ -338,10 +338,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Adeline Ong Hui En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:adeline_ong_hui_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_ong_hui_en@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -350,34 +351,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -405,13 +378,58 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zulhelmi Bin Omar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zulhelmi_bin_omar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zulhelmi_bin_omar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Keng Tiong Alex</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_keng_tiong_alex@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_keng_tiong_alex@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Hao Deyi [郝德奕]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hao_deyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hao_deyi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

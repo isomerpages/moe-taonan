@@ -132,7 +132,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -194,7 +194,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -257,7 +257,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -309,7 +309,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -373,7 +373,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -437,7 +437,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -513,7 +513,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -577,7 +577,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -627,7 +627,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -699,7 +699,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

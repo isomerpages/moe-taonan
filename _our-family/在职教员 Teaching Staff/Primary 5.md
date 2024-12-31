@@ -109,10 +109,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Mohamad Suhirman Bin Zainal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:mohamad_suhirman_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_suhirman_zainal@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -121,48 +122,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -190,13 +149,58 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Yi Jun James</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:james_chan_yi_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">james_chan_yi_jun@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ngoh Siew Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ngoh_siew_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngoh_siew_teng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Cheah Li Wei [谢俐蔚]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheah_li_wei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

@@ -66,7 +66,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2B</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -75,6 +75,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>English</p>
+<p>Maths</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Seok Joo</p>
@@ -86,47 +88,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chua Pei Boon (FAJT) [蔡佩雯]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chua_pei_boon@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_pei_boon@moe.edu.sg</a>
+<p><a href="mailto:Chua_Pei_Boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Pei_Boon@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>

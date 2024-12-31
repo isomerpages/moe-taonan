@@ -33,7 +33,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="10" colspan="1">
+<td rowspan="6" colspan="1">
 <p>6A</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -46,6 +46,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammad Daud Teo B Mohd Anwar</p>
@@ -57,18 +58,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>Chinese</p>
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Neo Lay Peng [梁丽萍]</p>
@@ -80,29 +72,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Yusuf Mirza Bin M</p>
@@ -126,25 +96,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maths (Foundation)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Khadijah Cassim Madari (FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:khadijah_cassim_madari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khadijah_cassim_madari@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p>Math (Foundation)</p>
 <p>Science (Foundation)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Khadijah Cassim Madari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:khadijah_cassim_madari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khadijah_cassim_madari@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -160,7 +120,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="4" colspan="1">
 <p>6B</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -170,6 +130,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>English</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Avneesh Kaur</p>
@@ -181,29 +143,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Low Su Ying Elizabeth</p>
@@ -215,13 +156,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Ong-Chua Li Ling Eileen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chua_li_ling_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_li_ling_eileen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

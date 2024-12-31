@@ -454,7 +454,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5J</p>
 <p>(Mixed Form Class)</p>
 </td>
@@ -468,17 +468,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:deng_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">deng_min@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -567,7 +556,7 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kim Snodgrass (FAJT)</p>
+<p>Mrs Kim Snodgrass</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kim_christine_lim_mui_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kim_christine_lim_mui_a@schools.gov.sg</a>

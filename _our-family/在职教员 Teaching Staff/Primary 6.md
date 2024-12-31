@@ -167,10 +167,11 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Avneesh Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:avneesh_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">avneesh_kaur@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -179,48 +180,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -245,6 +204,50 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Low Su Ying Elizabeth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_su_ying_elizabeth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_su_ying_elizabeth@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tai Chi Hui [戴芷慧]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tai_chi_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tai_chi_hui@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>6C</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -253,7 +256,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -263,6 +266,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Maths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

@@ -915,7 +915,7 @@ variant: tiptap
 <p>(GE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Social Studies</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -929,13 +929,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Lim Hon Shin Clifton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_hon_shin_clifton@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hon_shin_clifton@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -960,10 +961,11 @@ variant: tiptap
 <p>Science&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Wong Hong Aik Allan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:wong_hong_aik_allan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_hong_aik_allan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -974,10 +976,11 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lim Chii Huey [林绮惠]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_chii_huey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chii_huey@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

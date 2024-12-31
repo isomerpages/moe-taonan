@@ -979,10 +979,11 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Kim Snodgrass (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kim_christine_lim_mui_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kim_christine_lim_mui_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

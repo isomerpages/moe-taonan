@@ -42,7 +42,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -52,6 +52,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -67,6 +70,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -78,7 +84,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -88,6 +94,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -282,7 +291,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -292,6 +301,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -444,7 +456,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -454,6 +466,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -469,7 +484,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -479,6 +494,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -732,7 +750,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -742,6 +760,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -757,7 +778,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -767,6 +788,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Maths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -810,7 +834,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -820,6 +844,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1087,7 +1114,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -1097,6 +1124,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

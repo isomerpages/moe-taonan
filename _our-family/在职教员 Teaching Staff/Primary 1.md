@@ -184,10 +184,10 @@ variant: tiptap
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Patsy Hoon (FAJT)</p>
+<p>Mdm Patsy Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>hoon_poh_nguak_patsy_a</u>@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>hoon_poh_nguak_patsy_a</u>@schools.gov.sg</a>
 </p>
 </td>
 </tr>

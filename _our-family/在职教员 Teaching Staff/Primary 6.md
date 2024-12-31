@@ -899,23 +899,23 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>6K</p>
+<p>&nbsp;</p>
+<p>(Mixed Form Class)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Pang Say Wak [陈才发]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:pang_say_wak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_say_wak@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
@@ -928,16 +928,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(Mixed Form Class)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Lorraine Anne Alcantra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lorraine_anne_alcantra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lorraine_anne_alcantra@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

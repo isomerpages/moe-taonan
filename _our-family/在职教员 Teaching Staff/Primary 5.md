@@ -275,11 +275,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>Math</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Moi Mei Kuen</p>
@@ -291,29 +293,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chee Pey Yi [纪佩妤]</p>
@@ -321,17 +302,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chee_pey_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chee_pey_yi@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>

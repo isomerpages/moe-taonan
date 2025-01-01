@@ -72,7 +72,7 @@ variant: tiptap
 <p>Mdm Chen Jing Ying (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chen_jing_ying@moe.edu.sg</a>
+<p><a href="mailto:Chen_Jing_Ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_jing_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -120,7 +120,7 @@ variant: tiptap
 <p>Mdm Chua Pei Boon (FAJT) [蔡佩雯]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_pei_boon@moe.edu.sg</a>
+<p><a href="mailto:Chua_Pei_Boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_pei_boon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -153,18 +153,6 @@ variant: tiptap
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Gloria Poon Mui Geok</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:gloria_poon_mui_geok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gloria_poon_mui_geok@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Goh Yen Ping</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,7 +162,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Gwee Bock Lan Lena</p>
@@ -186,7 +174,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14</p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Han Huiwen Adeline</p>
@@ -198,10 +186,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
+<p>14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hao Deyi</p>
+<p>Mdm Hao Deyi [郝德奕]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hao_deyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hao_deyi@schools.gov.sg</u></a>
@@ -210,7 +198,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm How Hooi Bing</p>
@@ -222,7 +210,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p>16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hu Yuxia [胡玉侠]</p>
@@ -234,13 +222,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18</p>
+<p>17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hung Huey Jing [韩惠晶]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hung_huey_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hung_huey_jing@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Khadijah Cassim Madari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Khadijah_Cassim_Madari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khadijah_cassim_madari@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -492,7 +492,7 @@ variant: tiptap
 <p>Mdm Patsy Hoon (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hoon_poh_nguak_patsy_a@moe.edu.sg</a>
+<p><a href="mailto:Hoon_Poh_Nguak_Patsy_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoon_poh_nguak_patsy_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -756,7 +756,7 @@ variant: tiptap
 <p>Mdm Wee Kai Jee (FAJT) [黄开利]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wee_kai_jee_a@moe.edu.sg</a>
+<p><a href="mailto:Wee_Kai_Jee_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wee_kai_jee_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1092,7 +1092,7 @@ variant: tiptap
 <p>Mr Teo Choon Meng (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_choon_meng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_choon_meng_a@moe.edu.sg</a>
+<p><a href="mailto:Teo_Choon_Meng_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_choon_meng_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1416,25 +1416,13 @@ variant: tiptap
 <p>Mrs Seng- Ng Kooi Fong (FAJT) [黄桂芳]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">seng-ng_kooi_fong@moe.edu.sg</a>
+<p><a href="mailto:sengng_kooi_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sengng_kooi_fong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>117</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Seow Li Li (FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">seow_min_fook@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>118</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tan-Ng Siew Leng Crayon</p>
@@ -1446,7 +1434,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>119</p>
+<p>118</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Adeline Ong Hui En</p>
@@ -1458,7 +1446,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>120</p>
+<p>119</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ang Bee Lian [洪美莲]</p>
@@ -1470,7 +1458,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>121</p>
+<p>120</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Avneesh Kaur</p>
@@ -1482,7 +1470,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>122</p>
+<p>121</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chee Pey Yi [纪佩妤]</p>
@@ -1494,7 +1482,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>123</p>
+<p>122</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chia Jie Wei</p>
@@ -1506,7 +1494,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>124</p>
+<p>123</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Dawn Chua Yu Xiu [蔡育修]</p>
@@ -1518,7 +1506,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>125</p>
+<p>124</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Deng Min [邓敏]</p>
@@ -1530,7 +1518,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>126</p>
+<p>125</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Emma Kok Li Shan</p>
@@ -1542,7 +1530,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>127</p>
+<p>126</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fathin Ha Sya-Syah Binte Suhadak</p>
@@ -1554,7 +1542,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>128</p>
+<p>127</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Lay Kian [吴丽娟]</p>
@@ -1566,7 +1554,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>129</p>
+<p>128</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Grace-Clemence Wong Ying Qi (FAJT)</p>
@@ -1578,7 +1566,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>130</p>
+<p>129</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Heng Boon Lih</p>
@@ -1590,7 +1578,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>131</p>
+<p>130</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jessilin Khee Shi Lin</p>
@@ -1602,7 +1590,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>132</p>
+<p>131</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Khadijah Cassim Madari (FAJT)</p>
@@ -1614,7 +1602,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>133</p>
+<p>132</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Khor Peck Yin Katherine</p>
@@ -1626,7 +1614,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>134</p>
+<p>133</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kwan Kah Poh Rachel</p>
@@ -1638,7 +1626,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>135</p>
+<p>134</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lam May Fong</p>
@@ -1650,7 +1638,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>136</p>
+<p>135</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Latha- Siva PVL</p>
@@ -1662,7 +1650,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>137</p>
+<p>136</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Leong Lye Ching</p>
@@ -1674,7 +1662,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>138</p>
+<p>137</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Ying Xuan</p>
@@ -1686,7 +1674,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>139</p>
+<p>138</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lin Yao Chloe</p>
@@ -1698,7 +1686,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>140</p>
+<p>139</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Liu Ying [刘莹]</p>
@@ -1710,10 +1698,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>141</p>
+<p>140</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lu Wen</p>
+<p>Ms Lu Wen [吕雯]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lu_wen@schools.gov.sg</a>
@@ -1722,7 +1710,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>142</p>
+<p>141</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Meitri Harshad Parikh</p>
@@ -1734,7 +1722,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>143</p>
+<p>142</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Michelle Lee Jing Qi</p>
@@ -1746,7 +1734,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>144</p>
+<p>143</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Neo Lay Peng [梁丽萍]</p>
@@ -1758,7 +1746,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>145</p>
+<p>144</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Lay Kuan</p>
@@ -1770,7 +1758,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>146</p>
+<p>145</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Lui Kiang [黄蕊坚]</p>
@@ -1782,7 +1770,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>147</p>
+<p>146</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Shao Chui Delisa</p>
@@ -1794,7 +1782,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>148</p>
+<p>147</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ngoh Siew Teng</p>
@@ -1806,7 +1794,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>149</p>
+<p>148</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ong Jing Yun, Jessica</p>
@@ -1818,7 +1806,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>150</p>
+<p>149</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Poh Cheng Yee [傅静瑜]</p>
@@ -1830,7 +1818,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>151</p>
+<p>150</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Praise Teo Hwee Leng</p>
@@ -1842,7 +1830,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>152</p>
+<p>151</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Hwee Jing</p>
@@ -1854,7 +1842,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>153</p>
+<p>152</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Yen Ping Gina [陈燕萍]</p>
@@ -1866,7 +1854,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>154</p>
+<p>153</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Toh Kai Xuan, Jeanette</p>
@@ -1878,7 +1866,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>155</p>
+<p>154</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Vaswani Deepa Hiro</p>
@@ -1890,7 +1878,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>156</p>
+<p>155</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yick Fang Ru</p>
@@ -1902,5 +1890,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 27 December 2024</strong>
+<p><strong>Updated on 02 January 2025</strong>
 </p>

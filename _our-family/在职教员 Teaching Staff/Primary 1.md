@@ -34,40 +34,26 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="5" colspan="1">
 <p>1A</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Form Teacher 1</p>
+<p>English</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Mdm Siti Awalliah Bte Amin</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>siti_awalliah_amin@schools.gov.sg</u></a>
+<td rowspan="2" colspan="1">
+<p><a href="mailto:siti_awalliah_amin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_awalliah_amin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Hui Hoon</p>
@@ -78,23 +64,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
@@ -108,10 +77,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Gwee Bock Lan Lena</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gwee_bock_lan_lena@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gwee_bock_lan_lena@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>1B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lindsy Ng</p>
@@ -123,67 +106,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Seng- Ng Kooi Fong (FAJT) [黄桂芳]</p>
+<p>Mrs Seng- Ng Kooi Fong [黄桂芳]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>seng-ng_kooi_fong@moe.edu.sg</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>sengng_kooi_fong@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ong Jing Yun, Jessica</p>
@@ -195,24 +135,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Gwee Bock Lan Lena</p>
@@ -224,38 +148,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lu Wen</p>
+<p>Ms Lu Wen [吕雯]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lu_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lu_wen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lau Ying Xi [刘颖熹]</p>
@@ -267,67 +176,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Patsy Hoon (FAJT)</p>
+<p>Mdm Patsy Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>hoon_poh_nguak_patsy_a</u>@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>hoon_poh_nguak_patsy_a</u>@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kwan Kah Poh Rachel</p>
@@ -339,24 +206,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>Math</p>
+<p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Aameer Bin Hassim</p>
@@ -367,37 +219,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
@@ -410,11 +231,12 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Woo Jenny [邬燕妮]</p>
@@ -426,67 +248,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen Jing Ying (FAJT)</p>
+<p>Mdm Chen Jing Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>chen_jing_ying</u>@moe.edu.sg</a>
+<p><a href="mailto:chen_jing_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_jing_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zahidah Binte Osman</p>
@@ -498,38 +279,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wu Yun [吴赟]</p>
@@ -540,25 +291,12 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1H</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Lui Kiang [黄蕊坚]</p>
@@ -570,66 +308,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yam May San Priscilla</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>(Email Address to be updated)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1I</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>Math</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nadiah Binte Abdul Khalik</p>
@@ -641,38 +338,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Yen Ping Gina [陈燕萍]</p>
@@ -683,25 +350,12 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1J</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Lay Choo Tina</p>
@@ -713,24 +367,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>Math</p>
+<p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Kwek Lee Yook</p>
@@ -741,23 +380,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
@@ -770,148 +392,64 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1K</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Lee Choo Sharon</p>
+<p>Mdm Nur Rasheeda Bte Mohd Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">liu_lee_choo_sharon@moe.edu.sg</a>
+<p><a href="nur_rasheeda_mohd_ismail@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_rasheeda_mohd_ismail@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Syed Ali Omar Bin Syed Halid Alhatas</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">syed_ali_omar_halid@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yen Ping Gina [陈燕萍]</p>
+<p>Mdm Clare Li Xunzi [李勋子]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_yen_ping_gina@moe.edu.sg</a>
+<p><a href="clare_li_xunzi@schools.gov.sg" rel="noopener nofollow" target="_blank">clare_li_xunzi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1L</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
+<p>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Thio Lay Lay</p>
+<p>Mdm Wang Binxin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">thio_lay_lay@moe.edu.sg</a>
+<p><a href="mailto:wang_binxin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_binxin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maths</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhao Ang [赵昂]</p>
+<p>Mdm Ang Sio Hoon [洪小芬]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">zhao_ang@moe.edu.sg</a>
+<p><a href="mailto:ang_sio_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_sio_hoon@schools.gov.sg</u></a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -919,7 +457,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -930,5 +468,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 01 August 2024</strong>
+<p><strong>Updated on 02 January 2025</strong>
 </p>

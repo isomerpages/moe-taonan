@@ -17,15 +17,19 @@ variant: tiptap
 </li>
 </ul>
 <hr>
+<h3>Parental Tip</h3>
 <p><strong>A new school season begins</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/Parent%20Kit%20-%20A%20New%20School%20Season.jpg">
 </div>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/Parent%20Kit%20-%20A%20New%20School%20Season.pdf" rel="noopener noreferrer nofollow" target="_blank">A new school season begins</a>
 </p>
-<h3>Parental Tip</h3>
+</li>
+</ul>
+<p></p>
 <p><strong>Keeping Children Healthy</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -38,10 +42,10 @@ variant: tiptap
 </li>
 <li>
 <p><a href="/files/Parents-Newsletter-Edition-2.pdf" rel="noopener noreferrer nofollow" target="_blank">Edition 2 (PDF Version)</a>
+<br>
 </p>
 </li>
 </ul>
-<h3></h3>
 <p><strong>Help, my child isn’t ready for Primary 1!</strong>
 </p>
 <div class="isomer-image-wrapper">

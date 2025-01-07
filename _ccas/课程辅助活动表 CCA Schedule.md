@@ -77,14 +77,18 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Basketball*
 <br>- CCA Team
-<br>(P3&amp;P4)
-<br>- School Team</p>
+<br>(P4)
+<br>- School Team
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basketball*
 <br>- CCA Team
-<br>(P5&amp;P6)
-<br>- School Team</p>
+<br>(P3,P5&amp;P6)
+<br>- School Team
+<br>
+</p>
 </td>
 </tr>
 <tr>

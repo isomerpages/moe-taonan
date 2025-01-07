@@ -182,10 +182,10 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Goh Soek Fong [郭素坊]</p>
+<p>Mrs Kwok Soek Fong [郭素坊]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_soek_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_soek_fong@schools.gov.sg</u></a>
+<p><a href="mailto:Kwok_Soek_Fong_Mrs@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kwok_Soek_Fong_Mrs@schools.gov.sg</a>
 </p>
 </td>
 </tr>

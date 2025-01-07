@@ -1209,18 +1209,6 @@ variant: tiptap
 <p>99</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kwok Soek Fong [郭素坊]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Kwok_Soek_Fong_Mrs@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kwok_Soek_Fong_Mrs@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>100</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Gurung-Lee Chin Min</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1230,7 +1218,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>101</p>
+<p>100</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Jenny Tan- Lian Wei Chun Jenny</p>
@@ -1242,7 +1230,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>102</p>
+<p>1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Kim Snodgrass (FAJT)</p>
@@ -1261,6 +1249,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kok_lee_yook@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kok_lee_yook@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>99</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kwok Soek Fong [郭素坊]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Kwok_Soek_Fong_Mrs@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kwok_Soek_Fong_Mrs@schools.gov.sg</a>
 </p>
 </td>
 </tr>

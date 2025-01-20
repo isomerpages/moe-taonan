@@ -95,6 +95,10 @@ variant: tiptap
 <li>
 <p><a href="https://drive.google.com/file/d/1lsnduf4G2JOVuxC5RnpEo1JXW3wY9f8e/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P3 Physical Education Curriculum Information</a>
 </p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/12P0cY7lz9IOgU4j6lG7v1A1N8_rihjwl/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P3 Social Studies Curriculum Information</a>
+</p>
 <p></p>
 </li>
 </ul>

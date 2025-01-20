@@ -19,7 +19,14 @@ variant: tiptap
 <hr>
 <h3>Curriculum Briefing Slides</h3>
 <p>Click to download:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2025 P1 EL Curriculum Slides</p>
+</li>
+<li>
 <p></p>
+</li>
+</ul>
 <p></p>
 <h3>Booklist</h3>
 <p>Click to download:</p>

@@ -112,19 +112,23 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/13tQ73KFb5EnuvxXMbuTo4dGTfux25hbr/view?usp=sharing" rel="noopener nofollow" target="_blank">2024 Higher Chinese Curriculum Information</a>
+<p><a href="https://drive.google.com/file/d/13tQ73KFb5EnuvxXMbuTo4dGTfux25hbr/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 Higher Chinese Curriculum Information</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1YgcXA5ME1cMS--yZK1AEC5Q_6uqAHYly/view?usp=sharing" rel="noopener nofollow" target="_blank">2024 Mathematics Curriculum Information</a>
+<p><a href="https://drive.google.com/file/d/1YgcXA5ME1cMS--yZK1AEC5Q_6uqAHYly/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 Mathematics Curriculum Information</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1kjGcdH_Y1V4ySq3tR0e18RJMdMeMSGuv/view?usp=sharing" rel="noopener nofollow" target="_blank">2024 Science Curriculum Information</a>
+<p><a href="https://drive.google.com/file/d/1kjGcdH_Y1V4ySq3tR0e18RJMdMeMSGuv/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 Science Curriculum Information</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1rJeF3MdxVXuceJq-0qg3pyw7dBZMyojl/view?usp=sharing" rel="noopener nofollow" target="_blank">2024 Physical Education Curriculum Information</a>
+<p><a href="https://drive.google.com/file/d/1rJeF3MdxVXuceJq-0qg3pyw7dBZMyojl/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 Physical Education Curriculum Information</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1pcoTc1iGez0ye3rHCB9wb0fnTKMUMNUN/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 Social Studies Curriculum Information</a>
 </p>
 </li>
 </ul>
@@ -279,6 +283,7 @@ lessons</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>

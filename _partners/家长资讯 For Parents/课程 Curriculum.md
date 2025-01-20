@@ -181,6 +181,10 @@ variant: tiptap
 <p><a href="https://drive.google.com/file/d/1nxGyP3uiAqsVQKhiqYHdXfUuNXATSveF/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P6 Science Curriculum Information</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1rfqHO5wFUEUrzLb4n0-Q8UmsuPbWpXiR/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 Physical Education Curriculum Information</a>
+</p>
+</li>
 </ul>
 <p></p>
 <h3>Booklist</h3>
@@ -331,6 +335,7 @@ lessons</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>

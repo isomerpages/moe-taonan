@@ -62,7 +62,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1Fp1lDrzaVkgGOCDTt8T_sqyXOCyIpm_f/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 Mathematics Curriculum Information</a>
+<p><a href="https://drive.google.com/file/d/1Fp1lDrzaVkgGOCDTt8T_sqyXOCyIpm_f/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P2 Mathematics Curriculum Information</a>
 </p>
 </li>
 </ul>

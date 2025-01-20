@@ -173,6 +173,10 @@ variant: tiptap
 <p><a href="https://drive.google.com/file/d/1Zs79-BlLYC7qMWU7LUTM1Nfe8s5F6Pyu/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P6 Chinese and Higher Chinese Curriculum Information</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1XaRU4IHKbc0e4U0y09RHgHxLoXZDun6a/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P6 Mathematics Curriculum Information</a>
+</p>
+</li>
 </ul>
 <p></p>
 <h3>Booklist</h3>
@@ -323,6 +327,7 @@ lessons</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>

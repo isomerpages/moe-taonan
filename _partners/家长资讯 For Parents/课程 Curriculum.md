@@ -157,11 +157,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1BP_TzkL4I_-tpzzzcwIard-vXBVVAYht/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 Social Studies Curriculum Information</a>
+<p><a href="https://drive.google.com/file/d/1BP_TzkL4I_-tpzzzcwIard-vXBVVAYht/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P5 Social Studies Curriculum Information</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1EKTkh-4I55SAUHnJ7GYl1tfi8ky_7bQW/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P5 Art and Music Curriculum Information</a>
+<p><a href="https://drive.google.com/file/d/1EKTkh-4I55SAUHnJ7GYl1tfi8ky_7bQW/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P5 and P6 Art and Music Curriculum Information</a>
 </p>
 </li>
 </ul>
@@ -184,11 +184,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1rfqHO5wFUEUrzLb4n0-Q8UmsuPbWpXiR/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 Physical Education Curriculum Information</a>
+<p><a href="https://drive.google.com/file/d/1rfqHO5wFUEUrzLb4n0-Q8UmsuPbWpXiR/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P6 Physical Education Curriculum Information</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1fZB9l2MV0oxRZ2w80fjObK-IHrlJ7rCH/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 Social Studies Curriculum Information</a>
+<p><a href="https://drive.google.com/file/d/1fZB9l2MV0oxRZ2w80fjObK-IHrlJ7rCH/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P6 Social Studies Curriculum Information</a>
 </p>
 </li>
 </ul>

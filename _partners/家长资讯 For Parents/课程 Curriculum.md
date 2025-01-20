@@ -36,6 +36,10 @@ variant: tiptap
 <p><a href="https://drive.google.com/file/d/1qYy1TQb8kF2AednWmP1hkZJQkNNDIcfo/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P1 Physical Education Curriculum Information</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1w5OYerSSsiK4HURWdoMxIsVYk3ChE5Md/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P1 Social Studies Curriculum Information</a>
+</p>
+</li>
 </ul>
 <p></p>
 <h3>Booklist</h3>

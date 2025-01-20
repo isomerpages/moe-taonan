@@ -119,6 +119,10 @@ variant: tiptap
 <p><a href="https://drive.google.com/file/d/1YgcXA5ME1cMS--yZK1AEC5Q_6uqAHYly/view?usp=sharing" rel="noopener nofollow" target="_blank">2024 Mathematics Curriculum Information</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1kjGcdH_Y1V4ySq3tR0e18RJMdMeMSGuv/view?usp=sharing" rel="noopener nofollow" target="_blank">2024 Science Curriculum Information </a>
+</p>
+</li>
 </ul>
 <h3>P5</h3>
 <h3>P6</h3>
@@ -271,6 +275,7 @@ lessons</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>

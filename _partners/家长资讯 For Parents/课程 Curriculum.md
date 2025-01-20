@@ -83,6 +83,10 @@ variant: tiptap
 <li>
 <p><a href="https://drive.google.com/file/d/1Z4-VCLXLeSozpC6717vBS8O6obH59zal/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P3 Higher Chinese Curriculum Information</a>
 </p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1FvYZ6h56CUTi-FlUC9gVJcenjOcciUvg/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P3 Mathematics Curriculum Information</a>
+</p>
 <p></p>
 </li>
 </ul>
@@ -234,5 +238,6 @@ lessons</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>

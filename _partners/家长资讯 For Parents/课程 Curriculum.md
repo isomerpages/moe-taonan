@@ -138,6 +138,10 @@ variant: tiptap
 <p><a href="https://drive.google.com/file/d/1fMGVcJI0yIKvRpdw3z_ycRlXPBo2zh42/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P5 English Curriculum Information</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1CYtuXWTcG-Q1n4ezm9rZbcLqopkrF7x_/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P5 Chinese and Higher Chinese Curriculum Information</a>
+</p>
+</li>
 </ul>
 <h3>P6</h3>
 <p></p>
@@ -289,6 +293,7 @@ lessons</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>

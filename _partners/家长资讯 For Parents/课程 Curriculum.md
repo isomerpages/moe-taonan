@@ -66,8 +66,15 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1aYIsunrJoX8msfBvq5-jraXN3pxJ7jHp/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P3 Physical Education Curriculum Information</a>
+<p><a href="https://drive.google.com/file/d/1aYIsunrJoX8msfBvq5-jraXN3pxJ7jHp/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P2 Physical Education Curriculum Information</a>
 </p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1ZJg8hcKoiP36nrSsfRFGtjBdN36Sevma/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P2 Social Studies Curriculum Information</a>
+</p>
+</li>
+<li>
+<p></p>
 </li>
 </ul>
 <h3>Booklist</h3>

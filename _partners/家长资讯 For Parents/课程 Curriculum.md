@@ -40,6 +40,11 @@ variant: tiptap
 <p><a href="https://drive.google.com/file/d/1w5OYerSSsiK4HURWdoMxIsVYk3ChE5Md/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P1 Social Studies Curriculum Information</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1gf0n51x0oVRY-XvMP3KtFWUpNc0vYkvT/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P1 and P2 Art and Music </a>
+<a href="https://drive.google.com/file/d/10hVlr4nYYNuHJqSoYUHXDCy74HFvl4Ax/view?usp=sharing" rel="noopener nofollow" target="_blank">Curriculum Information</a>
+</p>
+</li>
 </ul>
 <p></p>
 <h3>Booklist</h3>
@@ -190,4 +195,5 @@ lessons</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>

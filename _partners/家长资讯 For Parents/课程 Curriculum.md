@@ -154,6 +154,14 @@ variant: tiptap
 <p><a href="https://drive.google.com/file/d/1--emEH-Y9Hj5vgTQgYpCBYwyClo2nOGf/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P5 Physical Education Curriculum Information</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1BP_TzkL4I_-tpzzzcwIard-vXBVVAYht/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 Social Studies Curriculum Information</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1EKTkh-4I55SAUHnJ7GYl1tfi8ky_7bQW/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P5 Art and Music Curriculum Information</a>
+</p>
+</li>
 </ul>
 <h3>P6</h3>
 <p></p>
@@ -305,6 +313,7 @@ lessons</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>

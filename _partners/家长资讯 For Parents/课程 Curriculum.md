@@ -21,15 +21,19 @@ variant: tiptap
 <p>Click to download:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/10hVlr4nYYNuHJqSoYUHXDCy74HFvl4Ax/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P1 English Curriculum Slides</a>
+<p><a href="https://drive.google.com/file/d/10hVlr4nYYNuHJqSoYUHXDCy74HFvl4Ax/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P1 English Curriculum Information</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1SGdph3o9ieyr6pqKIx3KIEbE0wsoB-XJ/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P1 Higher Chinese Curriculum Slides</a>
+<p><a href="https://drive.google.com/file/d/1SGdph3o9ieyr6pqKIx3KIEbE0wsoB-XJ/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P1 Higher Chinese Curriculum Information</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1BApdzhBuQoQvORH3JBD4VQ250Kdhdkna/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P1 Mathematics Curriculum Slides</a>
+<p><a href="https://drive.google.com/file/d/1BApdzhBuQoQvORH3JBD4VQ250Kdhdkna/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P1 Mathematics Curriculum Information</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1qYy1TQb8kF2AednWmP1hkZJQkNNDIcfo/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P1 Physical Education Curriculum Information</a>
 </p>
 </li>
 </ul>

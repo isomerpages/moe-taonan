@@ -17,6 +17,10 @@ variant: tiptap
 </li>
 </ul>
 <hr>
+<h3>Curriculum Briefing Slides</h3>
+<p>Click to download:</p>
+<p></p>
+<p></p>
 <h3>Booklist</h3>
 <p>Click to download:</p>
 <ul data-tight="true" class="tight">

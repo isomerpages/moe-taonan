@@ -61,6 +61,10 @@ variant: tiptap
 <p><a href="https://drive.google.com/file/d/1S36xMrpQPWGS0HGCq9CNr_uGGmBOx6sg/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P2 Higher Chinese Curriculum Information</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1Fp1lDrzaVkgGOCDTt8T_sqyXOCyIpm_f/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 Mathematics Curriculum Information</a>
+</p>
+</li>
 </ul>
 <h3>Booklist</h3>
 <p>Click to download:</p>

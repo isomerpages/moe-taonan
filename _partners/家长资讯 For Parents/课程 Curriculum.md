@@ -146,6 +146,10 @@ variant: tiptap
 <p><a href="https://drive.google.com/file/d/1qAo4bKv8sPs5gpKyZ1q-rMt076SZJYmA/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P5 Mathematics Curriculum Information</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1i5zhmPUYEiUVg9BKyoAvysPUXKoaWLtZ/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P5 Science Curriculum Information</a>
+</p>
+</li>
 </ul>
 <h3>P6</h3>
 <p></p>
@@ -297,6 +301,7 @@ lessons</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>

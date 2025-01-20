@@ -111,6 +111,10 @@ variant: tiptap
 <p><a href="https://drive.google.com/file/d/1FST2BqddWokr5jSDt6ASUnH0yohnDcJp/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P4 English Curriculum Information</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/13tQ73KFb5EnuvxXMbuTo4dGTfux25hbr/view?usp=sharing" rel="noopener nofollow" target="_blank">2024 Higher Chinese Curriculum Information</a>
+</p>
+</li>
 </ul>
 <h3>P5</h3>
 <h3>P6</h3>

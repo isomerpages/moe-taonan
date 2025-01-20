@@ -120,7 +120,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1kjGcdH_Y1V4ySq3tR0e18RJMdMeMSGuv/view?usp=sharing" rel="noopener nofollow" target="_blank">2024 Science Curriculum Information </a>
+<p><a href="https://drive.google.com/file/d/1kjGcdH_Y1V4ySq3tR0e18RJMdMeMSGuv/view?usp=sharing" rel="noopener nofollow" target="_blank">2024 Science Curriculum Information</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1rJeF3MdxVXuceJq-0qg3pyw7dBZMyojl/view?usp=sharing" rel="noopener nofollow" target="_blank">2024 Physical Education Curriculum Information</a>
 </p>
 </li>
 </ul>

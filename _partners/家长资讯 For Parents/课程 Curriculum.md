@@ -164,6 +164,12 @@ variant: tiptap
 </li>
 </ul>
 <h3>P6</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://drive.google.com/file/d/1P_Qty7BpRcIkboOKLangLqo_8HSBVIPU/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P6 English Curriculum Information</a>
+</p>
+</li>
+</ul>
 <p></p>
 <h3>Booklist</h3>
 <p>Click to download:</p>

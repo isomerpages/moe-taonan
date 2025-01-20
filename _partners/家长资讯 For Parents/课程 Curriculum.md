@@ -105,7 +105,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <h3>P4</h3>
 <h3>P5</h3>
 <h3>P6</h3>

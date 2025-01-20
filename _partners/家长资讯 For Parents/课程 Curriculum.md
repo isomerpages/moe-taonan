@@ -21,7 +21,8 @@ variant: tiptap
 <p>Click to download:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2025 P1 EL Curriculum Slides</p>
+<p><a href="https://drive.google.com/file/d/10hVlr4nYYNuHJqSoYUHXDCy74HFvl4Ax/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P1 Curriculum Slides </a>
+</p>
 </li>
 <li>
 <p></p>

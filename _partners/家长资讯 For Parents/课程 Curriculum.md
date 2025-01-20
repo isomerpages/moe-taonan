@@ -99,9 +99,13 @@ variant: tiptap
 <li>
 <p><a href="https://drive.google.com/file/d/12P0cY7lz9IOgU4j6lG7v1A1N8_rihjwl/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P3 Social Studies Curriculum Information</a>
 </p>
-<p></p>
 </li>
 </ul>
+<p></p>
+<h3>P4</h3>
+<h3>P5 </h3>
+<h3>P6</h3>
+<p></p>
 <h3>Booklist</h3>
 <p>Click to download:</p>
 <ul data-tight="true" class="tight">

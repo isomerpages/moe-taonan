@@ -72,6 +72,13 @@ variant: tiptap
 <li>
 <p><a href="https://drive.google.com/file/d/1ZJg8hcKoiP36nrSsfRFGtjBdN36Sevma/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P2 Social Studies Curriculum Information</a>
 </p>
+</li>
+<li>
+<p></p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1V7AFJ7ZMJteLjV5DwsiuUrbQtReW_L3g/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P3 English Curriculum Information</a>
+</p>
 <p></p>
 </li>
 </ul>

@@ -41,7 +41,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1gf0n51x0oVRY-XvMP3KtFWUpNc0vYkvT/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P1 and P2 Art and Music </a>
+<p><a href="https://drive.google.com/file/d/1gf0n51x0oVRY-XvMP3KtFWUpNc0vYkvT/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P1 and P2 Art Music </a>
 <a href="https://drive.google.com/file/d/10hVlr4nYYNuHJqSoYUHXDCy74HFvl4Ax/view?usp=sharing" rel="noopener nofollow" target="_blank">Curriculum Information</a>
 </p>
 </li>

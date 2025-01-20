@@ -150,6 +150,10 @@ variant: tiptap
 <p><a href="https://drive.google.com/file/d/1i5zhmPUYEiUVg9BKyoAvysPUXKoaWLtZ/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P5 Science Curriculum Information</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1--emEH-Y9Hj5vgTQgYpCBYwyClo2nOGf/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P5 Physical Education Curriculum Information</a>
+</p>
+</li>
 </ul>
 <h3>P6</h3>
 <p></p>
@@ -301,6 +305,7 @@ lessons</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>

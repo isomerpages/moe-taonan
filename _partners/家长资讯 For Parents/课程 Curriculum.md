@@ -45,6 +45,10 @@ variant: tiptap
 <a href="https://drive.google.com/file/d/10hVlr4nYYNuHJqSoYUHXDCy74HFvl4Ax/view?usp=sharing" rel="noopener nofollow" target="_blank">Curriculum Information</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1cW62cma2wSX7grlY8-VXtx0pKqdyGZO-/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P1 and P2 PAL Curriculum Information</a>
+</p>
+</li>
 </ul>
 <p></p>
 <h3>Booklist</h3>

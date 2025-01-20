@@ -19,7 +19,7 @@ variant: tiptap
 <hr>
 <h3>Curriculum Briefing Slides</h3>
 <p>Click to download:</p>
-<h3>P1 </h3>
+<h3>P1</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://drive.google.com/file/d/10hVlr4nYYNuHJqSoYUHXDCy74HFvl4Ax/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P1 English Curriculum Information</a>
@@ -48,6 +48,13 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://drive.google.com/file/d/1cW62cma2wSX7grlY8-VXtx0pKqdyGZO-/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P1 and P2 PAL Curriculum Information</a>
+</p>
+</li>
+</ul>
+<h3>P2</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://drive.google.com/file/d/106oOzVro6HJN-o-y1UVJYqlu1R3YqPjO/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P2 English Curriculum Information</a>
 </p>
 </li>
 </ul>

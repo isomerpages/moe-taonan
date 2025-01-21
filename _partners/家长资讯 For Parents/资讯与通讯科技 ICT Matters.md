@@ -300,6 +300,10 @@ please visit <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cybe
 <p><a href="https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/learning-about-cyber-wellness-youths" rel="noopener nofollow" target="_blank">Cyber Wellness For Youths</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/1Gtvp6az3xx_prJ6ZnwI8v5ZfGiVPaVi9/view?usp=sharing" rel="noopener nofollow" target="_blank">Guidance on Screen Use in Children</a>
+</p>
+</li>
 </ul>
 <hr>
 <p></p>

@@ -43,7 +43,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Physical Science
-<br>(P3 to P6)</p>
+<br>(P3 to P6).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>

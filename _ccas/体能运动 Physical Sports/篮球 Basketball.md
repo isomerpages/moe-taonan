@@ -12,8 +12,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Our Basketball Team is an exciting and dynamic part of Tao Nan School,
-featuring two key teams:</p>
+<p>Our <strong>Basketball CCA</strong> is an exciting and dynamic part of Tao
+Nan School, featuring two key teams:</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Team: Competes
 in National School Games (NSG) competitions.</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA Team: Engages in
@@ -22,10 +22,10 @@ weekly training sessions to develop skills and teamwork.</p>
 </p>
 <p>Students in Primary 3 and 4 start their journey in development groups,
 honing their skills before being selected for the School Team in Primary
-4. School Team members then compete in the Junior (Primary 4 and 5) and
-Senior (Primary 6) Divisions of the NSG competitions. Those not selected
-for the School Team are encouraged to continue their growth and passion
-for the sport with the CCA Team.</p>
+4. School Team members compete in the Junior (Primary 4 and 5) and Senior
+(Primary 6) Division of the NSG competitions. Those not selected for the
+School Team are encouraged to continue their growth and passion for the
+sport with the CCA Team.</p>
 <p><strong>More Than Just a Sport</strong>
 </p>
 <p>At Tao Nan School, basketball is more than a sport or a co-curricular
@@ -72,7 +72,6 @@ building their competitive edge and applying their training in real games.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:khor_peck_yin_katherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khor_peck_yin_katherine@schools.gov.sg</a>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Overall IC</p>
@@ -85,7 +84,6 @@ building their competitive edge and applying their training in real games.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_hoe_seng_francis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hoe_seng_francis@schools.gov.sg</a>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Overall 2IC</p>
@@ -98,7 +96,6 @@ building their competitive edge and applying their training in real games.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_zhi_howe_kenneth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_zhi_howe_kenneth@schools.gov.sg</a>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -111,7 +108,6 @@ building their competitive edge and applying their training in real games.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_lay_kuan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lay_kuan_a@schools.gov.sg</a>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -124,7 +120,6 @@ building their competitive edge and applying their training in real games.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheah_li_wei@schools.gov.sg</a>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -150,7 +145,6 @@ building their competitive edge and applying their training in real games.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pang_say_wak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_say_wak@schools.gov.sg</a>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -163,7 +157,6 @@ building their competitive edge and applying their training in real games.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_chii_huey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chii_huey@schools.gov.sg</a>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

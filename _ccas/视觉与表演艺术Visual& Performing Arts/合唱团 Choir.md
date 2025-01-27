@@ -62,7 +62,7 @@ and the opening ceremony of the Thomson East Coast Line (TEL 4).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Overall Second IC</p>
+<p>Overall 2IC</p>
 </td>
 </tr>
 </tbody>

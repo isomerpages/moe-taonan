@@ -5,14 +5,14 @@ description: ""
 third_nav_title: 社团与协会 Clubs and Societies
 variant: tiptap
 ---
-<p>During training sessions, all students are taught basic, intermediate
-as well as advanced skills and strategies by professional coaches. Students
-are taught to think and strategise carefully before they act. They will
-also discuss various chess moves and their resulting consequences. Thus,
-students can learn through chess play and apply the skills learnt in their
-real-life challenges by seeing connections and demonstrating values such
-as perseverance and respect towards their opponents. Selected members will
-be able to participate in the National Schools Individual Chess Championships
+<p>At TNS<strong> International Chess CCA,</strong> professional coaches teach
+all students basic, intermediate and advanced skills and strategies during
+training sessions. Students are taught to think and strategise carefully
+before they act. They will also discuss various chess moves and their resulting
+consequences. Thus, students can learn through chess play and apply the
+skills learnt in their real-life challenges by seeing connections and demonstrating
+values such as perseverance and respect towards their opponents. Selected
+members can participate in the National Schools Individual Chess Championships
 and National Inter School Team Chess Championships organised by the Singapore
 Chess Federation annually.&nbsp;</p>
 <p><strong><u>2025</u></strong>

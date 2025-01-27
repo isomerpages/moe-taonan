@@ -20,7 +20,7 @@ empowering and enabling every girl to be a leader.</p>
 <p>Service to the community</p>
 </li>
 </ol>
-<p><strong><u>2024</u></strong>
+<p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>

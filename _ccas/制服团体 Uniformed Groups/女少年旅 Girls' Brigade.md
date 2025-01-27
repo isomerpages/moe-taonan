@@ -48,7 +48,6 @@ empowering and enabling every girl to be a leader.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thio_lay_lay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thio_lay_lay@schools.gov.sg</a>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Overall IC</p>
@@ -59,9 +58,7 @@ empowering and enabling every girl to be a leader.</p>
 <p>Mdm Chng Pau Ling Beatrice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chng_pau_ling_beatrice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_pau_ling_beatrice@schools.gov.sg</a>
-</p>
-<p>&nbsp;</p>
+<p><a href="mailto:chng_pau_ling_beatrice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_pau_ling_beatrice@schools.gov.sg</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -74,7 +71,6 @@ empowering and enabling every girl to be a leader.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:adeline_ong_hui_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_ong_hui_en@schools.gov.sg</a>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -87,7 +83,6 @@ empowering and enabling every girl to be a leader.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wang_binxin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_binxin@schools.gov.sg</a>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

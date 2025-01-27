@@ -20,7 +20,7 @@ will also get to take part in the Singapore Youth Festival (SYF).</p>
 musical pieces and Chinese culture among our pupils through the mastering
 of the instrument, Guzheng, which is one of the oldest Chinese instruments
 of China.</p>
-<p><strong><u>2024</u></strong>
+<p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>

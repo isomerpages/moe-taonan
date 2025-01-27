@@ -20,7 +20,7 @@ who</p>
 <p>have good collaborative skills.</p>
 <p>We had the honour of performing at the Istana for the Singapore Bicentennial
 and the opening ceremony of the Thomson East Coast Line (TEL 4).</p>
-<p><strong><u>2024</u></strong>
+<p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -43,10 +43,11 @@ and the opening ceremony of the Thomson East Coast Line (TEL 4).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Quah- Heng Yin Qi</p>
+<p>Ms Latha-Siva PVL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>heng_yin_qi@moe.edu.sg</p>
+<p><a href="mailto:siva_pvl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siva_pvl@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Overall IC</p>
@@ -57,21 +58,11 @@ and the opening ceremony of the Thomson East Coast Line (TEL 4).</p>
 <p>Ms Praise Teo Hwee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>praise_teo_hwee_leng@moe.edu.sg</p>
+<p><a href="mailto:praise_teo_hwee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">praise_teo_hwee_leng@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Latha- Siva PVL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siva_pvl@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Overall 2IC</p>
 </td>
 </tr>
 </tbody>

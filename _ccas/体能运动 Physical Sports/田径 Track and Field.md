@@ -10,7 +10,7 @@ about running, jumping and throwing. Members will be trained in various
 skills and given the opportunity to participate in Track and Field events
 that they excel in. Members will also get the opportunity to train at Bedok
 Stadium in preparation for NSG and SHHK Sports Day.</p>
-<p><strong><u>2024</u></strong>
+<p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -33,10 +33,11 @@ Stadium in preparation for NSG and SHHK Sports Day.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Low Khin Sin Paul</p>
+<p>Mr Syed Ali Omar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>low_khin_sin@moe.edu.sg</p>
+<p><a href="mailto:syed_ali_omar_halid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">syed_ali_omar_halid@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Overall IC</p>
@@ -44,10 +45,11 @@ Stadium in preparation for NSG and SHHK Sports Day.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Khor Peck Yin Katherine</p>
+<p>Mr Vikneswaran S/O Selvarajoo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>khor_peck_yin_katherine@moe.edu.sg</p>
+<p><a href="mailto:vikneswaran_selvarajoo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vikneswaran_selvarajoo@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Overall 2IC</p>
@@ -58,7 +60,8 @@ Stadium in preparation for NSG and SHHK Sports Day.</p>
 <p>Mrs Gurung-Lee Chin Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_chin_min@moe.edu.sg</p>
+<p><a href="mailto:lee_chin_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chin_min@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -69,7 +72,8 @@ Stadium in preparation for NSG and SHHK Sports Day.</p>
 <p>Ms Michelle Lee Jing Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>michelle_lee_jing_qi@moe.edu.sg&nbsp;</p>
+<p><a href="mailto:michelle_lee_jing_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_lee_jing_qi@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -77,10 +81,11 @@ Stadium in preparation for NSG and SHHK Sports Day.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Yusrina Binte Ya'akob</p>
+<p>Mr Teo Wei Loon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_yusrina_yaakob@moe.edu.sg</p>
+<p><a href="mailto:teo_wei_loon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wei_loon@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

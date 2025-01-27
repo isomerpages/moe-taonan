@@ -12,7 +12,7 @@ national competitions and school events. Trainings will be provided to
 help to improve students' oracy and non-verbal expressions in preparation
 for performances and competitions. Some of the activities include poetry
 recitation, cross talks, story-telling, drama as well as speech and drama.</p>
-<p><strong><u>2024</u></strong>
+<p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -38,7 +38,8 @@ recitation, cross talks, story-telling, drama as well as speech and drama.</p>
 <p>Mrs Goh Soek Fong [郭素坊]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_soek_fong@moe.edu.sg</p>
+<p><a href="mailto:Kwok_Soek_Fong_Mrs@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kwok_Soek_Fong_Mrs@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Overall IC</p>
@@ -49,7 +50,8 @@ recitation, cross talks, story-telling, drama as well as speech and drama.</p>
 <p>Ms Poh Cheng Yee [傅静瑜]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>poh_cheng_yee@moe.edu.sg</p>
+<p><a href="mailto:zhao_yan_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_yan_fen@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -60,7 +62,8 @@ recitation, cross talks, story-telling, drama as well as speech and drama.</p>
 <p>Mdm Zhao Yanfen [赵艳芬]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zhao_yan_fen@moe.edu.sg</p>
+<p><a href="mailto:poh_cheng_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_cheng_yee@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

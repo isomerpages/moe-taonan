@@ -61,7 +61,7 @@ BB Companies in Singapore awarded by BBHQ.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>2024</u></strong>
+<p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -87,7 +87,8 @@ BB Companies in Singapore awarded by BBHQ.</p>
 <p>Ms Tan Yen Ping Gina [陈燕萍]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_yen_ping_gina@moe.edu.sg</p>
+<p><a href="mailto:tan_yen_ping_gina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yen_ping_gina@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Overall IC</p>
@@ -98,7 +99,8 @@ BB Companies in Singapore awarded by BBHQ.</p>
 <p>Mdm Han Huiwen Adeline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>han_huiwen_adeline@moe.edu.sg</p>
+<p><a href="mailto:han_huiwen_adeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_huiwen_adeline@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Overall 2IC</p>
@@ -106,10 +108,11 @@ BB Companies in Singapore awarded by BBHQ.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dominic Nyi Nyi Htut</p>
+<p>Mrs Mimi Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>dominic_nyi_nyi_htut@moe.edu.sg</p>
+<p><a href="mailto:mimi_yeo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mimi_yeo@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -120,18 +123,8 @@ BB Companies in Singapore awarded by BBHQ.</p>
 <p>Ms Ngoh Siew Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ngoh_siew_teng@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Mimi Cheong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mimi_yeo@moe.edu.sg</p>
+<p><a href="mailto:ngoh_siew_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngoh_siew_teng@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

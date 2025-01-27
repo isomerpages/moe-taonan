@@ -14,7 +14,7 @@ in our dancers through weekly practices.</p>
 Youth Festival (SYF) Arts Presentation. These achievements have motivated
 us to continue in upholding our dancers' passion for dance through performances
 and exposing them to various types of dancing styles.</p>
-<p><strong><u>2024</u></strong>
+<p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -40,7 +40,8 @@ and exposing them to various types of dancing styles.</p>
 <p>Mdm Feng Jie [冯 洁]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>feng_jie@moe.edu.sg</p>
+<p><a href="mailto:feng_jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">feng_jie@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Overall IC</p>
@@ -48,21 +49,10 @@ and exposing them to various types of dancing styles.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Gloria Poon Mui Geok</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>gloria_poon_mui_geok@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Tan Chiew Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_chiew_yen@moe.edu.sg</p>
+<p><a href="mailto:tan_chiew_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chiew_yen@schools.gov.sg</a> &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -73,7 +63,7 @@ and exposing them to various types of dancing styles.</p>
 <p>Mdm Tan Li Shih</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_li_shih@moe.edu.sg</p>
+<p><a href="mailto:tan_li_shih@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_shih@schools.gov.sg</a> &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

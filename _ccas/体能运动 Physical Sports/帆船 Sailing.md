@@ -40,7 +40,7 @@ and a sense of adventure.</p>
 <p>Mr Low Khee How</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_chee_yong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_chee_yong_a@schools.gov.sg</u></a>
+<p><a href="mailto:ang_chee_yong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>low_khee_how@schools.gov.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

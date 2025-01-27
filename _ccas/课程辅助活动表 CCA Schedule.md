@@ -56,14 +56,13 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Badminton*
 <br>- CCA Team
-<br>(P3&amp;P4)
+<br>(P4, P5 &amp; P6) for Term 1</p>
+<p>(P3, P4 &amp; P5) for Term 2 to Term 4
 <br>- School Team
 <br>(Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Badminton*
-<br>- CCA Team
-<br>(P5&amp;P6)
 <br>- School Team
 <br>(Boys)
 <br>
@@ -163,12 +162,12 @@ description: ""
 <p>Table-tennis (P3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Uniformed Group</p>
+<p>Uniformed Group</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -186,7 +185,8 @@ description: ""
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Girl Guides(Brownies)
+<p>Girl Guides</p>
+<p>(Brownies)
 <br>(P3 to P6)</p>
 </td>
 </tr>
@@ -216,7 +216,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Visual Performing Arts</p>
+<p>Visual &amp; Performing Arts</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -243,7 +243,7 @@ description: ""
 <br>(Yang Qin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>-
 <br>
 </p>
 </td>
@@ -269,7 +269,7 @@ description: ""
 <br>(P3 to P6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 <tr>

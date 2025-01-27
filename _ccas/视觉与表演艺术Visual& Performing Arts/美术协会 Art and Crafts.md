@@ -5,15 +5,15 @@ description: ""
 third_nav_title: 视觉与表演艺术Visual& Performing Arts
 variant: tiptap
 ---
-<p>The Art and Crafts club provides a platform for students who are interested
-in Art and Craft to come together and learn about Art. Students will have
-more opportunities to be exposed to different Art mediums like water colour,
-oil pastels. Through each Art project, students are taught Art skills,
-concepts and knowledge to increase their understanding of Art. Students
-will be able to express their thoughts and creativity by working individually
-or working in groups to create their works.</p>
-<p>Besides creating, students also learn to appreciate Art works and also
-learn to explain their works with confidence.</p>
+<p>The<strong> Art and Crafts CCA</strong> provides a platform for students
+who are interested in Art and Craft to come together and learn about Art.
+Students will have more opportunities to be exposed to different Art mediums,
+such as watercolour and oil pastels. Through each Art project, students
+are taught Art skills, concepts, and knowledge to increase their understanding
+of Art. Students will be able to express their thoughts and creativity
+by working individually or in groups to create their works.</p>
+<p>Besides creating, students also learn to appreciate Art works and explain
+their works confidently.</p>
 <p><strong><u>2025</u></strong>
 </p>
 <p></p>

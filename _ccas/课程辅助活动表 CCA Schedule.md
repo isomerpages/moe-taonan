@@ -56,7 +56,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Badminton*
 <br>- CCA Team
-<br>(P4, P5 &amp; P6) for Term 1 (P3, P4 &amp; P5) for Term 2 to Term 4
+<br>(P4,P5&amp;P6) for Term 1 (P3,P4&amp;P5) for Term 2 to Term 4
 <br>- School Team
 <br>(Girls)</p>
 </td>

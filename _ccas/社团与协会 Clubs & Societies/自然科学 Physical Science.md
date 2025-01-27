@@ -7,10 +7,11 @@ variant: tiptap
 ---
 <p><strong>Objective:</strong>&nbsp;To promote the learning of science in
 a fun and interesting way.</p>
-<p>Our school Science Club focusses on enriching the science curriculum through
-specialised training workshops and activities. Physical science and life
-science workshops are conducted for every level and they provide our students
-with the necessary exposure to real life applications of science.</p>
+<p>Our school<strong> Physical Science CCA</strong> focusses on enriching
+the science curriculum through specialised training workshops and activities.
+Physical science and life science workshops are conducted for every level
+and they provide our students with the necessary exposure to real life
+applications of science.</p>
 <p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 75px">

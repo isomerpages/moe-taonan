@@ -5,11 +5,12 @@ description: ""
 third_nav_title: 体能运动 Physical Sports
 variant: tiptap
 ---
-<p>Tao Nan School Badminton consists of School Teams and CCA members.</p>
-<p>The School Teams will have the opportunity to represent the school at
-team competitions and individual tournaments respectively. As for the P3
-to P6 CCA members, our weekly sessions are purely recreational by nature
-though all relevant badminton skills are imparted at the sessions as well.</p>
+<p>Tao Nan School<strong> Badminton CCA </strong>consists of School Teams
+and CCA members.</p>
+<p>The school teams will be able to represent the school at team competitions
+and individual tournaments. As for the P3 to P6 CCA members, our weekly
+sessions are purely recreational by nature, though all relevant badminton
+skills are also imparted at the sessions.</p>
 <p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 75px">

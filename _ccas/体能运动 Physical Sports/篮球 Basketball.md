@@ -44,7 +44,7 @@ building their competitive edge and applying their training in real games.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>2024</u></strong>
+<p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -67,10 +67,12 @@ building their competitive edge and applying their training in real games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Syed Ali Omar Bin Syed Halid Alhatas</p>
+<p>Mrs Yeo- Khor Peck Yin Katherine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>syed_ali_omar_halid@moe.edu.sg</p>
+<p><a href="mailto:khor_peck_yin_katherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khor_peck_yin_katherine@schools.gov.sg</a>
+</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Overall IC</p>
@@ -78,10 +80,12 @@ building their competitive edge and applying their training in real games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Wee Wah [王维华]</p>
+<p>Mr Lim Hoe Seng Francis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_wee_wah@moe.edu.sg</p>
+<p><a href="mailto:lim_hoe_seng_francis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hoe_seng_francis@schools.gov.sg</a>
+</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Overall 2IC</p>
@@ -89,10 +93,12 @@ building their competitive edge and applying their training in real games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheah Li Wei [谢俐蔚]</p>
+<p>Mr Chong Zhi Howe Kenneth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>cheah_li_wei@moe.edu.sg</p>
+<p><a href="mailto:chong_zhi_howe_kenneth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_zhi_howe_kenneth@schools.gov.sg</a>
+</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -100,10 +106,25 @@ building their competitive edge and applying their training in real games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chong Zhi Howe Kenneth</p>
+<p>Miss Ng Lay Kuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chong_zhi_howe_kenneth@moe.edu.sg</p>
+<p><a href="mailto:ng_lay_kuan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lay_kuan_a@schools.gov.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Cheah Li Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheah_li_wei@schools.gov.sg</a>
+</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -114,7 +135,9 @@ building their competitive edge and applying their training in real games.</p>
 <p>Mr Mohammad Daud Teo B Mohd Anwar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>daud_teo@moe.edu.sg</p>
+<p><a href="mailto:daud_teo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daud_teo@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -122,21 +145,12 @@ building their competitive edge and applying their training in real games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Lay Kuan</p>
+<p>Mr Pang Say Wak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_lay_kuan_a@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Pang Say Wak [陈才发]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>pang_say_wak@moe.edu.sg</p>
+<p><a href="mailto:pang_say_wak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_say_wak@schools.gov.sg</a>
+</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -144,10 +158,12 @@ building their competitive edge and applying their training in real games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Terry Foo Siang Yong</p>
+<p>Mdm Lim Chi Huey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>foo_siang_yong@moe.edu.sg</p>
+<p><a href="mailto:lim_chii_huey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chii_huey@schools.gov.sg</a>
+</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

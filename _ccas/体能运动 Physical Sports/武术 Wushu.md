@@ -14,7 +14,7 @@ it to be one of the most exciting and dynamic forms of martial arts.</p>
 training improves strength, stamina and flexibility, whilst speed, control
 and balance are developed through repetitive movements that include kicking
 and open hand techniques.</p>
-<p><strong><u>2024</u></strong>
+<p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -40,7 +40,8 @@ and open hand techniques.</p>
 <p>Mrs Law- Chin Wai Mun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>law-chin_wai_mun@moe.edu.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">law-chin_wai_mun@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Overall IC</p>
@@ -48,10 +49,11 @@ and open hand techniques.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chee Pey Yi [纪佩妤]</p>
+<p>Mdm Samantha Evon Chia Chin Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chee_pey_yi@moe.edu.sg</p>
+<p><a href="mailto:samantha_evon_chia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_evon_chia@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -59,10 +61,23 @@ and open hand techniques.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Clare Li Xunzi [李勋子]</p>
+<p>Mdm Ma Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>clare_li_xunzi@moe.edu.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ma_lin@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Foo Siang Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:foo_siang_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_siang_yong@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -73,7 +88,8 @@ and open hand techniques.</p>
 <p>Mdm Looi Yen Mei Wendy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>looi_yen_mei_wendy@moe.edu.sg</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">looi_yen_mei_wendy@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

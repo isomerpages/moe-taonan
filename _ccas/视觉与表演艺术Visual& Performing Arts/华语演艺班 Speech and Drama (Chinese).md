@@ -12,7 +12,7 @@ national competitions and school events. Trainings will be provided to
 help to improve students' oracy and non-verbal expressions in preparation
 for performances and competitions. Some of the activities include poetry
 recitation, cross talks, story-telling, drama as well as speech and drama.</p>
-<p><strong><u>2024</u></strong>
+<p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>

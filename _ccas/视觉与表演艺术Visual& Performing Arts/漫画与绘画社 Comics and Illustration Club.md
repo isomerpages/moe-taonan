@@ -12,7 +12,7 @@ themselves through comics. Students will learn the necessary skills and
 tricks on comics drawing. They will also be taught the fundamentals of
 storytelling and storyboarding. Students will also be provided with an
 appropriate platform to exchange ideas and experiences on drawing comics.</p>
-<p><strong><u>2024</u></strong>
+<p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>

@@ -18,7 +18,7 @@ sows the seeds of independence and aims to nurture and bring out the leader
 in each individual who comes to us.</p>
 <p>In Scouting, a boy is encouraged to educate himself instead of being instructed.
 ~ Lord Baden Powell, Founder</p>
-<p><strong>Teachers In-Charge:</strong>
+<p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>

@@ -28,7 +28,10 @@ Parents who require assistance during registration may contact the school via em
 
 ## Past Year's Statistics
 Please refer to  https://www.moe.gov.sg/primary/p1-registration/past-vacancies-and-balloting-data for past year’s registration statistics.
-      
+
+Parent Volunteering
+-------------------
+
 Tao Nan School does not recruit parent volunteers under Phase 2B of the Primary 1 (P1) Registration Exercise due to the immense support received from our Parent Support Group, Tao Nan Alumni Association, and the Singapore Hokkien Huay Kuan for our various school activities &amp; programmes.
 
 Please refer to MOE’s website at&nbsp;[https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration)&nbsp;for more information on P1 registration and the eligibility criteria for the different phases.

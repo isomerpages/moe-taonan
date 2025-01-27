@@ -7,12 +7,12 @@ variant: tiptap
 ---
 <p><strong>Learn to Play. Play to Learn.</strong>
 </p>
-<p>In this CCA, students will learn to play various sports and games. They
-will also be equipped with the knowledge of various fitness and conditioning
-exercises that can help them keep fit for life. We also incorporate outdoor
-activities like rock-climbing and abseiling into our CCA. Through these
-activities, students will also learn soft skills like self-awareness, social
-awareness and resilience.</p>
+<p>At<strong> </strong>TNS <strong>Outdoor Adventure CCA</strong>, students
+learn to play various sports and games. They are also equipped with knowledge
+of various fitness and conditioning exercises that can help them stay fit
+for life. We incorporate outdoor activities like rock-climbing and abseiling
+into our CCA. Through these activities, students also learn soft skills
+like self-awareness, social awareness, and resilience.</p>
 <p>Sports and games students will get to learn and play:</p>
 <ul data-tight="true" class="tight">
 <li>

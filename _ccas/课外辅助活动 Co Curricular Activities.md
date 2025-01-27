@@ -41,7 +41,7 @@ at the end of each term.&nbsp;
 </p>
 </li>
 </ol>
-<p><strong><u>CHANGE/ENROL/WITHDRAW -  CCA REQUEST FORM</u></strong>
+<p><strong><u>CHANGE/ENROL/WITHDRAW - CCA REQUEST FORM</u></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>

@@ -41,7 +41,7 @@ Chess Federation annually.&nbsp;</p>
 <p>Mr Mohamad Suhirman Bin Zainal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamad_suhirman_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_suhirman_zainal@moe.edu.sg</a>
+<p><a href="mailto:mohamad_suhirman_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_suhirman_zainal@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,22 +50,22 @@ Chess Federation annually.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shahadatunisa d/o M M Noorddin (2IC)</p>
+<p>Mdm Shahadatunisa d/o M M Noorddin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shahadatunisa_m_m_noorddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahadatunisa_m_m_noorddin@moe.edu.sg</a>
+<p><a href="mailto:shahadatunisa_m_m_noorddin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahadatunisa_m_m_noorddin@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2IC</p>
+<p>Overall 2IC</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;Mdm Choo Kay Ngee&nbsp;&nbsp;&nbsp;</p>
+<p>Mdm Choo Kay Ngee&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choo_kay_ngee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_kay_ngee@moe.edu.sg</a>
+<p><a href="mailto:choo_kay_ngee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_kay_ngee@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

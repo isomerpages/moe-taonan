@@ -27,7 +27,7 @@ Parents will require a valid Singpass with 2-Factor Authentication (2FA) to logi
 Parents who require assistance during registration may contact the school via email ([taonan_sch@moe.edu.sg](taonan_sch@moe.edu.sg)) or telephone (6442 8307) on the respective registration days between 9.00am to 4.30pm. Information on the P1 Registration process, eligibility criteria and user guides can be found at [https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration).
 
 ## Past Year's Statistics
-Please refer to  https://www.moe.gov.sg/primary/p1-registration/past-vacancies-and-balloting-data for past year’s registration statistics.
+Please refer to  [https://www.moe.gov.sg/primary/p1-registration/past-vacancies-and-balloting-data](https://www.moe.gov.sg/primary/p1-registration/past-vacancies-and-balloting-data)  for past year’s registration statistics.
 
 Parent Volunteering
 -------------------

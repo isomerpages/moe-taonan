@@ -11,7 +11,7 @@ interested in stage performances. Students will also have the opportunity
 to take part in national competitions and school events. Training will
 be provided to help improve students' oracy and nonverbal expressions in
 preparation for performances and competitions. Some of the activities include
-poetry recitation, cross-talk, story-telling, drama, and speech and drama.</p>
+poetry recitation, cross-talk, story-telling, drama and speech and drama.</p>
 <p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 75px">

@@ -6,8 +6,8 @@ third_nav_title: 体能运动 Physical Sports
 variant: tiptap
 ---
 <p>Sailing is a unique sport in which our young sailors learn perseverance,
-problem-solving, decision-making as well as spatial awareness as they hone
-their sense of directions.</p>
+problem-solving, decision-making, and spatial awareness as they hone their
+sense of direction.</p>
 <p>Through its dedicated teachers and students, Tao Nan School Sailing team
 provides a safe, friendly and conducive environment to the foster self-reliance
 and seamanship.</p>

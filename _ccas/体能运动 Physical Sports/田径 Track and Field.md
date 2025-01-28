@@ -5,11 +5,11 @@ description: ""
 third_nav_title: 体能运动 Physical Sports
 variant: tiptap
 ---
-<p>The Track and Field team welcomes all Primary 3 to 6 pupils who are passionate
-about running, jumping and throwing. Members will be trained in various
-skills and given the opportunity to participate in Track and Field events
-that they excel in. Members will also get the opportunity to train at Bedok
-Stadium in preparation for NSG and SHHK Sports Day.</p>
+<p>Tao Nan School <strong>Track and Field CCA</strong> welcomes all Primary
+3 to 6 pupils who are passionate about running, jumping and throwing. Members
+will be trained in various skills and allowed to participate in track and
+field events in which they excel. Members will also train at Bedok Stadium
+in preparation for NSG and SHHK Sports Day.</p>
 <p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 75px">

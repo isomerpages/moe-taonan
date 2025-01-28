@@ -5,10 +5,10 @@ description: ""
 third_nav_title: 体能运动 Physical Sports
 variant: tiptap
 ---
-<p>Netball is a team sport that emphasises on team spirit and team building.
-The girls bond and build friendships during their training sessions and
-also acquire the skills of the game. Through their team efforts and camaraderie,
-the girls have found netball to be a truly fun and exciting game.</p>
+<p>TNS <strong>Netball CCA</strong> is a team sport emphasising team spirit
+and building. The girls bond and build friendships during their training
+sessions and also acquire the skills of the game. Through their team efforts
+and camaraderie, the girls have found netball fun and exciting.</p>
 <p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 75px">

@@ -1,17 +1,17 @@
 ---
-title: 漫画与绘画社 Comics and Illustration Club
+title: 漫画与绘画社 Comics and Illustration
 permalink: /ccas/visual-and-performing-arts/comics-and-illustration-club/
 description: ""
-third_nav_title: 视觉与表演艺术Visual& Performing Arts
+third_nav_title: 视觉与表演艺术 Visual&Performing Arts
 variant: tiptap
 ---
 <p>Comics are a visual medium used to express ideas via images, often combined
-with text or visual information. The Comics Club is started with the vision
-to equip our students with a different and innovative way of expressing
-themselves through comics. Students will learn the necessary skills and
-tricks on comics drawing. They will also be taught the fundamentals of
-storytelling and storyboarding. Students will also be provided with an
-appropriate platform to exchange ideas and experiences on drawing comics.</p>
+with text or visual information. The <strong>Comics &amp; Illustration CCA</strong> is
+started with the vision to equip our students with a different and innovative
+way of expressing themselves through comics. Students will learn the necessary
+skills and tricks on comics drawing. They will also be taught the fundamentals
+of storytelling and storyboarding. Students will also be provided with
+an appropriate platform to exchange ideas and experiences on drawing comics.</p>
 <p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 75px">

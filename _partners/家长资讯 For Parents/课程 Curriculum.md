@@ -19,9 +19,9 @@ variant: tiptap
 <hr>
 <h3>Curriculum Briefing Slides</h3>
 <p>Click to download:</p>
-<p><a href="https://docs.google.com/presentation/d/1-qNda0anJVAyDK1Xtx3ZsszTpCA8ZgH5zEVG9-G_SeE/edit?usp=sharing" rel="noopener nofollow" target="_blank">2025 P3 and P4 Curriculum Briefing (Principal's Address)</a>
+<p><a href="https://drive.google.com/file/d/1NzuNNnnDaxtcUBNeQOK0bS_YZV02kMZM/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P3 and P4 Curriculum Briefing (Principal's Address)</a>
 </p>
-<p><a href="https://docs.google.com/presentation/d/17L1mDnvHbLSPi1aAEHilJIVYIICRcMp4K8EzOnL_t6c/edit?usp=sharing" rel="noopener nofollow" target="_blank">2025 P5 and P6 Curriculum Briefing (Principal's Address)</a>
+<p><a href="https://drive.google.com/file/d/15HUBep4LbHOCzl_Zs5hLtjeEOZVMSQWX/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P5 and P6 Curriculum Briefing (Principal's Address)</a>
 </p>
 <h3>P1</h3>
 <ul data-tight="true" class="tight">

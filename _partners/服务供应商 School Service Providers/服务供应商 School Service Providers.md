@@ -67,8 +67,9 @@ the booklists
 <p>Health Promotion Board</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9113 0363 /
-<br>8940 1058</p>
+<p>9113 0363
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>(Term Time)

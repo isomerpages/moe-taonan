@@ -112,7 +112,7 @@ variant: tiptap
 <p>Chinese (Foundation)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Wee Wah [王维华]</p>
+<p>Ms Ong Wee Wah [王维华]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_wee_wah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wee_wah@schools.gov.sg</a>

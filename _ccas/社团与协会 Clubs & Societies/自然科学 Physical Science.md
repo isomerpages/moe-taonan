@@ -61,8 +61,8 @@ applications of science.</p>
 <p>Mdm Zahidah Binte Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zahidah_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zahidah_osman@schools.gov.sg</a>&nbsp;
-&nbsp;&nbsp;</p>
+<p><a href="mailto:zahidah_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zahidah_osman@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

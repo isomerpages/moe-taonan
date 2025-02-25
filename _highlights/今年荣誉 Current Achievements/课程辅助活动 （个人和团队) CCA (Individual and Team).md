@@ -1257,16 +1257,16 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Cim Eng Natasha 6C
-<br>Ong Jia Xuan Aleyna 6D
-<br>Shannon Boo Le Xuan 6D
-<br>Goh Zhi Xuan Lauren 6E
-<br>Wong Kye Re, Seraphina 6F
-<br>Ng Zen Teng, Miki 6G
-<br>Lim Xin Le Claire 6H
-<br>Sarah-Kai En Rettig 6I
-<br>Nicole Chan Min Shan 6J
-<br>Simone Lim Gay Tink 6K</p>
+<p>Goh Cim Eng Natasha (6C)
+<br>Ong Jia Xuan Aleyna 6D)
+<br>Shannon Boo Le Xuan (6D)
+<br>Goh Zhi Xuan Lauren (6E)
+<br>Wong Kye Re, Seraphina (6F)
+<br>Ng Zen Teng, Miki (6G)
+<br>Lim Xin Le Claire (6H)
+<br>Sarah-Kai En Rettig (6I)
+<br>Nicole Chan Min Shan (6J)
+<br>Simone Lim Gay Tink (6K)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>(for the year of assessment 2023)</p>
@@ -1299,10 +1299,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EMMA CHUA XING EN 4B
-<br>KOH XIN NI AVERI 4F
-<br>WANG XIYUAN 4I
-<br>KOH YU LIN EMMELINE 5F</p>
+<p>EMMA CHUA XING EN (4B)
+<br>KOH XIN NI AVERI (4F)
+<br>WANG XIYUAN (4I)
+<br>KOH YU LIN EMMELINE (5F)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1335,7 +1335,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAY HWEE SUAN JANICE 5I</p>
+<p>TAY HWEE SUAN JANICE (5I)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1368,10 +1368,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAY HWEE SUAN JANICE 5I
-<br>VICTORIA CHAN SUM YIN 5I
-<br>GEORGIA TAN WERN HSUAN 5L
-<br>HAZEL EMILIA TOO 5K</p>
+<p>TAY HWEE SUAN JANICE (5I)
+<br>VICTORIA CHAN SUM YIN (5I)
+<br>GEORGIA TAN WERN HSUAN (5L)</p>
+<p>HAZEL EMILIA TOO (5K)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1405,9 +1405,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Optimist Silver Fleet - 1st
-<br>Joel Chan Qingxuan 5A
-<br>Fong Luke Tin 4I
-<br>Timothy Ng Kai Zhe 3J</p>
+<br>Joel Chan Qingxuan (5A)
+<br>Fong Luke Tin (4I)
+<br>Timothy Ng Kai Zhe (3J)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

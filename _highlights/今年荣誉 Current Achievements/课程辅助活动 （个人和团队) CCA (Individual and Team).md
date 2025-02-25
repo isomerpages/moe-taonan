@@ -72,7 +72,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese</p>
+<p>Chinese Dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -83,7 +83,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dance</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -105,7 +105,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese</p>
+<p>Chinese Orchestra</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -116,7 +116,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Orchestra</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -171,7 +171,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Guzheng</p>
+<p>Guzheng Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -894,7 +894,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Girl Guides</p>
+<p>Girl Guides (Brownies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -905,7 +905,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>(Brownies)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1906,13 +1906,202 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual
+<br>(NSG)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Team
+<br>(NSG)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Division</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Girls Singles</strong>
+<br>Tiered 1 First: Chew Su Eng, Simonne (4G)
+<br>Tiered 1 First: Lum Kai Yuan Isabel (4G)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Girls Doubles</strong>
+<br>Tiered 1 First: Lee Yeeing Enn Arissa (4F) and Lin Le Hsuen Claire (5D)
+<br>First: Miao Liyun Meredith (3J) and Cheng Shane Wern (3H)
+<br>Tiered 4
+<br>First: Edith Cheong Rui En (3F) and Cheng Shane Wern (3H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Boys Singles</strong>
+<br>Tiered 1 First: Teo Kai En, Brandon (3E)
+<br>Tiered 2 First: Sven Ng Yi Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Boys Doubles</strong>
+<br><strong>Tiered 1</strong>
+<br>First: Algernon Bustan (4A) and Poh Shi Jie Theodore (4J)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tiered 2</strong>
+<br>First: Lim Shan Yi (3H) and Choo Tze Ee (4G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Badminton Senior Division Sportsmanship Award</strong>
+<br>Ang Yu Xuan, Emma (6C) Girls
+<br>Sherwin Quek Tian Le (6J) Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG National Badminton Senior Division</strong>
+<br>Girls - Champion
+<br>Boys - 4th Placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Boys :
+<br>1st - Tier 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Girls:
+<br>1st - Tier 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1920,9 +2109,11 @@ variant: tiptap
 <p><strong>Others</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
-<p><strong>ACHIEVEMENT (National/International)</strong>
-</p>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

@@ -93,6 +93,41 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Boys :
+<br>1st - Tier 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Girls:
+<br>1st - Tier 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chinese Dance</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1544,6 +1579,82 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track &amp; Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG Track &amp; Field 2024 Senior Division 1 Girls:&nbsp;Combined Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Annette Lam Yan Hei (6E) - 3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50th Annual SHHK: Combined Sports Meet 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd - Long Jump 'D' Division Girls - Janelle Ho (4H)</p>
+<p>2nd - 200m 'D' Division Girls - Woo Yun En (4F)
+<br>1st - Long Jump 'D' Division Girls - Woo Yun En (4F)</p>
+<p>1st - Shot Put 'D' Division Boy - Liu Xin (4F)</p>
+<p>1st - Long Jump 'D' Division Boy - Lee Hong Sheng Maven (4B)</p>
+<p>3rd - Vertical Jump 'C' Division Girls - Ng Shuen En (5G)</p>
+<p>1st - 100m 'C' Division Girls - Teoh Li En (5G)</p>
+<p>3rd - Vertical Jump 'C' Division Girls - Annette Lam Yan Hei (6E)</p>
+<p>2nd - 200m 'B' Division Girls - Lauren Goh Zhi Xuan (6E)</p>
+<p>3rd - Long Jump 'B' Division Boys - Aaron Neo Lok Kiat (6F)</p>
+<p>1st - 200m 'B' Division Boys - Aaron Neo Lok Kiat (6F)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2100,8 +2211,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Boys :
-<br>1st - Tier 1</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -2112,8 +2222,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Girls:
-<br>1st - Tier 1</p>
+<p></p>
 </td>
 </tr>
 <tr>

@@ -110,7 +110,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Tan Sheng De (Captain) 6F
+<p>1. Tan Sheng De 6F
 <br>2. Chin Jun Yi Jaedon 6A3.
 <br>Chew Geng Shen Jake 6B
 <br>4. Josiah Hew Khai Yi 6B
@@ -156,7 +156,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Ang En Qi, Cara-Faith (Captain) 6K
+<p>1. Ang En Qi, Cara-Faith 6K
 <br>2. Joey Goh 6D
 <br>3. Ashlynn Soh Xing Xuan 6D
 <br>4. Belynne Tan Xuan Lin 6D
@@ -181,6 +181,90 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Boys:</p>
+<p>Tier 1 Group Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JOASH JEROME SNG ZHIWEN 5J</p>
+<p>ZAVIER TONG ZHONG TING 5H
+<br>KEVON SIM 5E
+<br>LIM JIA KANG, EAN 5F
+<br>DANIEL CHIAM XING YE P5-G
+<br>GOH JIA JIN, OWEN 5G
+<br>WANG ZIQIAO ALBERT 5-G
+<br>CHANG HAO QUAN, ALTON 5K
+<br>ETHAN LOO YANWEI 5K
+<br>MUI TING HIN MASON 5K
+<br>WANG YUECHENG 5K
+<br>ANG CHOON KAI, JORDAN 5L
+<br>DAVID JOASH OW KY-YANG 4B
+<br>DANIEL JOSHUA NG YING ZHE 4D
+<br>TAN DEAN FENG 4J</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Girls:</p>
+<p>Tier 1 Group Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CLAIRE ONG YU EN 5H
+<br>TAN SHI QI, CLAUDIA (Vice- Captain) 5F
+<br>GISELLE ELIZABETH GOH YONG NI 5A
+<br>OH RUI YING SARAH 5C
+<br>ONG XIN YI ISABELLA 5E
+<br>TAN JIE LING, MIRANDA 5E
+<br>CHIAM SHU YUN CELESTE 5F
+<br>WANG YIRAN SERA 5F
+<br>LIM JIARU RUTH 5G
+<br>SONG XIUJIE GISELLE 5J
+<br>TEO SI QI CHLOE 5J
+<br>AW KAI YIN 4A
+<br>LEE XINYUN QUINNA 4B
+<br>SOPHIA HENG SU FEI 4H</p>
 </td>
 </tr>
 <tr>

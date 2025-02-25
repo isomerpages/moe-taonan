@@ -64,10 +64,31 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>The Boys' Brigade Juniors Programme: Gold Award
+<br>1. GOH JIN JUN, KEEGAN (6A)
+<br>2. JOSEPH YIP SUJING (6A)
+<br>3. LIM LENG LOK JAIRUS (6B)
+<br>4. AXEL TAY ZHI WEI (6C)
+<br>5. TEOH LEE HERN SHAUN (6C)
+<br>6. ZYG HENG YI TENG (6C)
+<br>7. DOMINIC WONG KIN EN (6F)
+<br>8. ISAIAH CHAN HIN JING&nbsp;(6F)
+<br>9. WONG YEE RAY DANIEL (6G)
+<br>10. MA RUILEI KEVIN (6L)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -90,6 +111,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xiangqi (Chinese)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kwee Shin Yee (2D) - 3rd
+<br>Kwee Yu Xiang (5L) - 3rd
+<br>Sean Chan Shan En (5J) - 3rd</p>
 </td>
 </tr>
 <tr>
@@ -210,15 +255,17 @@ variant: tiptap
 <p>75th National School Individual Chess Championship 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>65th National Inter-School Team Chess Championship 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Girls Under 8</p>
+<p><strong>Girls Under 8</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Primary Under 8</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -226,10 +273,12 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ashley Ng Jing Qi (2F)</p>
+<p><strong>Ashley Ng Jing Qi (2F)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Team 1 (1st at East Zone)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +289,10 @@ variant: tiptap
 <p>East Zone (Top 10 positions) - 1st</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Cao Bangting (2E)
+<br>Christopher Tan Kai (2K)
+<br>Zhang Yuming (2B)
+<br>Daniel Foo Tian Yi (2D)</p>
 </td>
 </tr>
 <tr>
@@ -251,7 +303,8 @@ variant: tiptap
 <p>National (Top 20 positions) - 2nd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><strong>Team 2 (2nd at East Zone)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -262,7 +315,12 @@ variant: tiptap
 <p>Kwee Shin Yee (2D)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Li Hongyi (2K)
+<br>Teo Yi Zhi
+<br>Anders (2K)
+<br>Mak Jian Yue,
+<br>Jaius (2K)
+<br>Loh Chen Xi Charles (2J)</p>
 </td>
 </tr>
 <tr>
@@ -273,7 +331,8 @@ variant: tiptap
 <p>East Zone (Top 10 positions) - 2nd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><strong>Primary Girls Under 8 (1st at East Zone)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -284,7 +343,10 @@ variant: tiptap
 <p>National (Top 20 positions) - 8th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ashley Ng Jing Qi (2F)
+<br>Kwee Shin Yee (2D)
+<br>Wong Shi Rui (2C)
+<br>Corah Soh Shi En (2K)</p>
 </td>
 </tr>
 <tr>
@@ -295,7 +357,8 @@ variant: tiptap
 <p>Choo Ray Chyi (1H)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><strong>Primary Under 10</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -306,7 +369,8 @@ variant: tiptap
 <p>East Zone (Top 10 positions) - 3rd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><strong>Team 1 (2nd at National and 1st at East Zone)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -317,7 +381,11 @@ variant: tiptap
 <p>National (Top 20 positions) - 10th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Wong Chin Han (4D)
+<br>Dennis Liam Ng
+<br>De Jun (4H)
+<br>Cao Bangling (4G)
+<br>Zhou Ruixi Kendrick (3J)</p>
 </td>
 </tr>
 <tr>
@@ -328,7 +396,8 @@ variant: tiptap
 <p>Wong Shi Rui (2C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><strong>Primary Open</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -339,7 +408,8 @@ variant: tiptap
 <p>East Zone (Top 10 positions) - 4th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><strong>Team 1 (3rd at East Zone)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -350,7 +420,10 @@ variant: tiptap
 <p>National (Top 20 positions) - 18th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nicholas Huazhen Kuo (5J)
+<br>Lee Chun Leong, George (5I)
+<br>Euan Loh Kai Ern (4A)
+<br>Johann Isaiah Ong (5J)</p>
 </td>
 </tr>
 <tr>
@@ -361,7 +434,8 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Primary Girls Open (2nd at East Zone)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -372,7 +446,11 @@ variant: tiptap
 <p>Girls Under 10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Kelly Ku Yu Ting (3A)
+<br>Deborah Lee Yining (5H)
+<br>Kassia Chiam
+<br>Kaylee (3H)
+<br>Lim Jia Xuan (3I)</p>
 </td>
 </tr>
 <tr>

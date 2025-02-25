@@ -110,20 +110,20 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Tan Sheng De 6F
-<br>2. Chin Jun Yi Jaedon 6A3.
-<br>Chew Geng Shen Jake 6B
-<br>4. Josiah Hew Khai Yi 6B
+<p>1. Tan Sheng De (6F)
+<br>2. Chin Jun Yi Jaedon (6A)</p>
+<p>3. Chew Geng Shen Jake 6B
+<br>4. Josiah Hew Khai Yi (6B)
 <br>5. Nicholas Zhang Junhao 6E
-<br>6. Yan Hongkai 6E
-<br>7. Bhutia Karma Phuntsok Yang Xiangyun 6F
-<br>8. Lim Shan Yu Chase 6F
-<br>9. Matthew Ho Jin Ming 6G
-<br>10. Nigel Herison 6G
-<br>11. Aaron-Von Tan Ruo Sheng 6H
-<br>12. Damian Yu Hao Bin 6H
-<br>13. Adam Chee Bin Xuan 6K
-<br>14. Jan Alexander Gautama 6L</p>
+<br>6. Yan Hongkai (6E)
+<br>7. Bhutia Karma Phuntsok Yang Xiangyun (6F)
+<br>8. Lim Shan Yu Chase (6F)
+<br>9. Matthew Ho Jin Ming (6G)
+<br>10. Nigel Herison (6G)
+<br>11. Aaron-Von Tan Ruo Sheng (6H)
+<br>12. Damian Yu Hao Bin (6H)
+<br>13. Adam Chee Bin Xuan (6K)
+<br>14. Jan Alexander Gautama (6L)</p>
 </td>
 </tr>
 <tr>
@@ -156,20 +156,20 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Ang En Qi, Cara-Faith 6K
-<br>2. Joey Goh 6D
-<br>3. Ashlynn Soh Xing Xuan 6D
+<p>1. Ang En Qi, Cara-Faith (6K)
+<br>2. Joey Goh (6D)
+<br>3. Ashlynn Soh Xing Xuan (6D)
 <br>4. Belynne Tan Xuan Lin 6D
-<br>5. Chng Woon Nga 6D
-<br>6. Olivia Xinlei Gubbins 6D
-<br>7. Ice Tea Ruo Bin 6E
-<br>8. Lim Jia Le Clara 6E
-<br>9. Koh Wen Xuan Sierra 6J
-<br>10. Liu Yu-Yan 6J
-<br>11. Yang Kaixuan 6K
-<br>12. Zhang Zhiyan 6K
-<br>13. Janette Wong Shi Ya 6L
-<br>14. Joyce Lau Jie Ying 6L</p>
+<br>5. Chng Woon Nga (6D)
+<br>6. Olivia Xinlei Gubbins (6D)
+<br>7. Ice Tea Ruo Bin (6E)
+<br>8. Lim Jia Le Clara (6E)
+<br>9. Koh Wen Xuan Sierra (6J)
+<br>10. Liu Yu-Yan (6J)
+<br>11. Yang Kaixuan (6K)
+<br>12. Zhang Zhiyan (6K)
+<br>13. Janette Wong Shi Ya (6L)
+<br>14. Joyce Lau Jie Ying (6L)</p>
 </td>
 </tr>
 <tr>

@@ -1162,7 +1162,7 @@ variant: tiptap
 <p>Girl Guides (Brownies)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chief Commissioners' Badge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Puan Noor Aishah Award (PNAA)</p>
@@ -1173,7 +1173,16 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Goh Cim Eng Natasha 6C
+<br>Ong Jia Xuan Aleyna 6D
+<br>Shannon Boo Le Xuan 6D
+<br>Goh Zhi Xuan Lauren 6E
+<br>Wong Kye Re, Seraphina 6F
+<br>Ng Zen Teng, Miki 6G
+<br>Lim Xin Le Claire 6H
+<br>Sarah-Kai En Rettig 6I
+<br>Nicole Chan Min Shan 6J
+<br>Simone Lim Gay Tink 6K</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>(for the year of assessment 2023)</p>
@@ -1184,7 +1193,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>National Brownie Revel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tao Nan Pack 1 - Silver (current P4 &amp; P6)</p>
@@ -1195,7 +1204,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>MERIT - Let's Play Visually Impaired Football Competition&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tao Nan Pack 2 - Gold (current P5 &amp; 2023/P6)</p>
@@ -1206,10 +1215,129 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>EMMA CHUA XING EN 4B
+<br>KOH XIN NI AVERI 4F
+<br>WANG XIYUAN 4I
+<br>KOH YU LIN EMMELINE 5F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd - Junior Poets Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAY HWEE SUAN JANICE 5I</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd - Inclusive Explorers Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAY HWEE SUAN JANICE 5I
+<br>VICTORIA CHAN SUM YIN 5I
+<br>GEORGIA TAN WERN HSUAN 5L
+<br>HAZEL EMILIA TOO 5K</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sailing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore National Sailing Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Optimist Silver Fleet - 1st
+<br>Joel Chan Qingxuan 5A
+<br>Fong Luke Tin 4I
+<br>Timothy Ng Kai Zhe 3J</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

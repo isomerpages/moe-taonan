@@ -111,8 +111,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Tan Sheng De (6F)
-<br>2. Chin Jun Yi Jaedon (6A)</p>
-<p>3. Chew Geng Shen Jake 6B
+<br>2. Chin Jun Yi Jaedon (6A)
+<br>3. Chew Geng Shen Jake 6B
 <br>4. Josiah Hew Khai Yi (6B)
 <br>5. Nicholas Zhang Junhao 6E
 <br>6. Yan Hongkai (6E)
@@ -203,8 +203,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JOASH JEROME SNG ZHIWEN (5J)</p>
-<p>ZAVIER TONG ZHONG TING (5H)
+<p>JOASH JEROME SNG ZHIWEN (5J)
+<br>ZAVIER TONG ZHONG TING (5H)
 <br>KEVON SIM (5E)
 <br>LIM JIA KANG, EAN (5F)
 <br>DANIEL CHIAM XING YE (5G)
@@ -251,20 +251,20 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CLAIRE ONG YU EN 5H
-<br>TAN SHI QI, CLAUDIA (Vice- Captain) 5F
-<br>GISELLE ELIZABETH GOH YONG NI 5A
-<br>OH RUI YING SARAH 5C
-<br>ONG XIN YI ISABELLA 5E
-<br>TAN JIE LING, MIRANDA 5E
-<br>CHIAM SHU YUN CELESTE 5F
-<br>WANG YIRAN SERA 5F
-<br>LIM JIARU RUTH 5G
-<br>SONG XIUJIE GISELLE 5J
-<br>TEO SI QI CHLOE 5J
-<br>AW KAI YIN 4A
-<br>LEE XINYUN QUINNA 4B
-<br>SOPHIA HENG SU FEI 4H</p>
+<p>CLAIRE ONG YU EN (5H)
+<br>TAN SHI QI, CLAUDIA (5F)
+<br>GISELLE ELIZABETH GOH YONG NI (5A)
+<br>OH RUI YING SARAH (5C)
+<br>ONG XIN YI ISABELLA (5E)
+<br>TAN JIE LING, MIRANDA (5E)
+<br>CHIAM SHU YUN CELESTE (5F)
+<br>WANG YIRAN SERA (5F)
+<br>LIM JIARU RUTH (5G)
+<br>SONG XIUJIE GISELLE (5J)
+<br>TEO SI QI CHLOE (5J)
+<br>AW KAI YIN (4A)
+<br>LEE XINYUN QUINNA (4B)
+<br>SOPHIA HENG SU FEI (4H)</p>
 </td>
 </tr>
 <tr>

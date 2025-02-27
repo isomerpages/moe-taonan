@@ -1390,6 +1390,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Olave St Clair Award (OCA) 2024 -
+<br>Lim Xin Le Claire (6H)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Sailing</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2595,7 +2618,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Boys - 4th Placing </strong>
+<p><strong>Boys - 4th Placing</strong>
 </p>
 </td>
 </tr>

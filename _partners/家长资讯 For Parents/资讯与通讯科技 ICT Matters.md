@@ -304,6 +304,10 @@ please visit <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cybe
 <p><a href="https://drive.google.com/file/d/1Gtvp6az3xx_prJ6ZnwI8v5ZfGiVPaVi9/view?usp=sharing" rel="noopener nofollow" target="_blank">Guidance on Screen Use in Children</a>
 </p>
 </li>
+<li>
+<p><a href="https://drive.google.com/file/d/197X4udtphCZOKffcBq1eFN8e3IjKzIZK/view?usp=sharing" rel="noopener nofollow" target="_blank">Parent's Guide to using Generative AI Tools for Learning</a>
+</p>
+</li>
 </ul>
 <hr>
 <p></p>

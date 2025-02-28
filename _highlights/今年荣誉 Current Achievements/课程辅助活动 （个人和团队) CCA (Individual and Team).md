@@ -354,7 +354,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Accomplishment Award</p>
+<p>AccomplishmentAward</p>
 </td>
 </tr>
 <tr>
@@ -387,7 +387,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Accomplishment Award</p>
+<p>AccomplishmentAward</p>
 </td>
 </tr>
 <tr>
@@ -1372,6 +1372,29 @@ variant: tiptap
 <br>VICTORIA CHAN SUM YIN (5I)
 <br>GEORGIA TAN WERN HSUAN (5L)</p>
 <p>HAZEL EMILIA TOO (5K)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Olave St Clair Award (OCA) 2024 -
+<br>Lim Xin Le Claire (6H)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2547,13 +2570,76 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG Badminton Senior Division Sportsmanship Award</strong>
-<br>Ang Yu Xuan, Emma (6C) Girls
-<br>Sherwin Quek Tian Le (6J) Boys</p>
+<br>Ang Yu Xuan, Emma (6C) - Girls
+<br>Sherwin Quek Tian Le (6J) -Boys</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG National Badminton Senior Division</strong>
-<br>Girls - Champion
-<br>Boys - 4th Placing</p>
+<br><strong>Girls - Champion </strong>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Jasmine Toh Qi Hui (5C)
+<br>2. Tay Yu Xuan，Jade (5C)
+<br>3. Qin Ruoyi Zoe (5F)
+<br>4. Chua Xian Yi Charis (5K)
+<br>5. Ang Xuewen, Adabelle (6B)
+<br>6. Koh Zhe Qin Faith (6L)
+<br>7. Ella Toh Shi Ying (6H
+<br>8. Ho Leanne (6H)
+<br>10. Ang Yuxuan, Emma (6C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Boys - 4th Placing</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Soh Rui Ze (5D)
+<br>2. Ling Kaiyan (5I)
+<br>3. Nigel Low Shangzhe (5J)
+<br>4. Wong Yu Ren Malcolm (5L)
+<br>5. Wong Hong Xi Nathaniel (6E)
+<br>6. Russell Wong Kwok Hin (6F)
+<br>7. Meng Haoran (6J)
+<br>8. Chew Sheng An Simeon (6K)
+<br>9. Lye Jing-An (6L)
+<br>10. Sherwin Quek Tian Le (6J)</p>
 </td>
 </tr>
 <tr>

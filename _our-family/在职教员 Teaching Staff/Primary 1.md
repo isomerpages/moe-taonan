@@ -316,7 +316,8 @@ variant: tiptap
 <p>Ms Yam May San Priscilla</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Email Address to be updated)</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yam_may_san_priscilla@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

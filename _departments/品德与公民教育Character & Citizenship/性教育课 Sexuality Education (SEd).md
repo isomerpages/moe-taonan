@@ -243,6 +243,6 @@ providers.</p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also accessible <a href="https://go.gov.sg/sexuality-education-parent-opt-out-form-2025-tao-nan-school" rel="noopener nofollow" target="_blank">here</a> .
-The completed opt-out form is to be submitted by 14/03/2025.</p>
+The completed opt-out form is to be submitted by 28/03/2025.</p>
 <p>10. Parents can contact the school at (64428307 or <a href="mailto:taonan_sch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">taonan_sch@moe.edu.sg</a>) for discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>

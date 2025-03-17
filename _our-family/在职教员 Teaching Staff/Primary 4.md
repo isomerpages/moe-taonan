@@ -430,7 +430,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>4H</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -468,6 +468,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_yu_nian_nikki@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yu_nian_nikki@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Choon Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_choon_meng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_choon_meng_a@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

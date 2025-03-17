@@ -491,10 +491,10 @@ variant: tiptap
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Choon Meng</p>
+<p>Mdm How Hooi Bing Tiffany</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_choon_meng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_choon_meng_a@schools.gov.sg</a>
+<p><a href="mailto:how_hooi_bing@schools.gov.sg" rel="noopener nofollow" target="_blank">how_hooi_bing@schools.gov.sg</a>
 </p>
 </td>
 </tr>

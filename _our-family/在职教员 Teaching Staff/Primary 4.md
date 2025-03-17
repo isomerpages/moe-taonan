@@ -168,6 +168,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 3</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Wei Ming</p>
@@ -187,6 +188,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_choon_meng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_choon_meng_a@schools.gov.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -535,6 +537,21 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wei Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_ming@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4" colspan="1">
 <p>4J</p>
 </td>
@@ -652,6 +669,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhang_yu_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yu_b@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wei Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

@@ -39,10 +39,10 @@ variant: tiptap
 <p>PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Khor Peck Yin Katherine</p>
+<p>Ms Ngoh Siew Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khor_peck_yin_katherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khor_peck_yin_katherine@schools.gov.sg</a>
+<p><a href="mailto:ngoh_siew_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngoh_siew_teng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -51,10 +51,10 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ngoh Siew Teng</p>
+<p>Mr Teo Choon Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ngoh_siew_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngoh_siew_teng@schools.gov.sg</a>
+<p><a href="mailto:teo_choon_meng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_choon_meng_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -547,5 +547,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 02 January 2025</strong>
+<p><strong>Updated on 17 March 2025</strong>
 </p>

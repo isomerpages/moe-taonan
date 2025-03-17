@@ -652,12 +652,10 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Grace-Clemence Wong Ying Qi / Mrs Mimi Cheong</p>
+<p>Mrs Mimi Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_ying_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ying_qi@schools.gov.sg </a>/
-<a href="mailto:mimi_yeo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mimi_yeo@schools.gov.sg</u>
-</a>
+<p><a href="mailto:mimi_yeo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mimi_yeo@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

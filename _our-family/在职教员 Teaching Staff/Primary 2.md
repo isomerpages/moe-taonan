@@ -43,6 +43,8 @@ variant: tiptap
 <p>Form Teacher 1</p>
 <p>English</p>
 <p>Math</p>
+<p>PAL</p>
+<p>SS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Li Min Janice</p>

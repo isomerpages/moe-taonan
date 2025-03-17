@@ -1171,6 +1171,21 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>48</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wei Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistance Year Head (P3/P4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_ming@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4" colspan="1">
 <p>48</p>
 </td>
@@ -1258,5 +1273,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 02 January 2025</strong>
+<p><strong>Updated on 17 March 2025</strong>
 </p>

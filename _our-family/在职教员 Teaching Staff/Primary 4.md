@@ -137,7 +137,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>4C</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,6 +162,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_yen_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yen_ping@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wei Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_ming@schools.gov.sg</a>
 </p>
 </td>
 </tr>

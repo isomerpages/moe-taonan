@@ -1190,7 +1190,7 @@ variant: tiptap
 <p>Mr Lim Wei Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistance Year Head (P3/P4)</p>
+<p>Asst. Year Head P3/P4</p>
 </td>
 </tr>
 <tr>

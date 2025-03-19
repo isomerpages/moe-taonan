@@ -30,7 +30,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,19 +55,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_choon_meng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_choon_meng_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Li Shih / Ms Ngoh Siew Teng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_li_shih@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_shih@schools.gov.sg</a> /
-<a href="mailto:ngoh_siew_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngoh_siew_teng@schools.gov.sg</a>
 </p>
 </td>
 </tr>

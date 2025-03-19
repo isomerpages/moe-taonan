@@ -1872,7 +1872,7 @@ variant: tiptap
 <p>Mr Welzl Nicolas Xin Qiao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Welzl_Nicolas_Xin_Qiao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Welzl_Nicolas_Xin_Qiao@schools.gov.sg</a>
+<p><a href="mailto:welzl_Nicolas_Xin_Qiao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">welzl_Nicolas_Xin_Qiao@schools.gov.sg</a>
 </p>
 </td>
 </tr>

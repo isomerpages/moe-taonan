@@ -171,7 +171,7 @@ variant: tiptap
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Wei Ming</p>
+<p>Mr Lim Wei Ming [林伟明]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_ming@schools.gov.sg</a>
@@ -540,7 +540,7 @@ variant: tiptap
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Wei Ming</p>
+<p>Mr Lim Wei Ming [林伟明]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_ming@schools.gov.sg</a>

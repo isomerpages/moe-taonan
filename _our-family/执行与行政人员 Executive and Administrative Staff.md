@@ -314,7 +314,7 @@ variant: tiptap
 <p>Desktop Engineer (NCS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">DE-ncs5240pde@ncs.com.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">de-ncs5240pde@ncs.com.sg</a>
 </p>
 </td>
 </tr>
@@ -329,7 +329,7 @@ variant: tiptap
 <p>Desktop Engineer (NCS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">DE-ncs5240pde@ncs.com.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">de-ncs5240pde@ncs.com.sg</a>
 </p>
 </td>
 </tr>

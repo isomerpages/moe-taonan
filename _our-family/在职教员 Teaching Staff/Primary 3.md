@@ -35,7 +35,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
-<p></p>
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">

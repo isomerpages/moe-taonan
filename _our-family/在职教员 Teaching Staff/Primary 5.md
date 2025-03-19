@@ -543,11 +543,10 @@ variant: tiptap
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Francisca Tan / Mr Ngiam Tee Teng</p>
+<p>Mr Ngiam Tee Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_sue_may_francisca@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sue_may_francisca@schools.gov.sg</a> /
-<a href="mailto:ngiam_tee_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngiam_tee_teng@schools.gov.sg</a>
+<p><a href="mailto:ngiam_tee_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ngiam_tee_teng@schools.gov.sg</a>
 </p>
 </td>
 </tr>

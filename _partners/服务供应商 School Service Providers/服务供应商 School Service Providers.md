@@ -91,7 +91,7 @@ the booklists
 <p>Young Men’s Christian Association of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9835 7896 / 62440681
+<p>9835 7896 / 65148813
 <br>
 <br>Email: <a href="mailto:tnscc@ymca.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tnscc@ymca.edu.sg</a>
 </p>

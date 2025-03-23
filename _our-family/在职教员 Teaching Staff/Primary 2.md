@@ -43,13 +43,14 @@ variant: tiptap
 <p>Form Teacher 1</p>
 <p>English</p>
 <p>Math</p>
+<p>PAL</p>
+<p>SS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norhayati Binte Ibrahim / Mdm Ng Li Min Janice</p>
+<p>Mdm Ng Li Min Janice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norhayati_ibrahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norhayati_ibrahim@schools.gov.sg</a> /
-<a href="mailto:ng_li_min_janice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_li_min_janice@schools.gov.sg</a>
+<p><a href="mailto:ng_li_min_janice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_li_min_janice@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -491,5 +492,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 02 January 2025</strong>
+<p><strong>Updated on 24 March 2025</strong>
 </p>

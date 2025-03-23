@@ -1171,8 +1171,31 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="2" colspan="1">
 <p>48</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>林伟明</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>三四年级 (助理主任)</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><a href="mailto:lim_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_ming@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wei Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst. Year Head P3/P4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>49</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>黄秀玲</p>
@@ -1197,7 +1220,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>49</p>
+<p>50</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>邝美川</p>
@@ -1220,7 +1243,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>50</p>
+<p>51</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>-</p>
@@ -1258,5 +1281,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 02 January 2025</strong>
+<p><strong>Updated on 24 March 2025</strong>
 </p>

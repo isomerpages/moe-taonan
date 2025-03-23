@@ -167,13 +167,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Form Teacher 3</p>
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Choon Meng</p>
+<p>Mr Lim Wei Ming [林伟明]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_choon_meng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_choon_meng_a@schools.gov.sg</a>
+<p><a href="mailto:lim_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_ming@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -416,7 +417,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>4H</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -459,6 +460,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Choon Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_choon_meng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_choon_meng_a@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -470,7 +483,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>4I</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -488,13 +501,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2</p>
-<p>Math</p>
+<p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Choon Meng</p>
+<p>Mdm How Hooi Bing Tiffany</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_choon_meng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_choon_meng_a@schools.gov.sg</a>
+<p><a href="mailto:how_hooi_bing@schools.gov.sg" rel="noopener nofollow" target="_blank">how_hooi_bing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -519,6 +532,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lau_ying_xi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_ying_xi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wei Ming [林伟明]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_ming@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -576,7 +601,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="6" colspan="1">
 <p>4-1</p>
 <p>(GE)</p>
 </td>
@@ -610,11 +635,10 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Grace-Clemence Wong Ying Qi / Mrs Mimi Cheong</p>
+<p>Mrs Mimi Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_ying_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ying_qi@schools.gov.sg</a> /
-<a href="mailto:mimi_yeo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mimi_yeo@schools.gov.sg</a>
+<p><a href="mailto:mimi_yeo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mimi_yeo@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -643,6 +667,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wei Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_ming@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4" colspan="1">
 <p>4-2</p>
 <p>(GE)</p>
@@ -652,12 +688,10 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Grace-Clemence Wong Ying Qi / Mrs Mimi Cheong</p>
+<p>Mrs Mimi Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_ying_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ying_qi@schools.gov.sg </a>/
-<a href="mailto:mimi_yeo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mimi_yeo@schools.gov.sg</u>
-</a>
+<p><a href="mailto:mimi_yeo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mimi_yeo@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -714,5 +748,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 02 January 2025</strong>
+<p><strong>Updated on 24 March 2025</strong>
 </p>

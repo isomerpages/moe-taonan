@@ -82,7 +82,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">abdul_gaffore_mohamed_abdul@schools.gov.sg</a>
+<p><a href="mailto:abdul_gaffore_mohamed_abdul@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_gaffore_mohamed_abdul@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -97,7 +97,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Goh_Soi_Heong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_Soi_Heong@schools.gov.sg</a>
+<p><a href="mailto:Goh_Soi_Heong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_Soi_Heong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -112,7 +112,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Shahid_Zafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Shahid_Zafar@schools.gov.sg</a>
+<p><a href="mailto:Shahid_Zafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahid_Zafar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -314,7 +314,7 @@ variant: tiptap
 <p>Desktop Engineer (NCS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">DE-ncs5240pde@ncs.com.sg</a>
+<p><a href="mail to:de-ncs5240pde@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">de-ncs5240pde@ncs.com.sg</a>
 </p>
 </td>
 </tr>
@@ -329,7 +329,7 @@ variant: tiptap
 <p>Desktop Engineer (NCS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">DE-ncs5240pde@ncs.com.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">de-ncs5240pde@ncs.com.sg</a>
 </p>
 </td>
 </tr>

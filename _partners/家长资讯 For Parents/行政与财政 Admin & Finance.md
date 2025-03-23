@@ -9,7 +9,7 @@ variant: tiptap
 <h3>Student Matters</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Updating of Student’s Information</a>
+<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Student Details Form</a>
 </p>
 </li>
 <li>

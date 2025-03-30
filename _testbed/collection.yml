@@ -1,0 +1,4 @@
+collections:
+  testbed:
+    output: true
+    order: []

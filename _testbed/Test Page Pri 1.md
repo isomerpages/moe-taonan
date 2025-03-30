@@ -1876,8 +1876,8 @@ description: ""
 </tr>
 </tbody>
 </table><pre><code>
-
 </code></pre>
+<p></p>
 <h2><strong>Primary 1 Teachers</strong></h2>
 <table style="minWidth: 100px">
 <colgroup>
@@ -2325,8 +2325,8 @@ description: ""
 </tr>
 </tbody>
 </table><pre><code>
-
 </code></pre>
+<p></p>
 <h2><strong>Primary 2 Teachers</strong></h2>
 <p>No data available for Primary 2.</p>
 <table style="minWidth: 100px">
@@ -2362,8 +2362,8 @@ description: ""
 </tr>
 </tbody>
 </table><pre><code>
-
 </code></pre>
+<p></p>
 <h2><strong>Primary 3 Teachers</strong></h2>
 <p>No data available for Primary 3.</p>
 <table style="minWidth: 100px">
@@ -2399,8 +2399,8 @@ description: ""
 </tr>
 </tbody>
 </table><pre><code>
-
 </code></pre>
+<p></p>
 <h2><strong>Primary 4 Teachers</strong></h2>
 <p>No data available for Primary 4.</p>
 <table style="minWidth: 100px">
@@ -2436,8 +2436,8 @@ description: ""
 </tr>
 </tbody>
 </table><pre><code>
-
 </code></pre>
+<p></p>
 <h2><strong>Primary 5 Teachers</strong></h2>
 <p>No data available for Primary 5.</p>
 <table style="minWidth: 100px">
@@ -2473,8 +2473,8 @@ description: ""
 </tr>
 </tbody>
 </table><pre><code>
-
 </code></pre>
+<p></p>
 <h2><strong>Primary 6 Teachers</strong></h2>
 <p>No data available for Primary 6.</p>
 <table style="minWidth: 100px">
@@ -2510,6 +2510,6 @@ description: ""
 </tr>
 </tbody>
 </table><pre><code>Finished HTML generation and display. Time taken: 0.02 seconds
-
 --- Total execution time (after upload): 0.09 seconds ---</code></pre>
+<p></p>
 <p></p>

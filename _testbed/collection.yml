@@ -2,4 +2,4 @@ collections:
   testbed:
     output: true
     order:
-      - Test Page Pri 1.md
+      - Teaching Staff.md

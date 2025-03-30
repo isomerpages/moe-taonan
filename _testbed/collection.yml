@@ -1,4 +1,5 @@
 collections:
   testbed:
     output: true
-    order: []
+    order:
+      - Test Page Pri 1.md

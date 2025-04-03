@@ -15,7 +15,7 @@ the end point as calculated using Google Maps (currently found at <a href="https
 determined at the time the school bus operator informs the Parents of the
 fixed pick up locations.</p>
 <p>Please refer <a href="https://file.go.gov.sg/termsandconditions2024.pdf" rel="noopener nofollow" target="_blank">here</a> for
-terms and conditions governing request for school bus services.</p>
-<p>Do note that by confirming the bus services with the school bus operator,
-you undertake to abide by these terms and conditions.</p>
+terms and conditions governing request for school bus services. Do note
+that by confirming the bus services with the school bus operator, you undertake
+to abide by these terms and conditions.</p>
 <p></p>

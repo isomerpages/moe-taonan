@@ -1,5 +1,4 @@
 collections:
   testbed:
     output: true
-    order:
-      - Teaching Staff.md
+    order: []

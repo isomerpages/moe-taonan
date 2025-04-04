@@ -50,7 +50,6 @@ variant: tiptap
 <p>Mdm Ng Li Min Janice
 <br>
 <br>Mdm Norhayati Binte Ibrahim</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_li_min_janice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_li_min_janice@schools.gov.sg</a>

@@ -864,7 +864,6 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
-<p></p>
 <h3>2024</h3>
 <table style="minWidth: 75px">
 <colgroup>

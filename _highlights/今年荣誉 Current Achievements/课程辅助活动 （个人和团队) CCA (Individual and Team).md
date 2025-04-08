@@ -15,21 +15,26 @@ third_nav_title: 今年荣誉 Current Achievements
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA</p>
+<p><strong>CCA</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>ACHIEVEMENT (National)</p>
+<p><strong>ACHIEVEMENT (National)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Individual</p>
+<p><strong>Individual</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Team</p>
+<p><strong>Team</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -347,28 +352,6 @@ third_nav_title: 今年荣誉 Current Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p>Li Yangsheng (6J)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>

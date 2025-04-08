@@ -381,21 +381,26 @@ third_nav_title: 今年荣誉 Current Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Others</p>
+<p><strong>Others</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>ACHIEVEMENT (National/International)</p>
+<p><strong>ACHIEVEMENT (National/International)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Individual</p>
+<p><strong>Individual</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Team</p>
+<p><strong>Team</strong>
+</p>
 </td>
 </tr>
 <tr>

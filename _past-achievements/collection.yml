@@ -2,7 +2,7 @@ collections:
   past-achievements:
     output: true
     order:
-      - 2024/课程辅助活动 （个人和团队) CCA (Individual and Team).md
+      - 2024/CCA (Individual and Team).md
       - 2024/个人和团队 Individual and Team.md
       - 2024/.keep
       - 2023/CCA (Individual and Team).md

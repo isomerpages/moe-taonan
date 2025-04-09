@@ -948,4 +948,5 @@ third_nav_title: 今年荣誉 Current Achievements
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>Updated on 09 April 2025</strong>
+</p>

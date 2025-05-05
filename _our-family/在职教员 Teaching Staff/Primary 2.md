@@ -492,5 +492,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 24 March 2025</strong>
+<p><strong>Updated on 06 May 2025</strong>
 </p>

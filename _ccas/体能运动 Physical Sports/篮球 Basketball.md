@@ -67,10 +67,10 @@ building their competitive edge and applying their training in real games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Yeo- Khor Peck Yin Katherine</p>
+<p>Mr Lim Hoe Seng Francis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khor_peck_yin_katherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khor_peck_yin_katherine@schools.gov.sg</a>
+<p><a href="mailto:lim_hoe_seng_francis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hoe_seng_francis@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,10 +79,10 @@ building their competitive edge and applying their training in real games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Hoe Seng Francis</p>
+<p>Mdm Lim Chi Huey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_hoe_seng_francis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hoe_seng_francis@schools.gov.sg</a>
+<p><a href="mailto:lim_chii_huey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chii_huey@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,10 +152,10 @@ building their competitive edge and applying their training in real games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Chi Huey</p>
+<p>Mr Welzl Nicolas Xin Qiao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_chii_huey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chii_huey@schools.gov.sg</a>
+<p><a href="mailto:welzl_Nicolas_Xin_Qiao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>welzl_nicolas_xin_Qiao@schools.gov.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

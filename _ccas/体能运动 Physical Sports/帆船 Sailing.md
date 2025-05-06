@@ -61,10 +61,10 @@ and a sense of adventure.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Li Min Janice</p>
+<p>Mdm Noorlailee Bte Mohd Jusin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_li_min_janice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_li_min_janice@schools.gov.sg</u></a>
+<p><a href="mailto:noorlailee_mohd_jusin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>noorlailee_mohd_jusin@schools.gov.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

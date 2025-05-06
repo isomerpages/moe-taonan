@@ -280,7 +280,7 @@ description: ""
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Comics and Illustrations
+<p>Comics and Illustration
 <br>(P3 to P6)</p>
 </td>
 </tr>

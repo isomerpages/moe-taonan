@@ -121,6 +121,15 @@ their child/ ward only
 <td rowspan="1" colspan="1">
 <p>Marine Crescent (Gate 6)
 <br>六号门</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Marine Crescent</p>
+<p>(Turnstile)</p>
+<p>旋转门</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.45 am to 7.30 am
@@ -128,6 +137,9 @@ their child/ ward only
 <br>
 <br>早上6时45分 至 7时30分
 <br>下午1时20分 至 2时</p>
+<p></p>
+<p>2.00pm to 6.30pm</p>
+<p>下午2时 至 6时30分</p>
 </td>
 </tr>
 <tr>

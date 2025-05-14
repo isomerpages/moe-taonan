@@ -142,11 +142,11 @@ their child/ ward only
 </td>
 <td rowspan="1" colspan="1">
 <p>Marine Crescent(Turnstile)</p>
-<p></p>
 <p>旋转门</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00pm to 6.30pm下午2时 至 6时30分</p>
+<p>2.00pm to 6.30pm</p>
+<p>下午2时 至 6时30分</p>
 </td>
 </tr>
 </tbody>

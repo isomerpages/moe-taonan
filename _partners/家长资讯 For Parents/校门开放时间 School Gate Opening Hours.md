@@ -117,15 +117,21 @@ their child/ ward only
 <td rowspan="1" colspan="1">
 <p>For students and staff only
 <br>只限学生和员工</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Marine Crescent (Gate 6)
-<br>六号门</p>
+<p>Marine Crescent (Gate 6)</p>
+<p></p>
+<p>六号门</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.45 am to 7.30 am
 <br>1.20 pm to 2.00 pm
-<br>
 <br>早上6时45分 至 7时30分
 <br>下午1时20分 至 2时</p>
 </td>
@@ -135,10 +141,11 @@ their child/ ward only
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Marine Crescent(Turnstile)旋转门</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2.00 pm to 6.30 pm</p>
+<p>下午2时 至 6时30分</p>
 </td>
 </tr>
 </tbody>

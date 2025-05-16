@@ -11,7 +11,7 @@ variant: markdown
 
 **Primary 1 (P1) Registration Procedures**
 
-The registration of children for admission to Primary One (P1) in 2025 will open from 01 July 2025 to 19 August 2025.
+The registration of children for admission to Primary One (P1) in 2026 will open from 01 July 2025 to 19 August 2025.
 
 The dates for the different phases of registration can be found at: 
 [https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates](https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates)

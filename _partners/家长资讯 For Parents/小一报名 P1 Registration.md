@@ -11,7 +11,7 @@ variant: markdown
 
 **Primary 1 (P1) Registration Procedures**
 
-The registration of children for admission to Primary One (P1) in 2025 will open from Tuesday, 02 July 2024 to Friday, 16 August 2024.
+The registration of children for admission to Primary One (P1) in 2025 will open from 01 July 2025 to 19 August 2025.
 
 The dates for the different phases of registration can be found at: 
 [https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates](https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates)
@@ -20,7 +20,7 @@ The dates for the different phases of registration can be found at:
 
 Parents can use the online P1 Registration Portal for all five phases (i.e. Phases 1, 2A, 2B, 2C, and 2C Supplementary) of the Exercise to register their child in their chosen school. 
 
-The P1 Registration Portal will go live on 02 July 2024 and can be accessed via the MOE P1 Registration website. Parents can log in to the Portal to view the phase(s) and school(s) their child is eligible to register in, as well as register their child in their chosen school when the phase the child is eligible for opens for registration.
+The P1 Registration Portal will go live on 01 July 2025 and can be accessed via the MOE P1 Registration website. Parents can log in to the Portal to view the phase(s) and school(s) their child is eligible to register in, as well as register their child in their chosen school when the phase the child is eligible for opens for registration.
 
 Parents will require a valid Singpass with 2-Factor Authentication (2FA) to login to the P1 Registration Portal. Parents are advised to set up their Singpass 2FA early and ensure that their Singpass account is valid before the commencement of the P1 Registration Exercise. Only one parent is required to login and submit the registration through the Portal.
 

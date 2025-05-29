@@ -1,5 +1,5 @@
 ---
-title: 家庭 学校合作伙伴 School Home Partnership
+title: 家校合作伙伴 School Home Partnership
 permalink: /partners/for-parents/school-home-partnership/
 description: ""
 third_nav_title: 家长资讯 For Parents

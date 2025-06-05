@@ -4,9 +4,6 @@ permalink: /announcement/
 description: ""
 variant: tiptap
 ---
-<p></p>
-<p></p>
-<p></p>
 <p><strong><u>道南学校120周年校庆徽标及主题征集活动</u></strong>
 </p>
 <p><strong>一、活动背景</strong>

@@ -107,10 +107,10 @@ their child/ ward only
 </td>
 <td rowspan="1" colspan="1">
 <p>6.45 am to 7.30 am
-<br>1.20 pm to 4.30 pm
+<br>1.20 pm to 5.45 pm
 <br>
 <br>早上6时45分 至 7时30分
-<br>下午1时20分 至 4时30分</p>
+<br>下午1时20分 至 5时45分</p>
 </td>
 </tr>
 <tr>

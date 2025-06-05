@@ -61,7 +61,8 @@ variant: tiptap
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>线上提交</strong>：请将您的作品保存为&nbsp;<strong>PDF 或 Word</strong>&nbsp;文件（大小不超过30MB），并上传至：
-<br><strong><a href="https://forms.gle/2UbY9vJjEo6dvRYJ6" rel="noopener nofollow" target="_blank">https://forms.gle/2UbY9vJjEo6dvRYJ6</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<br><strong><a href="https://form.gov.sg/6823dba9e06223a91856f5da" rel="noopener nofollow" target="_blank">https://form.gov.sg/6823dba9e06223a91856f5da</a></strong>
+</p>
 </li>
 <li>
 <p><strong>截止日期</strong>：2025年7月15日</p>
@@ -164,7 +165,9 @@ logo and theme.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Online Submission</strong>: Save the work as a PDF or Word document
-(no larger than 30MB) and upload it to: <a href="https://forms.gle/2UbY9vJjEo6dvRYJ6" rel="noopener nofollow" target="_blank">https://forms.gle/2UbY9vJjEo6dvRYJ6</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+(no larger than 30MB) and upload it to:</p>
+<p><strong><a href="https://form.gov.sg/6823dba9e06223a91856f5da" rel="noopener nofollow" target="_blank">https://form.gov.sg/6823dba9e06223a91856f5da</a></strong>
+</p>
 </li>
 <li>
 <p><strong>Deadline</strong>: 15 July 2025</p>

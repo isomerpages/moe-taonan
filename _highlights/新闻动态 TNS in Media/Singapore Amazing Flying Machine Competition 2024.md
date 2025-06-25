@@ -6,3 +6,6 @@ description: ""
 image: /images/AmazingFlyingMachine.jpg
 third_nav_title: 新闻动态 TNS in Media
 ---
+<p>Singapore Amazing Flying Machine Competition 2024</p>
+<p>新加坡神奇飞行器比赛</p>
+<p>[Thumbs-Up Magazine 大拇指 Vol 14]</p>

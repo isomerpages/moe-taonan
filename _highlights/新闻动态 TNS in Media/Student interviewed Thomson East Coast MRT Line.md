@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: 新闻动态 TNS in Media
 ---
-<p>Tao Nan Student interviewed on the ease of transportation with the Thomson-East
-Coast MRT Line in Marine Parade</p>
-<p>地铁通了 上学不再赶巴士</p>
+<h3>Tao Nan Student interviewed on the ease of transportation with the Thomson-East Coast MRT Line in Marine Parade</h3>
+<h4>地铁通了 上学不再赶巴士</h4>
 <p>[Thumbs-Up Magazine 大拇指 Vol 11]</p>
 <p></p>
 <div class="isomer-image-wrapper">

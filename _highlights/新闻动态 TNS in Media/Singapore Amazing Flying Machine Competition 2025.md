@@ -5,3 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: 新闻动态 TNS in Media
 ---
+<p>Singapore Amazing Flying Machine Competition 2025</p>
+<p>新加坡神奇飞行器比赛</p>
+<p>[Thumbs-Up Magazine 大拇指 Vol 8]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TNSinMedia/AmazingFlyingMachine2025.jpg">
+</div>
+<p></p>

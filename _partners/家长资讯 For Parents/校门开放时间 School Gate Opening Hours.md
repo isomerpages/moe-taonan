@@ -138,14 +138,14 @@ their child/ ward only
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>For students and staff exit only</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Marine Crescent(Turnstile)旋转门</p>
+<p>Still Road South (Turnstile)史蒂尔南路旋转门</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 pm to 6.30 pm</p>
-<p>下午2时 至 6时30分</p>
+<p>2.00 pm to 6.00 pm</p>
+<p>下午2时 至 6时</p>
 </td>
 </tr>
 </tbody>

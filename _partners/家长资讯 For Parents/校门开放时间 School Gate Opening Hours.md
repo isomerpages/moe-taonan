@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <p><u>Mon to Fri:</u>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -26,6 +27,9 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -39,6 +43,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>6.45 am to 7.30 am
 <br>早上6时45分 至 7时30分</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -64,6 +71,9 @@ their child/ ward only
 <br><u>课后活动结束后</u> 
 <br>下午3时45分 至 6时</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -77,6 +87,9 @@ their child/ ward only
 <td rowspan="1" colspan="1">
 <p>7.30 am to 6.30 pm
 <br>早上7时30分 至 傍晚6时30分</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -95,6 +108,9 @@ their child/ ward only
 <br>早上6时45分 至 7时30分
 <br>下午1时20分 至 2时30分</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -111,6 +127,9 @@ their child/ ward only
 <br>
 <br>早上6时45分 至 7时30分
 <br>下午1时20分 至 5时45分</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -135,13 +154,21 @@ their child/ ward only
 <br>早上6时45分 至 7时30分
 <br>下午1时20分 至 2时</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>For students and staff exit only</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Still Road South (Turnstile)史蒂尔南路旋转门</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marine Crescent(Turnstile)旋转门</p>
+<p></p>
+<p>Still Road South (Turnstile)旋转门</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00 pm to 6.00 pm</p>

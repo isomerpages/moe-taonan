@@ -838,7 +838,7 @@ variant: tiptap
 <p>Mr Niu Zi bin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">niu_zi_bin@moe.edu.sg</a>
+<p><a href="mailto:niu_zi_bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">niu_zi_bin@schools.gov.sg</a>
 </p>
 </td>
 </tr>

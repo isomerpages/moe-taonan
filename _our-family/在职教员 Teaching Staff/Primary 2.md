@@ -7,7 +7,6 @@ variant: tiptap
 ---
 <p><strong>ONLY TEACHERS TEACHING THE CHINESE LANGUAGE WILL HAVE THEIR NAMES REFLECTED IN CHINESE CHARACTERS</strong>
 </p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -58,7 +57,7 @@ variant: tiptap
 <p>Mdm Guan Li Li Mrs Seow Min Fook</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">guan_li_li_mrs@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">guan_li_li_mrs@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -299,7 +298,7 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shen Huijie [沈慧洁”]</p>
+<p>Mdm Shen Huijie [沈慧洁]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">shen_huijie@schools.gov.sg</a>
@@ -337,7 +336,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2J</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -355,8 +354,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2
-<br>Higher Chinese</p>
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Soh Shihui [苏诗惠]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">soh_shihui@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Phua Mei Yan [潘美燕]</p>

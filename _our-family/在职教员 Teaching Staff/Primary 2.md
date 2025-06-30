@@ -45,7 +45,7 @@ variant: markdown
 <p>Mdm Cheah Li Wei [谢俐蔚]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheah_li_wei@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">cheah_li_wei@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -57,7 +57,7 @@ variant: markdown
 <p>Mdm Guan Li Li Mrs Seow Min Fook</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">guan_li_li_mrs@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">guan_li_li_mrs@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -74,7 +74,7 @@ variant: markdown
 <p>Mdm Lee Seok Joo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_seok_joo@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">lee_seok_joo@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -87,7 +87,7 @@ variant: markdown
 <p>Mdm Chua Pei Boon (FAJT) [蔡佩雯]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_pei_boon@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">chua_pei_boon@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -104,7 +104,7 @@ variant: markdown
 <p>Mdm Tan Chiew Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chiew_yen@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">tan_chiew_yen@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -117,7 +117,7 @@ variant: markdown
 <p>Mdm Hu Yuxia [胡玉侠]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hu_yuxia@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">hu_yuxia@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -130,7 +130,7 @@ variant: markdown
 <p>Ms Vaswani Deepa Hiro</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vaswani_deepa_hiro@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">vaswani_deepa_hiro@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -145,7 +145,7 @@ variant: markdown
 <p>Ms Vaswani Deepa Hiro</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vaswani_deepa_hiro@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">vaswani_deepa_hiro@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -158,7 +158,7 @@ variant: markdown
 <p>Ms Liu Ying [刘莹]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_ying_d@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">liu_ying_d@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -175,7 +175,7 @@ variant: markdown
 <p>Ms Ng Lay Kuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lay_kuan_a@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">ng_lay_kuan_a@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -188,7 +188,7 @@ variant: markdown
 <p>Mdm Samantha Evon Chia Chin Mei [谢静美]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_evon_chia@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">samantha_evon_chia@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -204,7 +204,7 @@ variant: markdown
 <p>Ms Meitri Harshad Parikh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">meitri_parikh@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">meitri_parikh@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -217,7 +217,7 @@ variant: markdown
 <p>Mdm Tai Chi Hui [戴芷慧]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tai_chi_hui@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">tai_chi_hui@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -229,7 +229,7 @@ variant: markdown
 <p>Mdm Liu Lee Choo Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_lee_choo_sharon@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">liu_lee_choo_sharon@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -246,7 +246,7 @@ variant: markdown
 <p>Mdm Shahadatunisa d/o M M Noorddin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahadatunisa_m_m_noorddin@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">shahadatunisa_m_m_noorddin@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -259,7 +259,7 @@ variant: markdown
 <p>Ms Dawn Chua Yu Xiu [蔡育修]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dawn_chua_yu_xiu@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">dawn_chua_yu_xiu@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -276,7 +276,7 @@ variant: markdown
 <p>Mdm Nurazimah Binte Ab Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurazimah_ab_rahman@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">nurazimah_ab_rahman@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -289,7 +289,7 @@ variant: markdown
 <p>Mdm Yang Xiaojuan [杨晓娟]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_xiaojuan_a@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">yang_xiaojuan_a@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -301,7 +301,7 @@ variant: markdown
 <p>Mdm Shen Huijie [沈慧洁]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shen_huijie@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">shen_huijie@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -318,7 +318,7 @@ variant: markdown
 <p>Mr Cher Boon Kiat Augustine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cher_boon_kiat_augustine@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">cher_boon_kiat_augustine@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -331,7 +331,7 @@ variant: markdown
 <p>Mdm Wan Xifei [万希飞]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wan_xifei@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">wan_xifei@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -348,7 +348,7 @@ variant: markdown
 <p>Mdm Han Huiwen Adeline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_huiwen_adeline@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">han_huiwen_adeline@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -361,7 +361,7 @@ variant: markdown
 <p>Mdm Soh Shihui [苏诗惠]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_shihui@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">soh_shihui@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -375,7 +375,7 @@ variant: markdown
 <p>Mrs Mary Shi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mary_magdalene_zhang@moe.edu.sg</a>
+<p style="color: blue; text-decoration: underline;">mary_magdalene_zhang@moe.edu.sg
 </p>
 </td>
 </tr>
@@ -391,7 +391,7 @@ variant: markdown
 <p>Mdm Liu Lee Choo Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_lee_choo_sharon@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">liu_lee_choo_sharon@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -404,7 +404,7 @@ variant: markdown
 <p>Mr Syed Ali Omar Bin Syed Halid Alhatas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">syed_ali_omar_halid@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">syed_ali_omar_halid@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -416,7 +416,7 @@ variant: markdown
 <p>Mdm Siti Awalliah Bte Amin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_awalliah_amin@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">siti_awalliah_amin@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -428,7 +428,7 @@ variant: markdown
 <p>Ms Tan Yen Ping Gina [陈燕萍]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yen_ping_gina@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">tan_yen_ping_gina@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -445,7 +445,7 @@ variant: markdown
 <p>Mdm Thio Lay Lay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thio_lay_lay@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">thio_lay_lay@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -458,7 +458,7 @@ variant: markdown
 <p>Mdm Zhao Ang [赵昂]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_ang@schools.gov.sg</a>
+<p style="color: blue; text-decoration: underline;">zhao_ang@schools.gov.sg
 </p>
 </td>
 </tr>

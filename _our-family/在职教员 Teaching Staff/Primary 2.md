@@ -336,7 +336,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2J</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -354,7 +354,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
+<p>Form Teacher 2
+<br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Soh Shihui [苏诗惠]</p>
@@ -366,25 +367,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
+<p>Form Teacher 2
+<br>English
+<br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Mary Shi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mary_magdalene_zhang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Phua Mei Yan [潘美燕]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheah_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phua_mei_yan@schools.gov.sg</a>
 </p>
 </td>
 </tr>

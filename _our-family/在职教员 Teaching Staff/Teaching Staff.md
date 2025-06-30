@@ -38,7 +38,7 @@ variant: tiptap
 <p>Ms Adeline Ong Hui En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aameer_hassim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_ong_hui_en@schools.gov.sg</a>
+<p><a href="mailto:adeline_ong_hui_en@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_ong_hui_en@schools.gov.sg</a>
 </p>
 </td>
 </tr>

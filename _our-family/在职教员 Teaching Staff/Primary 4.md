@@ -360,7 +360,7 @@ variant: tiptap
 <br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shen Huijie [沈慧洁”]</p>
+<p>Mdm Shen Huijie [沈慧洁]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">shen_huijie@schools.gov.sg</a>
@@ -414,10 +414,10 @@ variant: tiptap
 <p>Form Teacher 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Niu Zi bin</p>
+<p>Mr Niu Zi bin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">niu_zi_bin@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">niu_zi_bin@schools.gov.sg</a>
 </p>
 </td>
 </tr>

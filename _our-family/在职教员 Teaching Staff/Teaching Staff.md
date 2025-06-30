@@ -835,7 +835,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Niu Zi bin</p>
+<p>Mr Niu Zi Bin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:niu_zi_bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">niu_zi_bin@schools.gov.sg</a>

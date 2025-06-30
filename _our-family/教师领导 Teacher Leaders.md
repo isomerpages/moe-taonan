@@ -211,21 +211,6 @@ variant: tiptap
 <p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Li Min Janice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher/Learning Needs (Lower Primary Learners)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_li_min_janice@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Nadiah Binte Abdul Khalik</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -238,5 +223,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 24 March 2025</strong>
-</p>
+<p>Updated on 30 June 2025</p>

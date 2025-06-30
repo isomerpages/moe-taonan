@@ -316,7 +316,7 @@ variant: tiptap
 <p>Mdm Guan Li Li Mrs Seow Min Fook</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">guan_li_li_mrs@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">guan_li_li_mrs@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -406,7 +406,7 @@ variant: tiptap
 <p>Ms Khadijah Cassim Madari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">khadijah_cassim_madari@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">khadijah_cassim_madari@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -835,10 +835,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Niu Zi bin</p>
+<p>Mr Niu Zi bin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">niu_zi_bin@moe.edu.sg</a>
+<p><a href="mailto:niu_zi_bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">niu_zi_bin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1024,7 +1024,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shen Huijie [沈慧洁”]</p>
+<p>Mdm Shen Huijie [沈慧洁]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">shen_huijie@schools.gov.sg</a>
@@ -1421,6 +1421,6 @@ variant: tiptap
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><em>Updated on 29 June 2025</em>
+<p><em>Updated on 30 June 2025</em>
 </p>
 <p></p>

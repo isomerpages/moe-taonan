@@ -316,7 +316,7 @@ variant: tiptap
 <p>Mdm Guan Li Li Mrs Seow Min Fook</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">guan_li_li_mrs@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">guan_li_li_mrs@schools.gov.sg</a>
 </p>
 </td>
 </tr>

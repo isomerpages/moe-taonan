@@ -406,7 +406,7 @@ variant: tiptap
 <p>Ms Khadijah Cassim Madari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">khadijah_cassim_madari@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">khadijah_cassim_madari@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1421,6 +1421,6 @@ variant: tiptap
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><em>Updated on 29 June 2025</em>
+<p><em>Updated on 30 June 2025</em>
 </p>
 <p></p>

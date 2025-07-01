@@ -91,7 +91,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>5-3 (MS)</p>
+<p>5-3 (GE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Math</p>
@@ -130,7 +130,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>5-4 (MS)</p>
+<p>5-4 (GE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Math</p>

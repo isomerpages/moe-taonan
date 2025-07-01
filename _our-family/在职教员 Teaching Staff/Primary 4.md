@@ -13,7 +13,7 @@ variant: markdown
 </thead>
 <tbody>
 <tr>
-<td rowspan="6" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">4-1 (GE)</td>
+<td rowspan="5" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">4-1 (GE)</td>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 1<br>Social Studies</td>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mrs Gurung-Lee Chin Min</td>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">lee_chin_min@schools.gov.sg</span></td>
@@ -22,11 +22,6 @@ variant: markdown
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 2<br>Math</td>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mr Lim Hon Shin Clifton</td>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">lim_hon_shin_clifton@schools.gov.sg</span></td>
-</tr>
-<tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Math</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mr Lim Wei Ming</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">lim_wei_ming@schools.gov.sg</span></td>
 </tr>
 <tr>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Science</td>
@@ -208,8 +203,8 @@ variant: markdown
 </tr>
 <tr>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Higher Chinese</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mdm Phua Mei Yan [潘美燕]</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">phua_mei_yan@schools.gov.sg</span></td>
+<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mdm Soh Shihui [苏诗惠]</td>
+<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">soh_shihui@schools.gov.sg</span></td>
 </tr>
 <tr>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Science</td>

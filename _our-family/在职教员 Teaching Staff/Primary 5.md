@@ -270,4 +270,4 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>Updated on 01 July 2025</p>
+<p>Updated on 02 July 2025</p>

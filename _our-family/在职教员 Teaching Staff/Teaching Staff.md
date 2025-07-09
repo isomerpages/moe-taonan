@@ -165,6 +165,10 @@ variant: markdown
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">hu_yuxia@schools.gov.sg</span></td>
 </tr>
 <tr>
+<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mdm Hung Huey Jing [韩惠晶]</td>
+<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">hung_huey_jing@schools.gov.sg</span></td>
+</tr>
+<tr>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mrs Jenny Tan- Lian Wei Chun Jenny</td>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">lian_wei_chun_jenny@schools.gov.sg</span></td>
 </tr>
@@ -622,5 +626,5 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>Updated on 02 July 2025
+<p>Updated on 09 July 2025
 </p>

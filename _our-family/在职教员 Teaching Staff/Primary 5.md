@@ -183,10 +183,15 @@ variant: markdown
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">yeo_yu_nian_nikki@schools.gov.sg</span></td>
 </tr>
 <tr>
-<td rowspan="3" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">5G</td>
+<td rowspan="4" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">5G</td>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 1<br>Math</td>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mrs Ong- Shen Pinxiu</td>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">shen_pinxiu@schools.gov.sg</span></td>
+</tr>
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 2<br>Higher Chinese</td>
+<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mdm Hung Huey Jing [韩惠晶]</td>
+<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">hung_huey_jing@schools.gov.sg</span></td>
 </tr>
 <tr>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">English</td>
@@ -270,4 +275,4 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>Updated on 02 July 2025</p>
+<p>Updated on 09 July 2025</p>

@@ -283,6 +283,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Edupage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Internet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://taonan.edupage.org" rel="noopener nofollow" target="_blank">https://taonan.edupage.org/login</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>FormSG</p>
 </td>
 <td rowspan="1" colspan="1">

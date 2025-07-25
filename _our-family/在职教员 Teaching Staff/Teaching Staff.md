@@ -573,10 +573,6 @@ variant: markdown
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">wee_kai_jee_a@schools.gov.sg</span></td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mr Welzl Nicolas Xin Qiao</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">welzl_nicolas_xin_Qiao@schools.gov.sg</span></td>
-</tr>
-<tr>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mr Wong Hong Aik Allan</td>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">wong_hong_aik_allan@schools.gov.sg</span></td>
 </tr>

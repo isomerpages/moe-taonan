@@ -622,5 +622,5 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>Updated on 09 July 2025
+<p>Updated on 25 July 2025
 </p>

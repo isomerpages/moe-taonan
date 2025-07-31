@@ -129,15 +129,10 @@ variant: markdown
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">chua_li_ling_eileen@schools.gov.sg</span></td>
 </tr>
 <tr>
-<td rowspan="7" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">6C</td>
+<td rowspan="6" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">6C</td>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 1<br>English<br>Science</td>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mdm Koh Xin Rui Eleora</td>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">koh_xin_rui@schools.gov.sg</span></td>
-</tr>
-<tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 1<br>Math<br>PE (Physical Education)</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mrs Tan-Ng Siew Leng Crayon</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">crayon_tan_ng@schools.gov.sg</span></td>
 </tr>
 <tr>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 2<br>Chinese</td>
@@ -165,7 +160,12 @@ variant: markdown
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">goh_lay_kian@schools.gov.sg</span></td>
 </tr>
 <tr>
-<td rowspan="4" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">6D</td>
+<td rowspan="5" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">6D</td>
+<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 1<br>Math<br>PE (Physical Education)</td>
+<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mrs Tan-Ng Siew Leng Crayon</td>
+<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">crayon_tan_ng@schools.gov.sg</span></td>
+</tr>
+<tr>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 2<br>Higher Chinese</td>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Ms Goh Lay Kian [吴丽娟]</td>
 <td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">goh_lay_kian@schools.gov.sg</span></td>
@@ -325,5 +325,5 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>Updated on 01 July 2025
+<p>Updated on 31 July 2025
 </p>

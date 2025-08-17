@@ -4,6 +4,13 @@ permalink: /announcement/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teachers' Day 2025" src="/images/Alumni_Homecoming___TEACHERS__DAY.jpg">
+</div>
+<p></p>
+<p></p>
+<hr>
 <p><strong><u>道南学校120周年校庆徽标及主题征集活动</u></strong>
 </p>
 <p><strong>一、活动背景</strong>

@@ -20,6 +20,10 @@ variant: tiptap
 <p><a href="https://go.gov.sg/2025-waiting-list" rel="noopener nofollow" target="_blank">2025 Waiting List Form</a>
 </p>
 </li>
+<li>
+<p><a href="https://go.gov.sg/2026-loa-form-tns" rel="noopener noreferrer nofollow" target="_blank">2026 Leave of Absence Form</a>
+</p>
+</li>
 </ul>
 <h3>Finance</h3>
 <ul data-tight="true" class="tight">

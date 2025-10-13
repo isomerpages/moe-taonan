@@ -6,7 +6,7 @@ third_nav_title: 服务供应商 School Service Providers
 variant: tiptap
 ---
 <h3>School Bus Service</h3>
-<p>Please click <a href="/files/School%20Service%20Providers/School%20Bus%20Service/school%20bus%20operator%20awarded.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Please click <a href="/files/Partners/School Service Providers/2025_10_13___Info_on_awarded_operator_and_rates_option_period.pdf" rel="noopener nofollow" target="_blank">here </a> for
 information on the school bus operator and bus fares.</p>
 <p></p>
 <p>For common understanding between school, the school bus operator and parents,

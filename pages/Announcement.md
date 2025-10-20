@@ -20,6 +20,10 @@ by scanning the QR code or heading to <a href="https://go.gov.sg/oyea2026" rel="
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Outstanding Youth in Education Award" src="/images/OYEA.jpg">
 </div>
+<p></p>
+<hr>
+<p></p>
+<p>.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">

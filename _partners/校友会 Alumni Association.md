@@ -21,7 +21,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lye Ching - email dated 15 oct 24" src="/images/alumni_association.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Alumni Association 2025" src="/images/20_Alumni.jpg">
 </div>
 <h3>展望与愿景</h3>
 <ul data-tight="true" class="tight">

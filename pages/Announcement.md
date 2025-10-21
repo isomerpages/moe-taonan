@@ -4,11 +4,38 @@ permalink: /announcement/
 description: ""
 variant: tiptap
 ---
+<h4>President's Award for Teachers</h4>
+<p>Nominate an inspiring teacher or colleague for this prestigious award
+by scanning the QR code or heading to <a href="https://go.gov.sg/pat2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pat2026</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="President's Award for Teachers" src="/images/PAT.jpg">
+</div>
+<hr>
+<h4>Outstanding Youth in Education Award</h4>
+<p>Nominate an inspiring teacher or colleague for this prestigious award
+by scanning the QR code or heading to <a href="https://go.gov.sg/oyea2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/oyea2026</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Outstanding Youth in Education Award" src="/images/OYEA.jpg">
+</div>
+<p></p>
+<hr>
+<p></p>
+<p>.</p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Teachers' Day 2025" src="/images/Alumni_Homecoming___TEACHERS__DAY.jpg">
 </div>
 <p></p>
+<hr>
+<p></p>
+<p>.</p>
+<p></p>
+<p></p>
+<p>.</p>
 <p></p>
 <hr>
 <p><strong><u>道南学校120周年校庆徽标及主题征集活动</u></strong>

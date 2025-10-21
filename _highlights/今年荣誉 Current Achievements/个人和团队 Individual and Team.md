@@ -42,22 +42,12 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29th National Primary Schools On-the-Spot Chinese Essay Writing Competition</p>
+<p><strong>29th National Primary Schools On-the-Spot Chinese Essay Writing Competition</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12th National Chinese Challenge (organised by SPH Media Chinese Media
-Group and Nanyang Girls' High School)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Liu Yutong (4I) - Champion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st Position</p>
+<p><strong>12th National Chinese Challenge </strong>(organised by SPH Media
+Chinese Media Group and Nanyang Girls' High School)</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +55,21 @@ Group and Nanyang Girls' High School)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sin Cheuk Wing (6J) - Merit Award</p>
+<p>Liu Yutong (4I) - <strong>Champion</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st Position</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sin Cheuk Wing (6J) - <strong>Merit Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sin Cheuk Wing (6J)</p>
@@ -76,7 +80,8 @@ Group and Nanyang Girls' High School)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Jing Ting Jodie (6J) - Merit Award</p>
+<p>Lim Jing Ting Jodie (6J) -<strong> Merit Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Rou Ying Tiffany (6K)</p>
@@ -87,8 +92,8 @@ Group and Nanyang Girls' High School)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14th Singapore, Malaysia and Brunei Primary Schools On-the-Spot Chinese
-Creative Essay Writing Competition</p>
+<p><strong>14th Singapore, Malaysia and Brunei Primary Schools On-the-Spot Chinese Creative Essay Writing Competition</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>He Zhangxuan (6L)</p>
@@ -114,7 +119,8 @@ Creative Essay Writing Competition</p>
 <p>23rd SHHK Literary Awards Prize Presentation Ceremony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Preliminary Round</p>
+<p><strong>Preliminary Round</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +175,8 @@ Creative Essay Writing Competition</p>
 <p>Li Wan Lu Olivia (6L) - Consolation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23rd SHHK Literary Awards Prize Presentation Ceremony</p>
+<p><strong>23rd SHHK Literary Awards Prize Presentation Ceremony</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -199,10 +206,12 @@ Creative Essay Writing Competition</p>
 <p>Mathematic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Olympiad of Singapore (NMOS)</p>
+<p><strong>National Olympiad of Singapore (NMOS)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Olympiad of Singapore (NMOS)</p>
+<p><strong>National Olympiad of Singapore (NMOS)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -210,10 +219,11 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold</p>
+<p><strong>Gold</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd Place - Tao Nan School</p>
+<p><strong>3rd Place</strong> - Tao Nan School</p>
 </td>
 </tr>
 <tr>
@@ -224,8 +234,8 @@ Creative Essay Writing Competition</p>
 <p>Liu Xin (5K)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Liu Xin (5K) &amp; Hu Tianqi (5L) were selected for the IMSO Math Phase
-1</p>
+<p><strong>Liu Xin (5K) &amp; Hu Tianqi (5L)</strong> were selected for the
+IMSO Math Phase 1</p>
 </td>
 </tr>
 <tr>
@@ -321,7 +331,8 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jiang Yichen (5L) One of the top 20 female students</p>
+<p><strong>Jiang Yichen (5L) One of the top 20 female students</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -365,7 +376,8 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver</p>
+<p><strong>Silver</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -552,7 +564,8 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bronze</p>
+<p><strong>Bronze</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -772,7 +785,8 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Honourable Mention</p>
+<p><strong>Honourable Mention</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -926,7 +940,8 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Annual MathOlympics for All Singapore Schools</p>
+<p><strong>Annual Mathlympics for All Singapore Schools</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -937,7 +952,7 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold with Distinction Award - 5 Students</p>
+<p><strong>Gold with Distinction Award</strong> - 5 Students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -948,7 +963,7 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold Award - 25 Students</p>
+<p><strong>Gold Award </strong>- 25 Students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -970,7 +985,7 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bronze Award - 40 Students</p>
+<p><strong>Bronze Award </strong>- 40 Students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -981,7 +996,7 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Merit Award - 43 Students</p>
+<p><strong>Merit Award </strong>- 43 Students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -992,7 +1007,8 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Raffles Mathematical Olympiad (Round 1)</p>
+<p><strong>Raffles Mathematical Olympiad (Round 1)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1003,7 +1019,7 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>High Distinction - 10 Students</p>
+<p><strong>High Distinction </strong>- 10 Students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1025,8 +1041,7 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Goh Wei Zhi Joash
-(6L)</p>
+<p>Goh Wei Zhi Joash (6L)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1037,7 +1052,7 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jiang Linfan (6K)</p>
+<p>Jiang Linfan (6K)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1059,8 +1074,8 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seah Zhengyan Kayden
-(6K)</p>
+<p>&nbsp;Seah Zhengyan</p>
+<p>Kayden (6K)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1104,8 +1119,7 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Johann Isaiah Ong
-(6J)</p>
+<p>Johann Isaiah Ong (6J)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1127,7 +1141,7 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction - 19 Students</p>
+<p><strong>Distinction</strong> - 19 Students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1149,7 +1163,7 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Poon Ansel (6I)</p>
+<p>Poon Ansel (6I)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1160,8 +1174,7 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ethan Cheng Yixiang
-(6K)</p>
+<p>Ethan Cheng Yixiang (6K)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1183,8 +1196,7 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Edward Goh Yu Xuan
-(6I)</p>
+<p>Edward Goh Yu Xuan (6I)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1228,8 +1240,7 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tiong Ziyan, Scarlett
-(6I)</p>
+<p>Tiong Ziyan, Scarlett (6I)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1372,8 +1383,7 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Joel Hoh Hao Kai
-(6L)</p>
+<p>Joel Hoh Hao Kai (6L)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1384,7 +1394,7 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Li Xinyang (6F)</p>
+<p>Li Xinyang (6F)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1406,8 +1416,7 @@ Creative Essay Writing Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nicholas Huazhen
-Kuo (6J)</p>
+<p>Nicholas Huazhen Kuo (6J)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1451,8 +1460,7 @@ Kuo (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xavier Tham Yu
-Feng (6C)</p>
+<p>Xavier Tham Yu Feng (6C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1529,7 +1537,8 @@ Feng (6C)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Raffles Mathematical Olympiad (Round 2)</p>
+<p><strong>Raffles Mathematical Olympiad (Round 2)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1540,7 +1549,7 @@ Feng (6C)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>High Distinction - 3 Students</p>
+<p><strong>High Distinction </strong>- 3 Students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1562,8 +1571,7 @@ Feng (6C)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Goh Wei Zhi Joash
-(6L)</p>
+<p>Goh Wei Zhi Joash (6L)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1574,7 +1582,7 @@ Feng (6C)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jiang Linfan (6K)</p>
+<p>Jiang Linfan (6K)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1585,7 +1593,7 @@ Feng (6C)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction - 6 Students</p>
+<p><strong>Distinction</strong> - 6 Students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1596,8 +1604,7 @@ Feng (6C)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seah Zhengyan Kayden
-(6K)</p>
+<p>Seah Zhengyan Kayden (6K)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1641,8 +1648,7 @@ Feng (6C)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Johann Isaiah Ong
-(6J)</p>
+<p>Johann Isaiah Ong (6J)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1664,7 +1670,8 @@ Feng (6C)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asia Pacific Mathematical Olympiad for Primary Schools</p>
+<p><strong>Asia Pacific Mathematical Olympiad for Primary Schools</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1686,7 +1693,7 @@ Feng (6C)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Platinum - 7 Students</p>
+<p><strong>Platinum </strong>- 7 Students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1708,8 +1715,7 @@ Feng (6C)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sean Chan Shan
-En (6J)</p>
+<p>Sean Chan Shan En (6J)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1720,7 +1726,7 @@ En (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jiang Linfan (6K)</p>
+<p>Jiang Linfan (6K)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1775,7 +1781,7 @@ En (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold - 5 Students</p>
+<p><strong>Gold </strong>- 5 Students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1797,7 +1803,7 @@ En (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liu Xin (5K)</p>
+<p>Liu Xin (5K)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1808,7 +1814,7 @@ En (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xiong Junshuo (5L)</p>
+<p>Xiong Junshuo (5L)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1841,7 +1847,7 @@ En (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver - 17 Students</p>
+<p><strong>Silver </strong>- 17 Students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1863,8 +1869,7 @@ En (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wang Zexin Jason
-(5J)</p>
+<p>Wang Zexin Jason (5J)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1875,8 +1880,7 @@ En (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Euan Loh Kai Ern
-(5K)</p>
+<p>Euan Loh Kai Ern (5K)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1942,8 +1946,7 @@ En (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nate Low Yan Kai
-(6I)</p>
+<p>Nate Low Yan Kai (6I)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1987,8 +1990,7 @@ En (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tristan Tan Xinn
-Yu (6J)</p>
+<p>Tristan Tan Xinn Yu (6J)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2043,7 +2045,7 @@ Yu (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bronze - 12 Students</p>
+<p><strong>Bronze</strong> - 12 Students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2065,7 +2067,7 @@ Yu (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Li Xinyang (6F)</p>
+<p>Li Xinyang (6F)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2076,7 +2078,7 @@ Yu (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Huang Yixiang (6I)</p>
+<p>Huang Yixiang (6I)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2142,7 +2144,7 @@ Yu (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tyron Muk (6J)</p>
+<p>&nbsp;Tyron Muk (6J)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2153,8 +2155,7 @@ Yu (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Joel Goh Hao Kai
-(6L)</p>
+<p>Joel Goh Hao Kai (6L)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2187,7 +2188,8 @@ Yu (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asia Pacific Mathematical Olympiad for Primary Schools</p>
+<p><strong>Asia Pacific Mathematical Olympiad for Primary Schools</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2198,7 +2200,8 @@ Yu (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Round 2)</p>
+<p><strong>(Round 2)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2209,7 +2212,8 @@ Yu (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sun Bright Wenqi (6L) - 20th Place</p>
+<p>Sun Bright Wenqi (6L) - <strong>20th Place</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2220,7 +2224,8 @@ Yu (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Wei Zhi Joash (6L) - 22nd Place</p>
+<p>Goh Wei Zhi Joash (6L) - <strong>22nd Place</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2231,7 +2236,8 @@ Yu (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hwa Chong Infocommunications Challenge</p>
+<p><strong>Hwa Chong Infocommunications Challenge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2242,7 +2248,7 @@ Yu (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Platinum - 2 Students</p>
+<p><strong>Platinum</strong> - 2 Students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2264,8 +2270,7 @@ Yu (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ong Rou Ying Tiffany
-(6K)</p>
+<p>Ong Rou Ying Tiffany (6K)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2276,18 +2281,7 @@ Yu (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold - 4 Students</p>
+<p><strong>Gold </strong>- 4 Students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2309,8 +2303,7 @@ Yu (6J)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muhammad Aqil Zayyan
-Bin Jefri Tan (6K)</p>
+<p>Muhammad Aqil Zayyan Bin Jefri Tan (6K)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2321,8 +2314,7 @@ Bin Jefri Tan (6K)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Keng Kaijie, Toby
-(6L)</p>
+<p>Keng Kaijie, Toby (6L)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2344,18 +2336,7 @@ Bin Jefri Tan (6K)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver - 4 Students</p>
+<p><strong>Silver </strong>- 4 Students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2377,7 +2358,7 @@ Bin Jefri Tan (6K)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ong Ding Jun (6H)</p>
+<p>Ong Ding Jun (6H)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2388,8 +2369,7 @@ Bin Jefri Tan (6K)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ethan Cheng Yixiang
-(6K)</p>
+<p>Ethan Cheng Yixiang (6K)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2411,18 +2391,7 @@ Bin Jefri Tan (6K)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze - 1 Student</p>
+<p><strong>Bronze</strong> - 1 Student</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2455,21 +2424,12 @@ Bin Jefri Tan (6K)</p>
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>E-THINK Challenge (organised by Temasek Junior College)</p>
+<p><strong><u>E-THINK Challenge </u></strong>(organised by Temasek Junior
+College)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Amazing Flying Machine Competition</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top Thinker &amp; Gold - Soh Yu Ye, Rayner (6K)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st for Range Award (TNS 8)</p>
+<p><strong>Singapore Amazing Flying Machine Competition</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -2477,7 +2437,19 @@ Bin Jefri Tan (6K)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold - Lim Zhi Cheng (6I)</p>
+<p><strong>Top Thinker &amp; Gold</strong> - Soh Yu Ye, Rayner (6K)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st for Range Award (TNS 8)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong> - Lim Zhi Cheng (6I)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Liu Hongrui (6I)</p>
@@ -2488,7 +2460,7 @@ Bin Jefri Tan (6K)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver - Ong Rou Ying Tiffany (6K)</p>
+<p><strong>Silver</strong> - Ong Rou Ying Tiffany (6K)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Johann Isaiah Ong (6J)</p>
@@ -2499,7 +2471,7 @@ Bin Jefri Tan (6K)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver - Lim Jing Ting Jodie (6J)</p>
+<p><strong>Silver </strong>- Lim Jing Ting Jodie (6J)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Li Yangsheng (6J)</p>
@@ -2510,10 +2482,11 @@ Bin Jefri Tan (6K)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver - Gideon Ang Yong Xin (6H)</p>
+<p><strong><em>Silver</em></strong><em> </em>- Gideon Ang Yong Xin (6H)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd for Range Award (TNS 3)</p>
+<p><strong><u>2nd for Range Award (TNS 3)</u></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -2521,7 +2494,7 @@ Bin Jefri Tan (6K)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bronze - Adele Chee Xiang Yi (6H)</p>
+<p><strong>Bronze </strong>- Adele Chee Xiang Yi (6H)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Amelia Chee Wan Ting (5K)</p>
@@ -2532,7 +2505,8 @@ Bin Jefri Tan (6K)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Raffles Science Olympiad</p>
+<p><strong>Raffles Science Olympiad</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chen Yan Ying Erin (5K)</p>
@@ -2543,7 +2517,8 @@ Bin Jefri Tan (6K)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Zhuo Yao Zavier (5K) Gold</p>
+<p>Tan Zhuo Yao Zavier (5K) <strong>Gold</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chew Su Eng, Simonne (5K)</p>
@@ -2554,10 +2529,12 @@ Bin Jefri Tan (6K)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Li Yidi (5I) Silver</p>
+<p>Li Yidi (5I) <strong>Silver</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd for Range Award (TNS 5)</p>
+<p><strong><u>3rd for Range Award (TNS 5)</u></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -2565,7 +2542,8 @@ Bin Jefri Tan (6K)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choo Ray Sheng (5J) Bronze</p>
+<p>Choo Ray Sheng (5J) <strong>Bronze</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Koh Yu Hao (6D)</p>
@@ -2576,7 +2554,8 @@ Bin Jefri Tan (6K)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ryan Le Jia Ye (5K) Bronze</p>
+<p>Ryan Le Jia Ye (5K) <strong>Bronze</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Soh Rui Ze (6D)</p>
@@ -2598,7 +2577,8 @@ Bin Jefri Tan (6K)</p>
 <p>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Chinese Calligraphy Competition 2025</p>
+<p><strong>National Chinese Calligraphy Competition</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2609,7 +2589,8 @@ Bin Jefri Tan (6K)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Category 3 consolation Prize</p>
+<p><u>Category 3 consolation Prize</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>&nbsp;</u>
@@ -2632,7 +2613,8 @@ Bin Jefri Tan (6K)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Category 2 Merit Prize</p>
+<p><u>Category 2 Merit Prize</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2692,7 +2674,8 @@ Bin Jefri Tan (6K)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3M-Innovation Programme Awards</p>
+<p><strong>3M-Innovation Programme Awards</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -2703,7 +2686,8 @@ Bin Jefri Tan (6K)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Innovation Mindset Award</p>
+<p><u>Innovation Mindset Award</u>
+</p>
 </td>
 </tr>
 <tr>
@@ -2714,7 +2698,7 @@ Bin Jefri Tan (6K)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp; Sean Chan Shan En (6-3)</p>
+<p>Sean Chan Shan En (6-3)</p>
 </td>
 </tr>
 <tr>
@@ -2725,7 +2709,7 @@ Bin Jefri Tan (6K)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp; Liu Hongrui (6-3)</p>
+<p>Liu Hongrui (6-3)</p>
 </td>
 </tr>
 <tr>
@@ -2736,7 +2720,7 @@ Bin Jefri Tan (6K)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp; Edward Goh Yu Xuan (6-3)</p>
+<p>Edward Goh Yu Xuan (6-3)</p>
 </td>
 </tr>
 <tr>
@@ -2747,7 +2731,8 @@ Bin Jefri Tan (6K)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Thinkers Challenge 2025</p>
+<p><strong>National Thinkers Challenge</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -2758,7 +2743,8 @@ Bin Jefri Tan (6K)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Commendation Award (Team 1)</p>
+<p><u>Commendation Award (Team 1)</u>
+</p>
 </td>
 </tr>
 <tr>
@@ -2769,7 +2755,7 @@ Bin Jefri Tan (6K)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp; Ariadne Ai-Le Papaspyrou (5D)</p>
+<p>Ariadne Ai-Le Papaspyrou (5D)</p>
 </td>
 </tr>
 <tr>
@@ -2780,7 +2766,7 @@ Bin Jefri Tan (6K)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp; Lin Xinrui (5D)</p>
+<p>Lin Xinrui (5D)</p>
 </td>
 </tr>
 <tr>
@@ -2791,7 +2777,7 @@ Bin Jefri Tan (6K)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp; Sophie Goh Jia Jin (5D)</p>
+<p>Sophie Goh Jia Jin (5D)</p>
 </td>
 </tr>
 <tr>
@@ -2802,7 +2788,7 @@ Bin Jefri Tan (6K)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp; Tyler Kong Yu Le (5D)</p>
+<p>Tyler Kong Yu Le (5D)</p>
 </td>
 </tr>
 <tr>
@@ -2813,7 +2799,8 @@ Bin Jefri Tan (6K)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Commendation Award (Team 2)</p>
+<p><u>Commendation Award (Team 2)</u>
+</p>
 </td>
 </tr>
 <tr>
@@ -2824,7 +2811,7 @@ Bin Jefri Tan (6K)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp; Luo Kangle Daniel (5K)</p>
+<p>Luo Kangle Daniel (5K)</p>
 </td>
 </tr>
 <tr>
@@ -2835,7 +2822,7 @@ Bin Jefri Tan (6K)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp; Zhong Chengrui (5K)</p>
+<p>Zhong Chengrui (5K)</p>
 </td>
 </tr>
 <tr>
@@ -2846,7 +2833,7 @@ Bin Jefri Tan (6K)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp; David Joash Ow Ky-Yang (5L)</p>
+<p>David Joash Ow Ky-Yang (5L)</p>
 </td>
 </tr>
 <tr>
@@ -2876,10 +2863,12 @@ Bin Jefri Tan (6K)</p>
 <p>Eco-Stewardship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ViaRT Award Best Sustainable Message Award</p>
+<p><strong>ViaRT Award Best Sustainable Message Award</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Clean Plate Campaign 2024&nbsp;</p>
+<p><strong>Clean Plate Campaign 2024&nbsp;</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -2891,9 +2880,8 @@ Bin Jefri Tan (6K)</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>The organiser, Food from the Heart, would like to express their appreciation
-to Tao Nan School for our efforts to reduce food waste. We recorded a total
-of 3,776 clean plates during the campaign period, reflecting our collective
-commitment to sustainability.</p>
+to Tao Nan School for our efforts to reduce food waste. We <strong>recorded a total of 3,776 clean plates</strong> during
+the campaign period, reflecting our collective commitment to sustainability.</p>
 </td>
 </tr>
 <tr>
@@ -2936,7 +2924,8 @@ commitment to sustainability.</p>
 <p>Robotics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IDE (Innovation, Design and Engineering) VEX GO Challenge</p>
+<p><strong>IDE (Innovation, Design and Engineering) VEX GO Challenge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2947,7 +2936,8 @@ commitment to sustainability.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Elliot Nathaniel Lee Kin Fung (3D) - 2nd Place</p>
+<p>Elliot Nathaniel Lee Kin Fung (3D) - <strong>2nd Place</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -2955,5 +2945,5 @@ commitment to sustainability.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 09 April 2025</strong>
+<p><strong>Updated on 21 Oct 2025</strong>
 </p>

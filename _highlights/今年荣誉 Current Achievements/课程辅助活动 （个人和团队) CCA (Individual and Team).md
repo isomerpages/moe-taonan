@@ -480,7 +480,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <td rowspan="3" colspan="1">
 <p><u>Under 8 Girls</u>
 </p>
-<p>Choo Ray Chee (2H) 6th at National and 1st at Zonal</p>
+<p>Choo Ray Chyi (2H) 6th at National and 1st at Zonal</p>
 <p>Zhang Ningxin (1L) 9th at National and 2nd at Zonal</p>
 </td>
 <td rowspan="5" colspan="1">
@@ -1430,30 +1430,30 @@ third_nav_title: 今年荣誉 Current Achievements
 </tr>
 <tr></tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Tennis</p>
 </td>
-<td rowspan="5" colspan="1">
-<p>National School Games</p>
-<p>Senior Division Boys</p>
-<p>Matthew Lee Jin Wei (6I) 3rd - League 2</p>
-<p>Lim Yu Jie, Aiden (5I) 4th - League 1</p>
-<p>Lim Jun Wei Caleb (5J) 3rd - Tier 1 Singles</p>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games</strong>
+</p>
 </td>
-<td rowspan="7" colspan="1">
+<td rowspan="4" colspan="1">
 <p></p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>Sportsmanship Award</p>
+<td rowspan="3" colspan="1">
+<p><u>Senior Division Boys</u>
+</p>
+<p>Matthew Lee Jin Wei (6I) 3rd - League 2</p>
+<p>Lim Yu Jie, Aiden (5I) 4th - League 1</p>
+<p>Lim Jun Wei Caleb (5J) 3rd - Tier 1 Singles</p>
+<p><u>Sportsmanship Award</u>
+</p>
 <p>Lim Yu Jie, Aiden (5I)</p>
 </td>
 </tr>
+<tr></tr>
 <tr></tr>
 <tr>
 <td rowspan="5" colspan="1">
@@ -1461,7 +1461,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="5" colspan="1">
-<p>SIngapore SIlent Heroes Student Award</p>
+<p><strong>SIngapore SIlent Heroes Student Award</strong>
+</p>
 <p>Certificate of Recognition</p>
 <p>&nbsp;&nbsp;&nbsp; Wang Huixin, Sophie (3F)</p>
 <p>&nbsp;&nbsp;&nbsp; Chia Sze En (4A)</p>

@@ -790,11 +790,15 @@ third_nav_title: 今年荣誉 Current Achievements
 <p><u>Senior Boys (P6)</u>
 </p>
 <p>Phua Guan An (6C)</p>
-<p>100m Breast - 6th</p>
+<p>100m Breast -<strong> 6th</strong>
+</p>
 <p>Shui Zi Song Darius (6H)</p>
-<p>50m Fly - 7th</p>
-<p>100m Fly - 3rd</p>
-<p>50m Fly/50m Back - 6th</p>
+<p>50m Fly - <strong>7th</strong>
+</p>
+<p>100m Fly -<strong> 3rd</strong>
+</p>
+<p>50m Fly/50m Back - <strong>6th</strong>
+</p>
 </td>
 <td rowspan="7" colspan="1">
 <p><strong>National School Games Swimming Competition</strong>
@@ -825,8 +829,10 @@ third_nav_title: 今年荣誉 Current Achievements
 <p><u>Junior 2 Girls</u>
 </p>
 <p>Clarisse Ruoxin Keravec (5F)</p>
-<p>100m Free - 4th</p>
-<p>200m IM - 5th</p>
+<p>100m Free - <strong>4th</strong>
+</p>
+<p>200m IM - <strong>5th</strong>
+</p>
 <p>50m Breast/50m Free - 6th</p>
 </td>
 <td rowspan="5" colspan="1">
@@ -847,15 +853,21 @@ third_nav_title: 今年荣誉 Current Achievements
 <p><u>Junior 1 Boys</u>
 </p>
 <p>Shui Zi Jie Dylan (3I)</p>
-<p>25m Breast - 2nd</p>
-<p>25m Fly - 4th</p>
+<p>25m Breast - <strong>2nd</strong>
+</p>
+<p>25m Fly -<strong> 4th</strong>
+</p>
 <p>Chase Neo Tian Le (3G)</p>
-<p>25m Back - 6th</p>
+<p>25m Back - <strong>6th</strong>
+</p>
 <p>Matthias Wong Tao-Xu (4A)</p>
-<p>25m Free - 8th</p>
-<p>50m Breast - 8th</p>
+<p>25m Free - <strong>8th</strong>
+</p>
+<p>50m Breast - <strong>8th</strong>
+</p>
 <p>Kieran Kow Xiang (3H)</p>
-<p>25m Back/25mBreast - 7th</p>
+<p>25m Back/25mBreast - <strong>7th</strong>
+</p>
 </td>
 <td rowspan="11" colspan="1">
 <p></p>
@@ -928,29 +940,40 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="13" colspan="1">
-<p>National School Games Championships (Junior)</p>
-<p>J2 Boys Long Jump with 80 cm Take-Off Zone - 5th</p>
+<p><strong>National School Games Championships (Junior)</strong>
+</p>
+<p>J2 Boys Long Jump with 80 cm Take-Off Zone - <strong>5th</strong>
+</p>
 <p>Zhong Chengrui (5K)</p>
-<p>J2 Girls 25 m - 4th</p>
+<p>J2 Girls 25 m - <strong>4th</strong>
+</p>
 <p>Esther Soo Wei (5K)</p>
-<p>J2 Girls 80 m - 7th</p>
-<p>J2 Girls Long Jump with 80 cm Take-Off Zone - 3rd</p>
+<p>J2 Girls 80 m - <strong>7th</strong>
+</p>
+<p>J2 Girls Long Jump with 80 cm Take-Off Zone - <strong>3rd</strong>
+</p>
 <p>Lim Zhi Hui (5I)</p>
-<p>J2 Girls 80m - 4th</p>
-<p>J2 Girls Scissors Jump - 2nd</p>
+<p>J2 Girls 80m - <strong>4th</strong>
+</p>
+<p>J2 Girls Scissors Jump - <strong>2nd</strong>
+</p>
 <p>Ou Yan Li Emily (5D)</p>
-<p>J1 Girls 40 m - 7th</p>
+<p>J1 Girls 40 m - <strong>7th</strong>
+</p>
 <p>Rei Tang (4I)</p>
 </td>
 <td rowspan="13" colspan="1">
-<p>National School Games Championships (Junior)</p>
-<p>J2 Boys 4 X 50 m Relay - 5th</p>
+<p><strong>National School Games Championships (Junior)</strong>
+</p>
+<p>J2 Boys 4 X 50 m Relay - <strong>5th</strong>
+</p>
 <p>Zhong Chengrui (5K)</p>
 <p>Choo Ray Sheng (5J)</p>
 <p>Joash Wee Kai Zhe (5F)</p>
 <p>Josiah Lim Xuan Yi (5B)</p>
 <p>&nbsp;</p>
-<p>J2 Girls 4 X 50 m Relay - 4th</p>
+<p>J2 Girls 4 X 50 m Relay - <strong>4th</strong>
+</p>
 <p>Ou Yan Li Emily (5D)</p>
 <p>Lim Zhi Hui (5I)</p>
 <p>Woo Yun En (5K)</p>
@@ -974,56 +997,89 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Wushu</p>
 </td>
 <td rowspan="37" colspan="1">
-<p>National School Games Competition</p>
-<p>Individual Award</p>
+<p><strong>National School Games Competition</strong>
+</p>
+<p><strong><u>Individual Award</u></strong>
+</p>
 <p>Wang Liyan (6H)</p>
-<p>5-Duan Broadsword - 1st</p>
-<p>5-Duan Cudgel - 1st</p>
-<p>5-Duan Changquan - 5th</p>
+<p>5-Duan Broadsword - <strong>1st</strong>
+</p>
+<p>5-Duan Cudgel - <strong>1st</strong>
+</p>
+<p>5-Duan Changquan - <strong>5th</strong>
+</p>
 <p>Denise Fong Han Shuen (6I)</p>
-<p>1st International Cudgel - 1st</p>
-<p>1st International Changquan - 2nd</p>
-<p>1st International Broadsword - 3rd</p>
+<p>1st International Cudgel - <strong>1st</strong>
+</p>
+<p>1st International Changquan -<strong> 2nd</strong>
+</p>
+<p>1st International Broadsword - <strong>3rd</strong>
+</p>
 <p>Leow Ling Xi Althea (6J)</p>
-<p>1st International Spear - 2nd</p>
-<p>1st International Sword - 4th</p>
-<p>5-Duan Changquan - 4th</p>
+<p>1st International Spear - <strong>2nd</strong>
+</p>
+<p>1st International Sword - <strong>4th</strong>
+</p>
+<p>5-Duan Changquan - <strong>4th</strong>
+</p>
 <p>Leroy Eng (5L)</p>
-<p>1st International Changquan - 1st</p>
-<p>5-Duan Broadsword - 2nd</p>
-<p>1st International Cudgel - 3rd</p>
+<p>1st International Changquan - <strong>1st</strong>
+</p>
+<p>5-Duan Broadsword - <strong>2nd</strong>
+</p>
+<p>1st International Cudgel - <strong>3rd</strong>
+</p>
 <p>Tan Pin Yuan Adryel (4F)</p>
-<p>4-Duan Broadsword - 5th</p>
-<p>4-Duan Cudgel - 5th</p>
-<p>3-Duan Changquan - 6th</p>
+<p>4-Duan Broadsword - <strong>5th</strong>
+</p>
+<p>4-Duan Cudgel - <strong>5th</strong>
+</p>
+<p>3-Duan Changquan - <strong>6th</strong>
+</p>
 <p>Liao Xianyi (4G)</p>
-<p>1st International Nanquan - 3rd</p>
-<p>1st International Nan Gun - 3rd</p>
+<p>1st International Nanquan - <strong>3rd</strong>
+</p>
+<p>1st International Nan Gun - <strong>3rd</strong>
+</p>
 <p>Percival Seah Jun-Kai (4I)</p>
-<p>5-Duan Broadsword - 3rd</p>
+<p>5-Duan Broadsword - <strong>3rd</strong>
+</p>
 <p>5-Duan Nanquan - 4th</p>
 <p>Davinia Low (4F)</p>
-<p>1st International Nanquan - 2nd</p>
-<p>1st International Nan Gun - 2nd</p>
+<p>1st International Nanquan - <strong>2nd</strong>
+</p>
+<p>1st International Nan Gun - <strong>2nd</strong>
+</p>
 <p>Keegan Phoon Fai Hong (6H)</p>
-<p>5-Duan Sword - 5th</p>
-<p>5-Duan Spear - 6th</p>
+<p>5-Duan Sword - <strong>5th</strong>
+</p>
+<p>5-Duan Spear - <strong>6th</strong>
+</p>
 <p>Lee Rui Ya Adele (6F)</p>
-<p>1st International Sword - 7th</p>
-<p>1st International Changquan - 8th</p>
+<p>1st International Sword - <strong>7th</strong>
+</p>
+<p>1st International Changquan - <strong>8th</strong>
+</p>
 </td>
 <td rowspan="54" colspan="1">
-<p>National School Games Competition</p>
-<p>Junior Girls</p>
-<p>Group Weapons - 4th</p>
+<p><strong>National School Games Competition</strong>
+</p>
+<p><u>Junior Girls</u>
+</p>
+<p>Group Weapons - <strong>4th</strong>
+</p>
 <p>&nbsp;</p>
 <p>Senior Boys</p>
-<p>Group Quanshu - 7th</p>
-<p>Group Weapons - 7th</p>
+<p>Group Quanshu - <strong>7th</strong>
+</p>
+<p>Group Weapons -<strong> 7th</strong>
+</p>
 <p>&nbsp;</p>
 <p>Senior Girls</p>
-<p>Group Quanshu - 8th</p>
-<p>Group Weapons - 4th</p>
+<p>Group Quanshu - <strong>8th</strong>
+</p>
+<p>Group Weapons - <strong>4th</strong>
+</p>
 <p>Divisional - 2nd Placing</p>
 </td>
 </tr>
@@ -1144,11 +1200,14 @@ third_nav_title: 今年荣誉 Current Achievements
 <p></p>
 </td>
 <td rowspan="7" colspan="1">
-<p>19th Char Yong Cup National Primary School Xiangqi Tournament</p>
-<p>6th Place (Team) in Junior Session</p>
+<p><strong>19th Char Yong Cup National Primary School Xiangqi Tournament</strong>
+</p>
+<p><u>6th Place (Team) in Junior Session</u>
+</p>
 <p>Kwee Shin Yee (3H)</p>
 <p>James Diao Zhenjie (2J)</p>
-<p>6th Place (Team) in Junior Session</p>
+<p><u>6th Place (Team) in Junior Session</u>
+</p>
 <p>Aaron Ng (4G)</p>
 </td>
 </tr>
@@ -1160,15 +1219,20 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr></tr>
 <tr>
 <td rowspan="5" colspan="1">
-<p>Six Trust Cup National Youth Weiqi Championships</p>
-<p>Wu Zhicheng (5I) 8th position</p>
-<p>Qi Juntian Jensen (4C) 15th position</p>
-<p>Chan Shan En Sean (6J) 23rd position</p>
+<p><strong>Six Trust Cup National Youth Weiqi </strong>Championships</p>
+<p>Wu Zhicheng (5I) <strong>8th position</strong>
+</p>
+<p>Qi Juntian Jensen (4C) <strong>15th position</strong>
+</p>
+<p>Chan Shan En Sean (6J) <strong>23rd position</strong>
+</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="5" colspan="1">
-<p>Six Trust Cup National Youth Weiqi Championships</p>
-<p>1st Runner-Up Award (Team)</p>
+<p><strong>Six Trust Cup National Youth Weiqi Championships</strong>
+</p>
+<p><strong>1st Runner-Up Award (Team)</strong>
+</p>
 <p>Wu Zhicheng (5I)</p>
 <p>Qi Juntian Jensen (4C)</p>
 <p>Chan Shan En Sean (6J)</p>
@@ -1180,10 +1244,14 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr></tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Pesta Sukan (Weiqi)</p>
-<p>Dan Level</p>
-<p>Chin Rui Yang, Raylan (4I) 2nd Runner-up</p>
-<p>Wu Zhicheng (5I) 2nd Runner-Up</p>
+<p><strong>Pesta Sukan (Weiqi)</strong>
+</p>
+<p><u>Dan Level</u>
+</p>
+<p>Chin Rui Yang, Raylan (4I) <strong>2nd Runner-up</strong>
+</p>
+<p>Wu Zhicheng (5I) 2nd <strong>Runner-Up</strong>
+</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>&nbsp;</p>
@@ -1206,16 +1274,20 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="6" colspan="1">
-<p>National School Games Junior Division (Boys)</p>
-<p>2nd - Singles</p>
+<p><strong>National School Games Junior Division (Boys)</strong>
+</p>
+<p><u>2nd - Singles</u>
+</p>
 <p>Lyndon Lin Yi Sheng (4E)</p>
-<p>Sportsmanship Award</p>
+<p><u>Sportsmanship Award</u>
+</p>
 <p>Lyndon Lin Yi Sheng (4E)</p>
 </td>
 <td rowspan="5" colspan="1">
-<p>National School Games Junior Division (Boys)</p>
-<p>Junior Division (Boys)</p>
-<p>1st - Doubles</p>
+<p><strong>National School Games Junior Division (Boys)</strong>
+</p>
+<p><u>1st - Doubles</u>
+</p>
 <p>Lyndon Lin Yi Sheng (4E)</p>
 <p>John Loh Jun En (5K-4)</p>
 </td>
@@ -1226,7 +1298,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr></tr>
 <tr>
 <td rowspan="5" colspan="1">
-<p>1st - Quartets</p>
+<p><u>1st - Quartets</u>
+</p>
 <p>Lyndon Lin Yi Sheng (4E)</p>
 <p>John Loh Jun En (5K-4)</p>
 <p>Tay Jing En Zayne (5H)</p>
@@ -1249,7 +1322,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Oath Taker in the National School Games Opening Ceremony</p>
+<p><strong>Oath Taker in the National School Games Opening Ceremony</strong>
+</p>
 <p>Althea Leow Ling Xi (5J)</p>
 </td>
 <td rowspan="3" colspan="1">
@@ -1269,11 +1343,16 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="5" colspan="1">
-<p>13th Singapore Inter-Schools Diving Championships 2025</p>
-<p>Joshua Yip Ping Kai (5J-1)</p>
-<p>&nbsp;&nbsp;&nbsp; Level 4 Senior Boys 1m Springboard (Gold)</p>
-<p>&nbsp;&nbsp;&nbsp; Level 4 Senior Boys 5m Platform (Gold)</p>
-<p>&nbsp;&nbsp;&nbsp; Level 4 Senior Boys 3m Springboard (Gold)</p>
+<p><strong>13th Singapore Inter-Schools Diving Championships</strong>
+</p>
+<p><u>Joshua Yip Ping Kai (5J-1)</u>
+</p>
+<p>&nbsp;&nbsp;&nbsp; Level 4 Senior Boys 1m Springboard <strong>(Gold)</strong>
+</p>
+<p>&nbsp;&nbsp;&nbsp; Level 4 Senior Boys 5m Platform <strong>(Gold)</strong>
+</p>
+<p>&nbsp;&nbsp;&nbsp; Level 4 Senior Boys 3m Springboard <strong>(Gold)</strong>
+</p>
 </td>
 <td rowspan="5" colspan="1">
 <p>&nbsp;</p>
@@ -1300,9 +1379,11 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>National School Games Competition</p>
+<p><strong>National School Games Competition</strong>
+</p>
 <p>Junior Division</p>
-<p>Jacob Chua (3I) 3rd</p>
+<p>Jacob Chua (3I) <strong>3rd</strong>
+</p>
 </td>
 <td rowspan="10" colspan="1">
 <p></p>
@@ -1318,7 +1399,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;Gymnastic</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>National School Games Artistic Gymnastics&nbsp;</p>
+<p><strong>National School Games Artistic Gymnastics&nbsp;</strong>
+</p>
 <p>Chen Yanyi, Leigh-Anne (6C) Balance Beam - Bronze</p>
 <p>Lim Yu En, Keira (4G) Uneven Bars - Bronze</p>
 </td>
@@ -1327,9 +1409,12 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr></tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>16th Singapore Gymnastics National Championships 2025&nbsp;</p>
-<p>Women's Artistic Gymnastics Level 2 (9 Years &amp; Over)</p>
-<p>Individuall All Around - 1st</p>
+<p><strong>16th Singapore Gymnastics National Championships</strong>
+</p>
+<p><strong>Women's Artistic Gymnastics Level 2 (9 Years &amp; Over)</strong>
+</p>
+<p>Individuall All Around - <strong>1st</strong>
+</p>
 <p>Tan Jie Lin (4G)</p>
 </td>
 </tr>
@@ -1349,8 +1434,10 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="17" colspan="1">
-<p>NTU Lion Dance Competition</p>
-<p>Silver Placing</p>
+<p><strong>NTU Lion Dance Competition</strong>
+</p>
+<p><strong>Silver Placing</strong>
+</p>
 <p>Ayden Lim Dean Zhe (6A)</p>
 <p>Evan Sng Aik Soon (6A)</p>
 <p>Lim Ching Yan Tyler (6A)</p>
@@ -1390,17 +1477,21 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="7" colspan="1">
-<p>National Sports Games(Poomsae)</p>
-<p>Chin Rui Yang, Raylan (4I) 14th position</p>
-<p>Christine Cheng Juan Huei (5I) 4th - Poom/Black 1</p>
+<p><strong>National Sports Games(Poomsae)</strong>
+</p>
+<p>Chin Rui Yang, Raylan (4I) <strong>14th position</strong>
+</p>
+<p>Christine Cheng Juan Huei (5I) <strong>4th</strong> - Poom/Black 1</p>
 <p>Loy Rui Xuan Levinne (5I) 4th - Red 2</p>
-<p>Austin Tay Jun Zhi (4I) 5th - Blue 3</p>
-<p>Marcus Ng Jing Xiang (5I-3) 7th - Poom/Black 3</p>
-<p>Emmett Guang Yao Lau Keng Lun (6H) 2nd - Poom/Black 3</p>
+<p>Austin Tay Jun Zhi (4I) <strong>5th</strong> - Blue 3</p>
+<p>Marcus Ng Jing Xiang (5I-3) <strong>7th</strong> - Poom/Black 3</p>
+<p>Emmett Guang Yao Lau Keng Lun (6H) <strong>2nd</strong> - Poom/Black 3</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>National Sports Games (Poomsae) - Team</p>
-<p>Zachary Tsui Ho Yin (4B) Bronze</p>
+<p><strong>National Sports Games (Poomsae)</strong>
+</p>
+<p>Zachary Tsui Ho Yin (4B) <strong>Bronze</strong>
+</p>
 </td>
 </tr>
 <tr></tr>
@@ -1415,9 +1506,12 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr></tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>National Sports Games (Kyorugi)</p>
-<p>Under 38kg Category</p>
-<p>Emmett Guang Yao Lau Keng Lun (6H) 2nd</p>
+<p><strong>National Sports Games (Kyorugi)</strong>
+</p>
+<p><u>Under 38kg Category</u>
+</p>
+<p>Emmett Guang Yao Lau Keng Lun (6H) <strong>2nd</strong>
+</p>
 </td>
 </tr>
 <tr></tr>
@@ -1464,9 +1558,9 @@ third_nav_title: 今年荣誉 Current Achievements
 <p><strong>SIngapore SIlent Heroes Student Award</strong>
 </p>
 <p>Certificate of Recognition</p>
-<p>&nbsp;&nbsp;&nbsp; Wang Huixin, Sophie (3F)</p>
-<p>&nbsp;&nbsp;&nbsp; Chia Sze En (4A)</p>
-<p>&nbsp;&nbsp;&nbsp; Wang Yiran Sera (6F)</p>
+<p>Wang Huixin, Sophie(3F)</p>
+<p>Chia Sze En (4A)</p>
+<p>Wang Yiran Sera (6F)</p>
 </td>
 <td rowspan="5" colspan="1">
 <p>&nbsp;</p>
@@ -1478,5 +1572,5 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr></tr>
 </tbody>
 </table>
-<p><strong>Updated on 09 April 2025</strong>
+<p><strong>Updated on 21 October 2025</strong>
 </p>

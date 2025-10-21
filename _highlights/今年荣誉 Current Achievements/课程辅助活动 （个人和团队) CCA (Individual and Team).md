@@ -872,38 +872,24 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr></tr>
 <tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Scouts</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Chief Commissioner's Well-Done Badge&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>&nbsp; Teo Tze Haan, Caleb (6G)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Li Yangsheng (6J)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 </tr>
+<tr></tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Table Tennis</p>
@@ -937,8 +923,9 @@ third_nav_title: 今年荣誉 Current Achievements
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="13" colspan="1">
 <p>Track &amp; Field</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="13" colspan="1">
 <p>National School Games Championships (Junior)</p>
@@ -955,7 +942,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>J1 Girls 40 m - 7th</p>
 <p>Rei Tang (4I)</p>
 </td>
-<td rowspan="12" colspan="1">
+<td rowspan="13" colspan="1">
 <p>National School Games Championships (Junior)</p>
 <p>J2 Boys 4 X 50 m Relay - 5th</p>
 <p>Zhong Chengrui (5K)</p>
@@ -970,59 +957,20 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Esther Soo Wei (5K)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" colspan="1">
-<p></p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr></tr>
 <tr></tr>
 <tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="54" colspan="1">
 <p>Wushu</p>
 </td>
 <td rowspan="37" colspan="1">
@@ -1064,7 +1012,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>1st International Sword - 7th</p>
 <p>1st International Changquan - 8th</p>
 </td>
-<td rowspan="12" colspan="1">
+<td rowspan="54" colspan="1">
 <p>National School Games Competition</p>
 <p>Junior Girls</p>
 <p>Group Weapons - 4th</p>
@@ -1079,265 +1027,43 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Divisional - 2nd Placing</p>
 </td>
 </tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="17" colspan="1">
 <p>Pesta Sukan</p>
 <p>Individual Award</p>
@@ -1357,149 +1083,31 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Lam Xuan Enid (5C)</p>
 <p>Traditional Changquan - Gold</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Others</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>ACHIEVEMENT (National/International)</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1517,548 +1125,356 @@ third_nav_title: 今年荣誉 Current Achievements
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="16" colspan="1">
 <p>Chinese Chess</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>12th Zong Xiang Cup National Xiangqi Competition</p>
+<td rowspan="7" colspan="1">
+<p></p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="7" colspan="1">
 <p>19th Char Yong Cup National Primary School Xiangqi Tournament</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8th in Under 10 Category</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kwee Shin Yee (3H)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>6th Place (Team) in Junior Session</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13th Place (Under 10 Category)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Kwee Shin Yee (3H)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Aaron Ng (4G)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>James Diao Zhenjie (2J)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15th Place (Under 12 Category)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>6th Place (Team) in Junior Session</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kwee Yu Xiang (6L)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Aaron Ng (4G)</p>
 </td>
 </tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="5" colspan="1">
+<p>Six Trust Cup National Youth Weiqi Championships</p>
+<p>Wu Zhicheng (5I) 8th position</p>
+<p>Qi Juntian Jensen (4C) 15th position</p>
+<p>Chan Shan En Sean (6J) 23rd position</p>
 <p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="5" colspan="1">
+<p>Six Trust Cup National Youth Weiqi Championships</p>
+<p>1st Runner-Up Award (Team)</p>
+<p>Wu Zhicheng (5I)</p>
+<p>Qi Juntian Jensen (4C)</p>
+<p>Chan Shan En Sean (6J)</p>
 </td>
 </tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<td rowspan="4" colspan="1">
+<p>Pesta Sukan (Weiqi)</p>
+<p>Dan Level</p>
+<p>Chin Rui Yang, Raylan (4I) 2nd Runner-up</p>
+<p>Wu Zhicheng (5I) 2nd Runner-Up</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14th Chung Cheng Cup Xiangqi Team (Junior Category)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kwee Shin Yee (3H) 1st Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Aaron Ng (4G) 1st Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>&nbsp;</p>
 </td>
 </tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Rugby</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Saints 7s schools and clubs tournament 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp; Maven Leanders Wu (2F) U7 - cup 2nd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp; Mason Leanders Wu (4D) U9 - cup 1st</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Centaurs mini &amp; youth rugby 10s tournament 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp; Maven Leanders Wu (2F) U7 - plate 1st</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Scc international rugby 7s 2024 U7 - cup 2nd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp; Maven Leanders Wu (2F)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kl tigers international rugby 2025 10s U8 - cup 2nd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp; Maven Leanders Wu (2F)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Trc junior cup 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp; Mason Leanders Wu (4D) Under 9 - plate 2nd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jrcs league 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp; Mason Leanders Wu (4D) Under 10 - plate 2nd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dragons Award ceremony 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp; Mason Leanders Wu (4D) U10 best support player</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp; Mason Leanders Wu (4D) U9 best all-rounder</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Floorball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GESS Wildcats X YFA Floorball Cup</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Daniel Silas Lu (4G)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>&nbsp;</u>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="10" colspan="1">
 <p>Bowling</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>24TH MILO STORM U22 International Junior All Stars Bowling Championship
-2024</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>National School Games Junior Division (Boys)</p>
+<p>2nd - Singles</p>
+<p>Lyndon Lin Yi Sheng (4E)</p>
+<p>Sportsmanship Award</p>
+<p>Lyndon Lin Yi Sheng (4E)</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>National School Games Junior Division (Boys)</p>
+<p>Junior Division (Boys)</p>
+<p>1st - Doubles</p>
+<p>Lyndon Lin Yi Sheng (4E)</p>
+<p>John Loh Jun En (5K-4)</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>1st - Quartets</p>
+<p>Lyndon Lin Yi Sheng (4E)</p>
+<p>John Loh Jun En (5K-4)</p>
+<p>Tay Jing En Zayne (5H)</p>
+<p>Jamie Tan Zhuo Le (5L-2)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd Place (Boys under 12 category)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 </tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
+<p>National School</p>
+<p>Games (NSG)</p>
 <p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Lyndon Lin (4E)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fencing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Moohun PBT Minime &amp; Veteran Fencing Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze (Individual U10)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kayson Koh (4G)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NSG</p>
-</td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Oath Taker in the National School Games Opening Ceremony</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Althea Leow Ling Xi (5J)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 </tr>
+<tr></tr>
+<tr></tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="5" colspan="1">
+<p>&nbsp;Diving</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<td rowspan="5" colspan="1">
+<p>13th Singapore Inter-Schools Diving Championships 2025</p>
+<p>Joshua Yip Ping Kai (5J-1)</p>
+<p>&nbsp;&nbsp;&nbsp; Level 4 Senior Boys 1m Springboard (Gold)</p>
+<p>&nbsp;&nbsp;&nbsp; Level 4 Senior Boys 5m Platform (Gold)</p>
+<p>&nbsp;&nbsp;&nbsp; Level 4 Senior Boys 3m Springboard (Gold)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="5" colspan="1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 </tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Golf</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>National School Games Competition</p>
+<p>Junior Division</p>
+<p>Jacob Chua (3I) 3rd</p>
+</td>
+<td rowspan="10" colspan="1">
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>&nbsp;Gymnastic</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>National School Games Artistic Gymnastics&nbsp;</p>
+<p>Chen Yanyi, Leigh-Anne (6C) Balance Beam - Bronze</p>
+<p>Lim Yu En, Keira (4G) Uneven Bars - Bronze</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>16th Singapore Gymnastics National Championships 2025&nbsp;</p>
+<p>Women's Artistic Gymnastics Level 2 (9 Years &amp; Over)</p>
+<p>Individuall All Around - 1st</p>
+<p>Tan Jie Lin (4G)</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="17" colspan="1">
+<p>Lion Dance&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="17" colspan="1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="17" colspan="1">
+<p>NTU Lion Dance Competition</p>
+<p>Silver Placing</p>
+<p>Ayden Lim Dean Zhe (6A)</p>
+<p>Evan Sng Aik Soon (6A)</p>
+<p>Lim Ching Yan Tyler (6A)</p>
+<p>Nate Lim Ze Yu (6B)</p>
+<p>Aurelius Wang Rui (6B)</p>
+<p>Ryan Tan Zhi Kai (6C)</p>
+<p>Julien Yuen Cheuk Yao (6H)</p>
+<p>Chua Yuen Xi (6L)</p>
+<p>Vereen Sim (5A)</p>
+<p>Lim Le Xing Timbol (5A)</p>
+<p>Aldrich Low Yu Zhe (5B)</p>
+<p>Low Zu Yuan Ethan (5D)</p>
+<p>Tan Si Tong Jalyn (5D)</p>
+<p>SamanthaNg Min En (5E)</p>
+<p>Chelsea Chiang Jia Hui (5H)</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="12" colspan="1">
+<p>Taekwondo</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>National Sports Games(Poomsae)</p>
+<p>Chin Rui Yang, Raylan (4I) 14th position</p>
+<p>Christine Cheng Juan Huei (5I) 4th - Poom/Black 1</p>
+<p>Loy Rui Xuan Levinne (5I) 4th - Red 2</p>
+<p>Austin Tay Jun Zhi (4I) 5th - Blue 3</p>
+<p>Marcus Ng Jing Xiang (5I-3) 7th - Poom/Black 3</p>
+<p>Emmett Guang Yao Lau Keng Lun (6H) 2nd - Poom/Black 3</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>National Sports Games (Poomsae) - Team</p>
+<p>Zachary Tsui Ho Yin (4B) Bronze</p>
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="10" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>National Sports Games (Kyorugi)</p>
+<p>Under 38kg Category</p>
+<p>Emmett Guang Yao Lau Keng Lun (6H) 2nd</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>WAEIN - Kyorugi</p>
+<p>Zachary Tsui Ho Yin (4B) Silver</p>
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>Tennis</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>National School Games</p>
+<p>Senior Division Boys</p>
+<p>Matthew Lee Jin Wei (6I) 3rd - League 2</p>
+<p>Lim Yu Jie, Aiden (5I) 4th - League 1</p>
+<p>Lim Jun Wei Caleb (5J) 3rd - Tier 1 Singles</p>
+</td>
+<td rowspan="7" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Sportsmanship Award</p>
+<p>Lim Yu Jie, Aiden (5I)</p>
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Others</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>SIngapore SIlent Heroes Student Award</p>
+<p>Certificate of Recognition</p>
+<p>&nbsp;&nbsp;&nbsp; Wang Huixin, Sophie (3F)</p>
+<p>&nbsp;&nbsp;&nbsp; Chia Sze En (4A)</p>
+<p>&nbsp;&nbsp;&nbsp; Wang Yiran Sera (6F)</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 </tbody>
 </table>
 <p><strong>Updated on 09 April 2025</strong>

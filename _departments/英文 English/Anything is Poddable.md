@@ -10,7 +10,6 @@ third_nav_title: 英文 English
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-R_JgwR3vRA?si=U7B69sdzVAfaexVk"></iframe>
 </div>
 <p></p>
-<p></p>
 <h4>2. Trendy Music</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ltBhfnkTmTQ?si=n0HPNbUID9GkT3kU"></iframe>

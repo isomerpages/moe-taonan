@@ -184,7 +184,14 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Pesta Sukan (Weiqi)</strong>
+</p>
+<p><u>Dan Level</u>
+</p>
+<p>Chin Rui Yang, Raylan (4I) <strong>2nd Runner-up</strong>
+</p>
+<p>Wu Zhicheng (5I) 2nd <strong>Runner-Up</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tao Nan School - Overall Champion</p>

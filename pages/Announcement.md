@@ -4,6 +4,14 @@ permalink: /announcement/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tao Nan School Alumni Homecoming" src="/images/Announcement/Alumni_Homecoming___School_Anniversary_2025.jpg">
+</div>
+<p></p>
+<hr>
+<p></p>
+<p></p>
 <h4>President's Award for Teachers</h4>
 <p>Nominate an inspiring teacher or colleague for this prestigious award
 by scanning the QR code or heading to <a href="https://go.gov.sg/pat2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pat2026</a>

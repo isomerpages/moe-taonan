@@ -1181,7 +1181,7 @@ third_nav_title: 今年荣誉 Current Achievements
 </td>
 </tr>
 <tr>
-<td rowspan="16" colspan="1">
+<td rowspan="12" colspan="1">
 <p>Chinese Chess</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -1239,24 +1239,6 @@ third_nav_title: 今年荣誉 Current Achievements
 </td>
 </tr>
 <tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr>
-<td rowspan="4" colspan="1">
-<p><strong>Pesta Sukan (Weiqi)</strong>
-</p>
-<p><u>Dan Level</u>
-</p>
-<p>Chin Rui Yang, Raylan (4I) <strong>2nd Runner-up</strong>
-</p>
-<p>Wu Zhicheng (5I) 2nd <strong>Runner-Up</strong>
-</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
 <tr></tr>
 <tr></tr>
 <tr></tr>

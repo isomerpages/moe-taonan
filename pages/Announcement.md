@@ -10,6 +10,8 @@ variant: tiptap
 </div>
 <p></p>
 <hr>
+<p>.</p>
+<hr>
 <p></p>
 <p></p>
 <h4>President's Award for Teachers</h4>
@@ -41,7 +43,6 @@ by scanning the QR code or heading to <a href="https://go.gov.sg/oyea2026" rel="
 <hr>
 <p></p>
 <p>.</p>
-<p></p>
 <p></p>
 <p>.</p>
 <p></p>

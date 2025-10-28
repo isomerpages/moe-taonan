@@ -42,6 +42,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>全国小学现场华文创作比赛</strong>
+</p>
 <p><strong>29th National Primary Schools On-the-Spot Chinese Essay Writing Competition</strong>
 </p>
 </td>
@@ -55,7 +57,7 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Liu Yutong (4I) - <strong>Champion</strong>
+<p>刘语彤 Liu Yutong (4I) - <strong>Champion</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,7 +70,7 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sin Cheuk Wing (6J) - <strong>Merit Award</strong>
+<p>冼卓颖 Sin Cheuk Wing (6J) - <strong>Merit</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,7 +82,7 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Jing Ting Jodie (6J) -<strong> Merit Award</strong>
+<p>林静婷 Lim Jing Ting Jodie (6J) -<strong> Merit</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,6 +94,8 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>第14届新马汶小学现场华文创作精英赛</strong>
+</p>
 <p><strong>14th Singapore, Malaysia and Brunei Primary Schools On-the-Spot Chinese Creative Essay Writing Competition</strong>
 </p>
 </td>
@@ -104,7 +108,7 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Liu Yutong (4I) - <strong>Champion</strong>
+<p>刘语彤 Liu Yutong (4I) - <strong>Champion</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,8 +120,22 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="6" colspan="1">
+<p><strong>第23届新加坡福建会馆文学奖</strong>
+</p>
 <p><strong>23rd SHHK Literary Awards Prize Presentation Ceremony</strong>
+</p>
+<p>刘语彤 Liu Yutong (4I) - <strong>1st</strong>
+</p>
+<p>林恩卉 Lin Enhui Alexi (4F) - <strong>3rd</strong>
+</p>
+<p>洪敏淇 Kaylee Ang Min Qi (5J) - Consolation</p>
+<p>洪澔汶 Ryan Ang Hao Wen (5J) - <strong>Consolation</strong>
+</p>
+<p>李宛璐 Li Wan Lu Olivia (6L) - <strong>Consolation</strong>
+</p>
+<p>道南学校 TAO NAN SCHOOL</p>
+<p> <strong>Overall Champion</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,20 +148,12 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lin Enhui Alexi (4F) - <strong>3rd</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Camille Isabelle Briens (6I)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Liu Yutong (4I) - <strong>1st</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wang Shiran (6I)</p>
@@ -154,9 +164,6 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kaylee Ang Min Qi (5J) - Consolation</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Lim Jing Ting Jodie (6J)</p>
 </td>
 </tr>
@@ -165,20 +172,12 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ryan Ang Hao Wen (5J) - <strong>Consolation</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Liu Ting Xuan (6L)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Li Wan Lu Olivia (6L) - <strong>Consolation</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>23rd SHHK Literary Awards Prize Presentation Ceremony</strong>
@@ -207,35 +206,57 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="7" colspan="1">
 <p><strong>全国小学生童诗创作比赛</strong>
 </p>
 <p><strong>National Primary School Children's Poetry Writing Competition</strong>
 </p>
+<p>刘语彤 LIU YUTONG (4I) <strong>Silver award</strong>
+</p>
+<p>洪敏淇 KAYLEE ANG MIN QI (5J) <strong>Bronze award</strong>
+</p>
+<p>刘云森 LIU YUNSEN (1F) <strong>Recitation Award</strong>
+</p>
+<p>刘语彤 LIU YUTONG (4I)</p>
+<p><strong>Recitation Award</strong>
+</p>
+<p>洪澔汶 RYAN ANG HAO WEN (5J)</p>
+<p><strong>Recitation Award</strong>
+</p>
+<p>洪敏淇 KAYLEE ANG MIN QI (5J)</p>
+<p><strong>Recitation Award</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>华文大比拼 </strong>
+<td rowspan="5" colspan="1">
+<p><strong>华文大比拼</strong>
 </p>
 <p><strong>The National Chinese Challenge</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>刘语彤 LIU YUTONG (4I) <strong>Silver award</strong>
-</p>
-</td>
-<td rowspan="4" colspan="1">
 <p><u>Champion</u>
 </p>
 <p>冼卓颖 SIN CHEUK WING (6J)</p>
 <p>王柔颖 ONG ROU YING TIFFANY (6K)</p>
 <p>何樟轩 HE ZHANGXUAN (6L)</p>
 <p>李宛璐 LI WAN LU OLIVIA (6L)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -244,40 +265,7 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>洪敏淇 KAYLEE ANG MIN QI (5J) <strong>Bronze award</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>刘云森 LIU YUNSEN (1F) <strong>Recitation Award </strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>刘语彤 LIU YUTONG (4I)</p>
-<p><strong>Recitation Award </strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>洪澔汶 RYAN ANG HAO WEN (5J)</p>
-<p><strong>Recitation Award </strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>第十一届全国小学生绘本创作大赛 </strong>
+<p><strong>第十一届全国小学生绘本创作大赛</strong>
 </p>
 <p><strong>11th National Primary School "Picture Book Creation" Competition</strong>
 </p>
@@ -286,11 +274,6 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>洪敏淇 KAYLEE ANG MIN QI (5J)</p>
-<p><strong>Recitation Award </strong>
-</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><u>Silver Award</u>
@@ -306,27 +289,30 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="5" colspan="1">
+<p><strong>华文大比拼</strong>
+</p>
+<p><strong>The National Chinese Challenge</strong>
+</p>
+<p><u>Preliminary Round</u>
+</p>
+<p>李家慜 CAMILLE ISABELLE BRIENS (6I)</p>
+<p>王适然 WANG SHIRAN (6I)</p>
+<p>林静婷 LIM JING TING JODIE (6J)</p>
+<p>刘亭萱 LIU TING XUAN (6L)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="5" colspan="1">
-<p><u>Consolation </u>
+<p><u>Consolation</u>
 </p>
 <p>李奕陶 FYNN LEE YI TAO (5I)</p>
 <p>刘明乐 LIU MINGLE (5I)</p>
@@ -339,6 +325,8 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -348,6 +336,32 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>方物语 创意写作</strong>
+</p>
+<p><strong>Brick-Story Creative Writing </strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>何一杨 HE YIYANG (5L) <u>Winning Work</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>全国中小学华文阅读乐竞赛</strong>
+</p>
+<p><strong>National Chinese Reading Contest</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -356,12 +370,8 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>王桑榆 WANG SANGYU (4J) 书<u>香特优奖</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3083,6 +3093,119 @@ the campaign period, reflecting our collective commitment to sustainability.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SAP Committee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>第51届全国学生中英文互译比赛</strong>
+</p>
+<p><strong>51th National Schools Translation Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>李欣妍 LI XINYAN (5J) <u>2nd Position</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>李祉蒽 LEE ZHI EN, JOVIE (5K) <u>Consolation</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>全国小学生挥春比赛</strong>
+</p>
+<p><strong>National Chinese Calligraphy Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>赵言恩 ZHAO YAN'EN,OWEN (4I) <u>Merit</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>黄新倪 CYNTHIA WONG XIN NI&nbsp;(3G) <u>Consolation</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>義安全国学生书法现场比赛</strong>
+</p>
+<p><strong>Ngee Ann National Students’ Calligraphy</strong>  <strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>廖芷萱 LIAO ZHIXUAN SELINA (4A) <u>Rising Star Award</u> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

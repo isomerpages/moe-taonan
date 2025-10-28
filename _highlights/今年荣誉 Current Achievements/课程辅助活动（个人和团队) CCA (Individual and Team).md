@@ -400,54 +400,60 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Chinese Speech and Drama</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>第18届YMCA华语演讲比赛</strong>
+</p>
 <p><strong>18th YMCA Mandarin Speaking Award</strong>
 </p>
 </td>
 <td rowspan="5" colspan="1">
+<p><strong>第8届全国课文朗诵比赛</strong>
+</p>
 <p><strong>8th National Text Recitation Competition</strong>
 </p>
 <p><u>Group Silver Award</u>
 </p>
-<p>Wang Shiran (6I)</p>
-<p>Camille Isabelle Briens (6I)</p>
-<p>Tiong Ziyan, Scarlett (6I)</p>
+<p>王适然 Wang Shiran (6I)</p>
+<p>李家慜 Camille Isabelle Briens (6I)</p>
+<p>张紫嫣 Tiong Ziyan, Scarlett (6I)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alina Wang Zhuoxi (5I) - 1st Runner Up</p>
+<p>王卓熙 Alina Wang Zhuoxi (5I) - 1st Runner Up</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Ong Rou Ying Tiffany (6K) - Achievement Award</p>
-<p>Alyssa Khoo Qian Yau (4F) - Achievement Award</p>
+<p>王柔颖 Ong Rou Ying Tiffany (6K) - Achievement Award</p>
+<p>邱芊柔 Alyssa Khoo Qian Yau (4F) - Achievement Award</p>
 </td>
 </tr>
 <tr></tr>
 <tr>
 <td rowspan="4" colspan="1">
+<p><strong>第8届全国课文朗诵比赛</strong>
+</p>
 <p><strong>8th National Text Recitation Competition</strong>
 </p>
 <p><u>Individual Bronze Award</u>
 </p>
-<p>Alyssa Khoo Qian Yau (4F)</p>
-<p>Li Youyang (5L)</p>
+<p>邱芊柔 Alyssa Khoo Qian Yau (4F)</p>
+<p>李悠扬 Li Youyang (5L)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="10" colspan="1">
 <p><u>Group Bronze Award</u>
 </p>
-<p>Ashley Ng (2K)</p>
-<p>Chan Minzhi Gemma (2K)</p>
-<p>Koh Rui En Audrey (2K)</p>
-<p>Liu Zhen (2F)</p>
-<p>Seah Qi En Belle (2F)</p>
-<p>Tan Jia Ying Vanelle (2F)</p>
-<p>Chionh Qi Ern (6G)</p>
-<p>Lim Shi Yu (6G)</p>
-<p>Tam See-Won Clarice (6G)</p>
+<p>黄子瑄 Ashley Ng (2K)</p>
+<p>陳敏枝 Chan Minzhi Gemma (2K)</p>
+<p>柯瑞恩 Koh Rui En Audrey (2K)</p>
+<p>刘桢 Liu Zhen (2F)</p>
+<p>谢绮恩 Seah Qi En Belle (2F)</p>
+<p>陈泇蓥 Tan Jia Ying Vanelle (2F)</p>
+<p>蒋绮恩 Chionh Qi Ern (6G)</p>
+<p>林师羽 Lim Shi Yu (6G)</p>
+<p>谭斯云 Tam See-Won Clarice (6G)</p>
 </td>
 </tr>
 <tr></tr>

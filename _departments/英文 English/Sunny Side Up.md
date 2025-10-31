@@ -20,7 +20,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="file.go.gov.sg/sunnysideup2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sunny Side Up 2025</a>
+<p><a href="https://file.go.gov.sg/sunnysideup2025.pdf" rel="noopener nofollow" target="_blank">Sunny Side Up 2025</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">

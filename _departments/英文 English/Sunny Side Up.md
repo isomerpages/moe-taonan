@@ -7,6 +7,76 @@ variant: tiptap
 ---
 <h3>A magazine by the English Special Programme</h3>
 <p></p>
+<h4>2025 Edition</h4>
+<p></p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="file.go.gov.sg/sunnysideup2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sunny Side Up 2025</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Volume 5</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Scan the QR code to view with your mobile</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/English/Sunny Side Up/https___go_gov_sg_sunnysideup2025.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>2024 Edition</h4>
 <table style="minWidth: 125px">
 <colgroup>

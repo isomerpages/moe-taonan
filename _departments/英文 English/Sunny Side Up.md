@@ -27,7 +27,7 @@ variant: tiptap
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Volume 4</p>
+<p>Volume 5</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Scan the QR code to view with your mobile</strong>

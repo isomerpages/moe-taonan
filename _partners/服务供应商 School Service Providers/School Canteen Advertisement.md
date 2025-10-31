@@ -44,9 +44,12 @@ third_nav_title: 服务供应商 School Service Providers
 </p>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
-<p><a href="" rel="noopener nofollow" target="_blank">Application Form</a>
-<a href="/files/School Service Providers/School Canteen/Application_for_Canteen_Stall.pdf" rel="noopener nofollow" target="_blank">file</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/School Service Providers/School Canteen/Application_for_Canteen_Stall.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
+</li>
+</ul>
 <p>2. Attached the following documents together with the application form:</p>
 <table style="minWidth: 25px">
 <colgroup>

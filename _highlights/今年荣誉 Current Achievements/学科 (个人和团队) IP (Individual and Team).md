@@ -48,79 +48,71 @@ third_nav_title: 今年荣誉 Current Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>12th National Chinese Challenge </strong>(organised by SPH Media
-Chinese Media Group and Nanyang Girls' High School)</p>
+<p><strong>华文大比拼</strong>
+</p>
+<p><strong>The National Chinese Challenge</strong>
+</p>
+<p><u>Champion</u>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>刘语彤 Liu Yutong (4I) - <strong>Champion</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1st Position</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>冼卓颖 Sin Cheuk Wing (6J) - <strong>Merit</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sin Cheuk Wing (6J)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>林静婷 Lim Jing Ting Jodie (6J) -<strong> Merit</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ong Rou Ying Tiffany (6K)</p>
+<td rowspan="4" colspan="1">
+<p>冼卓颖 SIN CHEUK WING (6J)</p>
+<p>王柔颖 ONG ROU YING TIFFANY (6K)</p>
+<p>何樟轩 HE ZHANGXUAN (6L)</p>
+<p>李宛璐 LI WAN LU OLIVIA (6L)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="2" colspan="1">
 <p><strong>第14届新马汶小学现场华文创作精英赛</strong>
 </p>
 <p><strong>14th Singapore, Malaysia and Brunei Primary Schools On-the-Spot Chinese Creative Essay Writing Competition</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>He Zhangxuan (6L)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>刘语彤 Liu Yutong (4I) - <strong>Champion</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Li Wan Lu Olivia
-(6L)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>23rd SHHK Literary Awards Prize Presentation Ceremony</strong>
+</p>
+<p>Tao Nan School - Overall Champion</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="6" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>第23届新加坡福建会馆文学奖</strong>
 </p>
 <p><strong>23rd SHHK Literary Awards Prize Presentation Ceremony</strong>
@@ -135,12 +127,15 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <p>李宛璐 Li Wan Lu Olivia (6L) - <strong>Consolation</strong>
 </p>
 <p>道南学校 TAO NAN SCHOOL</p>
-<p> <strong>Overall Champion</strong>
+<p><strong>Overall Champion</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Preliminary Round</strong>
+<p><strong>第十一届全国小学生绘本创作大赛</strong>
 </p>
+<p><strong>11th National Primary School "Picture Book Creation" Competition</strong>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -148,7 +143,13 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Camille Isabelle Briens (6I)</p>
+<p><u>Silver Award</u>
+</p>
+<p>李懿嫣 LEE YIK YEN (5J)</p>
+<p>洪澔汶 RYAN ANG HAO WEN (5J)</p>
+<p>洪敏淇 KAYLEE ANG MIN QI (5J)</p>
+<p>刘奕辰 LIU YICHEN, EMILY (5J)</p>
+<p>沈子涵 SIM ZIHAN JUDY (5D)</p>
 </td>
 </tr>
 <tr>
@@ -156,50 +157,13 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Shiran (6I)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Jing Ting Jodie (6J)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Liu Ting Xuan (6L)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>23rd SHHK Literary Awards Prize Presentation Ceremony</strong>
+<p><u>Consolation</u>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Pesta Sukan (Weiqi)</strong>
-</p>
-<p><u>Dan Level</u>
-</p>
-<p>Chin Rui Yang, Raylan (4I) <strong>2nd Runner-up</strong>
-</p>
-<p>Wu Zhicheng (5I) 2nd <strong>Runner-Up</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tao Nan School - Overall Champion</p>
+<p>李奕陶 FYNN LEE YI TAO (5I)</p>
+<p>刘明乐 LIU MINGLE (5I)</p>
+<p>吴治成 WU ZHICHENG (5I)</p>
+<p>李奕狄 LI YIDI (5I)</p>
+<p>ELLA GRACE JING XUAN FENBY (5B)</p>
 </td>
 </tr>
 <tr>
@@ -228,16 +192,7 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 </p>
 </td>
 <td rowspan="5" colspan="1">
-<p><strong>华文大比拼</strong>
-</p>
-<p><strong>The National Chinese Challenge</strong>
-</p>
-<p><u>Champion</u>
-</p>
-<p>冼卓颖 SIN CHEUK WING (6J)</p>
-<p>王柔颖 ONG ROU YING TIFFANY (6K)</p>
-<p>何樟轩 HE ZHANGXUAN (6L)</p>
-<p>李宛璐 LI WAN LU OLIVIA (6L)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -265,45 +220,6 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>第十一届全国小学生绘本创作大赛</strong>
-</p>
-<p><strong>11th National Primary School "Picture Book Creation" Competition</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="3" colspan="1">
-<p><u>Silver Award</u>
-</p>
-<p>李懿嫣 LEE YIK YEN (5J)</p>
-<p>洪澔汶 RYAN ANG HAO WEN (5J)</p>
-<p>洪敏淇 KAYLEE ANG MIN QI (5J)</p>
-<p>刘奕辰 LIU YICHEN, EMILY (5J)</p>
-<p>沈子涵 SIM ZIHAN JUDY (5D)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="5" colspan="1">
-<p><strong>华文大比拼</strong>
-</p>
-<p><strong>The National Chinese Challenge</strong>
-</p>
-<p><u>Preliminary Round</u>
-</p>
-<p>李家慜 CAMILLE ISABELLE BRIENS (6I)</p>
-<p>王适然 WANG SHIRAN (6I)</p>
-<p>林静婷 LIM JING TING JODIE (6J)</p>
-<p>刘亭萱 LIU TING XUAN (6L)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -311,22 +227,6 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="5" colspan="1">
-<p><u>Consolation</u>
-</p>
-<p>李奕陶 FYNN LEE YI TAO (5I)</p>
-<p>刘明乐 LIU MINGLE (5I)</p>
-<p>吴治成 WU ZHICHENG (5I)</p>
-<p>李奕狄 LI YIDI (5I)</p>
-<p>ELLA GRACE JING XUAN FENBY (5B)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -338,8 +238,11 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <td rowspan="1" colspan="1">
 <p><strong>方物语 创意写作</strong>
 </p>
-<p><strong>Brick-Story Creative Writing </strong>
+<p><strong>Brick-Story Creative Writing</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -349,6 +252,9 @@ Chinese Media Group and Nanyang Girls' High School)</p>
 <td rowspan="1" colspan="1">
 <p>何一杨 HE YIYANG (5L) <u>Winning Work</u>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -3201,7 +3107,27 @@ the campaign period, reflecting our collective commitment to sustainability.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>廖芷萱 LIAO ZHIXUAN SELINA (4A) <u>Rising Star Award</u> 
+<p>廖芷萱 LIAO ZHIXUAN SELINA (4A) <u>Rising Star Award</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>围棋嘉年华</strong>
+</p>
+<p><strong>Pesta Sukan (Weiqi)</strong>
+</p>
+<p><u>Dan Level</u>
+</p>
+<p>Chin Rui Yang, Raylan (4I) <strong>2nd Runner-up</strong>
+</p>
+<p>Wu Zhicheng (5I) 2nd <strong>Runner-Up</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

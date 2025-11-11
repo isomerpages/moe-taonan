@@ -207,7 +207,10 @@ variant: tiptap
 </p>
 <p><a href="/files/Partners/For Parents/2026_P5.pdf" rel="noopener nofollow" target="_blank">2026 P5 Booklist</a>
 </p>
-<p><a href="/files/Partners/For Parents/2026_P4_GEP.pdf" rel="noopener nofollow" target="_blank">2026 P6 Booklist</a>
+<p><a href="/files/Partners/For Parents/2026_P4_GEP.pdf" rel="noopener nofollow" target="_blank">2026 P6 Boo</a>
+<a href="/files/Partners/For Parents/2026_P6.pdf" rel="noopener nofollow" target="_blank">2026 P4 Booklist</a><a href="/files/Partners/For Parents/2026_P4_GEP.pdf" rel="noopener nofollow" target="_blank">klist</a>
+</p>
+<p><a href="/files/Partners/For Parents/2026_P4_GEP.pdf" rel="noopener nofollow" target="_blank">2026 P4 GEP Booklist</a>
 </p>
 <p><a href="/files/Partners/For Parents/2026_P5_GEP.pdf" rel="noopener nofollow" target="_blank">2026 P5 GEP Booklist</a>
 </p>

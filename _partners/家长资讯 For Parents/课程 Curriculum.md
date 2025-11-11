@@ -197,6 +197,33 @@ variant: tiptap
 <p></p>
 <h3>Booklist</h3>
 <p>Click to download:</p>
+<p><a href="/files/Partners/For Parents/2026_P1.pdf" rel="noopener nofollow" target="_blank">2026 P1 Booklist</a>
+</p>
+<p><a href="/files/Partners/For Parents/2026_P2.pdf" rel="noopener nofollow" target="_blank">2026 P2 Booklist</a>
+</p>
+<p><a href="/files/Partners/For Parents/2026_P3.pdf" rel="noopener nofollow" target="_blank">2026 P3 Booklist</a>
+</p>
+<p><a href="/files/Partners/For Parents/2026_P4.pdf" rel="noopener nofollow" target="_blank">2026 P4 Booklist</a>
+</p>
+<p><a href="/files/Partners/For Parents/2026_P5.pdf" rel="noopener nofollow" target="_blank">2026 P5 Booklist</a>
+</p>
+<p><a href="/files/Partners/For Parents/2026_P4_GEP.pdf" rel="noopener nofollow" target="_blank">2026 P6 Booklist</a>
+</p>
+<p><a href="/files/Partners/For Parents/2026_P5_GEP.pdf" rel="noopener nofollow" target="_blank">2026 P5 GEP Booklist</a>
+</p>
+<p><a href="/files/Partners/For Parents/2026_P6_GEP.pdf" rel="noopener nofollow" target="_blank">2026 P6 GEP Booklist</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/P1.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Booklist</a>

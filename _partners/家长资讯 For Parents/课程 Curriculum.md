@@ -209,6 +209,8 @@ variant: tiptap
 </p>
 <p><a href="/files/Partners/For Parents/2026_P6.pdf" rel="noopener nofollow" target="_blank">2026 P6 Booklist</a>
 </p>
+<p><a href="/files/Partners/For Parents/2026_P6_Foundation.pdf" rel="noopener nofollow" target="_blank">2026 P6 Foundation Booklist</a>
+</p>
 <p><a href="/files/Partners/For Parents/2026_P4_GEP.pdf" rel="noopener nofollow" target="_blank">2026 P4 GEP Booklist</a>
 </p>
 <p><a href="/files/Partners/For Parents/2026_P5_GEP.pdf" rel="noopener nofollow" target="_blank">2026 P5 GEP Booklist</a>

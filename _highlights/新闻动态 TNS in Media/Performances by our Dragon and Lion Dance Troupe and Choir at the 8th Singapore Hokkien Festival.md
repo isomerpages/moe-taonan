@@ -15,6 +15,7 @@ third_nav_title: 新闻动态 TNS in Media
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TNSinMedia/8th_Singapore_Hokkien_Festival2.jpg">
 </div>
-<p><a href="https://www.8world.com/singapore/hokkien-festival-2956876" rel="noopener nofollow" target="_blank">Click here to read more</a>
-</p>
 <p></p>
+<p>Click on this link to read more:</p>
+<p><a href="https://www.8world.com/singapore/hokkien-festival-2956876" rel="noopener nofollow" target="_blank">https://www.8world.com/singapore/hokkien-festival-2956876</a>
+</p>

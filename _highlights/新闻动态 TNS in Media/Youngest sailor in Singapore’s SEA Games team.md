@@ -15,5 +15,7 @@ was named Best Female Sailor.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TNSinMedia/Youngest_sailor.jpg">
 </div>
-<p><a href="https://www.zaobao.com.sg/news/sports/story20251106-7775421?utm_medium=Social&amp;utm_source=Facebook&amp;fbclid=IwY2xjawN_YpZleHRuA2FlbQIxMQBicmlkETFUeVRtS29IWDNiNlNBZlBIc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgWou4qDZYB5eRcM74jiDYu2FBkFyKXQi9a7KNQnd8VMDJ2VorStxQMflP8K_aem_uN-o7uSOYUx7yy60MlRI_g#Echobox=1762385896" rel="noopener nofollow" target="_blank">Click here to read more</a>
+<p></p>
+<p>Click on this link to read more:</p>
+<p><a href="https://www.zaobao.com.sg/news/sports/story20251106-7775421?utm_medium=Social&amp;utm_source=Facebook&amp;fbclid=IwY2xjawN_YpZleHRuA2FlbQIxMQBicmlkETFUeVRtS29IWDNiNlNBZlBIc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgWou4qDZYB5eRcM74jiDYu2FBkFyKXQi9a7KNQnd8VMDJ2VorStxQMflP8K_aem_uN-o7uSOYUx7yy60MlRI_g#Echobox=1762385896" rel="noopener nofollow" target="_blank">https://www.zaobao.com.sg/news/sports/story20251106-7775421?utm_medium=Social&amp;utm_source=Facebook&amp;fbclid=IwY2xjawN_YpZleHRuA2FlbQIxMQBicmlkETFUeVRtS29IWDNiNlNBZlBIc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgWou4qDZYB5eRcM74jiDYu2FBkFyKXQi9a7KNQnd8VMDJ2VorStxQMflP8K_aem_uN-o7uSOYUx7yy60MlRI_g#Echobox=1762385896</a>
 </p>

@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 新闻动态 TNS in Media
 ---
+<p>Silent Heroes Student Award 2025</p>
 <p>Our student, Chia Sze En, was one of five APEX winners for the Singapore
 Silent Heroes Student Award 2025.</p>
 <div class="isomer-image-wrapper">

@@ -15,6 +15,7 @@ Silent Heroes Student Award 2025.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TNSinMedia/Silent_Heroes_2.jpg">
 </div>
 <p></p>
+<p>Click on this link to read more:</p>
 <p><a href="https://www.straitstimes.com/singapore/10-year-old-who-volunteered-with-parents-since-she-was-three-wins-award-for-compassion?ref=inline-article" rel="noopener nofollow" target="_blank">https://www.straitstimes.com/singapore/10-year-old-who-volunteered-with-parents-since-she-was-three-wins-award-for-compassion?ref=inline-article</a>
 </p>
 <p></p>

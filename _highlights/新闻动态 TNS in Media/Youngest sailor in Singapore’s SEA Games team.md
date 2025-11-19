@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 新闻动态 TNS in Media
 ---
+<p>Youngest sailor in Singapore’s SEA Games team</p>
 <p>Our student, 12-years-old Anya Zahedi, is the youngest sailor in Singapore’s
 team for the SEA Games in Thailand, and the youngest female athlete in
 the national contingent! At the 2025 Optimist Asian &amp; Oceanian Championships

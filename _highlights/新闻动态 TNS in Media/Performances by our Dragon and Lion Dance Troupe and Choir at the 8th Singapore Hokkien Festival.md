@@ -6,8 +6,7 @@ variant: tiptap
 description: ""
 third_nav_title: 新闻动态 TNS in Media
 ---
-<p>Enthralling Performances by our Dragon and Lion Dance Troupe and Choir
-at the 8th Singapore Hokkien Festival</p>
+<h3>Enthralling Performances by our Dragon and Lion Dance Troupe and Choir at the 8th Singapore Hokkien Festival</h3>
 <p>我校龙狮团和合唱团在第八届新加坡福建文化节带来了精彩的表演。</p>
 <p></p>
 <div class="isomer-image-wrapper">

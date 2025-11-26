@@ -231,11 +231,11 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="7" colspan="1">
 <p><strong>Wushu</strong>
 </p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Monday</p>
 <p></p>
 </td>
@@ -244,6 +244,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Team (Jan-Mar)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. – 3.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 CCA (Term 2 onwards)</p>
 </td>
 </tr>
 <tr>
@@ -268,6 +276,17 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. – 3.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 - P6 Cultural Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30 p.m. – 5.00 p.m.</p>

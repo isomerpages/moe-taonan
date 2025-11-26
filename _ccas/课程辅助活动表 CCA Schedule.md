@@ -174,6 +174,78 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Netball</strong>
+</p>
+<p>Parade Square / Foyer D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays</p>
+<p>Fridays (Only for school team players)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. – 3.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 - P6</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sailing</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>2.00 p.m. – 5.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Non Opti-Racers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Advance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="4" colspan="1">
 <p><strong>Table-Tennis</strong>
 </p>
@@ -214,6 +286,49 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>School Team (Junior &amp; Senior)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Track &amp; Field</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+<p>(Training in School)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. – 3.30 p.m.</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Targeted levels will be scheduled for Training. P3 will start only in
+Term 2 onwards.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+<p>(Training at Stadium)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. – 5.00 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -304,72 +419,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>Netball</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCA / School Team</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCA / School Team</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>Sailing</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Non Opti-Racers</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Advance</p>
 </td>
 </tr>
 </tbody>

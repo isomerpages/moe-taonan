@@ -4,7 +4,6 @@ permalink: /ccas/cca-schedule/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <h4>Physical Sports</h4>
 <table style="minWidth: 100px">
 <colgroup>

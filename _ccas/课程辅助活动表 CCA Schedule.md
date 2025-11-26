@@ -346,7 +346,7 @@ Term 2 onwards.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="6" colspan="1">
 <p><strong>Wushu</strong>
 </p>
 </td>
@@ -408,17 +408,6 @@ Term 2 onwards.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior &amp; Junior Teams (All Year)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>

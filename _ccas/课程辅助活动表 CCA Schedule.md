@@ -33,11 +33,11 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="5" colspan="1">
 <p><strong>Badminton</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,12 +49,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>3.30 p.m. – 5.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,9 +56,6 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Thursday</p>
 </td>
@@ -76,10 +67,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,12 +78,6 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>3.30 p.m. – 5.00 p.m.</p>
 </td>
@@ -118,11 +100,11 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="6" colspan="1">
 <p><strong>Basketball</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,12 +116,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>3.30 p.m. – 5.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,10 +123,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,12 +135,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>3.30 p.m. – 5.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,10 +142,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -190,12 +154,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>3.30 p.m. – 5.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -217,11 +175,11 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Table-Tennis</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -233,12 +191,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>3.30 p.m. – 5.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -246,11 +198,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Friday</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00 p.m. – 3.30 p.m.</p>
@@ -261,12 +211,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>3.30 p.m. – 5.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -288,12 +232,13 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="5" colspan="1">
 <p><strong>Wushu</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Monday</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00 p.m. – 5.00 p.m.</p>
@@ -304,12 +249,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>3.30 p.m. – 5.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -317,9 +256,6 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Tuesday</p>
 </td>
@@ -331,9 +267,6 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Friday</p>
 </td>
@@ -354,12 +287,9 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Netball</strong>
 </p>
 </td>
@@ -375,9 +305,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -402,7 +329,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Sailing</strong>
 </p>
 </td>
@@ -418,9 +345,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -433,6 +357,7 @@ description: ""
 </tbody>
 </table>
 <hr>
+<p></p>
 <p></p>
 <p></p>
 <table style="minWidth: 75px">

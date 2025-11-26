@@ -4,6 +4,364 @@ permalink: /ccas/cca-schedule/
 variant: tiptap
 description: ""
 ---
+<h4>Physical Sports</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Level / Group</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p><strong>Badminton</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. – 3.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3/P4 CCA Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.30 p.m. – 5.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Team (Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30 p.m. – 5.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Team (Girls &amp; Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. – 3.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5/P6 CCA Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.30 p.m. – 5.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Team (Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p><strong>Basketball</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. – 3.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 3 &amp; Junior Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.30 p.m. – 5.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. – 3.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.30 p.m. – 5.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. – 3.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 4, 5, 6 &amp; Junior Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.30 p.m. – 5.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p><strong>Table-Tennis</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. – 3.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.30 p.m. – 5.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Team (Junior &amp; Senior)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Friday</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. – 3.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Team (Junior &amp; Senior)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.30 p.m. – 5.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Team (Junior &amp; Senior)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p><strong>Wushu</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Monday</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. – 5.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Team (Jan-Mar)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.30 p.m. – 5.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior &amp; Junior Teams (Mar-Nov)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30 p.m. – 5.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Team (Jan-Mar)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30 p.m. – 5.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior &amp; Junior Teams (All Year)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Netball</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA / School Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA / School Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Sailing</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Non Opti-Racers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Advance</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<hr>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -44,122 +402,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Physical Science
 <br>(P3 to P6)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Physical Sports</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Badminton*
-<br>- CCA Team
-<br>(P4,P5&amp;P6) for Term 1</p>
-<p>(P3,P4&amp;P5) for Term 2 to Term 4
-<br>- School Team
-<br>(Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Badminton*
-<br>- School Team
-<br>(Boys)
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basketball*
-<br>- CCA Team
-<br>(P4)
-<br>- School Team
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basketball*
-<br>- CCA Team
-<br>(P3,P5&amp;P6)
-<br>- School Team
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Netball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Netball</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outdoor Adventure
-<br>(P3 to P6)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sailing
-<br>(Non Opti-Racers)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sailing
-<br>(Advance)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Track and Field</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Track and Field</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wushu*
-<br>- CCA Team
-<br>(P3&amp;P4)
-<br>- School Team</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wushu*
-<br>- CCA Team
-<br>(P5&amp;P6)
-<br>- School Team</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Table-tennis (P3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -236,16 +478,13 @@ description: ""
 <br>(Percussion)
 <br>(Pipa/ Liuqin / Ruan)
 <br>(Sheng / Souna)</p>
-<p></p>
 <p>(Combined Practice)
 <br>(Cello/ D. Bass)
 <br>(Erhu)
 <br>(Yang Qin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-
-<br>
-</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -320,4 +559,6 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>

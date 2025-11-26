@@ -248,6 +248,107 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr></tr>
 <tr></tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="4" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Junior Division Boys</u>
+</p>
+<p><strong>Tier 1 - 1st</strong>
+</p>
+<p><strong>Sportsmanship Award</strong>
+</p>
+<p>Daniel Johua Ng Ying Zhe (5H)</p>
+<p>Oh Rui Ying Sarah (6C)</p>
+<p>Tan Jie Ling, Miranda (6E)</p>
+<p>Ong Xin Yi Isabella (6E)</p>
+<p>Tan Shi Qi, Claudia (6F)</p>
+<p>Wang Yiran Sera (6F)</p>
+<p>Chiam Shu Yun Celeste (6F)</p>
+<p>Lim Jiaru Ruth (6G)</p>
+<p>Claire Ong Yu En (6H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Junior Division Girls</u>
+</p>
+<p><strong>Tier 1 - 2nd</strong>
+</p>
+<p><strong>Sportsmanship Award</strong>
+</p>
+<p>Aw Kai Yin (5H)</p>
+<p>Lee Xinyun Quinna (5I)</p>
+<p>Jolie Danae Sng Zhixi (4J)</p>
+<p>Lorraine Khoo Shi Ya (5A)</p>
+<p>Ariadne Ai-le Papaspyrou (5D)</p>
+<p>Janice Lim (5E)</p>
+<p>Clarabelle Tan Siling (5F)</p>
+<p>Sophia Heng Su Fei (5G)</p>
+<p>Tan Jing Yi Valerine (5G)</p>
+<p>Madeline Claire Chu Lei En (5H)</p>
+<p>Li Yixuan Rachel (5I)</p>
+<p>Lee Chun Li (5J)</p>
+<p>Amelia Chee Wan Ting (5K)</p>
+<p>Kaylie Ng (5K)</p>
+<p>Ng Shi Ying Rachel (5L)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Senior Division Boys</u>
+</p>
+<p><strong>Sportsmanship Award</strong>
+</p>
+<p>Joash Jerome Sng Zhiwen (6J)</p>
+<p>Lim Jia Kang, Ean (6F)</p>
+<p>Chin Jun Bin Jeriel (6A)</p>
+<p>Koh Kai Emmanuel (6D)</p>
+<p>Kevon Sim (6E)</p>
+<p>Daniel Chiam Xing Ye (6G)</p>
+<p>Goh Jia Jin, Owen (6G)</p>
+<p>Wang Ziqiao Albert (6G)</p>
+<p>Ong Ding Jun (6H)</p>
+<p>Zavier Tong Zhong Ting (6H)</p>
+<p>Chang Hao Quan, Alton (6K)</p>
+<p>Ethan Loo Yanwei (6K)</p>
+<p>Mui Ting Hin Mason (6K)</p>
+<p>Wang Yuecheng (6K)</p>
+<p>Ang Choon Kai, Jordan (6L)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Senior Division Girls</u>
+</p>
+<p><strong>Sportsmanship Award</strong>
+</p>
+<p>Claire Ong Yu En (6H)</p>
+<p>Tan Shi Qi, Claudia (6F)</p>
+<p>Giselle Elizabeth Goh Yong Ni (6A)</p>
+<p>Oh Rui Ying Sarah (6C)</p>
+<p>Ong Xin Yi Isabella (6E)</p>
+<p>Tan Jie Ling, Miranda (6E)</p>
+<p>Chiam Shu Yun Celeste (6F)</p>
+<p>Wang Yiran Sera (6F)</p>
+<p>Lim Jiaru Ruth (6G)</p>
+<p>Song Xiujie Giselle (6J)</p>
+<p>Teo Si Qi Chloe (6J)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="14" colspan="1">
 <p>Boys' Brigade</p>
 </td>
@@ -368,7 +469,7 @@ third_nav_title: 今年荣誉 Current Achievements
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="6" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -393,6 +494,21 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr>
 <td rowspan="1" colspan="1">
 <p>Pack 2: Hazel Emilia Too (6L)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>National Brownie Revel</u>
+</p>
+<p><strong>Dance - 2nd Place</strong>
+</p>
+<p>Hazel Emilia Too (6L)</p>
+<p>Chen Meiruo Angel (4F)</p>
+<p>Lian Minru Carine (4I)</p>
+<p>Teo Yixun Chloe (4J)</p>
 </td>
 </tr>
 <tr>
@@ -561,7 +677,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr></tr>
 <tr></tr>
 <tr>
-<td rowspan="14" colspan="1">
+<td rowspan="18" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -606,12 +722,64 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Primary Under 8 (1st at Zonal) Team 1</u>
+</p>
+<p>Yang Sicheng (2G)</p>
+<p>Wong Zhuo Zheng David (1L)</p>
+<p>Zhang Ningxin (1L)</p>
+<p>Zhou Langwen (2F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Primary Under 8 (2nd at Zonal) Team 2</u>
+</p>
+<p>Ong Yi Xiang Orion (2J)</p>
+<p>Liew-Yeo Jacob Kai (2H)</p>
+<p>Yuan Yikun Larry (2A)</p>
+<p>Phoa Rui Yang, Ezra (1F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Primary Girls Under 10 (Team 1)</u>
+</p>
+<p>2nd at National and 1st at Zonal</p>
+<p>Ashley Ng Jing Qi (3J)</p>
+<p>Kwee Shin Yee (3H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Primary Girls Under 10 (Team 2)</u>
+</p>
+<p>2nd at Zonal</p>
+<p>Lin Miaoyan (3F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Girls' Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Junior Brigader Brooch (JBB) for the year 2025</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -622,9 +790,6 @@ third_nav_title: 今年荣誉 Current Achievements
 <td rowspan="1" colspan="1">
 <p>Emma Koh Yu Tong (6F)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -632,9 +797,6 @@ third_nav_title: 今年荣誉 Current Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p>Parisa Lim Yu En (6H)&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -644,8 +806,31 @@ third_nav_title: 今年荣誉 Current Achievements
 <td rowspan="1" colspan="1">
 <p>Sin Cheuk Wing (6J)&nbsp;</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Netball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>National School Games Netball Championships (Senior) 2025</u>
+</p>
+<p>Sportsmanship Award</p>
+<p>Han Chengyin Hayley (6G)</p>
+</td>
+<td rowspan="2" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>National School Games Netball Championships (Junior) 2025</u>
+</p>
+<p><strong>Sportsmanship Award</strong>
+</p>
+<p>Tay Zi Ying Elizabeth (5K)</p>
 </td>
 </tr>
 <tr>
@@ -673,95 +858,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Mason Lau (3G) - Top 50% achievement award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NSC Cup Series 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1st ( Optimist Silver Fleet)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Joel Chan (6A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aaron Chiang (4H)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Timothy Ng (4J)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><u>Optimist Junior Girls Green Fleet</u>
-</p>
-<p>Qi Tan (4H) - 7th position</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NSC Cup</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" colspan="1">
-<p><u>Optimist Junior Boys White Fleet</u>
-</p>
-<p>Loh Yi Jie Luke (5H) - 5th position</p>
-<p>Joel Ong Han Sheng (5A) - 8th position</p>
-<p>Ng Kai Zhe Timothy (4J) - Top 50% achievement award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st ( Optimist Silver Fleet)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Joel Chan (6A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Kyan Tan (4E)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jamiroquai Tay (6B)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><u>Optimist Senior Girls</u>
-</p>
-<p>Anya Alessia Zahedi (6G) - 1st position</p>
-</td>
-<td rowspan="4" colspan="1">
-<p><u>1st ( Optimist Gold Fleet)</u>
-</p>
-<p>Joel Ong (5A)</p>
-<p>Timpthy Ng (4J)</p>
-<p>Kyan Tan (4E)</p>
-</td>
-</tr>
-<tr></tr>
-<tr>
-<td rowspan="11" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr></tr>
-<tr>
-<td rowspan="5" colspan="1">
-<p><strong>National School Games Sailing Competition</strong>
+<p>&nbsp;<strong>National School Games Sailing Competition</strong>
 </p>
 <p><u>Senior Boys team - 3rd Position</u>
 </p>
@@ -770,12 +867,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Jamiroquai Tay Kai Nuo (6B)</p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p><u>Senior Girls team - 2nd Position</u>
 </p>
 <p>Anya Alessia Zahedi (6G)</p>
@@ -783,6 +876,57 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Ong Si Han Sarah (6K)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="22" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><u>Optimist Junior Girls Green Fleet</u>
+</p>
+<p>Qi Tan (4H) - 7th position</p>
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p><u>Optimist Junior Boys White Fleet</u>
+</p>
+<p>Loh Yi Jie Luke (5H) - 5th position</p>
+<p>Joel Ong Han Sheng (5A) - 8th position</p>
+<p>Ng Kai Zhe Timothy (4J) - Top 50% achievement award</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><u>Optimist Senior Girls</u>
+</p>
+<p>Anya Alessia Zahedi (6G) - 1st position</p>
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="11" colspan="1">
+<p><u>Singapore National Sailing Championships</u>
+</p>
+<p><strong>Wingfoil (Open Category)</strong>
+</p>
+<p>Mason Lau (3G) 3rd position</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr></tr>
 <tr></tr>
 <tr></tr>
@@ -890,6 +1034,39 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr></tr>
 <tr></tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Junior 1 Girls</u>
+</p>
+<p>Chiu Le Xuan Elizabeth (3B)</p>
+<p>50m Free - <strong>3rd</strong>
+</p>
+<p>50m Back - <strong>7th</strong>
+</p>
+<p>Lim Jing Xuan, Charlotte (4I)</p>
+<p>25m Fly/25m Breast - <strong>6th</strong>
+</p>
+<p>25m Breast/25m Free - <strong>5th</strong>
+</p>
+<p>Tan Rui Xian Rachel (4B)</p>
+<p>50m Back - <strong>3rd</strong>
+</p>
+<p>25m Fly/25m Back - <strong>3rd</strong>
+</p>
+<p>Ariel Lee (4B)</p>
+<p>25m Breast/25m Free - <strong>8th</strong>
+</p>
+<p>Rei Tan (4I-2)</p>
+<p>25m Back - <strong>7th</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="3" colspan="1">
 <p>Scouts</p>
 <p>&nbsp;</p>
@@ -901,13 +1078,38 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Li Yangsheng (6J)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>&nbsp;</p>
+<p><u>Frank Cooper Sands Award for the Year 2024</u>
+</p>
+<p><strong>National Award</strong>
+</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr></tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Chief Scout Award (Cub) 2025</u>
+</p>
+<p><strong>National Award</strong>
+</p>
+<p>Yeoh Hong Di (6E)</p>
+<p>Cayden Goh Jun Le (6F)</p>
+<p>Isaac Tan Hong Yuan (6F)</p>
+<p>Kong Say Kiat Javier (6G)</p>
+<p>Teo Tze Haan, Caleb (6G)</p>
+<p>Li Yangsheng (6J)</p>
+<p>Ezra Chern yi Zhi (6J)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Table Tennis</p>
@@ -938,6 +1140,27 @@ third_nav_title: 今年荣誉 Current Achievements
 <p><strong>Tier 2 Doubles 3rd</strong> - Ho Xuan Jing Zachary (5G)</p>
 <p><strong>Tier 2 Doubles 3rd</strong> - Yeo Gong Xu, Ashton (5G)</p>
 <p><strong>Tier 4 Doubles 1st</strong> - Moey Yew Hong Alexander (4I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sportsmanship Award</strong>
+</p>
+<p>Woo Jie En (3H)</p>
+<p>Ang Jun Xiao (6J)</p>
+<p>Ryo Ong (6E)</p>
+<p>Kaspar Ching Chao He (6D)</p>
+<p>Keane Ching Chao An (6C)</p>
+<p>Gyler Oh Zhie Xun (6C)</p>
+<p>Chua Si Yuan Aaron (6B)</p>
+<p>Kenrick Chng Chao Ren (6A)</p>
+<p>Ho Xuan Jing Zachary (5G)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -998,6 +1221,45 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr></tr>
 <tr></tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Sportsmanship Award (Junior) 2025</u>
+</p>
+<p>Zhong Chengrui (5K)</p>
+<p>Lim Zhi Hui (5I)</p>
+</td>
+<td rowspan="3" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>National School Games Track and Field Championships (Senior) 2025</u>
+</p>
+<p>S1 Boys 80m - 5th</p>
+<p>Thaddeus Pasakorn Chang (6D)</p>
+<p>S1 Girls Vertical Jump - 5th</p>
+<p>S1 Girls 80m - 6th</p>
+<p>Teoh Li En (6G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Sportsmanship Award (Senior) 2025</u>
+</p>
+<p>Thaddeus Pasakorn Chang (6D)</p>
+<p>Teoh Li En (6G)</p>
+</td>
+</tr>
 <tr>
 <td rowspan="54" colspan="1">
 <p>Wushu</p>
@@ -1249,6 +1511,26 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr></tr>
 <tr></tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>27th “Char Yong Cup” National Students Xiangqi Championships-U12 Category</u>
+</p>
+<p>Kwee Yu Xiang (6L)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>20th "Chayang Cup" National Primary Schools Xiangqi Team Championship-Junior Category</u>
+</p>
+<p><strong>7th Position</strong>
+</p>
+<p>James Diao Zhenjie (2J)</p>
+<p>Lee Zhe Yu Ethan (3H)</p>
+<p>Kwee Shin Yee (3H)</p>
+<p>Hey Jiun Shi Seraph (4I)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="10" colspan="1">
 <p>Bowling</p>
 <p>&nbsp;</p>
@@ -1355,6 +1637,28 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr></tr>
 <tr></tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Singapore National Diving Championships 2025</u>
+</p>
+<p><strong>Age Group D Boys 1m Springboard</strong>
+</p>
+<p>Joshua Yip (5J) 1st Place</p>
+<p><strong>Age Group D Boys 3m Springboard</strong>
+</p>
+<p>Joshua Yip (5J) <strong>2nd Place</strong>
+</p>
+<p><strong>Age Group D Boys 5m Platform</strong>
+</p>
+<p>Joshua Yip (5J) - 1st Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="3" colspan="1">
 <p>Golf</p>
 <p>&nbsp;</p>
@@ -1409,6 +1713,21 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr></tr>
 <tr></tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Singapore Gymnastics National Levels Cup 2025</u>
+</p>
+<p><strong>Elite 8 Years – Silver</strong>
+</p>
+<p>Alberta Wang ZiYi (2A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="17" colspan="1">
 <p>Lion Dance&nbsp;</p>
@@ -1485,7 +1804,12 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr></tr>
 <tr>
 <td rowspan="10" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<u>Singapore National Taekwondo Poomsae Championship 2025</u>
+</p>
+<p><strong>Team of 3 - Poom Belters</strong>
+</p>
+<p>Su Bai Rui (2H) 1st</p>
+<p></p>
 </td>
 </tr>
 <tr></tr>
@@ -1511,6 +1835,51 @@ third_nav_title: 今年荣誉 Current Achievements
 </td>
 </tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Singapore National Taekwondo Kyorugi Championship 2025</u>
+</p>
+<p><strong>Poom Male - Individual - Young 1 - Under 25kg</strong>
+</p>
+<p>Su Bai Rui (2H) 1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>National Taekwondo Kyorugi Ambassador Championships 2025</u>
+</p>
+<p>Zachary Tsui (4B) <strong>Gold</strong>
+</p>
+<p>Marcus Ng (5I) <strong>Gold</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>National Taekwondo Poomsae Ambassador Championships 2025</u>
+</p>
+<p>Marcus Ng (5I) <strong>Bronze</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="4" colspan="1">
 <p>Tennis</p>
@@ -1538,6 +1907,22 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr></tr>
 <tr></tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>National School Games 2025 Tennis (Green Ball)</u>
+</p>
+<p><strong>Singles Girls Tier 3</strong>
+</p>
+<p>Tan Xin Rui Keira (3J) <strong>1st</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="5" colspan="1">
 <p>Others</p>
 <p>&nbsp;</p>
@@ -1558,6 +1943,30 @@ third_nav_title: 今年荣誉 Current Achievements
 <tr></tr>
 <tr></tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Singapore Youth Festival 2025</u>
+</p>
+<p><strong>Certificate of Recognition - Special Mention</strong>
+</p>
+<p>Kingston Lim Kai Jie (6A)</p>
+<p>Ayden Hee (6B)</p>
+<p>Nah Li En Elizabeth (6B)</p>
+<p>Hailey Cheong (6E)</p>
+<p>Charlotte Peck Rui-Xuan (6H)</p>
+<p>Song Yuxuan (6H)</p>
+<p>Lin Youchen (6I)</p>
+<p>Chen Yiyan, Emery (6J)</p>
+<p>Goh Ning En Isabelle (6L)</p>
+<p>Lim Zi Wei, Leia (6G)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Updated on 21 October 2025</strong>

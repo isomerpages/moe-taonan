@@ -4,6 +4,8 @@ permalink: /ccas/cca-schedule/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<h4>Physical Sports</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -430,6 +432,9 @@ description: ""
 </tr>
 </tbody>
 </table>
+<hr>
+<p></p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -545,16 +550,13 @@ description: ""
 <br>(Percussion)
 <br>(Pipa/ Liuqin / Ruan)
 <br>(Sheng / Souna)</p>
-<p></p>
 <p>(Combined Practice)
 <br>(Cello/ D. Bass)
 <br>(Erhu)
 <br>(Yang Qin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-
-<br>
-</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -629,4 +631,6 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>

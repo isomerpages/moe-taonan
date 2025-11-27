@@ -13,6 +13,7 @@ PSLE preparation year.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TNSinMedia/TNS_Media.jpg">
 </div>
-<p></p>
-<p>ss</p>
+<p>Click on this link to read more:</p>
+<p><a href="https://www.zaobao.com.sg/news/singapore/story20251125-7869651" rel="noopener nofollow" target="_blank">https://www.zaobao.com.sg/news/singapore/story20251125-7869651</a>
+</p>
 <p></p>

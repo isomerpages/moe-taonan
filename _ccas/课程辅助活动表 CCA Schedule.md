@@ -177,7 +177,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Netball</strong>
 </p>
-<p>Parade Square / Foyer D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays</p>

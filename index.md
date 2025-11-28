@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/taonanezgif.gif
+      background: /images/120_Ann.gif
       key_highlights:
         - title: 通告 Announcements
           description: Click to view

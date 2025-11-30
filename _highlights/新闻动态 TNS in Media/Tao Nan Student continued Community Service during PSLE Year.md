@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 新闻动态 TNS in Media
 ---
-<p></p>
+<p>Tao Nan Student continued Community Service during PSLE Year</p>
 <p>Our Primary 6 student, Julia Foo, began participating in fundraising at
 age four and has continued her community service experience during her
 PSLE preparation year.</p>

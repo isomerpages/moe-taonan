@@ -356,7 +356,7 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hu Yuxia [胡玉侠]</p>
+<p>Mdm Zhao Ang [赵昂]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>hu_yuxia@schools.gov.sg</u>

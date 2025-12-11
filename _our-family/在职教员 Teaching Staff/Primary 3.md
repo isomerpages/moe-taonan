@@ -414,14 +414,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Yong An</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ang_yong_an@schools.gov.sg</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>

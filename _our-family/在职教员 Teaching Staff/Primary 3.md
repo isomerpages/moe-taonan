@@ -108,7 +108,7 @@ variant: tiptap
 <p>Mdm How Hooi Bing Tiffany</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>how_hooi_bing@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

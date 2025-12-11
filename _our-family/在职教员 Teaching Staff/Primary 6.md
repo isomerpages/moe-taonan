@@ -612,30 +612,36 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>6I (Mixed Form Class)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ngoh- Poh Sze Wei</p>
+<p>Mr Ang Chee Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>poh_sze_wei@schools.gov.sg</u>
-</p>
+<p>ang_chee_yong_a@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Emma Kok Li Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>emma_kok_li_shan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
+<p>Mr Ngiam Tee Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Yusuf Mirza Bin M</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>muhammad_yusuf_mirza@schools.gov.sg</u>
-</p>
+<p>ngiam_tee_teng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -647,11 +653,10 @@ variant: tiptap
 <br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shen Yang [沈阳]</p>
+<p>Ms Deng Min [邓敏]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>shen_yang@schools.gov.sg</u>
-</p>
+<p>deng_min@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -659,11 +664,10 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Su Ling Violet</p>
+<p>Mr Dominic Nyi Nyi Htut</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>tan_su_ling_violet@schools.gov.sg</u>
-</p>
+<p>dominic_nyi_nyi_htut@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -675,11 +679,10 @@ variant: tiptap
 <br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Pang Say Wak [陈才发]</p>
+<p>Mr Zhang Yu [张宇]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>pang_say_wak@schools.gov.sg</u>
-</p>
+<p>zhang_yu_b@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -687,11 +690,10 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lorraine Anne Alcantra</p>
+<p>Mrs Francisca Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>lorraine_anne_alcantra@schools.gov.sg</u>
-</p>
+<p>tan_sue_may_francisca@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -702,23 +704,21 @@ variant: tiptap
 <p>Form Teacher 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Dominic Nyi Nyi Htut</p>
+<p>Mr Chong Zhi Howe Kenneth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>dominic_nyi_nyi_htut@schools.gov.sg</u>
-</p>
+<p>chong_zhi_howe_kenneth@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
+<p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shen Yang [沈阳]</p>
+<p>Mdm Tan Su Ling Violet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>shen_yang@schools.gov.sg</u>
-</p>
+<p>tan_su_ling_violet@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>

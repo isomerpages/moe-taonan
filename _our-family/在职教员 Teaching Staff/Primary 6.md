@@ -423,44 +423,31 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="3" colspan="1">
 <p>6E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English</p>
+<br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Poonam Singh</p>
+<p>Mrs Tan-Ng Siew Leng Crayon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>poonam_singh@schools.gov.sg</u>
-</p>
+<p>crayon_tan_ng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>Math</p>
+<br>English
+<br>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Amy- Helmiaty Binte Mohamad Amin</p>
+<p>Ms Adeline Ong Hui En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>helmiaty_mohamad_amin@schools.gov.sg</u>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Koh Xin Rui Eleora</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>koh_xin_rui@schools.gov.sg</u>
-</p>
+<p>adeline_ong_hui_en@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -468,23 +455,10 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Samantha Evon Chia Chin Mei [谢静美]</p>
+<p>Mdm Tai Chi Hui [戴芷慧]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>samantha_evon_chia@schools.gov.sg</u>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ang Bee Lian [洪美莲]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>ang_bee_lian_b@schools.gov.sg</u>
-</p>
+<p>tai_chi_hui@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

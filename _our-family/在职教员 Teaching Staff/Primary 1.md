@@ -200,8 +200,7 @@ variant: tiptap
 <p>Mdm Tan Hui Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>tan_hui_hoon@schools.gov.sg</u>
-</p>
+<p>tan_hui_hoon@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -215,8 +214,8 @@ variant: tiptap
 <p>Mdm Cheah Li Wei [谢俐蔚]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u><br>cheah_li_wei@schools.gov.sg</u>
-</p>
+<p>
+<br>cheah_li_wei@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -227,8 +226,7 @@ variant: tiptap
 <p>Ms Lin Yao Chloe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lin_yao@schools.gov.sg</u></a>
-</p>
+<p>lin_yao@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

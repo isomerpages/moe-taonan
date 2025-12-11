@@ -244,7 +244,7 @@ variant: tiptap
 <p>Ms Dulcie Lim Shao Jian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener nofollow" target="_blank">dulcie_lim_shao_jian@schools.gov.sg</a>
+<p><a href="dulcie_lim_shao_jian@schools.gov.sg" rel="noopener nofollow" target="_blank">dulcie_lim_shao_jian@schools.gov.sg</a>
 </p>
 </td>
 </tr>

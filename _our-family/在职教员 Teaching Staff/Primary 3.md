@@ -163,14 +163,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>PE (Physical Education)</p>
+<br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Chee Yong</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ang_chee_yong_a@schools.gov.sg</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>

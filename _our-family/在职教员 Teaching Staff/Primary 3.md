@@ -495,7 +495,7 @@ variant: tiptap
 <p>Mr Sung Sheng Yi Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sung_sheng_yi_kelvin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

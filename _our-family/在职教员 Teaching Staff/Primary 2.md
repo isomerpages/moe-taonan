@@ -38,9 +38,8 @@ variant: tiptap
 <p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 1 English
-<br>
-</p>
+<p>Form Teacher 1
+<br>English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Awalliah Bte Amin</p>
@@ -51,7 +50,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2 PE (Physical Education)</p>
+<p>Form Teacher 2
+<br>PE (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Dulcie Lim Shao Jian</p>

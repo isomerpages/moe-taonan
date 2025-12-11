@@ -39,14 +39,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>Higher Chinese</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Awalliah Bte Amin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_awalliah_amin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_awalliah_amin@schools.gov.sg</u></a>
-</p>
+<p>siti_awalliah_amin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

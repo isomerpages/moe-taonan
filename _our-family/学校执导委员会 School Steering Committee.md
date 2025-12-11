@@ -621,7 +621,7 @@ variant: tiptap
 <p>刘树英</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>美术 (科主任-内部)</p>
+<p>美术 (科主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a href="mailto:lim_su_ying_elizabeth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_su_ying_elizabeth@schools.gov.sg</a>
@@ -634,7 +634,7 @@ variant: tiptap
 <p>Mrs Low Su Ying Elizabeth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Art (Internal)</p>
+<p>SH - Art</p>
 </td>
 </tr>
 <tr>
@@ -669,7 +669,7 @@ variant: tiptap
 <p>郭丽善</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>品德与公民教育 (科主任-内部)</p>
+<p>品德与公民教育 (科主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a href="mailto:emma_kok_li_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">emma_kok_li_shan@schools.gov.sg</a>
@@ -682,7 +682,7 @@ variant: tiptap
 <p>Ms Emma Kok Li Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Character &amp; Citizenship Education (CCE) (Internal)</p>
+<p>SH - Character &amp; Citizenship Education (CCE)</p>
 </td>
 </tr>
 <tr>

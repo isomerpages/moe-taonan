@@ -304,11 +304,38 @@ variant: tiptap
 <br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nadiah Binte Abdul Khalik</p>
+<p>Mr Cher Boon Kiat Augustine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>nadiah_abdul_khalik@schools.gov.sg</u>
-</p>
+<p>cher_boon_kiat_augustine@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2
+<br>Music</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Praise Teo Hwee Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>praise_teo_hwee_leng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>1J</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>English</p>
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Meitri Harshad Parikh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>meitri_parikh@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -317,53 +344,10 @@ variant: tiptap
 <br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yen Ping Gina [陈燕萍]</p>
+<p>Mdm Ma Lin [马 琳]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>tan_yen_ping_gina@schools.gov.sg</u>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>1J</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 1
-<br>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Lay Choo Tina</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>lim_lay_choo_tina@schools.gov.sg</u>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2
-<br>Art
-<br>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Kwek Lee Yook</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>kok_lee_yook@schools.gov.sg</u>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Deng Min [邓敏]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>deng_min@schools.gov.sg</u>
-</p>
+<p>ma_lin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

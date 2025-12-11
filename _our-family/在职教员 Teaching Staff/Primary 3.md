@@ -198,8 +198,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>looi_yen_mei_wendy@schools.gov.sg</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>

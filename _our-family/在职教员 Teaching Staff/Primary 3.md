@@ -410,7 +410,7 @@ variant: tiptap
 <p>Mdm Chow Yuen Meng Jaclyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>low-chow_yuen_meng_jaclyn@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

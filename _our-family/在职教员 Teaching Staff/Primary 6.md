@@ -190,45 +190,31 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="5" colspan="1">
 <p>6A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English</p>
+<br>English
+<br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Daud Teo B Mohd Anwar</p>
+<p>Mrs Law- Chin Wai Mun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>daud_teo@schools.gov.sg</u>
-</p>
+<p>law-chin_wai_mun@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>Chinese
-<br>PE (Physical Education)</p>
+<br>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Neo Lay Peng [梁丽萍]</p>
+<p>Mdm Tan Peng Gek [陈萍玉]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>neo_lay_peng@schools.gov.sg</u>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Yusuf Mirza Bin M</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>muhammad_yusuf_mirza@schools.gov.sg</u>
-</p>
+<p>tan_peng_gek@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -236,11 +222,10 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Wei Loon</p>
+<p>Mrs Loh Shwu Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>teo_wei_loon@schools.gov.sg</u>
-</p>
+<p>lin-loh_shwu_hwa@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

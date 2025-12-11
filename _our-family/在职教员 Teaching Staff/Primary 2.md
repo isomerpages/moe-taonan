@@ -51,8 +51,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2
-<br>PE (Physical Education)</p>
+<p>Form Teacher 2 PE (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Dulcie Lim Shao Jian</p>

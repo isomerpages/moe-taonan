@@ -399,11 +399,10 @@ variant: tiptap
 <br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Feng Jie [冯 洁]</p>
+<p>Ms Yick Fang Ru</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>feng_jie@schools.gov.sg</u>
-</p>
+<p>yick_fang_ru@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

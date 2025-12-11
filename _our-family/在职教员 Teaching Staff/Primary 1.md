@@ -34,12 +34,13 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
 <br>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Seow Li Li</p>
@@ -59,30 +60,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hu_yuxia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hu_yuxia@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Gwee Bock Lan Lena</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>gwee_bock_lan_lena@schools.gov.sg</u>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chee Pey Yi [纪佩妤]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>chee_pey_yi@schools.gov.sg</u>
 </p>
 </td>
 </tr>

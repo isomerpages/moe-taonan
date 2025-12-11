@@ -489,7 +489,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English</p>
+<br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sung Sheng Yi Kelvin</p>

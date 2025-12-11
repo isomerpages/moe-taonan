@@ -172,8 +172,7 @@ variant: tiptap
 <p>Mr Syed Ali Omar Bin Syed Halid Alhatas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:syed_ali_omar_halid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>syed_ali_omar_halid@schools.gov.sg</u></a>
-</p>
+<p>syed_ali_omar_halid@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

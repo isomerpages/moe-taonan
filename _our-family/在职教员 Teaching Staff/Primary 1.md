@@ -160,8 +160,7 @@ variant: tiptap
 <p>Ms Ng Lay Kuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_lay_kuan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_lay_kuan_a@schools.gov.sg</u></a>
-</p>
+<p>ng_lay_kuan_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

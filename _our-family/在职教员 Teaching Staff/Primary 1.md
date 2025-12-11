@@ -131,8 +131,7 @@ variant: tiptap
 <p>Ms Vaswani Deepa Hiro</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vaswani_deepa_hiro@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>vaswani_deepa_hiro@schools.gov.sg</u></a>
-</p>
+<p>vaswani_deepa_hiro@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -145,8 +144,7 @@ variant: tiptap
 <p>Mdm Chua Pei Boon [蔡佩雯]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>chua_pei_boon@schools.gov.sg</u>
-</p>
+<p>chua_pei_boon@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

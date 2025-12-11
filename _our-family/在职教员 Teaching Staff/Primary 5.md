@@ -672,19 +672,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5L (Mixed Form Class)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>PE (Physical Education)</p>
+<br>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chong Zhi Howe Kenneth</p>
+<p>Mrs Low Su Ying Elizabeth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>chong_zhi_howe_kenneth@schools.gov.sg</u>
-</p>
+<p>lim_su_ying_elizabeth@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -695,8 +694,7 @@ variant: tiptap
 <p>Ms Leong Lye Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>leong_lye_ching@schools.gov.sg</u>
-</p>
+<p>leong_lye_ching@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -704,23 +702,82 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Peng Gek [陈萍玉]</p>
+<p>Mdm Shen Yang [沈阳]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>tan_peng_gek@schools.gov.sg</u>
-</p>
+<p>shen_yang@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>5-2 (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ong- Pang Shi Jia Canphylia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>pang_shi_jia_canphylia@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Thiam Poh [翁添保]</p>
+<p>Mdm Moi Mei Kuen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ang_thiam_poh@schools.gov.sg</u>
-</p>
+<p>moi_mei_kuen@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Seow Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_seow_yun@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>5-4 (GE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Leong Lye Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>leong_lye_ching@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Hong Aik Allan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_hong_aik_allan@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>

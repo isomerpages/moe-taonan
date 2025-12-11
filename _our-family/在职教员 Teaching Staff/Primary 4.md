@@ -238,6 +238,78 @@ variant: tiptap
 <br>English</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Niu Zi Bin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>niu_zi_bin@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2
+<br>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Samantha Evon Chia Chin Mei [谢静美]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>samantha_evon_chia@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Low Khee How</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>low_khee_how@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Ying Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_ying_xuan_a@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Heng Boon Lih</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>heng_boon_lih@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2
+<br>PE (Physical Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Nurfarah Binte Mohamed R Z</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_nurfarah_mohamed_r@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Latha- Siva PVL</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -246,88 +318,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2
-<br>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Goh Yen Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>goh_yen_ping@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 3
-<br>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Wei Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_wei_ming@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kwok Soek Fong [郭素坊]</p>
+<p>Mdm Hao Deyi [郝德奕]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kwok_Soek_Fong_Mrs@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" colspan="1">
-<p>4D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 1
-<br>English
-<br>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Li Shih</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_li_shih@schools.gov.sg</p>
+<p>hao_deyi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2
-<br>Music</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yick Fang Ru</p>
+<p>Mr Ang Yong An</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yick_fang_ru@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 3
-<br>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Shen Huijie [沈慧洁]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shen_huijie@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Kime Huey Doreen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_kime_huey_doreen@schools.gov.sg</p>
+<p>ang_yong_an@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

@@ -267,7 +267,7 @@ variant: tiptap
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lam May Fong</p>
+<p>Ms Jessilin Khee Shi Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>lam_may_fong@schools.gov.sg</u>

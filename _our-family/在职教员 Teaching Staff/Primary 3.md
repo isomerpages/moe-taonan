@@ -484,7 +484,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3J</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -520,18 +520,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>yeo_yu_nian_nikki@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Toh Kai Xuan, Jeanette</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>toh_kai_xuan_jeanette@schools.gov.sg</u>
-</p>
 </td>
 </tr>
 </tbody>

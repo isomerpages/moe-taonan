@@ -102,10 +102,10 @@ variant: tiptap
 <br>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Jing Yun, Jessica</p>
+<p>Mrs Lindsy Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ong_jing_yun@schools.gov.sg</u>
+<p><a href="mailto:tan_leng_see_lindsy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_leng_see_lindsy@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

@@ -267,52 +267,43 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English</p>
+<br>English
+<br>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Jie Wei</p>
+<p>Mdm Koh Xin Rui Eleora</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chia_jie_wei@schools.gov.sg</p>
+<p>koh_xin_rui@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>Math</p>
+<br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ashley How (Fong Mei Chuan)</p>
+<p>Ms Ang Bee Lian [洪美莲]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>fong_mei_chuan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Yew Li Yang Sharon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sharon_tan_yew@schools.gov.sg</p>
+<p><u>ang_bee_lian_b@schools.gov.sg</u>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhao Yanfen [赵艳芬]</p>
+<p>Mdm Amy- Helmiaty Binte Mohamad Amin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zhao_yan_fen@schools.gov.sg</p>
+<p>helmiaty_mohamad_amin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -325,33 +316,33 @@ variant: tiptap
 <br>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Keng Tiong Alex</p>
+<p>Mdm Moi Mei Kuen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_keng_tiong_alex@schools.gov.sg</p>
+<p>moi_mei_kuen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>English</p>
+<br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Terry Foo Siang Yong</p>
+<p>Ms Goh Lay Kian [吴丽娟]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>foo_siang_yong@schools.gov.sg</p>
+<p>goh_lay_kian@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Lui Kiang [黄蕊坚]</p>
+<p>Mrs Ong- Pang Shi Jia Canphylia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_lui_kiang@schools.gov.sg</p>
+<p>pang_shi_jia_canphylia@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

@@ -34,7 +34,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,26 +63,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chow Yuen Meng Jaclyn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>low-chow_yuen_meng_jaclyn@schools.gov.sg</u>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhao Ang [赵昂]</p>
+<p>Mdm Ang Sio Hoon [洪小芬]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>zhao_ang@schools.gov.sg</u>
-</p>
+<p>ang_sio_hoon@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

@@ -615,4 +615,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Updated on 01 July 2025</p>
+<p><strong>Updated on 2 Jan 2026</strong>
+</p>

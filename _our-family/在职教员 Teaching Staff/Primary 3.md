@@ -345,11 +345,10 @@ variant: tiptap
 <br>PE (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Wee Wah [王维华]</p>
+<p>Ms Yick Fang Ru</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ong_wee_wah@schools.gov.sg</u>
-</p>
+<p>yick_fang_ru@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -395,13 +394,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>Music</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yick Fang Ru</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yick_fang_ru@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>

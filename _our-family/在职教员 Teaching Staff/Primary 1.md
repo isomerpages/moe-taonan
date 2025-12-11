@@ -94,31 +94,19 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
 <br>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lindsy Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_leng_see_lindsy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_leng_see_lindsy@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2
-<br>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Gwee Bock Lan Lena</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>gwee_bock_lan_lena@schools.gov.sg</u>
 </p>
 </td>
 </tr>

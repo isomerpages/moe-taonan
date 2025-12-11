@@ -540,10 +540,10 @@ variant: tiptap
 <br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Chii Huey [林绮惠]</p>
+<p>Mdm Clare Li Xunzi [李勋子]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_chii_huey@schools.gov.sg</p>
+<p>clare_li_xunzi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

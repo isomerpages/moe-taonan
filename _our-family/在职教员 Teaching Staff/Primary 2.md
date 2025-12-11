@@ -153,7 +153,8 @@ variant: tiptap
 <p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 1 Higher Chinese</p>
+<p>Form Teacher 1
+<br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wan Xifei [万希飞]</p>
@@ -219,7 +220,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English Math</p>
+<br>English
+<br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Han Huiwen Adeline</p>
@@ -286,7 +288,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>English Math</p>
+<br>English
+<br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

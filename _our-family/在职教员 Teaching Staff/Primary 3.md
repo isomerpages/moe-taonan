@@ -391,9 +391,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2
-<br>
-</p>
+<p>Form Teacher 2</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Yong An</p>

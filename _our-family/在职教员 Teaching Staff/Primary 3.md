@@ -55,11 +55,10 @@ variant: tiptap
 <br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Choon Meng</p>
+<p>Mr Sung Sheng Yi Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>teo_choon_meng_a@schools.gov.sg</u>
-</p>
+<p>sung_sheng_yi_kelvin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

@@ -202,27 +202,28 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>Higher Chinese</p>
+<br>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Woo Jenny [邬燕妮]</p>
+<p>Mdm Tan Hui Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>woo_jenny@schools.gov.sg</u>
+<p><u>tan_hui_hoon@schools.gov.sg</u>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>English
-<br>Math</p>
+<br>Higher Chinese
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen Jing Ying</p>
+<p>Mdm Cheah Li Wei [谢俐蔚]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>chen_jing_ying@schools.gov.sg</u>
+<p><u><br>cheah_li_wei@schools.gov.sg</u>
 </p>
 </td>
 </tr>

@@ -45,7 +45,7 @@ variant: tiptap
 <p>Mdm June Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chiew_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chiew_yen@schools.gov.sg</a>
+<p><a href="tan_chiew_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chiew_yen@schools.gov.sg</a>
 </p>
 </td>
 </tr>

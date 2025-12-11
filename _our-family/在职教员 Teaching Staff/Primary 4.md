@@ -613,6 +613,138 @@ variant: tiptap
 <p>toh_kai_xuan_jeanette@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>4-1 (GE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Gurung-Lee Chin Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_chin_min@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Mimi Cheong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mimi_yeo@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Pang Say Wak [陈才发]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>pang_say_wak@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Hon Shin Clifton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_hon_shin_clifton@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kim Snodgrass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kim_christine_lim_mui_a@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>4-2 (GE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Mimi Cheong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mimi_yeo@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Deng Min [邓敏]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>deng_min@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Hon Shin Clifton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_hon_shin_clifton@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Deng Min [邓敏]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>deng_min@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kim Snodgrass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kim_christine_lim_mui_a@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Updated on 2 Jan 2026</strong>

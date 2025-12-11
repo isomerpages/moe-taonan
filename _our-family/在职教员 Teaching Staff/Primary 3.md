@@ -285,7 +285,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3F</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -321,18 +321,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>michelle_lee_jing_qi@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ngoh Siew Teng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>ngoh_siew_teng@schools.gov.sg</u>
-</p>
 </td>
 </tr>
 <tr>

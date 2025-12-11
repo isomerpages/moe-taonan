@@ -253,10 +253,10 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>Higher Chinese</p>
+<br>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kwok Soek Fong [郭素坊]</p>
+<p>Mrs Loh Shwu Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Kwok_Soek_Fong_Mrs@schools.gov.sg</u>

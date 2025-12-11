@@ -85,8 +85,7 @@ variant: tiptap
 <p>Ms Liu Ying [刘莹]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>liu_ying_d@schools.gov.sg</p>
+<p>liu_ying_d@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

@@ -42,10 +42,10 @@ variant: tiptap
 <br>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm June Tan</p>
+<p>Mrs Seow Li Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chiew_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chiew_yen@schools.gov.sg</a>
+<p><a href="mailto:guan_li_li_mrs@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>guan_li_li_mrs@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

@@ -424,7 +424,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>3I</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -448,6 +448,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>fathin_ha_sya-syah_suhadak@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noorlailee Bte Mohd Jusin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

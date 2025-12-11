@@ -130,7 +130,7 @@ variant: tiptap
 <p>Mrs Kwok Soek Fong [郭素坊]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Kwok_Soek_Fong_Mrs@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

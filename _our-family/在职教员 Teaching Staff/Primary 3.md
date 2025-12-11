@@ -39,14 +39,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>Science</p>
+<br>English</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ngoh Siew Teng</p>
+<p>Ms Michelle Lee Jing Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ngoh_siew_teng@schools.gov.sg</u>
-</p>
+<p>michelle_lee_jing_qi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

@@ -410,8 +410,7 @@ variant: tiptap
 <p>Mdm Chow Yuen Meng Jaclyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>lim_lay_choo_tina@schools.gov.sg</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>

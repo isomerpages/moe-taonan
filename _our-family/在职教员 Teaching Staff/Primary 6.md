@@ -468,7 +468,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>Music Science</p>
+<br>Music
+<br>Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Thong Jia Sui Jessica</p>
@@ -517,40 +518,25 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>Music
-<br>Science</p>
+<br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Thong Jia Sui Jessica</p>
+<p>Mrs Ong- Shen Pinxiu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>thong_jia_sui_jessica@schools.gov.sg</u>
-</p>
+<p>shen_pinxiu@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>Math</p>
+<br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ong- Chua Li Ling Eileen</p>
+<p>Mdm Hung Huey Jing [韩惠晶]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>chua_li_ling_eileen@schools.gov.sg</u>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Clare Li Xunzi [李勋子]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>clare_li_xunzi@schools.gov.sg</u>
-</p>
+<p>hung_huey_jing@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -558,11 +544,21 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Poonam Singh</p>
+<p>Mr Mohammad Daud Teo B Mohd Anwar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>poonam_singh@schools.gov.sg</u>
-</p>
+<p>daud_teo@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Adeline Ong Hui En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>adeline_ong_hui_en@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

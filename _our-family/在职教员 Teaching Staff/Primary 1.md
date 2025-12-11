@@ -362,8 +362,7 @@ variant: tiptap
 <p>Mdm Soh Shihui [苏诗惠]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>soh_shihui@schools.gov.sg</u>
-</p>
+<p>soh_shihui@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

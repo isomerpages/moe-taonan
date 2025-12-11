@@ -490,6 +490,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
 <br>Math</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sung Sheng Yi Kelvin</p>
@@ -512,14 +513,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Math</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Meitri Harshad Parikh</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>meitri_parikh@schools.gov.sg</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>

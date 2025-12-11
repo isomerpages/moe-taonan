@@ -73,10 +73,10 @@ variant: tiptap
 <br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lindsy Ng</p>
+<p>Mdm Lee Seok Joo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>tan_leng_see_lindsy@schools.gov.sg</u>
+<p><a href="mailto:lee_seok_joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_seok_joo@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

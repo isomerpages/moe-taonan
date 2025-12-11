@@ -233,8 +233,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English
-<br>Math</p>
+<br>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shahadatunisa d/o M M Noorddin</p>
@@ -300,8 +300,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English
-<br>Math</p>
+<br>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Cher Boon Kiat Augustine</p>
@@ -384,8 +384,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English
-<br>Math</p>
+<br>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Thio Lay Lay</p>

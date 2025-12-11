@@ -145,7 +145,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,25 +175,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liu Ying [刘莹]</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>liu_ying_d@schools.gov.sg</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>

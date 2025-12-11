@@ -183,8 +183,7 @@ variant: tiptap
 <p>Mdm Samantha Evon Chia Chin Mei [谢静美]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:samantha_evon_chia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>samantha_evon_chia@schools.gov.sg</u></a>
-</p>
+<p>samantha_evon_chia@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

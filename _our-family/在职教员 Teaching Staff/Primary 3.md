@@ -407,10 +407,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Math</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Lay Choo Tina</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>lim_lay_choo_tina@schools.gov.sg</u>

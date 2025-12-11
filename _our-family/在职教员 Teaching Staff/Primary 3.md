@@ -367,7 +367,7 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noorlailee Bte Mohd Jusin</p>
+<p>Mrs Poonam Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>noorlailee_mohd_jusin@schools.gov.sg</u>

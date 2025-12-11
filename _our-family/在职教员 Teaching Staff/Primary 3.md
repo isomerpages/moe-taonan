@@ -495,8 +495,7 @@ variant: tiptap
 <p>Mr Sung Sheng Yi Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>noraini_mohamed_ali@schools.gov.sg</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -508,8 +507,7 @@ variant: tiptap
 <p>Mdm Phua Mei Yan [潘美燕]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>lu_wen@schools.gov.sg</u>
-</p>
+<p>phua_mei_yan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

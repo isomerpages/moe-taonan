@@ -215,7 +215,7 @@ variant: tiptap
 <br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Yusuf Mirza Bin M</p>
+<p>Mr Muhamma Yusuf Mirza Bin M</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>muhammad_yusuf_mirza@schools.gov.sg</p>
@@ -551,10 +551,10 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ngiam Tee Teng</p>
+<p>Mr Wong Hong Aik Allan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ngiam_tee_teng@schools.gov.sg</p>
+<p>wong_hong_aik_allan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -566,10 +566,10 @@ variant: tiptap
 <br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Deng Min [邓敏]</p>
+<p>Mdm Shen Yang [沈阳]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>deng_min@schools.gov.sg</p>
+<p>shen_yang@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -581,6 +581,78 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_shao_chui@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>5-1 (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jenny Tan- Lian Wei Chun Jenny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lian_wei_chun_jenny@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhamma Yusuf Mirza Bin M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_yusuf_mirza@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Kime Huey Doreen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_kime_huey_doreen@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>5-3 (GE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

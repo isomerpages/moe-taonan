@@ -115,10 +115,10 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lu Wen [吕雯]</p>
+<p>Mdm Lau Ying Xi [刘颖熹]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>lu_wen@schools.gov.sg</u>
+<p><a href="mailto:lau_ying_xi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lau_ying_xi@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

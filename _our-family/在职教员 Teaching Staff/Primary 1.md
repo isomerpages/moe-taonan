@@ -237,11 +237,10 @@ variant: tiptap
 <br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zahidah Binte Osman</p>
+<p>Mdm Shahadatunisa d/o M M Noorddin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>zahidah_osman@schools.gov.sg</u>
-</p>
+<p>shahadatunisa_m_m_noorddin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -250,11 +249,10 @@ variant: tiptap
 <br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wu Yun [吴赟]</p>
+<p>Ms Dawn Chua Yu Xiu [蔡育修]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>wu_yun@schools.gov.sg</u>
-</p>
+<p>dawn_chua_yu_xiu@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

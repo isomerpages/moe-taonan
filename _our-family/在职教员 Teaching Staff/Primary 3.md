@@ -505,7 +505,7 @@ variant: tiptap
 <br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lu Wen [吕雯]</p>
+<p>Mdm Phua Mei Yan [潘美燕]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>lu_wen@schools.gov.sg</u>

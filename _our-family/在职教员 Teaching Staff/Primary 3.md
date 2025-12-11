@@ -247,8 +247,7 @@ variant: tiptap
 <p>Mrs Poonam Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>sung_sheng_yi_kelvin@schools.gov.sg</u>
-</p>
+<p>poonam_singh@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

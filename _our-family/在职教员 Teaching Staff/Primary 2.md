@@ -51,8 +51,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-<p>PE (Physical Education)</p>
+<p>Form Teacher 2
+<br>PE (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Dulcie Lim Shao Jian</p>
@@ -192,9 +192,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2
-<br>Math</p>
-<p>PE (Physical Education)</p>
+<p>Form Teacher 2 Math
+<br>PE (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Aameer Bin Hassim</p>

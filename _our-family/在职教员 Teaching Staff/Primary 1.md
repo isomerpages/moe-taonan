@@ -232,10 +232,11 @@ variant: tiptap
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lin Yao Chloe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lin_yao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lin_yao@schools.gov.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>

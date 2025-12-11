@@ -369,14 +369,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>Higher Chinese</p>
+<br>Art</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Clare Li Xunzi [李勋子]</p>
+<p>Mrs Kwek Lee Yook</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>clare_li_xunzi@schools.gov.sg</u>
-</p>
+<p>kok_lee_yook@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -389,11 +389,10 @@ variant: tiptap
 <br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Binxin</p>
+<p>Mdm Thio Lay Lay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>wang_binxin@schools.gov.sg</u>
-</p>
+<p>thio_lay_lay@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -402,11 +401,10 @@ variant: tiptap
 <br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Sio Hoon [洪小芬]</p>
+<p>Mdm Tai Chi Hui [戴芷慧]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ang_sio_hoon@schools.gov.sg</u>
-</p>
+<p>tai_chi_hui@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>

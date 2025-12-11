@@ -567,39 +567,37 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>Math</p>
+<br>Math
+<br>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Heng Boon Lih</p>
+<p>Mdm Tan Yew Li Yang Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>heng_boon_lih@schools.gov.sg</u>
-</p>
+<p>sharon_tan_yew@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>English</p>
+<br>PE (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jenny Tan- Lian Wei Chun Jenny</p>
+<p>Mr Lim Hoe Seng Francis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>lian_wei_chun_jenny@schools.gov.sg</u>
-</p>
+<p>lim_hoe_seng_francis@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Kime Huey Doreen</p>
+<p>Ms Ong Jing Yun, Jessica</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>tan_kime_huey_doreen@schools.gov.sg</u>
-</p>
+<p>ong_jing_yun@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -607,11 +605,10 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dawn Chua Yu Xiu [蔡育修]</p>
+<p>Mdm Woo Jenny [邬燕妮]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>dawn_chua_yu_xiu@schools.gov.sg</u>
-</p>
+<p>woo_jenny@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

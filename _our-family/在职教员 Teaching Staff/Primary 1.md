@@ -287,7 +287,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1I</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -311,6 +311,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>praise_teo_hwee_leng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Yen Ping Gina [陈燕萍]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_yen_ping_gina@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

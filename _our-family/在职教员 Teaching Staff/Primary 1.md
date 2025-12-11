@@ -113,6 +113,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Higher Chinese</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lau Ying Xi [刘颖熹]</p>
@@ -142,14 +143,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>English
-<br>Math</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Patsy Hoon</p>
+<p>Mdm Chua Pei Boon [蔡佩雯]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>hoon_poh_nguak_patsy_a@schools.gov.sg</u>
+<p><u>chua_pei_boon@schools.gov.sg</u>
 </p>
 </td>
 </tr>

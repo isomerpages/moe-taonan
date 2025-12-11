@@ -191,7 +191,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>4B</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -200,22 +200,22 @@ variant: tiptap
 <br>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Lee Jing Qi</p>
+<p>Ms Toh Kai Xuan, Jeanette</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>michelle_lee_jing_qi@schools.gov.sg</p>
+<p>toh_kai_xuan_jeanette@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>PE (Physical Education)</p>
+<br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Nurfarah Binte Mohamed R Z</p>
+<p>Mdm Goh Yen Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_nurfarah_mohamed_r@schools.gov.sg</p>
+<p>goh_yen_ping@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -223,21 +223,10 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Sio Hoon [洪小芬]</p>
+<p>Ms Poh Cheng Yee [傅静瑜]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_sio_hoon@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Leong Siok Yin Jocelyn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>leong_siok_yin@schools.gov.sg</p>
+<p>poh_cheng_yee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

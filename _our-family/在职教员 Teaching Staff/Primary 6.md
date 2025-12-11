@@ -91,8 +91,7 @@ variant: tiptap
 <p>Ms Khadijah Cassim Madari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>khadijah_cassim_madari@schools.gov.sg</u>
-</p>
+<p>khadijah_cassim_madari@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -448,7 +447,8 @@ variant: tiptap
 <p>6I (Mixed Form Class)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 1</p>
+<p>Form Teacher 1
+<br>PE (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Chee Yong</p>
@@ -514,68 +514,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>6K (Mixed Form Class)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 1
-<br>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Zhang Yu [张宇]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>zhang_yu_b@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Francisca Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_sue_may_francisca@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>6L (Mixed Form Class)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chong Zhi Howe Kenneth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chong_zhi_howe_kenneth@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Su Ling Violet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_su_ling_violet@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ang Thiam Poh [翁添保]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ang_thiam_poh@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="3" colspan="1">
 <p>6-1 (MS)</p>
 </td>
@@ -609,6 +547,105 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lin-loh_shwu_hwa@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>6-3 (GE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Dominic Nyi Nyi Htut</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>dominic_nyi_nyi_htut@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ngiam Tee Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ngiam_tee_teng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Su Ling Violet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_su_ling_violet@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>6K (Mixed Form Class)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zhang Yu [张宇]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>zhang_yu_b@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Francisca Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_sue_may_francisca@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>6L (Mixed Form Class)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>PE (Physical Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chong Zhi Howe Kenneth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chong_zhi_howe_kenneth@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Su Ling Violet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_su_ling_violet@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Thiam Poh [翁添保]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ang_thiam_poh@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -649,42 +686,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>6-3 (GE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Dominic Nyi Nyi Htut</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>dominic_nyi_nyi_htut@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ngiam Tee Teng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ngiam_tee_teng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Su Ling Violet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_su_ling_violet@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
 <p>6-4 (GE)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -717,6 +718,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_su_ling_violet@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

@@ -241,11 +241,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>Math
-<br>Science</p>
+<br>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sung Sheng Yi Kelvin</p>
+<p>Mrs Poonam Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>sung_sheng_yi_kelvin@schools.gov.sg</u>

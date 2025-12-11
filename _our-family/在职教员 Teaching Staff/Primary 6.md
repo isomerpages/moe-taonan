@@ -367,28 +367,25 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>Math
-<br>PE (Physical Education)</p>
+<br>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan-Ng Siew Leng Crayon</p>
+<p>Mr Mohammad Daud Teo B Mohd Anwar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>crayon_tan_ng@schools.gov.sg</u>
-</p>
+<p>daud_teo@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>Higher Chinese</p>
+<br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Lay Kian [吴丽娟]</p>
+<p>Mrs Ong- Chua Li Ling Eileen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>goh_lay_kian@schools.gov.sg</u>
-</p>
+<p>chua_li_ling_eileen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -408,23 +405,21 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ashley How (Fong Mei Chuan)</p>
+<p>Ms Tan Hwee Jing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>fong_mei_chuan@schools.gov.sg</u>
-</p>
+<p>tan_hwee_jing@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Bee Lian [洪美莲]</p>
+<p>Ms Ng Lui Kiang [黄蕊坚]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ang_bee_lian_b@schools.gov.sg</u>
-</p>
+<p>ng_lui_kiang@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

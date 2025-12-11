@@ -333,11 +333,10 @@ variant: tiptap
 <br>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Low Khee How</p>
+<p>Ms Jessilin Khee Shi Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>low_khee_how@schools.gov.sg</u>
-</p>
+<p>jessilin_khee_shi_lin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -387,7 +386,7 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jessilin Khee Shi Lin</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jessilin_khee_shi_lin@schools.gov.sg</p>

@@ -480,7 +480,7 @@ variant: tiptap
 <p>Mr Ang Yong An</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ang_yong_an@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

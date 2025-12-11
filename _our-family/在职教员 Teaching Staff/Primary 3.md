@@ -127,7 +127,7 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Kwok Soek Fong [郭素坊]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

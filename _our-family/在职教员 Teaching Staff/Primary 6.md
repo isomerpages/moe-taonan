@@ -428,7 +428,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>Math</p>
+<br>Math
+<br>PE (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tan-Ng Siew Leng Crayon</p>

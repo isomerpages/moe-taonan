@@ -492,7 +492,7 @@ variant: tiptap
 <br>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noraini Binte Mohamed Ali</p>
+<p>Mr Sung Sheng Yi Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>noraini_mohamed_ali@schools.gov.sg</u>

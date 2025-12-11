@@ -46,8 +46,7 @@ variant: tiptap
 <p>Ms Chia Jie Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>chia_jie_wei@schools.gov.sg</u>
-</p>
+<p>chia_jie_wei@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -61,8 +60,7 @@ variant: tiptap
 <p>Mrs Francisca Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>tan_sue_may_francisca@schools.gov.sg</u>
-</p>
+<p>tan_sue_may_francisca@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -73,8 +71,7 @@ variant: tiptap
 <p>Ms Kwan Kah Poh Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>kwan_kah_poh_rachel@schools.gov.sg</u>
-</p>
+<p>kwan_kah_poh_rachel@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -85,8 +82,7 @@ variant: tiptap
 <p>Ms Ngoh Siew Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ngoh_siew_teng@schools.gov.sg</u>
-</p>
+<p>ngoh_siew_teng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -100,8 +96,7 @@ variant: tiptap
 <p>Mr Ngiam Tee Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ngiam_tee_teng@schools.gov.sg</u>
-</p>
+<p>ngiam_tee_teng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -112,8 +107,7 @@ variant: tiptap
 <p>Mrs Kim Snodgrass</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>kim_christine_lim_mui_a@schools.gov.sg</u>
-</p>
+<p>kim_christine_lim_mui_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -124,8 +118,7 @@ variant: tiptap
 <p>Ms Leong Lye Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>leong_lye_ching@schools.gov.sg</u>
-</p>
+<p>leong_lye_ching@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -139,8 +132,7 @@ variant: tiptap
 <p>Mr Ngiam Tee Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ngiam_tee_teng@schools.gov.sg</u>
-</p>
+<p>ngiam_tee_teng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -151,8 +143,7 @@ variant: tiptap
 <p>Mrs Kim Snodgrass</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>kim_christine_lim_mui_a@schools.gov.sg</u>
-</p>
+<p>kim_christine_lim_mui_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -163,8 +154,7 @@ variant: tiptap
 <p>Ms Leong Lye Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>leong_lye_ching@schools.gov.sg</u>
-</p>
+<p>leong_lye_ching@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -627,10 +617,10 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Leong Lye Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>leong_lye_ching@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -649,10 +639,10 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Wong Hong Aik Allan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>wong_hong_aik_allan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -664,10 +654,10 @@ variant: tiptap
 <br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zhang Yu [张宇]</p>
+<p>Mr Pang Say Wak [陈才发]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zhang_yu_b@schools.gov.sg</p>
+<p>pang_say_wak@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -675,10 +665,10 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Francisca Tan</p>
+<p>Mrs Ong- Pang Shi Jia Canphylia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_sue_may_francisca@schools.gov.sg</p>
+<p>pang_shi_jia_canphylia@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

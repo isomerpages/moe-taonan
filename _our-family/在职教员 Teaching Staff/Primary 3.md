@@ -264,7 +264,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lam May Fong</p>

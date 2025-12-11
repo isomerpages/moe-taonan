@@ -342,7 +342,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>PE (Physical Education)</p>
+<br>Music</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yick Fang Ru</p>

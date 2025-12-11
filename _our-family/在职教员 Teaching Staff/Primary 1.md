@@ -205,8 +205,7 @@ variant: tiptap
 <p>Mdm Cheah Li Wei [谢俐蔚]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>cheah_li_wei@schools.gov.sg</p>
+<p>cheah_li_wei@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

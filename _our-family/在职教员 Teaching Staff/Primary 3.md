@@ -207,11 +207,10 @@ variant: tiptap
 <br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hao Deyi [郝德奕]</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>hao_deyi@schools.gov.sg</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>

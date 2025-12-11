@@ -278,10 +278,10 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Liu Ying [刘莹]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>liu_ying_d@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

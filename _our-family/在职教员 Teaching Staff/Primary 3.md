@@ -102,14 +102,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>Higher Chinese</p>
+<br>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ma Lin [马 琳]</p>
+<p>Mdm How Hooi Bing Tiffany</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ma_lin@schools.gov.sg</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>

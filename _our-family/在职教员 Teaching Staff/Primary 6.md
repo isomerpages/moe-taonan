@@ -206,7 +206,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>6D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -230,18 +230,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chua_li_ling_eileen@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohammad Daud Teo B Mohd Anwar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>daud_teo@schools.gov.sg</u>
-</p>
 </td>
 </tr>
 <tr>

@@ -295,23 +295,21 @@ variant: tiptap
 <p>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tai Chi Hui [戴芷慧]</p>
+<p>Mdm Cheah Li Wei [谢俐蔚]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>tai_chi_hui@schools.gov.sg</u>
-</p>
+<p>cheah_li_wei@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Math</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ong- Chua Li Ling Eileen</p>
+<p>Ms Ngoh Siew Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>chua_li_ling_eileen@schools.gov.sg</u>
-</p>
+<p>ngoh_siew_teng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

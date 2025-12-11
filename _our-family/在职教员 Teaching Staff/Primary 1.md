@@ -197,7 +197,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1F</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -225,6 +225,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><u><br>cheah_li_wei@schools.gov.sg</u>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

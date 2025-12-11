@@ -370,8 +370,7 @@ variant: tiptap
 <p>Mrs Poonam Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>noorlailee_mohd_jusin@schools.gov.sg</u>
-</p>
+<p>poonam_singh@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

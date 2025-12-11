@@ -190,7 +190,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="6" colspan="1">
 <p>6A</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -230,8 +230,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Math (Foundation)
-<br>Science (Foundation)</p>
+<p>Math (Foundation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Heng Boon Lih</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>heng_boon_lih@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science (Foundation)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Khadijah Cassim Madari</p>
@@ -246,11 +256,10 @@ variant: tiptap
 <p>Chinese (Foundation)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Wee Wah [王维华]</p>
+<p>Mdm Wee Kai Jee [黄开利]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ong_wee_wah@schools.gov.sg</u>
-</p>
+<p>wee_kai_jee_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -260,27 +269,25 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
 <br>English
-<br>Science</p>
+<br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Avneesh Kaur</p>
+<p>Mr Mohamad Suhirman Bin Zainal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>avneesh_kaur@schools.gov.sg</u>
-</p>
+<p>mohamad_suhirman_zainal@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>Art</p>
+<br>PE (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Low Su Ying Elizabeth</p>
+<p>Mr Chan Yi Jun James</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>lim_su_ying_elizabeth@schools.gov.sg</u>
-</p>
+<p>james_chan_yi_jun@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

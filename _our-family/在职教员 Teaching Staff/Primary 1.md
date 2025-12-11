@@ -256,33 +256,42 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1H</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>Higher Chinese</p>
+<br>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Lui Kiang [黄蕊坚]</p>
+<p>Mdm Nurazimah Binte Ab Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ng_lui_kiang@schools.gov.sg</u>
-</p>
+<p>nurazimah_ab_rahman@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>English
-<br>Math</p>
+<br>Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yam May San Priscilla</p>
+<p>Mdm Yang Xiaojuan [杨晓娟]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>yam_may_san_priscilla@schools.gov.sg</u>
-</p>
+<p>yang_xiaojuan_a@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shen Huijie [沈慧洁]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shen_huijie@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

@@ -463,45 +463,30 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>6F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>Math
-<br>Science</p>
+<br>Music Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Wei Loon</p>
+<p>Mdm Thong Jia Sui Jessica</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>teo_wei_loon@schools.gov.sg</u>
-</p>
+<p>thong_jia_sui_jessica@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>Music</p>
+<br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Praise Teo Hwee Leng</p>
+<p>Ms Chee Pey Yi [纪佩妤]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>praise_teo_hwee_leng@schools.gov.sg</u>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Wu Yun [吴赟]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>wu_yun@schools.gov.sg</u>
-</p>
+<p>chee_pey_yi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -509,23 +494,21 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jenny Tan- Lian Wei Chun Jenny</p>
+<p>Mdm Yeo Yu Nian Nikki</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>lian_wei_chun_jenny@schools.gov.sg</u>
-</p>
+<p>yeo_yu_nian_nikki@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Bee Lian [洪美莲]</p>
+<p>Ms Heng Boon Lih</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ang_bee_lian_b@schools.gov.sg</u>
-</p>
+<p>heng_boon_lih@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

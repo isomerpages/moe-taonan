@@ -270,8 +270,7 @@ variant: tiptap
 <p>Ms Jessilin Khee Shi Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>lam_may_fong@schools.gov.sg</u>
-</p>
+<p>jessilin_khee_shi_lin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

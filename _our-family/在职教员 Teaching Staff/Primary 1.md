@@ -52,13 +52,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>Art</p>
+<br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Hui Hoon</p>
+<p>Mdm Hu Yuxia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>tan_hui_hoon@schools.gov.sg</u>
+<p><a href="mailto:hu_yuxia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hu_yuxia@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

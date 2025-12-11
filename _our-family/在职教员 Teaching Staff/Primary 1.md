@@ -352,7 +352,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>1K</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -377,6 +377,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>kok_lee_yook@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Awalliah Bte Amin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_awalliah_amin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

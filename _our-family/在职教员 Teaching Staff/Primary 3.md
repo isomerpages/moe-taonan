@@ -441,10 +441,10 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>Higher Chinese</p>
+<br>Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhao Yanfen [赵艳芬]</p>
+<p>Ms Fathin Ha Sya-Syah Binte Suhadak</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>zhao_yan_fen@schools.gov.sg</u>

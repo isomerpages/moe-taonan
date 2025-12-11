@@ -417,10 +417,10 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Wu Yun [吴赟]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>wu_yun@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

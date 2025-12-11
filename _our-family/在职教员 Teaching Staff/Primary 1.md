@@ -46,8 +46,7 @@ variant: tiptap
 <p>Mrs Seow Li Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="guan_li_li_mrs@schools.gov.sg" rel="noopener nofollow" target="_blank">guan_li_li_mrs@schools.gov.sg</a>
-</p>
+<p>guan_li_li_mrs@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -59,8 +58,7 @@ variant: tiptap
 <p>Mdm Hu Yuxia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hu_yuxia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hu_yuxia@schools.gov.sg</u></a>
-</p>
+<p>hu_yuxia@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

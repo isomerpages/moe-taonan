@@ -212,14 +212,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English
 <br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Suhirman Bin Zainal</p>
+<p>Mr Muhammad Yusuf Mirza Bin M</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamad_suhirman_zainal@schools.gov.sg</p>
+<p>muhammad_yusuf_mirza@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -228,10 +227,21 @@ variant: tiptap
 <br>PE (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Yi Jun James</p>
+<p>Ms Neo Lay Peng [梁丽萍]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>james_chan_yi_jun@schools.gov.sg</p>
+<p>neo_lay_peng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lam May Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lam_may_fong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -239,21 +249,10 @@ variant: tiptap
 <p>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheah Li Wei [谢俐蔚]</p>
+<p>Mdm Phua Mei Yan [潘美燕]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>cheah_li_wei@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Samantha Evon Chia Chin Mei [谢静美]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>samantha_evon_chia@schools.gov.sg</p>
+<p>phua_mei_yan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -261,10 +260,10 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ngoh Siew Teng</p>
+<p>Mdm Tan Seow Yun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ngoh_siew_teng@schools.gov.sg</p>
+<p>tan_seow_yun@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

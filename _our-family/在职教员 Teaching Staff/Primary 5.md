@@ -291,8 +291,7 @@ variant: tiptap
 <p>Ms Ang Bee Lian [洪美莲]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ang_bee_lian_b@schools.gov.sg</u>
-</p>
+<p>ang_bee_lian_b@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -430,8 +429,7 @@ variant: tiptap
 <p>Mr Lim Wei Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>lim_wei_ming@schools.gov.sg</u>
-</p>
+<p>lim_wei_ming@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -446,52 +444,42 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>5G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>Math</p>
+<br>English
+<br>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ong- Shen Pinxiu</p>
+<p>Ms Tan Hwee Jing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shen_pinxiu@schools.gov.sg</p>
+<p>tan_hwee_jing@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>Higher Chinese</p>
+<br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hung Huey Jing [韩惠晶]</p>
+<p>Mdm Amy- Helmiaty Binte Mohamad Amin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hung_huey_jing@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Ong- Pang Shi Jia Canphylia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>pang_shi_jia_canphylia@schools.gov.sg</p>
+<p>helmiaty_mohamad_amin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Adeline Ong Hui En</p>
+<p>Mdm Soh Shihui [苏诗惠]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>adeline_ong_hui_en@schools.gov.sg</p>
+<p>soh_shihui@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -500,25 +488,25 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>Math
-<br>Science</p>
+<br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Yew Li Yang Sharon</p>
+<p>Mr Lim Wei Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sharon_tan_yew@schools.gov.sg</p>
+<p>lim_wei_ming@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
+<p>Form Teacher 2
+<br>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Woo Jenny [邬燕妮]</p>
+<p>Mrs Lorraine Anne Alcantra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>woo_jenny@schools.gov.sg</p>
+<p>lorraine_anne_alcantra@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

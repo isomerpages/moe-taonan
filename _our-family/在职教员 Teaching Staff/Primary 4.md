@@ -339,53 +339,31 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="3" colspan="1">
 <p>4E</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kwok Soek Fong [郭素坊]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kwok_soek_fong_mrs@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
 <br>Math
 <br>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jessilin Khee Shi Lin</p>
+<p>Mr Lim Keng Tiong Alex</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jessilin_khee_shi_lin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2
-<br>Art</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Fathin Ha Sya-Syah Binte Suhadak</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>fathin_ha_sya-syah_suhadak@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Niu Zi Bin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>niu_zi_bin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ma Lin [马 琳]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ma_lin@schools.gov.sg</p>
+<p>lim_keng_tiong_alex@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -393,10 +371,10 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ong- Shen Pinxiu</p>
+<p>Ms Lam May Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shen_pinxiu@schools.gov.sg</p>
+<p>lam_may_fong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

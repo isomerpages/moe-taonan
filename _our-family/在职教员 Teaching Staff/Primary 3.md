@@ -469,7 +469,7 @@ variant: tiptap
 <p>Mdm Lau Ying Xi [刘颖熹]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lau_ying_xi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

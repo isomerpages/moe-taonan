@@ -175,14 +175,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Math</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Low Khee How</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>low_khee_how@schools.gov.sg</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>

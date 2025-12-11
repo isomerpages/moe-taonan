@@ -46,7 +46,7 @@ variant: tiptap
 <p>Mrs Seow Li Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:guan_li_li_mrs@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>guan_li_li_mrs@schools.gov.sg</u></a>
+<p><a href="guan_li_li_mrs@schools.gov.sg" rel="noopener nofollow" target="_blank">guan_li_li_mrs@schools.gov.sg</a>
 </p>
 </td>
 </tr>

@@ -128,13 +128,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>Higher Chinese</p>
+<br>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lau Ying Xi [刘颖熹]</p>
+<p>Ms Vaswani Deepa Hiro</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>lau_ying_xi@schools.gov.sg</u>
+<p><a href="mailto:vaswani_deepa_hiro@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>vaswani_deepa_hiro@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

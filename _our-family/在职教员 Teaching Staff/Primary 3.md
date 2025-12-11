@@ -317,11 +317,10 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sung Sheng Yi Kelvin</p>
+<p>Ms Michelle Lee Jing Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>sung_sheng_yi_kelvin@schools.gov.sg</u>
-</p>
+<p>michelle_lee_jing_qi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

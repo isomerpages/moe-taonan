@@ -39,8 +39,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English</p>
-<p>Math</p>
+<br>English Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Seow Li Li</p>
@@ -96,8 +95,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English</p>
-<p>Math</p>
+<br>English Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lindsy Ng</p>
@@ -108,8 +106,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-<p>Higher Chinese</p>
+<p>Form Teacher 2 Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lau Ying Xi [刘颖熹]</p>
@@ -124,8 +121,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English</p>
-<p>Math</p>
+<br>English Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Vaswani Deepa Hiro</p>
@@ -136,7 +132,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2
+<p>Form Teacher 2 Higher Chinese
 <br>
 </p>
 </td>
@@ -152,9 +148,7 @@ variant: tiptap
 <p>1E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 1
-<br>English</p>
-<p>Math</p>
+<p>Form Teacher 1 English Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Lay Kuan</p>
@@ -233,8 +227,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English</p>
-<p>Math</p>
+<br>English Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shahadatunisa d/o M M Noorddin</p>
@@ -261,8 +254,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English</p>
-<p>Math</p>
+<br>English Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurazimah Binte Ab Rahman</p>
@@ -300,8 +292,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English</p>
-<p>Math</p>
+<br>English Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Cher Boon Kiat Augustine</p>
@@ -328,8 +319,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English</p>
-<p>Math</p>
+<br>English Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Meitri Harshad Parikh</p>
@@ -384,8 +374,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English</p>
-<p>Math</p>
+<br>English Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Thio Lay Lay</p>

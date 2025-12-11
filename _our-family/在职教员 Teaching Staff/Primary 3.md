@@ -386,7 +386,7 @@ variant: tiptap
 <p>Mdm Leong Siok Yin Jocelyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jessilin_khee_shi_lin@schools.gov.sg</p>
+<p>leong_siok_yin@@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

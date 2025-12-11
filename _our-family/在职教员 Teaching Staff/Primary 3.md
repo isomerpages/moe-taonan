@@ -424,7 +424,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>3I</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -463,14 +463,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Ying Xuan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>lim_ying_xuan_a@schools.gov.sg</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>

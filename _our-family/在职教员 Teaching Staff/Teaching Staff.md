@@ -241,6 +241,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Dulcie Lim Shao Jian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:dulcie_lim_shao_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dulcie_lim_shao_jian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Emma Kok Li Shan</p>
 </td>
 <td rowspan="1" colspan="1">

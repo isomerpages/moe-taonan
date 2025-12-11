@@ -92,11 +92,10 @@ variant: tiptap
 <br>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Kai Xuan, Jeanette</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>toh_kai_xuan_jeanette@schools.gov.sg</u>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>

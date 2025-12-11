@@ -169,7 +169,8 @@ variant: tiptap
 <p>Mr Teo Choon Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>teo_choon_meng_a@schools.gov.sg<u><br></u>
+</p>
 </td>
 </tr>
 <tr>

@@ -292,10 +292,10 @@ variant: tiptap
 <br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Grace-Clemence Wong Ying Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>wong_ying_qi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

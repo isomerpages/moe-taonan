@@ -116,11 +116,10 @@ variant: tiptap
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Yen Ping</p>
+<p>Mdm Leong Siok Yin Jocelyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>goh_yen_ping@schools.gov.sg</u>
-</p>
+<p>leong_siok_yin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

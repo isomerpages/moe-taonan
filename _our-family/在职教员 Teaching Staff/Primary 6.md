@@ -34,7 +34,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>6-1 (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,17 +67,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lin-loh_shwu_hwa@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Zhang Yu [张宇]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>zhang_yu_b@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

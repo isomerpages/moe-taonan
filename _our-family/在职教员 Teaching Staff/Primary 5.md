@@ -174,14 +174,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
 <br>English
-<br>Math</p>
+<br>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Law- Chin Wai Mun</p>
+<p>Ms Avneesh Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>law-chin_wai_mun@schools.gov.sg</u>
-</p>
+<p>avneesh_kaur@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -190,11 +189,10 @@ variant: tiptap
 <br>Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Peng Gek [陈萍玉]</p>
+<p>Mdm Shen Huijie [沈慧洁]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>tan_peng_gek@schools.gov.sg</u>
-</p>
+<p>shen_huijie@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -202,11 +200,10 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Loh Shwu Hwa</p>
+<p>Mr Teo Wei Loon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>lin-loh_shwu_hwa@schools.gov.sg</u>
-</p>
+<p>teo_wei_loon@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -222,8 +219,7 @@ variant: tiptap
 <p>Mr Mohamad Suhirman Bin Zainal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>mohamad_suhirman_zainal@schools.gov.sg</u>
-</p>
+<p>mohamad_suhirman_zainal@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -235,8 +231,7 @@ variant: tiptap
 <p>Mr Chan Yi Jun James</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>james_chan_yi_jun@schools.gov.sg</u>
-</p>
+<p>james_chan_yi_jun@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -247,8 +242,7 @@ variant: tiptap
 <p>Mdm Cheah Li Wei [谢俐蔚]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>cheah_li_wei@schools.gov.sg</u>
-</p>
+<p>cheah_li_wei@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -259,8 +253,7 @@ variant: tiptap
 <p>Mdm Samantha Evon Chia Chin Mei [谢静美]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>samantha_evon_chia@schools.gov.sg</u>
-</p>
+<p>samantha_evon_chia@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -271,8 +264,7 @@ variant: tiptap
 <p>Ms Ngoh Siew Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ngoh_siew_teng@schools.gov.sg</u>
-</p>
+<p>ngoh_siew_teng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -287,8 +279,7 @@ variant: tiptap
 <p>Ms Chia Jie Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>chia_jie_wei@schools.gov.sg</u>
-</p>
+<p>chia_jie_wei@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -300,8 +291,7 @@ variant: tiptap
 <p>Mrs Ashley How (Fong Mei Chuan)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>fong_mei_chuan@schools.gov.sg</u>
-</p>
+<p>fong_mei_chuan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -312,8 +302,7 @@ variant: tiptap
 <p>Mdm Tan Yew Li Yang Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>sharon_tan_yew@schools.gov.sg</u>
-</p>
+<p>sharon_tan_yew@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -324,8 +313,7 @@ variant: tiptap
 <p>Mdm Zhao Yanfen [赵艳芬]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>zhao_yan_fen@schools.gov.sg</u>
-</p>
+<p>zhao_yan_fen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -341,8 +329,7 @@ variant: tiptap
 <p>Mr Lim Keng Tiong Alex</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>lim_keng_tiong_alex@schools.gov.sg</u>
-</p>
+<p>lim_keng_tiong_alex@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -354,8 +341,7 @@ variant: tiptap
 <p>Mr Terry Foo Siang Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>foo_siang_yong@schools.gov.sg</u>
-</p>
+<p>foo_siang_yong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -366,8 +352,7 @@ variant: tiptap
 <p>Ms Ng Lui Kiang [黄蕊坚]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ng_lui_kiang@schools.gov.sg</u>
-</p>
+<p>ng_lui_kiang@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -383,8 +368,7 @@ variant: tiptap
 <p>Ms Adeline Ong Hui En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>adeline_ong_hui_en@schools.gov.sg</u>
-</p>
+<p>adeline_ong_hui_en@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -396,8 +380,7 @@ variant: tiptap
 <p>Mr Zulhelmi Bin Omar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>zulhelmi_bin_omar@schools.gov.sg</u>
-</p>
+<p>zulhelmi_bin_omar@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -408,8 +391,7 @@ variant: tiptap
 <p>Mdm Hao Deyi [郝德奕]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>hao_deyi@schools.gov.sg</u>
-</p>
+<p>hao_deyi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -420,8 +402,7 @@ variant: tiptap
 <p>Mr Lim Keng Tiong Alex</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>lim_keng_tiong_alex@schools.gov.sg</u>
-</p>
+<p>lim_keng_tiong_alex@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -437,8 +418,7 @@ variant: tiptap
 <p>Mdm Moi Mei Kuen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>moi_mei_kuen@schools.gov.sg</u>
-</p>
+<p>moi_mei_kuen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -450,8 +430,7 @@ variant: tiptap
 <p>Ms Chee Pey Yi [纪佩妤]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>chee_pey_yi@schools.gov.sg</u>
-</p>
+<p>chee_pey_yi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -462,8 +441,7 @@ variant: tiptap
 <p>Mdm Yeo Yu Nian Nikki</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>yeo_yu_nian_nikki@schools.gov.sg</u>
-</p>
+<p>yeo_yu_nian_nikki@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -478,8 +456,7 @@ variant: tiptap
 <p>Mrs Ong- Shen Pinxiu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>shen_pinxiu@schools.gov.sg</u>
-</p>
+<p>shen_pinxiu@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -491,8 +468,7 @@ variant: tiptap
 <p>Mdm Hung Huey Jing [韩惠晶]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>hung_huey_jing@schools.gov.sg</u>
-</p>
+<p>hung_huey_jing@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -503,8 +479,7 @@ variant: tiptap
 <p>Mrs Ong- Pang Shi Jia Canphylia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>pang_shi_jia_canphylia@schools.gov.sg</u>
-</p>
+<p>pang_shi_jia_canphylia@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -515,8 +490,7 @@ variant: tiptap
 <p>Ms Adeline Ong Hui En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>adeline_ong_hui_en@schools.gov.sg</u>
-</p>
+<p>adeline_ong_hui_en@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -532,8 +506,7 @@ variant: tiptap
 <p>Mdm Tan Yew Li Yang Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>sharon_tan_yew@schools.gov.sg</u>
-</p>
+<p>sharon_tan_yew@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -544,8 +517,7 @@ variant: tiptap
 <p>Mdm Woo Jenny [邬燕妮]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>woo_jenny@schools.gov.sg</u>
-</p>
+<p>woo_jenny@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -556,8 +528,7 @@ variant: tiptap
 <p>Ms Ong Jing Yun, Jessica</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ong_jing_yun@schools.gov.sg</u>
-</p>
+<p>ong_jing_yun@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -572,8 +543,7 @@ variant: tiptap
 <p>Mdm Lim Chii Huey [林绮惠]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>lim_chii_huey@schools.gov.sg</u>
-</p>
+<p>lim_chii_huey@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -584,8 +554,7 @@ variant: tiptap
 <p>Mr Ngiam Tee Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ngiam_tee_teng@schools.gov.sg</u>
-</p>
+<p>ngiam_tee_teng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -600,8 +569,7 @@ variant: tiptap
 <p>Ms Deng Min [邓敏]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>deng_min@schools.gov.sg</u>
-</p>
+<p>deng_min@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -612,8 +580,7 @@ variant: tiptap
 <p>Ms Ng Shao Chui Delisa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ng_shao_chui@schools.gov.sg</u>
-</p>
+<p>ng_shao_chui@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -628,8 +595,7 @@ variant: tiptap
 <p>Mr Zhang Yu [张宇]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>zhang_yu_b@schools.gov.sg</u>
-</p>
+<p>zhang_yu_b@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -640,8 +606,7 @@ variant: tiptap
 <p>Mrs Francisca Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>tan_sue_may_francisca@schools.gov.sg</u>
-</p>
+<p>tan_sue_may_francisca@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

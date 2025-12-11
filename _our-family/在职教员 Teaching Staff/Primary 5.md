@@ -351,14 +351,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English
+<br>Math
 <br>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Adeline Ong Hui En</p>
+<p>Mr Teo Wei Loon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>adeline_ong_hui_en@schools.gov.sg</p>
+<p>teo_wei_loon@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -375,24 +375,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hao Deyi [郝德奕]</p>
+<p>Mrs Ong- Shen Pinxiu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hao_deyi@schools.gov.sg</p>
+<p>shen_pinxiu@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Math</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Keng Tiong Alex</p>
+<p>Mdm Wan Xifei [万希飞]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_keng_tiong_alex@schools.gov.sg</p>
+<p>wan_xifei@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

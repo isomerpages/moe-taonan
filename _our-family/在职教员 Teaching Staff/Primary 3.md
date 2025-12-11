@@ -89,13 +89,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
 <br>English
-<br>Science</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Noorlailee Bte Mohd Jusin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>noorlailee_mohd_jusin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

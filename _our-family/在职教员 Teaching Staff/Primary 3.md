@@ -207,10 +207,10 @@ variant: tiptap
 <br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Feng Jie [冯 洁]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>feng_jie@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

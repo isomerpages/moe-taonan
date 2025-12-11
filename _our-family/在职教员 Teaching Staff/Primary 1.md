@@ -115,8 +115,7 @@ variant: tiptap
 <p>Mdm Lau Ying Xi [刘颖熹]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lau_ying_xi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lau_ying_xi@schools.gov.sg</u></a>
-</p>
+<p>lau_ying_xi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

@@ -86,10 +86,10 @@ variant: tiptap
 <br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Seng- Ng Kooi Fong [黄桂芳]</p>
+<p>Ms Liu Ying [刘莹]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>sengng_kooi_fong@schools.gov.sg</u>
+<p><u><br>liu_ying_d@schools.gov.sg</u>
 </p>
 </td>
 </tr>

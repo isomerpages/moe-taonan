@@ -313,33 +313,30 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="4" colspan="1">
 <p>6C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English
-<br>Science</p>
+<br>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Xin Rui Eleora</p>
+<p>Ms Chia Jie Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>koh_xin_rui@schools.gov.sg</u>
-</p>
+<p>chia_jie_wei@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>Chinese</p>
+<br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Bee Lian [洪美莲]</p>
+<p>Mdm Zhao Yanfen [赵艳芬]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ang_bee_lian_b@schools.gov.sg</u>
-</p>
+<p>zhao_yan_fen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -347,47 +344,21 @@ variant: tiptap
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Amy- Helmiaty Binte Mohamad Amin</p>
+<p>Mrs Ashley How (Fong Mei Chuan)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>helmiaty_mohamad_amin@schools.gov.sg</u>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Samantha Evon Chia Chin Mei [谢静美]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>samantha_evon_chia@schools.gov.sg</u>
-</p>
+<p>fong_mei_chuan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wu Yun [吴赟]</p>
+<p>Mdm Tan Yew Li Yang Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>wu_yun@schools.gov.sg</u>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Goh Lay Kian [吴丽娟]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>goh_lay_kian@schools.gov.sg</u>
-</p>
+<p>sharon_tan_yew@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

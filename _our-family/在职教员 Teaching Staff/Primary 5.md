@@ -483,7 +483,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>5H</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -511,13 +511,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Jing Yun, Jessica</p>
+<p>Ms Dawn Chua Yu Xiu [蔡育修]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_jing_yun@schools.gov.sg</p>
+<p>dawn_chua_yu_xiu@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Yen Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_yen_ping@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

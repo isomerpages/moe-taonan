@@ -177,7 +177,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Netball</strong>
 </p>
-<p>Parade Square / Foyer D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays</p>
@@ -303,16 +302,18 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Track &amp; Field</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Monday</p>
-<p>(Training in School)</p>
+<td rowspan="2" colspan="1">
+<p>Mondays and</p>
+<p>Fridays</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 p.m. – 3.30 p.m.</p>
+<p>2.00 p.m. – 5.00 p.m.</p>
+<p>(if training at stadium)</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Targeted levels will be scheduled for Training. P3 will start only in
@@ -321,14 +322,7 @@ Term 2 onwards.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-<p>(Training at Stadium)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.00 p.m. – 5.00 p.m.</p>
+<p>2.00 p.m. – 3.30 p.m. (if training in school)</p>
 </td>
 </tr>
 <tr>

@@ -1,5 +1,6 @@
 ---
-title: Student interviewed Thomson East Coast MRT Line
+title: Tao Nan Student interviewed on ease of transportation with the TEL in
+  Marine Parade
 permalink: /student-interviewed-thomson-east-coast-mrt-line/
 variant: tiptap
 description: ""

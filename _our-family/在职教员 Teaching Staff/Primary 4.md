@@ -152,35 +152,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>4A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Choo Kay Ngee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>choo_kay_ngee@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2
+<br>Math
 <br>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Loh Shwu Hwa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lin-loh_shwu_hwa@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Yin Ling Jasmine</p>
@@ -191,13 +169,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
+<p>Form Teacher 2
+<br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wan Xifei [万希飞]</p>
+<p>Mdm Zhao Ang [赵昂]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wan_xifei@schools.gov.sg</p>
+<p>zhao_ang@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Choo Kay Ngee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>choo_kay_ngee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

@@ -178,10 +178,10 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Hu Yuxia [胡玉侠]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>hu_yuxia@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

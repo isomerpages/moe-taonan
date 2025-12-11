@@ -74,8 +74,7 @@ variant: tiptap
 <p>Mdm Lee Seok Joo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_seok_joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_seok_joo@schools.gov.sg</u></a>
-</p>
+<p>lee_seok_joo@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -87,8 +86,8 @@ variant: tiptap
 <p>Ms Liu Ying [刘莹]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u><br>liu_ying_d@schools.gov.sg</u>
-</p>
+<p>
+<br>liu_ying_d@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

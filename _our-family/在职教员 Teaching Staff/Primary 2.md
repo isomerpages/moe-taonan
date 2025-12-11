@@ -371,7 +371,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English Math</p>
+<br>English
+<br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Rasheeda Bte Mohd Ismail</p>

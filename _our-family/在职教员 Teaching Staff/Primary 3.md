@@ -154,11 +154,10 @@ variant: tiptap
 <br>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Ying Xuan</p>
+<p>Mdm Tan Li Shih</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>lim_ying_xuan_a@schools.gov.sg</u>
-</p>
+<p>tan_li_shih@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

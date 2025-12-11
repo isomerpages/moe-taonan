@@ -103,8 +103,7 @@ variant: tiptap
 <p>Mrs Lindsy Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_leng_see_lindsy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_leng_see_lindsy@schools.gov.sg</u></a>
-</p>
+<p>tan_leng_see_lindsy@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

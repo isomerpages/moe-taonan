@@ -309,13 +309,12 @@ variant: tiptap
 <p>Ms Poh Cheng Yee [傅静瑜]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>poh_cheng_yee@schools.gov.sg</u>
-</p>
+<p>poh_cheng_yee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sung Sheng Yi Kelvin</p>

@@ -161,6 +161,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
 <br>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Lay Kuan</p>
@@ -173,14 +174,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>Math
 <br>PE (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Aameer Bin Hassim</p>
+<p>Mr Syed Ali Omar Bin Syed Halid Alhatas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>aameer_hassim@schools.gov.sg</u>
+<p><a href="mailto:syed_ali_omar_halid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>syed_ali_omar_halid@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -189,10 +189,10 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Lay Kian [吴丽娟]</p>
+<p>Mdm Samantha Evon Chia Chin Mei [谢静美]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>goh_lay_kian@schools.gov.sg</u>
+<p><a href="mailto:samantha_evon_chia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>samantha_evon_chia@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

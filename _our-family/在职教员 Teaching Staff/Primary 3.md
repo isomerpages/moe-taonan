@@ -138,10 +138,10 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Tan Li Shih</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_li_shih@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

@@ -39,8 +39,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English</p>
-<p>Science</p>
+<br>English
+<br>Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Michelle Lee Jing Qi</p>

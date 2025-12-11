@@ -477,7 +477,7 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ang Yong An</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

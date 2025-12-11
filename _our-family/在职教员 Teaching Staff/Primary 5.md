@@ -396,19 +396,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>5F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>Math
-<br>Science</p>
+<br>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Moi Mei Kuen</p>
+<p>Mrs Jenny Tan- Lian Wei Chun Jenny</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>moi_mei_kuen@schools.gov.sg</p>
+<p>lian_wei_chun_jenny@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -417,21 +416,33 @@ variant: tiptap
 <br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chee Pey Yi [纪佩妤]</p>
+<p>Mdm Hao Deyi [郝德奕]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chee_pey_yi@schools.gov.sg</p>
+<p>hao_deyi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yeo Yu Nian Nikki</p>
+<p>Mr Lim Wei Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_yu_nian_nikki@schools.gov.sg</p>
+<p><u>lim_wei_ming@schools.gov.sg</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Koh Xin Rui Eleora</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>koh_xin_rui@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

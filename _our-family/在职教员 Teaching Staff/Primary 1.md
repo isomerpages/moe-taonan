@@ -356,14 +356,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English
-<br>Math</p>
+<br>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Rasheeda Bte Mohd Ismail</p>
+<p>Mdm Soh Shihui [苏诗惠]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>nur_rasheeda_mohd_ismail@schools.gov.sg</u>
+<p><u>soh_shihui@schools.gov.sg</u>
 </p>
 </td>
 </tr>

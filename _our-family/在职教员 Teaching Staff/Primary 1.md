@@ -163,10 +163,10 @@ variant: tiptap
 <br>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kwan Kah Poh Rachel</p>
+<p>Ms Ng Lay Kuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>kwan_kah_poh_rachel@schools.gov.sg</u>
+<p><a href="mailto:ng_lay_kuan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_lay_kuan_a@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

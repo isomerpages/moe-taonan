@@ -259,8 +259,7 @@ variant: tiptap
 <p>Mrs Loh Shwu Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Kwok_Soek_Fong_Mrs@schools.gov.sg</u>
-</p>
+<p>lin-loh_shwu_hwa@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

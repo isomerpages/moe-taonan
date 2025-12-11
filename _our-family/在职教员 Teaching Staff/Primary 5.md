@@ -63,7 +63,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Wei Loon</p>
@@ -504,7 +504,7 @@ variant: tiptap
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hwee Kheng</p>
+<p>Ms Lim Hwee Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>admin_taonan_sch@moe.edu.sg</p>
@@ -639,7 +639,7 @@ variant: tiptap
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hwee Kheng</p>
+<p>Ms Lim Hwee Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>admin_taonan_sch@moe.edu.sg</p>

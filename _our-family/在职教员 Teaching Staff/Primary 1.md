@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Semester 2</u> 
+<p><u>Semester 2</u>
 </p>
 <p>Form Teacher 1
 <br>English Math</p>

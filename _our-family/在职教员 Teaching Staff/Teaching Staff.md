@@ -538,6 +538,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Lim Hwee Kheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>lim_hwee_kheng_a@schools.gov.sg</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lim Keng Tiong Alex</p>
 </td>
 <td rowspan="1" colspan="1">

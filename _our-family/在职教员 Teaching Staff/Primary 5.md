@@ -507,7 +507,7 @@ variant: tiptap
 <p>Ms Lim Hwee Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>admin_taonan_sch@moe.edu.sg</p>
+<p>lim_hwee_kheng_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -642,7 +642,7 @@ variant: tiptap
 <p>Ms Lim Hwee Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>admin_taonan_sch@moe.edu.sg</p>
+<p>lim_hwee_kheng_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

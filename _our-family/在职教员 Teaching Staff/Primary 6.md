@@ -294,7 +294,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>6F</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -333,11 +333,19 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Heng Boon Lih</p>
+<p>Mrs Francisca Tan [LR]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_sue_may_francisca@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Heng Boon Lih (5/1-30/1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>heng_boon_lih@schools.gov.sg</p>
@@ -649,7 +657,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>6-2 (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -663,11 +671,20 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Yusuf Mirza Bin M</p>
+<p>Mrs Francisca Tan</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_sue_may_francisca@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Yusuf Mirza(5/1-30/1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>muhammad_yusuf_mirza@schools.gov.sg</p>

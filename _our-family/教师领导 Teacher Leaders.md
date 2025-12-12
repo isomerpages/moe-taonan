@@ -154,7 +154,7 @@ variant: tiptap
 <p>Mdm Clare Li Xunzi [李勋子]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/Chinese Language (Internal)</p>
+<p>Senior Teacher/Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">clare_li_xunzi@schools.gov.sg</a>
@@ -223,4 +223,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Updated on 30 June 2025</p>
+<p><strong>Updated on 2 Jan 2026</strong>
+</p>

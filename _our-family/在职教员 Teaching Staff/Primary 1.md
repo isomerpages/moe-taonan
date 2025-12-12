@@ -34,11 +34,25 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="4" colspan="1">
 <p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><u>Semester 1</u>
+</p>
 <p>Form Teacher 1
+<br>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hu Yuxia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>hu_yuxia@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2
 <br>English Math</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,6 +60,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>guan_li_li_mrs@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Semester 2</u> 
+</p>
+<p>Form Teacher 1
+<br>English Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Chiew Yen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tan_chiew_yen@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_chiew_yen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>

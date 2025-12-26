@@ -1117,7 +1117,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Meitri Parikh</p>
+<p>Ms Meitri Harshad Parikh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Asst. Year Head P1 &amp; P2 （Internal)</p>

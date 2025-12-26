@@ -1100,8 +1100,34 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>45</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>一二年级 (助理主任) (内部）</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:meitri_parikh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">meitri_parikh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Meitri Parikh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst. Year Head P1 &amp; P2 （Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>46</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>-</p>
@@ -1125,7 +1151,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>46</p>
+<p>47</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>潘美燕</p>
@@ -1149,7 +1175,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>47</p>
+<p>48</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>林伟明</p>

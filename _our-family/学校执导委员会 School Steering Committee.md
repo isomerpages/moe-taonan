@@ -621,7 +621,7 @@ variant: tiptap
 <p>刘树英</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>美术 (科主任-内部)</p>
+<p>美术 (科主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a href="mailto:lim_su_ying_elizabeth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_su_ying_elizabeth@schools.gov.sg</a>
@@ -634,7 +634,7 @@ variant: tiptap
 <p>Mrs Low Su Ying Elizabeth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Art (Internal)</p>
+<p>SH - Art</p>
 </td>
 </tr>
 <tr>
@@ -669,7 +669,7 @@ variant: tiptap
 <p>郭丽善</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>品德与公民教育 (科主任-内部)</p>
+<p>品德与公民教育 (科主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a href="mailto:emma_kok_li_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">emma_kok_li_shan@schools.gov.sg</a>
@@ -682,7 +682,7 @@ variant: tiptap
 <p>Ms Emma Kok Li Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Character &amp; Citizenship Education (CCE) (Internal)</p>
+<p>SH - Character &amp; Citizenship Education (CCE)</p>
 </td>
 </tr>
 <tr>
@@ -1100,8 +1100,32 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>45</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>一二年级 (助理主任) (内部）</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><a href="mailto:meitri_parikh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">meitri_parikh@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Meitri Harshad Parikh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst. Year Head P1 &amp; P2 （Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>46</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>-</p>
@@ -1125,7 +1149,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>46</p>
+<p>47</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>潘美燕</p>
@@ -1149,7 +1173,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>47</p>
+<p>48</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>林伟明</p>
@@ -1172,7 +1196,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>48</p>
+<p>49</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>黄秀玲</p>
@@ -1197,7 +1221,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>49</p>
+<p>50</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>邝美川</p>
@@ -1220,7 +1244,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>50</p>
+<p>51</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>-</p>
@@ -1258,5 +1282,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 24 March 2025</strong>
+<p><strong>Updated on 2 Jan 2026</strong>
 </p>

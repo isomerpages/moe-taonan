@@ -91,13 +91,13 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shahid Zafar</p>
+<p>Mr Tengku Ibrahim bin Tengku Ab Hamid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Shahid_Zafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahid_zafar@schools.gov.sg</a>
+<p><a href="mailto:admin_taonan_sch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admin_taonan_sch@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -320,5 +320,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 25 July 2025</strong>
+<p><strong>Updated on 2 Jan 2026</strong>
 </p>

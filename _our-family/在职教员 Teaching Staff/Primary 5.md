@@ -3,276 +3,674 @@ title: Primary 5
 permalink: /our-family/teaching-staff/primary-5/
 description: ""
 third_nav_title: 在职教员 Teaching Staff
-variant: markdown
+variant: tiptap
 ---
 <p><strong>ONLY TEACHERS TEACHING THE CHINESE LANGUAGE WILL HAVE THEIR NAMES REFLECTED IN CHINESE CHARACTERS</strong>
 </p>
-<table style="border-collapse: collapse; width: 100%; border: 1px solid #ccc;">
-<thead>
-<tr><th style="border: 1px solid #ccc; padding: 8px; text-align: left; background-color: #f2f2f2; font-weight: bold;">CLASS</th><th style="border: 1px solid #ccc; padding: 8px; text-align: left; background-color: #f2f2f2; font-weight: bold;">SUBJECT</th><th style="border: 1px solid #ccc; padding: 8px; text-align: left; background-color: #f2f2f2; font-weight: bold;">NAME OF STAFF</th><th style="border: 1px solid #ccc; padding: 8px; text-align: left; background-color: #f2f2f2; font-weight: bold;">EMAIL ADDRESS</th></tr>
-</thead>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td rowspan="1" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">5-1 (MS)</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">English<br>Math<br>Science</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Ms Chia Jie Wei</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">chia_jie_wei@schools.gov.sg</span></td>
+<th rowspan="1" colspan="1">
+<p><strong>CLASS</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>SUBJECT</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>NAME OF STAFF</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>EMAIL ADDRESS</strong>
+</p>
+</th>
 </tr>
 <tr>
-<td rowspan="3" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">5-2 (MS)</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Math</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mrs Francisca Tan</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">tan_sue_may_francisca@schools.gov.sg</span></td>
+<td rowspan="3" colspan="1">
+<p>5A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>English
+<br>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Avneesh Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>avneesh_kaur@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">English</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Ms Kwan Kah Poh Rachel</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">kwan_kah_poh_rachel@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2
+<br>Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shen Huijie [沈慧洁]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shen_huijie@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Science</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Ms Ngoh Siew Teng</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">ngoh_siew_teng@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Wei Loon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teo_wei_loon@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td rowspan="3" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">5-3 (GE)</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Math</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mr Ngiam Tee Teng</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">ngiam_tee_teng@schools.gov.sg</span></td>
+<td rowspan="5" colspan="1">
+<p>5B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhamma Yusuf Mirza Bin M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_yusuf_mirza@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Science</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mrs Kim Snodgrass</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">kim_christine_lim_mui_a@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2
+<br>PE (Physical Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Neo Lay Peng [梁丽萍]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>neo_lay_peng@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">English</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Ms Leong Lye Ching</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">leong_lye_ching@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lam May Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lam_may_fong@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td rowspan="3" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">5-4 (GE)</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Math</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mr Ngiam Tee Teng</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">ngiam_tee_teng@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Phua Mei Yan [潘美燕]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>phua_mei_yan@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Science</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mrs Kim Snodgrass</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">kim_christine_lim_mui_a@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Seow Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_seow_yun@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">English</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Ms Leong Lye Ching</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">leong_lye_ching@schools.gov.sg</span></td>
+<td rowspan="3" colspan="1">
+<p>5C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>English
+<br>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Koh Xin Rui Eleora</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>koh_xin_rui@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td rowspan="3" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">5A</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 1<br>English<br>Math</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mrs Law- Chin Wai Mun</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">law-chin_wai_mun@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2
+<br>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ang Bee Lian [洪美莲]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ang_bee_lian_b@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 2<br>Chinese</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mdm Tan Peng Gek [陈萍玉]</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">tan_peng_gek@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Amy- Helmiaty Binte Mohamad Amin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>helmiaty_mohamad_amin@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Science</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mrs Loh Shwu Hwa</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">lin-loh_shwu_hwa@schools.gov.sg</span></td>
+<td rowspan="3" colspan="1">
+<p>5D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>Math
+<br>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Moi Mei Kuen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>moi_mei_kuen@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td rowspan="5" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">5B</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 1<br>English<br>Math</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mr Mohamad Suhirman Bin Zainal</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">mohamad_suhirman_zainal@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2
+<br>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Lay Kian [吴丽娟]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_lay_kian@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 2<br>PE (Physical Education)</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mr Chan Yi Jun James</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">james_chan_yi_jun@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ong- Pang Shi Jia Canphylia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>pang_shi_jia_canphylia@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Chinese</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mdm Cheah Li Wei [谢俐蔚]</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">cheah_li_wei@schools.gov.sg</span></td>
+<td rowspan="4" colspan="1">
+<p>5E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>Math
+<br>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Wei Loon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teo_wei_loon@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Chinese</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mdm Samantha Evon Chia Chin Mei [谢静美]</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">samantha_evon_chia@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2
+<br>PE (Physical Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zulhelmi Bin Omar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>zulhelmi_bin_omar@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Science</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Ms Ngoh Siew Teng</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">ngoh_siew_teng@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ong- Shen Pinxiu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shen_pinxiu@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td rowspan="4" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">5C</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 1<br>English</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Ms Chia Jie Wei</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">chia_jie_wei@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wan Xifei [万希飞]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wan_xifei@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 2<br>Math</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mrs Ashley How (Fong Mei Chuan)</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">fong_mei_chuan@schools.gov.sg</span></td>
+<td rowspan="4" colspan="1">
+<p>5F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jenny Tan- Lian Wei Chun Jenny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lian_wei_chun_jenny@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Science</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mdm Tan Yew Li Yang Sharon</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">sharon_tan_yew@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2
+<br>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hao Deyi [郝德奕]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>hao_deyi@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Higher Chinese</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mdm Zhao Yanfen [赵艳芬]</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">zhao_yan_fen@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wei Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_wei_ming@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td rowspan="3" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">5D</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 1<br>Math<br>Science</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mr Lim Keng Tiong Alex</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">lim_keng_tiong_alex@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Koh Xin Rui Eleora</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>koh_xin_rui@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 2<br>English</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mr Terry Foo Siang Yong</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">foo_siang_yong@schools.gov.sg</span></td>
+<td rowspan="3" colspan="1">
+<p>5G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>English
+<br>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Hwee Jing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_hwee_jing@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Higher Chinese</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Ms Ng Lui Kiang [黄蕊坚]</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">ng_lui_kiang@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2
+<br>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Amy- Helmiaty Binte Mohamad Amin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>helmiaty_mohamad_amin@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td rowspan="4" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">5E</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 1<br>English<br>Science</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Ms Adeline Ong Hui En</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">adeline_ong_hui_en@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Soh Shihui [苏诗惠]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>soh_shihui@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 2<br>PE (Physical Education)</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mr Zulhelmi Bin Omar</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">zulhelmi_bin_omar@schools.gov.sg</span></td>
+<td rowspan="4" colspan="1">
+<p>5H</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wei Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_wei_ming@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Higher Chinese</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mdm Hao Deyi [郝德奕]</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">hao_deyi@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2
+<br>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lorraine Anne Alcantra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lorraine_anne_alcantra@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Math</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mr Lim Keng Tiong Alex</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">lim_keng_tiong_alex@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Dawn Chua Yu Xiu [蔡育修]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>dawn_chua_yu_xiu@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td rowspan="3" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">5F</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 1<br>Math<br>Science</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mdm Moi Mei Kuen</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">moi_mei_kuen@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Yen Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_yen_ping@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 2<br>Higher Chinese</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Ms Chee Pey Yi [纪佩妤]</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">chee_pey_yi@schools.gov.sg</span></td>
+<td rowspan="2" colspan="1">
+<p>5I (Mixed Form Class)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Clare Li Xunzi [李勋子]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>clare_li_xunzi@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">English</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mdm Yeo Yu Nian Nikki</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">yeo_yu_nian_nikki@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Hong Aik Allan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_hong_aik_allan@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td rowspan="4" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">5G</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 1<br>Math</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mrs Ong- Shen Pinxiu</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">shen_pinxiu@schools.gov.sg</span></td>
+<td rowspan="2" colspan="1">
+<p>5J (Mixed Form Class)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shen Yang [沈阳]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shen_yang@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 2<br>Higher Chinese</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mdm Hung Huey Jing [韩惠晶]</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">hung_huey_jing@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Shao Chui Delisa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_shao_chui@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">English</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mrs Ong- Pang Shi Jia Canphylia</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">pang_shi_jia_canphylia@schools.gov.sg</span></td>
+<td rowspan="3" colspan="1">
+<p>5-1 (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jenny Tan- Lian Wei Chun Jenny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lian_wei_chun_jenny@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Science</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Ms Adeline Ong Hui En</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">adeline_ong_hui_en@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhamma Yusuf Mirza Bin M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_yusuf_mirza@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td rowspan="3" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">5H</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 1<br>Math<br>Science</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mdm Tan Yew Li Yang Sharon</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">sharon_tan_yew@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Kime Huey Doreen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_kime_huey_doreen@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Higher Chinese</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mdm Woo Jenny [邬燕妮]</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">woo_jenny@schools.gov.sg</span></td>
+<td rowspan="3" colspan="1">
+<p>5-3 (GE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Leong Lye Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>leong_lye_ching@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">English</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Ms Ong Jing Yun, Jessica</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">ong_jing_yun@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Hwee Kheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_hwee_kheng_a@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td rowspan="2" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">5I (Mixed Form Class)</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 1<br>Higher Chinese</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mdm Lim Chii Huey [林绮惠]</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">lim_chii_huey@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Hong Aik Allan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_hong_aik_allan@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 2</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mr Ngiam Tee Teng</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">ngiam_tee_teng@schools.gov.sg</span></td>
+<td rowspan="2" colspan="1">
+<p>5K (Mixed Form Class)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Pang Say Wak [陈才发]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>pang_say_wak@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td rowspan="2" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">5J (Mixed Form Class)</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 1<br>Higher Chinese</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Ms Deng Min [邓敏]</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">deng_min@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ong- Pang Shi Jia Canphylia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>pang_shi_jia_canphylia@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 2</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Ms Ng Shao Chui Delisa</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">ng_shao_chui@schools.gov.sg</span></td>
+<td rowspan="3" colspan="1">
+<p>5L (Mixed Form Class)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 1
+<br>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Low Su Ying Elizabeth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_su_ying_elizabeth@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td rowspan="2" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">5K (Mixed Form Class)</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 1<br>Higher Chinese</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mr Zhang Yu [张宇]</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">zhang_yu_b@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Leong Lye Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>leong_lye_ching@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 2</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mrs Francisca Tan</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">tan_sue_may_francisca@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shen Yang [沈阳]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shen_yang@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td rowspan="4" style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">5L (Mixed Form Class)</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 1<br>PE (Physical Education)</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mr Chong Zhi Howe Kenneth</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">chong_zhi_howe_kenneth@schools.gov.sg</span></td>
+<td rowspan="3" colspan="1">
+<p>5-2 (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ong- Pang Shi Jia Canphylia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>pang_shi_jia_canphylia@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Form Teacher 2</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Ms Leong Lye Ching</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">leong_lye_ching@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Moi Mei Kuen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>moi_mei_kuen@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Higher Chinese</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mdm Tan Peng Gek [陈萍玉]</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">tan_peng_gek@schools.gov.sg</span></td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Seow Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_seow_yun@schools.gov.sg</p>
+</td>
 </tr>
 <tr>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Higher Chinese</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;">Mr Ang Thiam Poh [翁添保]</td>
-<td style="border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top;"><span style="color: blue; text-decoration: underline;">ang_thiam_poh@schools.gov.sg</span></td>
+<td rowspan="3" colspan="1">
+<p>5-4 (GE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Leong Lye Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>leong_lye_ching@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Hwee Kheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_hwee_kheng_a@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Hong Aik Allan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_hong_aik_allan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
-<p>Updated on 09 July 2025</p>
+<p><strong>Updated on 2 Jan 2026</strong>
+</p>

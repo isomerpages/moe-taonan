@@ -23,7 +23,9 @@ variant: tiptap
 </p>
 <p><a href="https://tinyurl.com/2026P2Curriculuminfo" rel="noopener nofollow" target="_blank">P2 Curriculum Briefing Slides</a>
 </p>
-<p><a href="https://tinyurl.com/2026P3Curriculuminfo" rel="noopener nofollow" target="_blank">P3 Curriculum Briefing Slides </a>
+<p><a href="https://tinyurl.com/2026P3Curriculuminfo" rel="noopener nofollow" target="_blank">P3 Curriculum Briefing Slides</a>
+</p>
+<p><a href="https://tinyurl.com/2026P4Curriculuminfo" rel="noopener nofollow" target="_blank">P4 Curriculum Briefing Slides </a>
 </p>
 <h3>Booklist</h3>
 <p>Click to download:</p>

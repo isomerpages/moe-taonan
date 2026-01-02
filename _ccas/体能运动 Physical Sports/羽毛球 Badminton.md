@@ -56,7 +56,43 @@ skills are also imparted at the sessions.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Overall 2IC</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhao Yanfen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhao_yan_fen@schools.gov.sg" rel="noopener nofollow" target="_blank">zhao_yan_fen@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Toh Kai Xuan, Jeanette</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_kai_xuan_jeanette@schools.gov.sg" rel="noopener nofollow" target="_blank">toh_kai_xuan_jeanette@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Shen Huijie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shen_huijie@schools.gov.sg" rel="noopener nofollow" target="_blank">shen_huijie@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -65,54 +101,6 @@ skills are also imparted at the sessions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:dawn_chua_yu_xiu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dawn_chua_yu_xiu@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Moi Mei Kuen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:moi_mei_kuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">moi_mei_kuen@ schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr&nbsp;Dominic&nbsp;Nyi Nyi Htut</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:dominic_nyi_nyi_htut@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dominic_nyi_nyi_htut@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Quah-&nbsp;Heng Yin Qi (Shermaine)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:heng_yin_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_yin_qi@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Tan Meng Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_meng_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_meng_hong@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

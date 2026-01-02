@@ -56,18 +56,6 @@ and camaraderie, the girls have found netball fun and exciting.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Hwee Jing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hwee_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_hwee_jing@schools.gov.sg</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Low Su Ying Elizabeth</p>
 </td>
 <td rowspan="1" colspan="1">

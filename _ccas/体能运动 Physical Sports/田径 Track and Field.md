@@ -45,18 +45,6 @@ in preparation for NSG and SHHK Sports Day.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Vikneswaran S/O Selvarajoo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:vikneswaran_selvarajoo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vikneswaran_selvarajoo@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Overall 2IC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Gurung-Lee Chin Min</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,10 +57,10 @@ in preparation for NSG and SHHK Sports Day.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Lee Jing Qi</p>
+<p>Mr Teo Wei Loon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:michelle_lee_jing_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_lee_jing_qi@schools.gov.sg</a>
+<p><a href="mailto:teo_wei_loon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wei_loon@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,10 +69,22 @@ in preparation for NSG and SHHK Sports Day.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Wei Loon</p>
+<p>Mdm Wan Xifei [万希飞]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_wei_loon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wei_loon@schools.gov.sg</a>
+<p><a href="mailto:wan_xifei@schools.gov.sg" rel="noopener nofollow" target="_blank">wan_xifei@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chng Pau Ling Beatrice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chng_pau_ling_beatrice@schools.gov.sg" rel="noopener nofollow" target="_blank">chng_pau_ling_beatrice@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

@@ -61,10 +61,10 @@ and a sense of adventure.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Noorlailee Bte Mohd Jusin</p>
+<p>Ms Michelle Lee Jing Qi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noorlailee_mohd_jusin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>noorlailee_mohd_jusin@schools.gov.sg</u></a>
+<p><a href="mailto:michelle_lee_jing_qi@schools.gov.sg" rel="noopener nofollow" target="_blank">michelle_lee_jing_qi@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,22 +73,10 @@ and a sense of adventure.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Clare Li Xunzi [李勋子]</p>
+<p>Mdm Samantha Evon Chia Chin Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:clare_li_xunzi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>clare_li_xunzi@schools.gov.sg</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ang Chee Yong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_chee_yong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_chee_yong_a@schools.gov.sg</u></a>
+<p><a href="mailto:samantha_evon_chia@schools.gov.sg" rel="noopener nofollow" target="_blank">samantha_evon_chia@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

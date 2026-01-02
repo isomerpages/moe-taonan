@@ -55,17 +55,6 @@ empowering and enabling every girl to be a leader.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chng Pau Ling Beatrice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chng_pau_ling_beatrice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_pau_ling_beatrice@schools.gov.sg</a>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Adeline Ong</p>
 </td>
 <td rowspan="1" colspan="1">

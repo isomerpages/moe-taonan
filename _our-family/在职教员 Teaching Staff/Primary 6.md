@@ -337,7 +337,7 @@ variant: tiptap
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Francisca Tan [LR]</p>
+<p>Mrs Francisca Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_sue_may_francisca@schools.gov.sg</p>

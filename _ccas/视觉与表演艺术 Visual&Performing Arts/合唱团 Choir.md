@@ -60,7 +60,7 @@ and the opening ceremony of the Thomson East Coast Line (TEL 4).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Overall 2IC</p>
+<p></p>
 </td>
 </tr>
 </tbody>

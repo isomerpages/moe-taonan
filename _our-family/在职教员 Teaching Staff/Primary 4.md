@@ -302,10 +302,10 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ma Lin [马 琳]</p>
+<p>Mdm Wee Kai Jee [黄开利]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ma_lin@schools.gov.sg</p>
+<p>wee_kai_jee_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -352,10 +352,10 @@ variant: tiptap
 <p>Higher Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wee Kai Jee [黄开利]</p>
+<p>Mdm Ma Lin [马 琳]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wee_kai_jee_a@schools.gov.sg</p>
+<p>ma_lin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

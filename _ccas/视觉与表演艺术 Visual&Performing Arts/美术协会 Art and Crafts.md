@@ -65,7 +65,7 @@ their works confidently.</p>
 <p>Ms Wong Ru Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Wong_Ru_Yi@schools.gov.sg</a>
+<p><a href="mailto:Wong_Ru_Yi@schools.gov.sg" rel="noopener nofollow" target="_blank">Wong_Ru_Yi@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

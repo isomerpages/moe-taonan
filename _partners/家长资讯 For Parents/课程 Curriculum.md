@@ -19,7 +19,9 @@ variant: tiptap
 <hr>
 <h3>Curriculum Briefing Slides</h3>
 <p>2026</p>
-<p><a href="https://tinyurl.com/2026P1Curriculuminfo" rel="noopener nofollow" target="_blank">P1 Curriculum Briefing Slides </a>
+<p><a href="https://tinyurl.com/2026P1Curriculuminfo" rel="noopener nofollow" target="_blank">P1 Curriculum Briefing Slides</a>
+</p>
+<p><a href="https://tinyurl.com/2026P2Curriculuminfo" rel="noopener nofollow" target="_blank">P2 Curriculum Briefing Slides</a> 
 </p>
 <h3>Booklist</h3>
 <p>Click to download:</p>

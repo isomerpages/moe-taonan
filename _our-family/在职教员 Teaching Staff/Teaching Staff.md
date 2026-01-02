@@ -430,7 +430,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Goh-Kwok Soek Fong</p>
+<p>Mdm Kok Lee Yook</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>kok_lee_yook@schools.gov.sg</u>
@@ -439,7 +439,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Kwok Soek Fong [郭素坊]</p>
+<p>Mrs Goh-Kwok Soek Fong [郭素坊]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Kwok_Soek_Fong_Mrs@schools.gov.sg</u>

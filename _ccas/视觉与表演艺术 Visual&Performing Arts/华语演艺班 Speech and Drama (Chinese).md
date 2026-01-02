@@ -47,18 +47,6 @@ poetry recitation, cross-talk, story-telling, drama and speech and drama.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Poh Cheng Yee [傅静瑜]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zhao_yan_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_yan_fen@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Zhao Yanfen [赵艳芬]</p>
 </td>
 <td rowspan="1" colspan="1">

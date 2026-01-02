@@ -430,7 +430,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Kwek Lee Yook</p>
+<p>Mrs Goh-Kwok Soek Fong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>kok_lee_yook@schools.gov.sg</u>

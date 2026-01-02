@@ -47,6 +47,18 @@ for challenges on and off the table.</p>
 <p>Overall IC</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Niu Zi Bin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:niu_zi_bin@schools.gov.sg" rel="noopener nofollow" target="_blank">niu_zi_bin@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

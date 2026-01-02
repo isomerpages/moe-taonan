@@ -55,10 +55,11 @@ empowering and enabling every girl to be a leader.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chng Pau Ling Beatrice</p>
+<p>Mdm Wang Binxin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chng_pau_ling_beatrice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_pau_ling_beatrice@schools.gov.sg</a>&nbsp;</p>
+<p><a href="mailto:wang_binxin@schools.gov.sg" rel="noopener nofollow" target="_blank">wang_binxin@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

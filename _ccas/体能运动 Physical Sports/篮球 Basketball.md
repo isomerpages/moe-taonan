@@ -79,34 +79,10 @@ building their competitive edge and applying their training in real games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Chi Huey</p>
+<p>Ms Dulcie Lim Shao Jian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_chii_huey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chii_huey@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Overall 2IC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chong Zhi Howe Kenneth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chong_zhi_howe_kenneth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_zhi_howe_kenneth@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Ng Lay Kuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_lay_kuan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lay_kuan_a@schools.gov.sg</a>
+<p><a href="mailto:dulcie_lim_shao_jian@schools.gov.sg" rel="noopener nofollow" target="_blank">dulcie_lim_shao_jian@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,7 +108,30 @@ building their competitive edge and applying their training in real games.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:daud_teo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daud_teo@moe.edu.sg</a>
 </p>
-<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Ng Lay Kuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_lay_kuan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lay_kuan_a@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chong Zhi Howe Kenneth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chong_zhi_howe_kenneth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_zhi_howe_kenneth@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -144,18 +143,6 @@ building their competitive edge and applying their training in real games.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pang_say_wak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_say_wak@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Welzl Nicolas Xin Qiao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:welzl_Nicolas_Xin_Qiao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>welzl_nicolas_xin_Qiao@schools.gov.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

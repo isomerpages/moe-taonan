@@ -50,10 +50,10 @@ their works confidently.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wan Xifei [万希飞]</p>
+<p>Ms Vaswani Deepa Hiro</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wan_xifei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wan_xifei@schools.gov.sg</a>
+<p><a href="mailto:vaswani_deepa_hiro@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vaswani_deepa_hiro@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,10 +62,10 @@ their works confidently.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vaswani Deepa Hiro</p>
+<p>Ms Wong Ru Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vaswani_deepa_hiro@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vaswani_deepa_hiro@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Wong_Ru_Yi@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

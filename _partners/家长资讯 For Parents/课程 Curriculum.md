@@ -29,7 +29,7 @@ variant: tiptap
 </p>
 <p><a href="https://tinyurl.com/2026P5Curriculuminfo" rel="noopener nofollow" target="_blank">P5 Curriculum Briefing Slides</a>
 </p>
-<p><a href="https://tinyurl.com/2026P6Curriculuminfo" rel="noopener nofollow" target="_blank">P6 Curriculum Briefing Slides</a> 
+<p><a href="https://tinyurl.com/2026P6Curriculuminfo" rel="noopener nofollow" target="_blank">P6 Curriculum Briefing Slides</a>
 </p>
 <h3>Booklist</h3>
 <p>Click to download:</p>

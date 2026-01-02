@@ -18,7 +18,19 @@ variant: tiptap
 </ul>
 <hr>
 <h3>Curriculum Briefing Slides</h3>
-<p>Under Construction</p>
+<p>2026</p>
+<p><a href="https://tinyurl.com/2026P1Curriculuminfo" rel="noopener nofollow" target="_blank">P1 Curriculum Briefing Slides</a>
+</p>
+<p><a href="https://tinyurl.com/2026P2Curriculuminfo" rel="noopener nofollow" target="_blank">P2 Curriculum Briefing Slides</a>
+</p>
+<p><a href="https://tinyurl.com/2026P3Curriculuminfo" rel="noopener nofollow" target="_blank">P3 Curriculum Briefing Slides</a>
+</p>
+<p><a href="https://tinyurl.com/2026P4Curriculuminfo" rel="noopener nofollow" target="_blank">P4 Curriculum Briefing Slides</a>
+</p>
+<p><a href="https://tinyurl.com/2026P5Curriculuminfo" rel="noopener nofollow" target="_blank">P5 Curriculum Briefing Slides</a>
+</p>
+<p><a href="https://tinyurl.com/2026P6Curriculuminfo" rel="noopener nofollow" target="_blank">P6 Curriculum Briefing Slides</a>
+</p>
 <h3>Booklist</h3>
 <p>Click to download:</p>
 <p><a href="/files/Partners/For Parents/2026_P1.pdf" rel="noopener nofollow" target="_blank">2026 P1 Booklist</a>
@@ -134,6 +146,7 @@ lessons</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>

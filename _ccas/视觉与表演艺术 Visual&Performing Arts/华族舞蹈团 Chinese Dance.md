@@ -69,6 +69,18 @@ and exposing them to various types of dancing styles.</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ang Sio Hoon [洪小芬]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_sio_hoon@schools.gov.sg" rel="noopener nofollow" target="_blank">ang_sio_hoon@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

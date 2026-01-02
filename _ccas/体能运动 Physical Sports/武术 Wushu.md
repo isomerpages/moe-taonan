@@ -49,10 +49,10 @@ and open hand techniques.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Samantha Evon Chia Chin Mei</p>
+<p>Mdm Looi Yen Mei Wendy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:samantha_evon_chia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_evon_chia@schools.gov.sg</a>
+<p><a href="mailto:looi_yen_mei_wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">looi_yen_mei_wendy@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,10 +73,10 @@ and open hand techniques.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Foo Siang Yong</p>
+<p>Mdm Clare Li Xunzi [李勋子]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:foo_siang_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_siang_yong@schools.gov.sg</a>
+<p><a href="mailto:clare_li_xunzi@schools.gov.sg" rel="noopener nofollow" target="_blank">clare_li_xunzi@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,10 +85,10 @@ and open hand techniques.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Looi Yen Mei Wendy</p>
+<p>Mr Foo Siang Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">looi_yen_mei_wendy@schools.gov.sg</a>
+<p><a href="mailto:foo_siang_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_siang_yong@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

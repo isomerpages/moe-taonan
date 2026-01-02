@@ -68,6 +68,18 @@ applications of science.</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Hwee Jing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_hwee_jing@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_hwee_jing@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

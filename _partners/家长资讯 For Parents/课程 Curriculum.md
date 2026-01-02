@@ -18,7 +18,9 @@ variant: tiptap
 </ul>
 <hr>
 <h3>Curriculum Briefing Slides</h3>
-<p>Under Construction</p>
+<p>2026</p>
+<p><a href="https://tinyurl.com/2026P1Curriculuminfo" rel="noopener nofollow" target="_blank">P1 Curriculum Briefing Slides </a>
+</p>
 <h3>Booklist</h3>
 <p>Click to download:</p>
 <p><a href="/files/Partners/For Parents/2026_P1.pdf" rel="noopener nofollow" target="_blank">2026 P1 Booklist</a>

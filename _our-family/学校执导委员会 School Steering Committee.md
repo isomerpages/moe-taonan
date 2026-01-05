@@ -1152,23 +1152,24 @@ variant: tiptap
 <p>47</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>林伟明</p>
+<p>邝美川　</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>三四年级 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a href="mailto:lim_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_ming@schools.gov.sg</a>
+<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">fong_mei_chuan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Wei Ming</p>
+<p>Mrs Ashley How (Fong Mei Chuan)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head P3/P4</p>
+<p>Year Head P3 &amp; P4</p>
 </td>
 </tr>
 <tr>
@@ -1225,19 +1226,19 @@ variant: tiptap
 <p>50</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>邝美川</p>
+<p>林伟明</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>五六年级 (主任)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">fong_mei_chuan@schools.gov.sg</a>
+<p><a href="mailto:lim_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_ming@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ashley How (Fong Mei Chuan)</p>
+<p>Mr Lim Wei Ming</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head P5 &amp; P6</p>

@@ -1152,23 +1152,23 @@ variant: tiptap
 <p>47</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>潘美燕</p>
+<p>林伟明</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>三四年级 (助理主任)</p>
+<p>三四年级 (主任)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">phua_mei_yan@schools.gov.sg</a>
+<p><a href="mailto:lim_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_ming@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Phua Mei Yan</p>
+<p>Mr Lim Wei Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asst. Year Head P3 &amp; P4</p>
+<p>Year Head P3/P4</p>
 </td>
 </tr>
 <tr>
@@ -1176,22 +1176,23 @@ variant: tiptap
 <p>48</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>林伟明</p>
+<p>潘美燕</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>三四年级 (助理主任)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:lim_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_ming@schools.gov.sg</a>
+<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">phua_mei_yan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Wei Ming</p>
+<p>Mdm Phua Mei Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asst. Year Head P3/P4</p>
+<p>Asst. Year Head P3 &amp; P4</p>
 </td>
 </tr>
 <tr>

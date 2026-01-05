@@ -1229,7 +1229,7 @@ variant: tiptap
 <p>林伟明</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>五六年级 (主任)</p>
+<p>五六年级 (助理主任)</p>
 </td>
 <td rowspan="2" colspan="1">
 <p><a href="mailto:lim_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_ming@schools.gov.sg</a>
@@ -1241,7 +1241,7 @@ variant: tiptap
 <p>Mr Lim Wei Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head P5 &amp; P6</p>
+<p>Asst Year Head P5 &amp; P6</p>
 </td>
 </tr>
 <tr>

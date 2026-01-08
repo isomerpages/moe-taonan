@@ -1,4 +1,6 @@
 contact_us: /contact-us/
 show_reach: true
 faq: /faq/
-social_media: {}
+social_media:
+  facebook: https://www.facebook.com/share/v/17tNbMrdDD
+  instagram: https://www.instagram.com/reel/DS8nl4fEauO

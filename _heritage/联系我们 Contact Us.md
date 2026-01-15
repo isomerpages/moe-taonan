@@ -16,5 +16,45 @@ variant: tiptap
 <br><strong>Fax:</strong>&nbsp;6443 5973
 <br><strong>Email:</strong>&nbsp;<a href="mailto:taonan_sch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">taonan_sch@moe.edu.sg</a>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Instagram</p>
+<p>Visit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Facebook</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Instagram_QR_code.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facebook_QR_code.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>Nearest MRT Station:</strong> 
 <br>Marine Parade (Exit 2) and Marine Terrace (Exit 2)</p>

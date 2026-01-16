@@ -5,10 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h4>Alumni Homecoming</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tao Nan School Alumni Homecoming" src="/images/Announcement/Alumni_Homecoming___School_Anniversary_2025.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni_Homecoming___CNY.jpg">
+</div>
 <hr>
 <p></p>
 <hr>

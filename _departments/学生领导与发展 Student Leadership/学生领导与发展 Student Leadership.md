@@ -49,8 +49,8 @@ Monitor)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School-wide ambassadorship/ Service appointments
-<br>(NE Ambassador, Green Activist, Media Leader, Cyber Wellness Ambassador
-and Peer Support Leader)</p>
+<br>(NE Ambassador, Green Activist, Media Leader, Cyber Wellness Ambassador,
+Peer Support Leader and PE Leader)</p>
 </td>
 </tr>
 <tr>

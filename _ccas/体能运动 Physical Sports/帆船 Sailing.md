@@ -14,8 +14,6 @@ and seamanship.</p>
 <p>Our sailors gain confidence and accomplishment from being able to man
 their own Optimist boats, while the sport itself instils in them courage
 and a sense of adventure.</p>
-<p><strong><u>2025</u></strong>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

@@ -10,8 +10,6 @@ variant: tiptap
 will be trained in various skills and allowed to participate in track and
 field events in which they excel. Members will also train at Bedok Stadium
 in preparation for NSG and SHHK Sports Day.</p>
-<p><strong><u>2025</u></strong>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

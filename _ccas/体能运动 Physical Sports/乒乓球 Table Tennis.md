@@ -14,7 +14,6 @@ and life skills.</p>
 teamwork and sportsmanship. Students engage in structured lessons and activities
 that build character, perseverance and a growth mindset, preparing them
 for challenges on and off the table.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

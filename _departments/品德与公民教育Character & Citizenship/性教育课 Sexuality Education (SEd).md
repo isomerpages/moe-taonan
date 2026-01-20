@@ -26,7 +26,7 @@ sexuality matters.</p>
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
 <p></p>
-<p>&nbsp;3. The Key Messages of Sexuality Education are:</p>
+<p>&nbsp;3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
 <p>(a) Love and respect yourself as you love and respect others;</p>
 <p>(b) Build positive relationships based on love and respect (which are
 the foundation for strong families);</p>
@@ -38,7 +38,7 @@ ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<h3>OVERVIEW OF TAO NAN SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</h3>
+<h3>OVERVIEW OF TAO NAN SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</h3>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -47,7 +47,8 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>5. The subjects that incorporate topics on sexuality include:</p>
 <p>a. Science
 <br>b. Character and Citizenship Education (CCE)</p>
-<p>Sexuality Education Lessons:</p>
+<p><strong>Sexuality Education Lessons</strong>
+</p>
 <p>6. The upper primary years mark the onset of puberty. With better nutrition
 and improved health care, children are reaching puberty at a younger age
 and have to grapple with physical, emotional and psychological changes
@@ -66,10 +67,10 @@ with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
 <p></p>
-<h4><strong>At Tao Nan School, the following Sexuality Education lessons will be taught in 2025:</strong></h4>
+<h4><strong>At Tao Nan School, the following Sexuality Education lessons will be taught in 2026:</strong></h4>
 <p></p>
 <blockquote>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
 </blockquote>
 <p><strong>Primary 5</strong>
 </p>
@@ -119,7 +120,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -133,13 +134,13 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 it can affect themselves and others. Students will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
-</p>
+own responses when they encounter pornography by applying the strategy
+‘<strong>Stop-Think-Do</strong>’.</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +158,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -214,7 +215,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -236,13 +237,15 @@ and learn to behave maturely towards each other.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><br></strong>INFORMATION FOR PARENTS</p>
+<p><strong><br>INFORMATION FOR PARENTS</strong>
+</p>
 <p>8. Parents may opt their children out of Sexuality Education lessons,
 and/or supplementary Sexuality Education programmes by MOE-approved external
 providers.</p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also accessible <a href="https://go.gov.sg/sexuality-education-parent-opt-out-form-2025-tao-nan-school" rel="noopener nofollow" target="_blank">here</a> .
-The completed opt-out form is to be submitted by 28/03/2025.</p>
-<p>10. Parents can contact the school at (64428307 or <a href="mailto:taonan_sch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">taonan_sch@moe.edu.sg</a>) for discussion
-or to seek clarification about the school’s Sexuality Education programme.</p>
+to parents at the start of the year and is also available <a href="https://form.gov.sg/69635e7abf7a09a4f5d0311a" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 2 February 2026.</p>
+<p>10. Parents can contact the school at 6442 8307 or email us at <a href="mailto:taonan_sch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">taonan_sch@moe.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>

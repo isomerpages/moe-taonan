@@ -11,8 +11,6 @@ and CCA members.</p>
 and individual tournaments. As for the P3 to P6 CCA members, our weekly
 sessions are purely recreational by nature, though all relevant badminton
 skills are also imparted at the sessions.</p>
-<p><strong><u>2025</u></strong>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

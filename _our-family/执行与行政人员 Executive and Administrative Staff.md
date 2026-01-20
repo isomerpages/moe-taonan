@@ -97,7 +97,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:admin_taonan_sch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admin_taonan_sch@moe.edu.sg</a>
+<p><a href="mailto:tengku_ibrahim_tengku_ab@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">admin_taonan_sch@moe.edu.sg</a>
 </p>
 </td>
 </tr>

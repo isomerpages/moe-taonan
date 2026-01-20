@@ -14,8 +14,6 @@ it to be one of the most exciting and dynamic forms of martial arts.</p>
 training improves strength, stamina and flexibility, whilst speed, control
 and balance are developed through repetitive movements that include kicking
 and open hand techniques.</p>
-<p><strong><u>2025</u></strong>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

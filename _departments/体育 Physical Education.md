@@ -168,8 +168,5 @@ sincerity and integrity.</p>
 </tr>
 </tbody>
 </table>
-<p><a href="/files/2025_P5_Camp_Parents__Briefing_5A_5F_20_Feb_compressed.pdf" rel="noopener nofollow" target="_blank">Primary 5 - 3D2N Outdoor Residential Camp 2025 Primary 5 A_5F.PDF</a>
-</p>
-<p><a href="/files/2025_P5_Camp_Parents__Briefing_5G_5L_20_Feb_compressed.pdf" rel="noopener nofollow" target="_blank">Primary 5 - 3D2N Outdoor Residential Camp 2025 Primary 5 G_5L.PDF</a>
-</p>
+<p></p>
 <p></p>

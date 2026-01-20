@@ -9,8 +9,6 @@ variant: tiptap
 and building. The girls bond and build friendships during their training
 sessions and also acquire the skills of the game. Through their team efforts
 and camaraderie, the girls have found netball fun and exciting.</p>
-<p><strong><u>2025</u></strong>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

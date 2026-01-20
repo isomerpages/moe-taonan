@@ -46,8 +46,6 @@ like self-awareness, social awareness, and resilience.</p>
 <p>Basic knots</p>
 </li>
 </ul>
-<p><strong><u>2025</u></strong>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

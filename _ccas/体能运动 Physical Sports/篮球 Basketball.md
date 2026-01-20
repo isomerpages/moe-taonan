@@ -44,8 +44,6 @@ building their competitive edge and applying their training in real games.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>2025</u></strong>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

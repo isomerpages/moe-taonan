@@ -85,7 +85,8 @@ variant: tiptap
 <p>Mdm Lee Seok Joo/Mdm Chng Pau Ling Beatrice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_seok_joo@schools.gov.sg/chng_pau_ling_beatrice@schools.gov.sg</p>
+<p>lee_seok_joo@schools.gov.sg</p>
+<p>chng_pau_ling_beatrice@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

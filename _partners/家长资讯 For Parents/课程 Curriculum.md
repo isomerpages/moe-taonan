@@ -19,6 +19,10 @@ variant: tiptap
 <hr>
 <h3>Curriculum Briefing Slides</h3>
 <p>2026</p>
+<p><a href="https://drive.google.com/file/d/1p0K4B-FP4mR_wZCqohNbJBH0Y2X43YKT/view?usp=drive_link" rel="noopener nofollow" target="_blank">Principal's Address for P3 and P4 Curriculum Briefing</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1E6XSGbUNW_dF_kjG3vzO_eIMQbH3tQGZ/view?usp=drive_link" rel="noopener nofollow" target="_blank">Principal's Address for P5 and P6 Curriculum Briefing</a>
+</p>
 <p><a href="https://tinyurl.com/2026P1Curriculuminfo" rel="noopener nofollow" target="_blank">P1 Curriculum Briefing Slides</a>
 </p>
 <p><a href="https://tinyurl.com/2026P2Curriculuminfo" rel="noopener nofollow" target="_blank">P2 Curriculum Briefing Slides</a>
@@ -107,12 +111,12 @@ lessons</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="315" width="380" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5gnLHBL5KlM?si=rw1FrMigFquV5l_m"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="380" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5gnLHBL5KlM?si=rw1FrMigFquV5l_m"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="315" width="380" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/M5ghgnm03BE?si=3oOAG3Sw9pNhZniF"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="380" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/M5ghgnm03BE?si=3oOAG3Sw9pNhZniF"></iframe>
 </div>
 </td>
 </tr>
@@ -135,12 +139,12 @@ lessons</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="315" width="380" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lNbr5rLSxAM?start=1"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="380" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lNbr5rLSxAM?start=1"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="315" width="380" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WOi1eoSiLMs?start=2"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="380" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WOi1eoSiLMs?start=2"></iframe>
 </div>
 </td>
 </tr>

@@ -28,13 +28,14 @@ third_nav_title: 服务供应商 School Service Providers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Cuisine (Noodle/Rice)</p>
+<p>Others
+<br>(Non-Halal, Open to Proposal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Dec 2025</p>
+<p>30 Apr 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zi Char food. School is open to proposals to a variety of Zi Char dishes.</p>
+<p>Preference is for Zi Char / Vegetarian food. School is open to proposals.</p>
 </td>
 </tr>
 </tbody>

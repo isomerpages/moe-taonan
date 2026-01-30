@@ -171,6 +171,9 @@ sincerity and integrity.</p>
 <p></p>
 <p><strong>Briefing Slides</strong>
 </p>
+<p>* 2026 P5 Camp Parents' Briefing (5A to 5F) (/files/Department/2026_P5Camp_Parents__Briefing_5A5F_29Jan26.pdf)</p>
+<p>* 2026 P5 Camp Parents' Briefing (5G to 5L) (/files/Department/2026_P5Camp_Parents__Briefing_5G5L_29Jan26.pdf)</p>
+<p></p>
 <p>* [2026 P5 Camp Parents' Briefing (5A to 5F)]
 <br>(/files/Department/2026 P5Camp Parents' Briefing 5A5F_29Jan26.pdf)</p>
 <p>* [2026 P5 Camp Parents' Briefing (5G to 5L)] (/files/Department/2026

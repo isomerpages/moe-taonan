@@ -32,7 +32,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener noreferrer nofollow" target="_blank">Claim Form for Group Personal Accident (GPA) insurance for Student</a>
+<p><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">Claim Form for Group Personal Accident (GPA) insurance for Student</a>
 </p>
 </li>
 </ul>

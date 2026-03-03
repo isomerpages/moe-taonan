@@ -177,6 +177,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Netball</strong>
 </p>
+<p><strong>(Girls)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays</p>
@@ -247,6 +249,8 @@ description: ""
 <tr>
 <td rowspan="4" colspan="1">
 <p><strong>Table-Tennis</strong>
+</p>
+<p><strong>(Boys)</strong>
 </p>
 </td>
 <td rowspan="2" colspan="1">

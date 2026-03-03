@@ -802,7 +802,7 @@ variant: tiptap
 <p>Mr Ang Thiam Poh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD - Special Assistance Plan 特选部（主任）</p>
+<p>HOD - Special Assistance Plan</p>
 </td>
 </tr>
 <tr>
@@ -826,7 +826,7 @@ variant: tiptap
 <p>Mdm Chee Pey Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Special Assistance Plan 1 特选部（科主任1)</p>
+<p>SH - Special Assistance Plan 1</p>
 </td>
 </tr>
 <tr>
@@ -850,7 +850,7 @@ variant: tiptap
 <p>Mdm Hao Deyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Special Assistance Plan 2 特选部（科主任2)</p>
+<p>SH - Special Assistance Plan 2</p>
 </td>
 </tr>
 <tr>
@@ -1284,5 +1284,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 5 Jan 2026</strong>
+<p><strong>Updated on 3 Mar 2026</strong>
 </p>

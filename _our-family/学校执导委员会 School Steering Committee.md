@@ -789,7 +789,7 @@ variant: tiptap
 <p>翁添保</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>特备课程 - 中华文化 (主任)</p>
+<p>特选部（主任)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a href="mailto:ang_thiam_poh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_thiam_poh@schools.gov.sg</a>
@@ -802,7 +802,7 @@ variant: tiptap
 <p>Mr Ang Thiam Poh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD - Special Programme (SP) (Chinese Culture)</p>
+<p>HOD - Special Assistance Plan</p>
 </td>
 </tr>
 <tr>
@@ -813,7 +813,7 @@ variant: tiptap
 <p>纪佩妤</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>特备课程 - 中华文化 (科主任1)</p>
+<p>特选部（科主任1)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a href="mailto:chee_pey_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chee_pey_yi@schools.gov.sg</a>
@@ -837,7 +837,7 @@ variant: tiptap
 <p>郝德奕</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>特备课程&nbsp;-&nbsp;中华文化&nbsp;(科主任2)</p>
+<p>特选部（科主任2)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a href="mailto:hao_deyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hao_deyi@schools.gov.sg</a>
@@ -1284,5 +1284,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 5 Jan 2026</strong>
+<p><strong>Updated on 3 Mar 2026</strong>
 </p>

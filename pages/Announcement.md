@@ -4,13 +4,8 @@ permalink: /announcement/
 description: ""
 variant: tiptap
 ---
-<h4>Alumni Homecoming</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni_Homecoming___CNY.jpg">
-</div>
 <hr>
-<p></p>
 <hr>
 <h4>President's Award for Teachers</h4>
 <p>Nominate an inspiring teacher or colleague for this prestigious award
@@ -28,9 +23,7 @@ by scanning the QR code or heading to <a href="https://go.gov.sg/oyea2026" rel="
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Outstanding Youth in Education Award" src="/images/OYEA.jpg">
 </div>
-<p></p>
 <hr>
-<p></p>
 <hr>
 <p><strong><u>道南学校120周年校庆徽标及主题征集活动</u></strong>
 </p>

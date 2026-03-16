@@ -271,7 +271,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2H</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -288,14 +288,24 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 2
-<br>English
 <br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Grace-Clemence Wong Ying Qi</p>
+<p>Mdm Lim Hwee Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_ying_qi@schools.gov.sg</p>
+<p>lim_hwee_kheng_a@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Meng Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_meng_hong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -386,10 +396,10 @@ variant: tiptap
 <p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Hon Shin Clifton</p>
+<p>Ms Wong Ru Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_hon_shin_clifton@schools.gov.sg</p>
+<p>wong_ru_yi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

@@ -73,7 +73,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>4B</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,6 +98,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_yen_ping@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Poh Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chan_poh_chin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -408,7 +419,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>4I</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -433,6 +444,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lin_yao@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Choon Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teo_choon_meng_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

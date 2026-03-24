@@ -226,10 +226,11 @@ variant: tiptap
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lin Yao Chloe</p>
+<p>Ms Lin Yao Chloe /
+<br>Mdm Lim Hwee Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lin_yao@schools.gov.sg</p>
+<p>lin_yao@schools.gov.sg lim_hwee_kheng_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -443,5 +444,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 2 Jan 2026</strong>
+<p><strong>Updated on 16 Mar 2026</strong>
 </p>

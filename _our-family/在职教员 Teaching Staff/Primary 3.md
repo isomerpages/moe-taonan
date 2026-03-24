@@ -34,7 +34,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,6 +58,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>foo_siang_yong@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Darren Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>darren_tan_yi_chen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -537,5 +548,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 2 Jan 2026</strong>
+<p><strong>Updated on 16 Mar 2026</strong>
 </p>

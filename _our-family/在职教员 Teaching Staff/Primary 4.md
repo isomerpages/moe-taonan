@@ -570,10 +570,10 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kim Snodgrass</p>
+<p>Mr Chan Poh Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kim_christine_lim_mui_a@schools.gov.sg</p>
+<p>chan_poh_chin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -629,10 +629,10 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kim Snodgrass</p>
+<p>Mr Chan Poh Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kim_christine_lim_mui_a@schools.gov.sg</p>
+<p>chan_poh_chin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

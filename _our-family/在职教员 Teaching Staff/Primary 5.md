@@ -504,10 +504,10 @@ variant: tiptap
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Hwee Kheng</p>
+<p>Mr Darren Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_hwee_kheng_a@schools.gov.sg</p>
+<p>darren_tan_yi_chen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -639,10 +639,10 @@ variant: tiptap
 <p>Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Hwee Kheng</p>
+<p>Mr Darren Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_hwee_kheng_a@schools.gov.sg</p>
+<p>darren_tan_yi_chen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -672,5 +672,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 2 Jan 2026</strong>
+<p><strong>Updated on 26 Mar 2026</strong>
 </p>

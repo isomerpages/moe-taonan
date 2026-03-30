@@ -46,13 +46,13 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Brian Yeo Qiyang</p>
+<p>Ms Sharanya Vijayakumar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">brian_yeo_qiyang@schools.gov.sg</a>
+<p><a href="mailto:sharanya_vijayakumar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharanya_vijayakumar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -118,5 +118,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 02 January 2025</strong>
+<p><strong>Updated on 26 March 2026</strong>
 </p>

@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 新闻动态 TNS in Media
 ---
+<h3>Our STEM Journey featured in the Korean Media</h3>
 <p>Tao Nan School was featured in the Korean media outlet, Seoul Shinmun,
 in an article on Singapore’s STEM education landscape. The feature highlighted
 our Applied Learning Programme (ALP) in AI and robotics, showcasing how

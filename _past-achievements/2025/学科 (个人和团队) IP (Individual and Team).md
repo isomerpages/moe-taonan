@@ -6,8 +6,7 @@ description: ""
 third_nav_title: "2025"
 ---
 <h3>2025</h3>
-<p><strong>Updated on 25 Nov 2025</strong>
-</p>
+<h3><strong><sub>Updated on 25 Nov 2025 </sub></strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

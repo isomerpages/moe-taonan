@@ -971,7 +971,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Mikaela Lee Zhen (3E)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior 1 (P3 &amp; P4 Boys) (P1 &amp; P2 - Age Dispensation) Team</p>
+<p><u>Junior 1 (P3 &amp; P4 Boys) (P1 &amp; P2) Team</u>
+</p>
 </td>
 </tr>
 <tr>

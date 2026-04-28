@@ -538,6 +538,31 @@ third_nav_title: 今年荣誉 Current Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Boys' Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>JM Fraser Award for Excellence</strong>
+</p>
+<p><strong>[41J Singapore Company]</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Sailing</p>
 </td>
 <td rowspan="1" colspan="1">

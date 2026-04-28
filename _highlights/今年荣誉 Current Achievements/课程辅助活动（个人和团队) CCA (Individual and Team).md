@@ -544,7 +544,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>JM Fraser Award for Excellence </strong>
+<p><strong>JM Fraser Award for Excellence</strong>
 </p>
 <p><strong>[41J Singapore Company]</strong>
 </p>

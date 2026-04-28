@@ -719,7 +719,7 @@ third_nav_title: 今年荣誉 Current Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Junior 2 </u>
+<p><u>Junior 2</u>
 </p>
 <p><u>(P5 Girls) Team</u>
 </p>

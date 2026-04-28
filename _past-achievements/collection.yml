@@ -2,6 +2,7 @@ collections:
   past-achievements:
     output: true
     order:
+      - 2026/2025.md
       - 2026/.keep
       - 2025/学科 (个人和团队) IP (Individual and Team).md
       - 2025/课程辅助活动（个人和团队) CCA (Individual and Team).md

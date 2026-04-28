@@ -4,6 +4,7 @@ permalink: /achievements/past-achievements/
 description: ""
 variant: markdown
 ---
+ [2025](https://www.taonan.moe.edu.sg/past-achievements/2025/cca-individual-and-team/)
 * [2024](https://www.taonan.moe.edu.sg/past-achievements/2024/cca-individual-and-team/)
 * [2023](https://www.taonan.moe.edu.sg/past-achievements/2023/cca-individual-and-team/)
 * [2022](https://www.taonan.moe.edu.sg/past-achievements/2022/cca-individual-and-team/)
@@ -15,4 +16,4 @@ variant: markdown
 * [2016](https://www.taonan.moe.edu.sg/achievements/past-achievements/2016/individual)
 
 
-**Updated on 09 April 2025**
+**Updated on 27 April 2026**

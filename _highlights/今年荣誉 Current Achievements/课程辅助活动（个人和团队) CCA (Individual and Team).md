@@ -65,7 +65,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation (SYF AP) 2026</p>
+<p><strong>Singapore Youth Festival Arts Presentation (SYF AP) 2026</strong>
+</p>
 </td>
 </tr>
 <tr>

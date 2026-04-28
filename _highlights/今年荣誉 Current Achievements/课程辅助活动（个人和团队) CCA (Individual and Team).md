@@ -249,7 +249,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Toby Gan (2D) 10th at East Zone</p>
+<p>Toby Gan (2D)</p>
+<p>10th at East Zone</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -321,7 +322,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Song Bo'an (4G) 1st at East Zone</p>
+<p>Song Bo'an (4G)</p>
+<p>1st at East Zone</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -545,9 +547,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>JM Fraser Award for Excellence</strong>
-</p>
-<p><strong>[41J Singapore Company]</strong>
+<p><strong>JM Fraser Award for Excellence [41J Singapore Company]</strong>
 </p>
 </td>
 </tr>

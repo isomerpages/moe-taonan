@@ -487,7 +487,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><u>&nbsp;</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction Award</p>
@@ -899,7 +900,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><u>&nbsp;</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction Award</p>

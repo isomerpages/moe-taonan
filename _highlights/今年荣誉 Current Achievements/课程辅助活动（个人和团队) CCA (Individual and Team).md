@@ -39,7 +39,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Brownies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>World Thinking Day Patch Design Competition&nbsp;</p>
+<p><strong>World Thinking Day Patch Design Competition&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -58,7 +59,7 @@ third_nav_title: 今年荣誉 Current Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese</p>
+<p>Chinese Dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -69,7 +70,7 @@ third_nav_title: 今年荣誉 Current Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dance</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -80,18 +81,19 @@ third_nav_title: 今年荣誉 Current Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese</p>
+<p>Chinese Orchestra</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation (SYF AP) 2026</p>
+<p><strong>Singapore Youth Festival Arts Presentation (SYF AP) 2026</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Orchestra</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -109,7 +111,8 @@ third_nav_title: 今年荣誉 Current Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation (SYF AP) 2026</p>
+<p><strong>Singapore Youth Festival Arts Presentation (SYF AP) 2026</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -125,13 +128,14 @@ third_nav_title: 今年荣誉 Current Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Guzheng</p>
+<p>Guzheng Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation (SYF AP) 2026</p>
+<p><strong>Singapore Youth Festival Arts Presentation (SYF AP) 2026</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +154,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>International Chess</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>77th National School Individual Chess Championship 2026</p>
+<p><strong>77th National School Individual Chess Championship 2026</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -158,7 +163,8 @@ third_nav_title: 今年荣誉 Current Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Under 8 Girls</p>
+<p><u>Under 8 Girls</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>&nbsp;</u>
@@ -170,7 +176,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhang Ningxin (2L) 4th at National and 2nd at East Zone</p>
+<p>Zhang Ningxin (2L)</p>
+<p>4th at National and 2nd at East Zone</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -181,7 +188,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kwek Ming Yue Adrina (2B) 4th at East Zone</p>
+<p>Kwek Ming Yue Adrina (2B)</p>
+<p>4th at East Zone</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -192,7 +200,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fu Fangrui, Valene (2F) 9th at East Zone</p>
+<p>Fu Fangrui, Valene (2F)</p>
+<p>9th at East Zone</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -203,7 +212,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Under 8 Open</p>
+<p><u>Under 8 Open</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -214,7 +224,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhang Ningxin (2L) 19th at National</p>
+<p>Zhang Ningxin (2L)</p>
+<p>19th at National</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -225,7 +236,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Phoa Rui Yang, Ezra (2F) 6th at East Zone</p>
+<p>Phoa Rui Yang, Ezra (2F)</p>
+<p>6th at East Zone</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -247,7 +259,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Under 10 Girls</p>
+<p><u>Under 10 Girls</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>&nbsp;</u>
@@ -259,7 +272,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kwee Shin Yee (4H) 11th at National and 2nd at East Zone</p>
+<p>Kwee Shin Yee (4H)</p>
+<p>11th at National and 2nd at East Zone</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -270,7 +284,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Jing Qi Ashley (4J) 13th at National and 3rd at East Zone</p>
+<p>Ng Jing Qi Ashley (4J)</p>
+<p>13th at National and 3rd at East Zone</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -281,7 +296,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lin Miaoyan (4F) 8th at East Zone</p>
+<p>Lin Miaoyan (4F)</p>
+<p>8th at East Zone</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -292,7 +308,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Under 10 Open</p>
+<p><u>Under 10 Open</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -314,7 +331,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhang Yuming (4F) 3rd at East Zone</p>
+<p>Zhang Yuming (4F)</p>
+<p>3rd at East Zone</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -325,7 +343,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cao Bangting (4G) 4th at East Zone</p>
+<p>Cao Bangting (4G)</p>
+<p>4th at East Zone</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>&nbsp;</u>
@@ -337,7 +356,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Under 12 Girls</p>
+<p><u>Under 12 Girls</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -348,7 +368,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cao Bangling (6J) 12th at National and 4th at East Zone</p>
+<p>Cao Bangling (6J)</p>
+<p>12th at National and 4th at East Zone</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -359,7 +380,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kelly Ku Yu Ting (5J) 10th at East Zone</p>
+<p>Kelly Ku Yu Ting (5J)</p>
+<p>10th at East Zone</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -370,7 +392,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Under 12 Open</p>
+<p><u>Under 12 Open</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -392,7 +415,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Chin Han (6G) 4th at East Zone</p>
+<p>Wong Chin Han (6G)</p>
+<p>4th at East Zone</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>&nbsp;</u>
@@ -404,7 +428,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Euan Loh Kai Ern (6K) 7th at East Zone</p>
+<p>Euan Loh Kai Ern (6K)</p>
+<p>7th at East Zone</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -415,10 +440,12 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Girls' Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Brigader Brooch (JBB) 2026</p>
+<p><strong>Junior Brigader Brooch (JBB) 2026</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Girls' Brigade Singapore Company Award 2026</p>
+<p><strong>The Girls' Brigade Singapore Company Award 2026</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -514,10 +541,11 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Sailing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games (NSG) Sailing 2026</p>
+<p><strong>National School Games (NSG) Sailing 2026</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CSC Optimist Championship 2026</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -525,10 +553,11 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Optimist Junior Girls White Fleet</p>
+<p><u>Optimist Junior Girls White Fleet</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Slider Fleet Novice</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -539,7 +568,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Qi Tan (5F) 4th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adele Chiang (3E) 3rd position</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -547,7 +576,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Optimist Junior Boys White Fleet</p>
+<p><u>Optimist Junior Boys White Fleet</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -603,7 +633,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Boys - Optimist</p>
+<p><u>Senior Boys - Optimist</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -625,7 +656,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Optimist Junior Girls Green Fleet</p>
+<p><u>Optimist Junior Girls Green Fleet</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -670,10 +702,12 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Swimming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games (NSG) Swimming 2026</p>
+<p><strong>National School Games (NSG) Swimming 2026</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games (NSG) Swimming 2026</p>
+<p><strong>National School Games (NSG) Swimming 2026</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -681,10 +715,14 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior (P6 Girls)</p>
+<p><u>Senior (P6 Girls)</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior 2 (P5 Girls) Team</p>
+<p><u>Junior 2 </u>
+</p>
+<p><u>(P5 Girls) Team</u>
+</p>
 </td>
 </tr>
 <tr>
@@ -747,7 +785,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior 2 (P5 Girls)</p>
+<p><u>Junior 2 (P5 Girls)</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -761,7 +800,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Tan Ruixian Rachel (5J)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior 1 (P3 &amp; P4 Girls) (P1 &amp; P2 - Age Dispensation) Team</p>
+<p><u>Junior 1 (P3 &amp; P4 Girls) (P1 &amp; P2) Team</u>
+</p>
 </td>
 </tr>
 <tr>
@@ -868,7 +908,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior 1 (P3 &amp; P4 Girls) (P1 &amp; P2 - Age Dispensation)</p>
+<p><u>Junior 1 (P3 &amp; P4 Girls) (P1 &amp; P2)</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3. Fly - Chiu Le Xuan Elizabeth (4B)</p>
@@ -1044,7 +1085,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior 1 (P3 &amp; P4 Boys) (P1 &amp; P2 - Age Dispensation)</p>
+<p><u>Junior 1 (P3 &amp; P4 Boys) (P1 &amp; P2)</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1278,7 +1320,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games (NSG) Table Tennis League 2 (Top 8)</p>
+<p><strong>National School Games (NSG) Table Tennis League 2 (Top 8)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1374,30 +1417,22 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games (NSG) Wushu 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Individual Events</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>&nbsp;</u>
+<p><strong>National School Games (NSG) Wushu 2026</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Girls&nbsp;</p>
+<p><u>Individual Events</u>
+</p>
+<p><u>Junior Girls</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>&nbsp;</u>
@@ -1454,7 +1489,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Boys</p>
+<p><u>Junior Boys</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>&nbsp;</u>
@@ -1721,7 +1757,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Girls</p>
+<p><u>Senior Girls</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -1776,7 +1813,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Others</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>ACHIEVEMENT (National)</p>
+<p><strong>ACHIEVEMENT (National)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1795,7 +1833,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games (NSG) Tennis 2026</p>
+<p><strong>National School Games (NSG) Tennis 2026</strong>
+</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>&nbsp;</p>
@@ -1806,7 +1845,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Division Boys Singles League 1</p>
+<p><u>Senior Division Boys Singles League 1</u>
+</p>
 </td>
 </tr>
 <tr>
@@ -1826,7 +1866,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Division Girls Singles League 4</p>
+<p><u>Senior Division Girls Singles League 4</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>

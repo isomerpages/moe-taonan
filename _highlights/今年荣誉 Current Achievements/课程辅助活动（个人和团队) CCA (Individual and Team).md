@@ -1482,7 +1482,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>100m Back - 5th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Freestyle Relay - 4th</p>
+<p>4 x 25 Freestyle Relay - 4th</p>
 </td>
 </tr>
 <tr>
@@ -1548,7 +1548,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>50m Back &amp; 50m Breast - 7th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Medley Relay - 6th</p>
+<p>4 x 25 Medley Relay - 6th</p>
 </td>
 </tr>
 <tr>
@@ -1627,7 +1627,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>50m Fly - 7th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Freestyle Relay - 4th</p>
+<p>4 x 25 Freestyle Relay - 4th</p>
 </td>
 </tr>
 <tr>
@@ -1693,7 +1693,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>100M IM - 1st</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Medley Relay - 2nd</p>
+<p>4 x 25 Medley Relay - 2nd</p>
 </td>
 </tr>
 <tr>

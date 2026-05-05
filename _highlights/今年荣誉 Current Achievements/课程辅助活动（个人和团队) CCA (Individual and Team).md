@@ -352,7 +352,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Senior Division (Girls) - 1st / 2nd Placing</u>
+<p><u>Senior Division (Girls) - 2nd Placing</u>
 </p>
 </td>
 </tr>
@@ -518,7 +518,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Senior Division (Boys) - 1st / 2nd Placing</u>
+<p><u>Senior Division (Boys) - 1st Placing</u>
 </p>
 </td>
 </tr>

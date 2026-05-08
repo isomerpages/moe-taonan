@@ -187,7 +187,8 @@ variant: tiptap
 <p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="mailto:Tan_Lay_Goke@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Lay_Goke@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -209,7 +210,7 @@ variant: tiptap
 <p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Seah Teong Hwa</p>
+<p>Mr Soh Chin Teck</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -223,7 +224,7 @@ variant: tiptap
 <p>14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Soh Chin Teck</p>
+<p>Miss Tan Siew Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -237,20 +238,6 @@ variant: tiptap
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Tan Siew Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Teo Hai Guan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -262,7 +249,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;17</p>
+<p>&nbsp;16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sabariah Bte Hussin</p>
@@ -276,7 +263,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18</p>
+<p>17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Lay Lian</p>
@@ -290,7 +277,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19</p>
+<p>18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kris Khoo Tiong Gee</p>
@@ -305,7 +292,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20</p>
+<p>19</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Azmi</p>

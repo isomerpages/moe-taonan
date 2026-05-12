@@ -2780,6 +2780,135 @@ third_nav_title: 今年荣誉 Current Achievements
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bowling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games (NSG) Bowling 2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games (NSG) Bowling 2026</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Junior Girls</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Senior Boys</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Yu Ting Phylicia (5F) Singles - 4th position</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>(Doubles) 3rd position</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Senior Boys</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lyndon Lin Yi Sheng (5K)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lyndon Lin Yi Sheng (5K) Singles - 7th position</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Jing En Zayne (6H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>(Quartets) 2nd position</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>(Division) 4th position</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lyndon Lin Yi Sheng (5K)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Jing En Zayne (6H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>John Loh Jun En (6K)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jamie Tan Zhuo Le (6L)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

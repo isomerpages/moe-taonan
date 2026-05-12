@@ -6,7 +6,7 @@ description: ""
 third_nav_title: 今年荣誉 Current Achievements
 ---
 <h3>2026</h3>
-<p><strong>Updated on 4 May 2026</strong>
+<p><strong>Updated on 12 May 2026</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -1208,6 +1208,172 @@ third_nav_title: 今年荣誉 Current Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Netball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (NSG) Netball 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Senior Division (Team)</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Felicia Lim Geok (6A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Isabella Tan Li Qi (6A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sophie Rose Teo (6B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Melody Goh Yin Wen (6C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lin Xinrui (6D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tiong Ruiyan, Alyssa (6D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Su Yu Xuan (6H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Rui En Alyssa (6H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chow Wen Hui, Hayley (6I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Christine Cheng Juan Huei (6I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kaylee Ang Min Qi (6J)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Yuhan Colette (6K)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Zi Ying Elizabeth (6K)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Sailing</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1215,7 +1381,8 @@ third_nav_title: 今年荣誉 Current Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>CSC Optimist Championship 2026</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1227,7 +1394,8 @@ third_nav_title: 今年荣誉 Current Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><u>Slider Fleet Novice</u>
+</p>
 </td>
 </tr>
 <tr>
@@ -1238,7 +1406,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>Qi Tan (5F) 4th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Adele Chiang (3E) 3rd position</p>
 </td>
 </tr>
 <tr>
@@ -2554,6 +2722,62 @@ third_nav_title: 今年荣誉 Current Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Taekwondo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National School Games (NSG) Taekwondo Poomsae 2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Esther Joan Chan Xing En (2J) Junior Girl Green 5 - 8th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zachary Tsui Ho Yin (5G) Junior Boys Poom 2 - 4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loy Rui Xuan Levinne (6I) Senior Girls Poom 1 - 7th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Christine Cheng Juan Huei (6I) Senior Girls Poom 3 - 5th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

@@ -42,7 +42,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games (Badminton) 2026</p>
+<p><strong>National School Games (Badminton) 2026</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -341,7 +342,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games (NSG) Basketball 2026</p>
+<p><strong>National School Games (NSG) Basketball 2026</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1214,7 +1216,8 @@ third_nav_title: 今年荣誉 Current Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games (NSG) Netball 2026</p>
+<p><strong>National School Games (NSG) Netball 2026</strong>
+</p>
 </td>
 </tr>
 <tr>

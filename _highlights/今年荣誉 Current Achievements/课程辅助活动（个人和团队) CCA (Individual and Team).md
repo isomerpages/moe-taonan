@@ -2284,7 +2284,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>National School Games (NSG) Table Tennis - (League 2) </strong>
+<p><strong>National School Games (NSG) Table Tennis - (League 2)</strong>
 </p>
 <p><strong>Top 8</strong>
 </p>

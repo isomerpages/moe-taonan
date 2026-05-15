@@ -354,7 +354,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Senior Division (Girls) - 2nd Placing</u>
+<p><strong><u>Senior Division (Girls) - 2nd Placing</u></strong>
 </p>
 </td>
 </tr>
@@ -520,7 +520,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Senior Division (Boys) - 1st Placing</u>
+<p><strong><u>Senior Division (Boys) - 1st Placing</u></strong>
 </p>
 </td>
 </tr>
@@ -1350,7 +1350,9 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Senior Division (Team) league 4- 3rd Placing</u>
+<p><u>Senior Division - (League 4)</u>
+</p>
+<p><u>3rd Placing</u>
 </p>
 </td>
 </tr>
@@ -2282,7 +2284,9 @@ third_nav_title: 今年荣誉 Current Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>National School Games (NSG) Table Tennis League 2 (Top 8)</strong>
+<p><strong>National School Games (NSG) Table Tennis - (League 2)</strong>
+</p>
+<p><strong>Top 8</strong>
 </p>
 </td>
 </tr>

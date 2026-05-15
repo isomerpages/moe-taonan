@@ -1350,7 +1350,7 @@ third_nav_title: 今年荣誉 Current Achievements
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Senior Division (Team) - 3rd Placing</u>
+<p><u>Senior Division (Team) league 4- 3rd Placing</u>
 </p>
 </td>
 </tr>

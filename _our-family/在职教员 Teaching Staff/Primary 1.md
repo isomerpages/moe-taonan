@@ -284,7 +284,7 @@ variant: tiptap
 <p>Mdm Yang Xiaojuan [杨晓娟]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yang_xiaojuan_a@schools.gov.sg</p>
+<p>yang_xiaojuan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -444,5 +444,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated on 16 Mar 2026</strong>
+<p><strong>Updated on 25 May 2026</strong>
 </p>

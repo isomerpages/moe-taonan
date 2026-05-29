@@ -39,6 +39,8 @@ variant: tiptap
 <h3>Refreshed Approach to Support Primary Students with Academic Strengths and Talents</h3>
 <p><a href="/files/The_Refreshed_Approach_Parent_Engagement_2026.pdf" rel="noopener nofollow" target="_blank">Parents Engagement 2026 Briefing Slides</a>
 </p>
+<p><a href="/files/The_Refreshed_Approach_Parent_Engagement_2026.pdf" rel="noopener nofollow" target="_blank">Parents Engagement 2026</a>
+</p>
 <hr>
 <h3>Booklist</h3>
 <p>Click to download:</p>

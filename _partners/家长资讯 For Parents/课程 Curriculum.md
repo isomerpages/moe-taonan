@@ -39,7 +39,7 @@ variant: tiptap
 <h3>Refreshed Approach to Support Primary Students with Academic Strengths and Talents</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="#Booklist" rel="noopener noreferrer nofollow" target="_blank">Parent Engagement 2026 Briefing Slides</a>
+<p><a href="/files/Partners/For Parents/Briefing_26_May__The_Refreshed_Approach_Parent_Engagement_2026.pdf" rel="noopener nofollow" target="_blank">Refreshed Approach to Support Primary Students with Academic Strengths and Talents</a>
 </p>
 </li>
 </ul>

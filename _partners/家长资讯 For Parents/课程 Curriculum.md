@@ -37,12 +37,8 @@ variant: tiptap
 </p>
 <hr>
 <h3>Refreshed Approach to Support Primary Students with Academic Strengths and Talents</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Partners/For Parents/Briefing_26_May__The_Refreshed_Approach_Parent_Engagement_2026.pdf" rel="noopener nofollow" target="_blank">Refreshed Approach to Support Primary Students with Academic Strengths and Talents</a>
+<p><a href="/files/2025_P5_Camp_Parents__Briefing_5G_5L_20_Feb_compressed.pdf" rel="noopener nofollow" target="_blank">Refreshed Approach to Support Primary Students with Academic Strengths and Talents</a>
 </p>
-</li>
-</ul>
 <hr>
 <h3>Booklist</h3>
 <p>Click to download:</p>

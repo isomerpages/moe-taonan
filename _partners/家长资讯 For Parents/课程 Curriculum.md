@@ -35,6 +35,15 @@ variant: tiptap
 </p>
 <p><a href="https://tinyurl.com/2026P6Curriculuminfo" rel="noopener nofollow" target="_blank">P6 Curriculum Briefing Slides</a>
 </p>
+<hr>
+<h3>Refreshed Approach to Support Primary Students with Academic Strengths and Talents</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="#Booklist" rel="noopener noreferrer nofollow" target="_blank">Parent Engagement 2026 Briefing Slides</a>
+</p>
+</li>
+</ul>
+<hr>
 <h3>Booklist</h3>
 <p>Click to download:</p>
 <p><a href="/files/Partners/For Parents/2026_P1.pdf" rel="noopener nofollow" target="_blank">2026 P1 Booklist</a>

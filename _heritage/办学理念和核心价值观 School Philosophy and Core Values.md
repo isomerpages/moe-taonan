@@ -2,11 +2,11 @@
 title: 办学理念和核心价值观 School Philosophy and Core Values
 permalink: /heritage/school-philosophy-and-core-values/
 description: ""
+variant: markdown
 ---
 <div>
 <div style="float: left">
-<img src="/images/philosophy_header_1.jpg" 
-     style="width:80%">
+<img src="/images/philosophy_header_1.jpg" style="width:80%">
 </div>
 <div>
 </div>
@@ -63,8 +63,7 @@ We pledge to:
 
 <div>
 <div style="float: left">
-<img src="/images/philosophy_header_2.jpg" 
-     style="width:80%">
+<img src="/images/philosophy_header_2.jpg" style="width:80%">
 </div>
 <div>
 </div>
@@ -72,9 +71,9 @@ We pledge to:
 
 <br>
 
-Love 仁爱 <br>
-Respect 尊重 <br>
-Integrity 正直 <br>
 Sincerity 诚恳 <br>
 Perseverance 毅力 <br>
+Integrity 正直 <br>
+Love 仁爱 <br>
+Respect 尊重 <br>
 Responsibility 尽责 <br>

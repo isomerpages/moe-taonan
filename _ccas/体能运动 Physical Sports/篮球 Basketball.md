@@ -84,7 +84,7 @@ building their competitive edge and applying their training in real games.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2nd IC</p>
 </td>
 </tr>
 <tr>

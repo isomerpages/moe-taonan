@@ -57,7 +57,7 @@ variant: tiptap
 <p>Mdm Chen Jing Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chen_jing_ying@schools.gov.sg</p>
+<p>chen_jing_ying_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

@@ -124,6 +124,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chan Poh Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan_Poh_Chin@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Cheah Li Wei [谢俐蔚]</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -219,6 +227,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><u>dawn_chua_yu_xiu@schools.gov.sg</u>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Dareen Tan Yi Chen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dareen_Tan_Yi_Chen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1281,6 +1297,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><u>wong_hong_aik_allan@schools.gov.sg</u>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Ru Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong_Ru_Yi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

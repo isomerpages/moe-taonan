@@ -1399,5 +1399,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated 25 May 2026</strong>
+<p><strong>Updated 23 June 2026</strong>
 </p>

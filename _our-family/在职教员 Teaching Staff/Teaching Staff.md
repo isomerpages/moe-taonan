@@ -234,7 +234,8 @@ variant: tiptap
 <p>Mr Darren Tan Yi Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Darren_Tan_Yi_Chen@schools.gov.sg</p>
+<p><u>darren_tan_yi_chen@schools.gov.sg</u>
+</p>
 </td>
 </tr>
 <tr>

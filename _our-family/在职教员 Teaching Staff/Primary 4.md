@@ -436,14 +436,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2
-<br>Math</p>
+<p>Form Teacher 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lin Yao Chloe</p>
+<p>Mr Clifton Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lin_yao@schools.gov.sg</p>
+<p>lim_hon_shin_clifton@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

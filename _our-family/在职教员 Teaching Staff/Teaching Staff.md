@@ -231,10 +231,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dareen Tan Yi Chen</p>
+<p>Mr Darren Tan Yi Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dareen_Tan_Yi_Chen@schools.gov.sg</p>
+<p>Darren_Tan_Yi_Chen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -1399,5 +1399,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated 25 May 2026</strong>
+<p><strong>Updated 23 June 2026</strong>
 </p>

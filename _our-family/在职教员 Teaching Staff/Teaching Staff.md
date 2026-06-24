@@ -127,7 +127,8 @@ variant: tiptap
 <p>Mr Chan Poh Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan_Poh_Chin@schools.gov.sg</p>
+<p><u>chan_poh_chin@schools.gov.sg</u>
+</p>
 </td>
 </tr>
 <tr>
@@ -234,7 +235,8 @@ variant: tiptap
 <p>Mr Darren Tan Yi Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Darren_Tan_Yi_Chen@schools.gov.sg</p>
+<p><u>darren_tan_yi_chen@schools.gov.sg</u>
+</p>
 </td>
 </tr>
 <tr>

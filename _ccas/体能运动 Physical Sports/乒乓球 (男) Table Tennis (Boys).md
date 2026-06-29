@@ -47,18 +47,6 @@ for challenges on and off the table.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Sio Hoon [洪小芬]</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_sio_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_sio_hoon@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Nadiah Binte Abdul Khalik</p>
 </td>
 <td rowspan="1" colspan="1">

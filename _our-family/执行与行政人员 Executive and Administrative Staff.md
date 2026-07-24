@@ -97,7 +97,7 @@ variant: tiptap
 <p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:irmalanathan_Partivan_Naidu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nirmalanathan_partivan_naidu@schools.gov.sg</a>
+<p><a href="mailto:Nirmalanathan_Partivan_Naidu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nirmalanathan_partivan_naidu@schools.gov.sg</a>
 </p>
 </td>
 </tr>

@@ -140,7 +140,7 @@ own responses when they encounter pornography by applying the strategy
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 4</p>
 </td>
 </tr>
 <tr>

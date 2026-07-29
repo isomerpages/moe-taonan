@@ -11,7 +11,7 @@ Curious children, Thinking minds
 
 **Mission** <br>
 Preparing children to understand the world
-![](/images/Announcement/Mandai_wildlife_project_promotional__poster_edited.png)
+![](/images/Departments/Mandai_wildlife_project_promotional__poster_edited.png)
 ![](/images/Banner_SCI_2021.jpg)
 
 ### Key Programmes / Activities

@@ -13,6 +13,7 @@ Curious children, Thinking minds
 Preparing children to understand the world
 
 ![](/images/Banner_SCI_2021.jpg)
+![](/images/Mandai_wildlife_project_promotional__poster_edited.png)
 
 ### Key Programmes / Activities
 

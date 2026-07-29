@@ -7,7 +7,7 @@ variant: tiptap
 <p></p>
 <hr>
 <hr>
-<h4>President's Award for Teachers</h4>
+<h4><a href="https://www.taonan.edu.sg/departments/science/" rel="noopener nofollow" target="_blank">Mandai wildlife project promotional  poster</a><br><br>President's Award for Teachers</h4>
 <p>Nominate an inspiring teacher or colleague for this prestigious award
 by scanning the QR code or heading to <a href="https://go.gov.sg/pat2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pat2026</a>
 </p>

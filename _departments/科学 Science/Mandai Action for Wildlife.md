@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: 科学 Science
 ---
-<p>### Mandai Action for Wildlife</p>
-<p>![](/images/Departments/Mandai_wildlife_project_promotional__poster_edited.png)</p>
-<p></p>
+<p><strong>Mandai Action for Wildlife</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/Mandai_wildlife_project_promotional__poster_edited.png">

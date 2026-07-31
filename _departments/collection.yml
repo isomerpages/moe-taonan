@@ -2,6 +2,9 @@ collections:
   departments:
     output: true
     order:
+      - 科学 Science/.keep
+      - 科学 Science/科学 Science.md
+      - 科学 Science/Mandai Action for Wildlife.md
       - 英文 English/.keep
       - 英文 English/英文 English.md
       - 英文 English/Sunny Side Up.md
@@ -22,7 +25,6 @@ collections:
       - 音乐 Music.md
       - 体育 Physical Education.md
       - 艺体陶冶计划 Programme for Active Learning (PAL).md
-      - 科学 Science.md
       - 社会知识 Social Studies.md
       - 学生领导与发展 Student Leadership/.keep
       - 学生领导与发展 Student Leadership/学生领导与发展 Student Leadership.md

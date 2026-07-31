@@ -3,6 +3,7 @@ title: 科学 Science
 permalink: /departments/science/
 description: ""
 variant: markdown
+third_nav_title: 科学 Science
 ---
 ### Vision / Mission
 
@@ -11,7 +12,6 @@ Curious children, Thinking minds
 
 **Mission** <br>
 Preparing children to understand the world
-![](/images/Departments/Mandai_wildlife_project_promotional__poster_edited.png)
 ![](/images/Banner_SCI_2021.jpg)
 
 ### Key Programmes / Activities

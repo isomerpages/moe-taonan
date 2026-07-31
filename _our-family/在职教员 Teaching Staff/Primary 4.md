@@ -66,10 +66,10 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Choo Kay Ngee</p>
+<p>Mdm Lin Yao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>choo_kay_ngee@schools.gov.sg</p>
+<p>lin_yao@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -375,18 +375,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher 1
-<br>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Choo Kay Ngee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>choo_kay_ngee@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Form Teacher 2
 <br>Math</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -394,6 +382,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ngoh_siew_teng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teacher 2
+<br>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lin Yao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lin_yao@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -650,5 +650,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Updated 23 June 2026</strong>
+<p><strong>Updated 31 July 2026</strong>
 </p>

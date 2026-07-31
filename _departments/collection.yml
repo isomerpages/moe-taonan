@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Mandai Action for Wildlife.md
       - 英文 English/.keep
       - 英文 English/英文 English.md
       - 英文 English/Sunny Side Up.md

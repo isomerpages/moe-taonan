@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - 科学 Science/Mandai Action for Wildlife.md
-      - 科学 Science/科学 Science.md
       - 科学 Science/.keep
+      - 科学 Science/科学 Science.md
+      - 科学 Science/Mandai Action for Wildlife.md
       - 英文 English/.keep
       - 英文 English/英文 English.md
       - 英文 English/Sunny Side Up.md

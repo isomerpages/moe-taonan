@@ -47,7 +47,7 @@ the booklists
 </td>
 <td rowspan="1" colspan="1">
 <p>(Term Time) Mon to Fri:
-<br>8:30am - 1:30pm (For students only)
+<br>8:30am - 2.00pm (For students only)
 <br>
 <br>Mon to Fri:
 <br>11:30am - 12:30pm (For parents only)

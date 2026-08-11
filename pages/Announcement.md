@@ -7,7 +7,11 @@ variant: tiptap
 <p></p>
 <hr>
 <hr>
-<h4><a href="https://www.taonan.moe.edu.sg/mandai-action-for-wildlife/" rel="noopener noreferrer nofollow" target="_blank">Mandai Action for Wildlife</a><br><br>President's Award for Teachers</h4>
+<h4>Alumni Homecoming</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Alumni Homecoming" src="/images/Alumni_Homecoming___TEACHERS__DAY.png">
+</div>
+<h4><br><a href="https://www.taonan.moe.edu.sg/mandai-action-for-wildlife/" rel="noopener noreferrer nofollow" target="_blank">Mandai Action for Wildlife</a><br><br>President's Award for Teachers</h4>
 <p>Nominate an inspiring teacher or colleague for this prestigious award
 by scanning the QR code or heading to <a href="https://go.gov.sg/pat2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pat2026</a>
 </p>

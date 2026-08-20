@@ -134,5 +134,47 @@ more info.
 </tr>
 </tbody>
 </table>
-<p><strong>*Working hours ONLY</strong>
+<p>
+<br><strong>School Canteen Advertisement</strong>
 </p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Type of Stall</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Closing Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Requirements</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cold drinks &amp; fruits stall
+<br>Click <a href="/school-canteen-advertisement/" rel="noopener nofollow" target="_blank">here</a> for
+more information</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 September 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sale of cold drinks (tetra packs only) and fruits.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+<br><strong>*Working hours ONLY</strong>
+</p>
+<p></p>

@@ -161,8 +161,7 @@ more info.
 <tr>
 <td rowspan="1" colspan="1">
 <p>Cold drinks &amp; fruits stall
-<br>
-</p>
+<br>Click for more information</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>30 September 2026</p>

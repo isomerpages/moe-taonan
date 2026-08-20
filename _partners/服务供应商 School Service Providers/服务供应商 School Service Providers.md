@@ -161,7 +161,8 @@ more info.
 <tr>
 <td rowspan="1" colspan="1">
 <p>Cold drinks &amp; fruits stall
-<br>Click for more information</p>
+<br>Click <a href="https://www.taonan.edu.sg/school-canteen-advertisement/" rel="noopener nofollow" target="_blank">Here</a> for
+more information</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>30 September 2026</p>

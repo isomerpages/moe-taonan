@@ -16,7 +16,7 @@ General Office.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/School Service Providers/School Canteen/Application_for_Canteen_Stall.pdf" rel="noopener nofollow" target="_blank">APPLICATION FOR CANTEEN STALL</a>
+<p><a href="/files/School Service Providers/School Canteen/Application_for_Canteen_Stall.pdf" rel="noopener nofollow" target="_blank">APPLICATION FORM</a>
 </p>
 </li>
 </ul>

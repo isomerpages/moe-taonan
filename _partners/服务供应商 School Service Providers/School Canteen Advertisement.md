@@ -5,7 +5,44 @@ variant: tiptap
 description: ""
 third_nav_title: 服务供应商 School Service Providers
 ---
-<p><strong>Application Procedure</strong>
+<p><strong>School Canteen Advertisement</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Type of Stall</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Closing Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Requirements</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cold drinks &amp; fruits stall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 September 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sale of cold drinks (tetra packs only) and fruits.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br><strong>Application Procedure</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>

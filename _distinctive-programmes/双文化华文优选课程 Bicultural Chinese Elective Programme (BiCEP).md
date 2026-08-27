@@ -28,5 +28,5 @@ P6 - Graduation Ceremony (SHHK 5 Affiliated Schools)
 
 **Briefing Slides**
 
-*  [2024 BiCEP Briefing for 2025 Intake](/files/Distinctive%20Programmes/2025_Intake_BiCEP_Briefing_Sch_Web_____Compatibility_Mode.pdf)
+*  [2026 P3 BiCEP Briefing for 2027 Intake](/files/Distinctive%20Programmes/2026_P3_BiCEP_briefing_for_2027_Intake.pdf)
 *  [2026 Intake BiCEP P3 Briefing](/files/Distinctive%20Programmes/2026_Intake_BiCEP_P3_briefing_School_web.pdf)

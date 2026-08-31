@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/6a31097179630fc86a888ac7" rel="noopener nofollow" target="_blank">2027 Waiting List Form </a>
+<p><a href="https://form.gov.sg/6a31097179630fc86a888ac7" rel="noopener nofollow" target="_blank">2027 Waiting List Form</a>
 </p>
 </li>
 <li>
